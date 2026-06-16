@@ -1,0 +1,90 @@
+---
+import '../styles/global.css';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import Analytics from '../components/Analytics.astro';
+import { business } from '../data/site';
+
+interface Props {
+  title: string;
+  description: string;
+  /** Optional OG image URL */
+  image?: string;
+  /** Set true on blog posts to emit BlogPosting-friendly og:type */
+  article?: boolean;
+}
+
+const { title, description, image, article = false } = Astro.props;
+const canonical = new URL(Astro.url.pathname, Astro.site).href;
+const ogImage = image ? new URL(image, Astro.site).href : undefined;
+
+// Sitewide LocalBusiness (HousePainter) schema — rebuilt from live data.
+const businessSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'HousePainter',
+  '@id': `${Astro.site}#business`,
+  name: business.name,
+  url: Astro.site?.href,
+  telephone: `+1-${business.phoneDisplay}`,
+  email: business.email,
+  priceRange: business.priceRange,
+  address: {
+    '@type': 'PostalAddress',
+    streetAddress: business.address.street,
+    addressLocality: business.address.city,
+    addressRegion: business.address.region,
+    postalCode: business.address.postalCode,
+    addressCountry: business.address.country,
+  },
+  areaServed: business.areas.map((a) => ({ '@type': 'City', name: a })),
+  aggregateRating: {
+    '@type': 'AggregateRating',
+    ratingValue: business.rating.value,
+    reviewCount: business.rating.count,
+  },
+  sameAs: [business.social.facebook],
+};
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content={article ? 'article' : 'website'} />
+    <meta property="og:url" content={canonical} />
+    {ogImage && <meta property="og:image" content={ogImage} />}
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=DM+Sans:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+
+    <script type="application/ld+json" is:inline set:html={JSON.stringify(businessSchema)} />
+    <Analytics />
+  </head>
+  <body>
+    <!-- GTM noscript fallback -->
+    <noscript>
+      <iframe
+        src="https://www.googletagmanager.com/ns.html?id=GTM-NS8LBWQQ"
+        height="0"
+        width="0"
+        style="display:none;visibility:hidden"></iframe>
+    </noscript>
+
+    <Header />
+    <main>
+      <slot />
+    </main>
+    <Footer />
+  </body>
+</html>

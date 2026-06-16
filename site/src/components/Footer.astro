@@ -1,0 +1,49 @@
+---
+import { business, nav } from '../data/site';
+const year = new Date().getFullYear();
+---
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-col footer-brand">
+        <a href="/" class="logo-mark" aria-label={business.shortName}>
+          <span class="logo-name">HOMETOWN</span>
+          <span class="logo-tag">PAINTING</span>
+        </a>
+        <p>Locally owned residential &amp; commercial painters serving the OKC metro. Fully insured, 5-year warranty.</p>
+        <p><a href={business.phoneHref}>{business.phoneDisplay}</a> · <a href={`mailto:${business.email}`}>{business.email}</a></p>
+      </div>
+
+      <div class="footer-col">
+        <h4>Services</h4>
+        <ul>
+          {nav.filter((n) => !['Blog', 'Contact', 'Gallery'].includes(n.label)).map((item) => (
+            <li><a href={item.href}>{item.label}</a></li>
+          ))}
+          <li><a href="/cabinet-painting-okc/">Cabinet Painting</a></li>
+          <li><a href="/commercial-painters-oklahoma-city/">Commercial Painting</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <h4>Company</h4>
+        <ul>
+          <li><a href="/professional-painters-okc/">About Us</a></li>
+          <li><a href="/gallery/">Gallery</a></li>
+          <li><a href="/reviews/">Reviews</a></li>
+          <li><a href="/blog/">Blog</a></li>
+          <li><a href="/contact-us/">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      <p>
+        &copy; {year} {business.name} · {business.address.city}, {business.address.region} ·
+        <a href="/privacy-policy/">Privacy</a> · <a href="/terms-conditions/">Terms</a> · <a href="/disclaimer/">Disclaimer</a>
+      </p>
+    </div>
+  </div>
+</footer>
+
+<a href={business.phoneHref} class="sticky-call">📞 Call Now — Free Estimate</a>

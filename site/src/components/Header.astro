@@ -1,0 +1,43 @@
+---
+// Site header — copies the PPC landing-page design (navy bar, text wordmark,
+// red phone button) and extends it with the multi-page nav.
+import { business, nav } from '../data/site';
+const path = Astro.url.pathname;
+---
+<header class="site-header">
+  <div class="container">
+    <a href="/" class="logo-mark" aria-label={business.shortName}>
+      <span class="logo-name">HOMETOWN</span>
+      <span class="logo-tag">PAINTING</span>
+    </a>
+
+    <div class="header-right">
+      <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false" data-nav-toggle>☰</button>
+      <nav class="main-nav" aria-label="Primary" data-nav>
+        <ul>
+          {nav.map((item) => (
+            <li>
+              <a href={item.href} aria-current={path === item.href ? 'page' : undefined}>
+                {item.label}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </nav>
+      <a href={business.phoneHref} class="header-phone">{business.phoneDisplay}</a>
+    </div>
+  </div>
+</header>
+
+<script is:inline>
+  (function () {
+    var btn = document.querySelector('[data-nav-toggle]');
+    var nav = document.querySelector('[data-nav]');
+    if (btn && nav) {
+      btn.addEventListener('click', function () {
+        var open = nav.classList.toggle('open');
+        btn.setAttribute('aria-expanded', String(open));
+      });
+    }
+  })();
+</script>

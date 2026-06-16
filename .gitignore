@@ -6,3 +6,8 @@ dist/
 .env
 .env.*
 .cache/
+
+# Astro site
+site/node_modules/
+site/dist/
+site/.astro/

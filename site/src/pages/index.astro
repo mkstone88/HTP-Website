@@ -1,0 +1,123 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import LeadForm from '../components/LeadForm.astro';
+import { business } from '../data/site';
+
+// Title + meta carried over verbatim from the live WordPress home page.
+const title = 'Trusted Painters In OKC | 120+ 5-Star Reviews | Hometown Painting';
+const description =
+  "Oklahoma City's trusted residential painters. 120+ perfect 5-star reviews, 5-year written warranty, on-the-spot estimates. Serving Yukon, Mustang, Edmond & OKC metro.";
+
+const services = [
+  { icon: '🏠', title: 'Exterior Painting', body: 'Oklahoma weather is hard on paint. We do full prep — scrape, sand, caulk, prime — before any color goes on. Premium Sherwin-Williams. 5-year warranty.', href: '/exterior-painting-oklahoma-city/' },
+  { icon: '🛋️', title: 'Interior Painting', body: 'Furniture protected, floors covered, walls patched and prepped. We leave your home cleaner than we found it. 5-year warranty.', href: '/interior-painting-okc/' },
+  { icon: '🗄️', title: 'Cabinet Painting', body: 'Full disassembly, deglossing, and spray application for a factory-smooth finish that holds up to daily kitchen use.', href: '/cabinet-painting-okc/' },
+  { icon: '🌿', title: 'Fence & Deck Staining', body: 'Proper cleaning and prep first, then premium stain to protect and restore your wood. We don\'t skip steps outdoors either.', href: '/fence-staining-okc/' },
+];
+
+const reviews = [
+  { text: "Matt & the team did exactly what they said they'd do. When the touch-up paint didn't match exactly, Matt made a special trip to get the exact match. Above & beyond impressive.", cite: 'Koree V. · Google Review' },
+  { text: 'We are more than pleased with the work Matt Stone and crew performed. The communication was great — Matt kept in contact daily. We would definitely recommend Hometown Painting.', cite: 'Shelly B. · Google Review' },
+  { text: 'The crew was efficient, professional, and respectful of our home — minimal mess and a thorough cleanup when they finished. Pricing was very fair for the work involved.', cite: 'Candace M. · Google Review' },
+];
+
+const why = [
+  { icon: '🛡️', title: '5-Year Warranty — Interior & Exterior', body: 'If it peels, blisters, or fails under normal conditions, we fix it at no cost. No arguing, no fine print.' },
+  { icon: '🎨', title: 'Premium Sherwin-Williams Paints', body: 'Duration, Emerald, and Cashmere — the products that hold up and look great long after the job is done.' },
+  { icon: '🏡', title: 'A Craft Passed Down', body: 'Matt learned painting from his grandfather Art. That care and attention to detail is built into everything we do.' },
+  { icon: '📋', title: 'Fully Insured, Every Job', body: "Full liability and workers' comp on every project. You're protected from the first day to the last." },
+];
+---
+<BaseLayout title={title} description={description}>
+  <!-- HERO -->
+  <section class="hero" style="background-image: linear-gradient(rgba(27,42,74,0.82), rgba(27,42,74,0.82));">
+    <div class="container hero-inner">
+      <div class="hero-copy">
+        <h1>Professional Painters OKC Homeowners Trust</h1>
+        <p class="hero-sub">
+          Interior, exterior, cabinets, fences, and more. We respond fast, treat your home with
+          respect, and back every job with a 5-year written warranty.
+        </p>
+        <ul class="trust-signals">
+          <li>✓ {business.rating.value} Stars · {business.rating.count}+ Google Reviews</li>
+          <li>✓ 5-Year Warranty — Interior &amp; Exterior</li>
+          <li>✓ Fully Insured</li>
+          <li>✓ Free, On-the-Spot Estimates</li>
+        </ul>
+        <a href={business.phoneHref} class="cta-phone">Call {business.phoneDisplay}</a>
+      </div>
+      <LeadForm />
+    </div>
+  </section>
+
+  <!-- SERVICES -->
+  <section class="services">
+    <div class="container">
+      <h2>What We Do</h2>
+      <p class="section-sub">Every service backed by our process, our crew, and our warranty.</p>
+      <div class="services-grid">
+        {services.map((s) => (
+          <div class="service-card">
+            <div class="service-icon">{s.icon}</div>
+            <h3>{s.title}</h3>
+            <p>{s.body}</p>
+            <a href={s.href} class="service-link">Learn more about {s.title.toLowerCase()} →</a>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- REVIEWS -->
+  <section class="reviews">
+    <div class="container">
+      <div class="stars">★★★★★</div>
+      <div class="rating-label">{business.rating.value} Stars · {business.rating.count}+ Google Reviews</div>
+      <h2>What OKC Homeowners Say</h2>
+      <div class="review-grid">
+        {reviews.map((r) => (
+          <div class="review-card">
+            <div class="review-stars">★★★★★</div>
+            <p>"{r.text}"</p>
+            <cite>— {r.cite}</cite>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- WHY HOMETOWN -->
+  <section class="why">
+    <div class="container">
+      <h2>Why Hometown Painting</h2>
+      <div class="why-grid">
+        {why.map((w) => (
+          <div class="why-item">
+            <div class="why-icon">{w.icon}</div>
+            <h3>{w.title}</h3>
+            <p>{w.body}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- SERVICE AREAS -->
+  <section class="areas">
+    <div class="container">
+      <h2>Serving the OKC Metro</h2>
+      <p>{business.areas.join(' · ')}</p>
+    </div>
+  </section>
+
+  <!-- SECONDARY CTA -->
+  <section class="cta-bottom">
+    <div class="container">
+      <h2>Ready to Get Started?</h2>
+      <p>Free estimates, fast response, and a crew that treats your home like their own.</p>
+      <a href={business.phoneHref} class="cta-phone">Call {business.phoneDisplay}</a>
+      <p class="or-text">— or —</p>
+      <a href="#lead-form" class="btn-secondary">Fill Out the Form Above</a>
+    </div>
+  </section>
+</BaseLayout>
