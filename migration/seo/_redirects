@@ -1,0 +1,20 @@
+# Cloudflare Pages _redirects — legacy 301s carried over from WordPress.
+# Place this file at the site root (public/_redirects in Astro) before cutover.
+# Format: <source>  <destination>  <status>
+
+# --- Existing WordPress redirects (verified live, must preserve) ---
+/exterior-painting-okc/        /exterior-painting-oklahoma-city/  301
+/deck-staining-okc/            /exterior-painting/deck-staining-okc-professional-deck-staining-services-in-oklahoma-city/  301
+/commercial-painting/          /commercial-painting-in-yukon-ok-victory-baptist-church/  301
+/fence-staining/               /fence-staining-okc/  301
+/home/                         /  301
+/is-it-time-to-paint-my-house/ /signs-you-need-exterior-painting-oklahoma/  301
+/when-to-paint-exterior/       /signs-you-need-exterior-painting-oklahoma/  301
+/pricing/exterior-pricing/     /pricing/exterior-painting-cost-oklahoma-city/  301
+
+# --- Sitemap aliases (optional; new site emits /sitemap.xml directly) ---
+# /wp-sitemap.xml              /sitemap.xml  301
+
+# --- Consolidation proposals (PENDING MATT'S APPROVAL — do not enable yet) ---
+# /exterior-painting/deck-staining-okc-professional-deck-staining-services-in-oklahoma-city/professional-deck-staining-okc-hometown-painting-oklahoma-city/  /deck-staining-okc/  301
+# /exterior-painting/deck-staining-okc-professional-deck-staining-services-in-oklahoma-city/  /deck-staining-okc/  301

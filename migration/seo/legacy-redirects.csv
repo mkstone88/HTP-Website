@@ -1,0 +1,11 @@
+old_path,redirect_target,status,notes
+/exterior-painting-okc/,/exterior-painting-oklahoma-city/,301,Existing WP redirect; still linked from homepage
+/deck-staining-okc/,/exterior-painting/deck-staining-okc-professional-deck-staining-services-in-oklahoma-city/,301,Existing WP redirect
+/commercial-painting/,/commercial-painting-in-yukon-ok-victory-baptist-church/,301,Existing WP redirect
+/fence-staining/,/fence-staining-okc/,301,Existing WP redirect
+/home/,/,301,Existing WP redirect
+/is-it-time-to-paint-my-house/,/signs-you-need-exterior-painting-oklahoma/,301,Old blog post consolidated
+/when-to-paint-exterior/,/signs-you-need-exterior-painting-oklahoma/,301,Old blog post consolidated
+/pricing/exterior-pricing/,/pricing/exterior-painting-cost-oklahoma-city/,301,Old pricing slug consolidated
+/sitemap.xml,/sitemap_index.xml,301,WP sitemap alias
+/wp-sitemap.xml,/sitemap_index.xml,301,WP sitemap alias
