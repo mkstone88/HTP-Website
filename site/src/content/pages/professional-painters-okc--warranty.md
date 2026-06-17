@@ -3,7 +3,7 @@ title: "Hometown Painting Warranty | House Painters In The OKC Metro"
 description: "In order to help our customers to the best of our ability, Hometown Painting offers a warranty on their painting work. While we do our best to provide great"
 permalink: "/professional-painters-okc/warranty/"
 h1: "Hometown Painting Warranty"
-ogImage: "https://hometownpaintingokc.com/wp-content/uploads/2022/08/IMG_0174-min-scaled-1024x519.jpg"
+ogImage: "/uploads/2022/08/IMG_0174-min-scaled.jpg"
 draft: false
 ---
 

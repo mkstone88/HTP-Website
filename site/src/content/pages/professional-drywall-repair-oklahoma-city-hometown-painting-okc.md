@@ -3,7 +3,7 @@ title: "Professional Drywall Repair Oklahoma City | Hometown Painting OKC | Hous
 description: "At Hometown Painting OKC, we understand that damaged drywall can significantly impact the appearance and value of your property. Whether you're dealing with"
 permalink: "/professional-drywall-repair-oklahoma-city-hometown-painting-okc/"
 h1: "Professional Drywall Repair Oklahoma City | Hometown Painting OKC"
-ogImage: "https://hometownpaintingokc.com/wp-content/uploads/2022/08/IMG_0174-min-scaled-1024x519.jpg"
+ogImage: "/uploads/2022/08/IMG_0174-min-scaled.jpg"
 draft: false
 ---
 

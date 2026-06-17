@@ -3,7 +3,7 @@ title: "Thinking About Painting Your Cabinets? Read This First"
 description: "Painting kitchen cabinets is a great way to update the look of your kitchen. But, there are a few things you should keep in mind before you paint your cabinets."
 permalink: "/should-paint-kitchen-cabinets/"
 h1: "Should I Have My Kitchen Cabinets Painted?"
-ogImage: "https://hometownpaintingokc.com/wp-content/uploads/2022/12/DSC05057.jpg"
+ogImage: "/uploads/2022/12/DSC05057.jpg"
 draft: false
 kind: "post"
 date: "2023-10-11"
@@ -35,7 +35,7 @@ Painting cabinets is one of the more expensive painting projects you can do arou
 
 ## Transition From Stained to Painted Cabinets
 
-![Interior 2](https://hometownpaintingokc.com/wp-content/uploads/2022/12/Interior-2.png)
+![Interior 2](/uploads/2022/12/Interior-2.webp)
 
 It is very common to transition from stained cabinets to painted ones. Perhaps you have purchased a house that came with stained cabinets or you have grown tired of the stained look you once loved. Even though it is common to paint stained cabinets there is a very specific process that must be followed to get a fine, durable finish that will look great for many years.
 

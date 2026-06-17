@@ -2,11 +2,11 @@
 title: "Link Tree | House Painters In The OKC Metro"
 description: "Welcome to Our Client Resources. Explore & Learn More About Hometown Painting!"
 permalink: "/link-tree/"
-ogImage: "https://hometownpaintingokc.com/wp-content/uploads/2022/08/edited.jpg"
+ogImage: "/uploads/2022/08/edited.jpg"
 draft: false
 ---
 
-[![Hometown Painting LLC logo](https://hometownpaintingokc.com/wp-content/uploads/2022/08/edited-300x115.jpg)](/)
+[![Hometown Painting LLC logo](/uploads/2022/08/edited.webp)](/)
 
 Welcome to Our Client Resources. Explore & Learn More About Hometown Painting!
 

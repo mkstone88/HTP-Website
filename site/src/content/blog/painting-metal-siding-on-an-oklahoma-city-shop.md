@@ -3,7 +3,7 @@ title: "Painting Metal Siding On An Oklahoma City Shop | House Painters In The O
 description: "Hi there! We at Hometown Painting LLC recently finished a project that we're really excited to share. It's about painting metal siding on a metal shop"
 permalink: "/painting-metal-siding-on-an-oklahoma-city-shop/"
 h1: "Painting Metal Siding on an Oklahoma City Shop"
-ogImage: "https://hometownpaintingokc.com/wp-content/uploads/2023/06/How-Often-Should-You-Paint1.jpg"
+ogImage: "/uploads/2023/06/How-Often-Should-You-Paint1.jpg"
 draft: false
 kind: "post"
 date: "2023-06-29"
@@ -15,7 +15,7 @@ With that said, painting metal siding may not be as straightforward as you think
 
 ## **The Challenge of Painting Metal Siding**
 
-![a metal shop building in Oklahoma City with faded, chalky metal siding in need of a paint job.](https://hometownpaintingokc.com/wp-content/uploads/2023/06/IMG_1722-scaled.jpg)
+![a metal shop building in Oklahoma City with faded, chalky metal siding in need of a paint job.](/uploads/2023/06/IMG_1722-scaled.webp)
 
 Painting metal siding often comes with its own set of unique challenges. One of the main issues is that most traditional paints don’t adhere well to the original finish on metal siding. This could result in a paint job that peels, flakes, or simply doesn’t last very long.
 
@@ -41,7 +41,7 @@ Our client couldn’t have been happier. The once plain metal building was now l
 
 ## **Conclusion**
 
-![A metal shop building in Oklahoma City that has just been painted with Sherwin Williams Bondplex paint.](https://hometownpaintingokc.com/wp-content/uploads/2023/06/IMG_1764-1024x683.jpg)
+![A metal shop building in Oklahoma City that has just been painted with Sherwin Williams Bondplex paint.](/uploads/2023/06/IMG_1764.webp)
 
 Painting metal siding doesn’t have to be a headache. With the right products and the team at Hometown Painting, it is possible to have a great-looking shop, shed, or other metal structure.  We’re not just about changing colors, we’re about transforming spaces, and we look forward to doing that for your property.
 

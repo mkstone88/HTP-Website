@@ -2,7 +2,7 @@
 title: "Interior Pricing | House Painters In The OKC Metro"
 description: "Every homeowner dreams of a stunning interior, a backdrop worthy of every life event and quiet moment. While the idea of painting can seem daunting,"
 permalink: "/pricing/interior-pricing/"
-ogImage: "https://hometownpaintingokc.com/wp-content/uploads/2023/09/9409SW32ndTer-Edited-1-1024x681.jpg"
+ogImage: "/uploads/2023/09/9409SW32ndTer-Edited-1.jpg"
 draft: false
 ---
 
@@ -12,7 +12,7 @@ Every homeowner dreams of a stunning interior, a backdrop worthy of every life e
 
 In this guide, we lay out the costs associated with interior painting in OKC, providing clarity and transparency. Let’s embark on this journey from estimate to elegance together.
 
-![9409SW32ndTer Edited 1 scaled](https://hometownpaintingokc.com/wp-content/uploads/2023/09/9409SW32ndTer-Edited-1-scaled.jpg)
+![9409SW32ndTer Edited 1 scaled](/uploads/2023/09/9409SW32ndTer-Edited-1-scaled.webp)
 
 ## Basic Pricing Structure for Interiors
 
@@ -28,7 +28,7 @@ Feel free to use the calculator provided below to see the likely range your proj
 
 ## **Factors Influencing Interior Painting Costs**
 
-![9409SW32ndTer Edited 4](https://hometownpaintingokc.com/wp-content/uploads/2023/09/9409SW32ndTer-Edited-4-1024x681.jpg)
+![9409SW32ndTer Edited 4](/uploads/2023/09/9409SW32ndTer-Edited-4.webp)
 
 Every home is unique, and so is every painting project. While our base pricing provides a starting point, various factors can influence the final cost of an interior paint job. Here’s a closer look at some of these determining elements:
 

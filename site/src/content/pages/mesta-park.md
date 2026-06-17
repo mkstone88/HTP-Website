@@ -3,7 +3,7 @@ title: "Mesta Park | Interior And Exterior Painting"
 description: "Learn more about our interior and exterior painting projects in the historic Mesta Park neighborhood in Oklahoma City, OK"
 permalink: "/mesta-park/"
 h1: "Professional House Painters in the Mesta Park neighborhood."
-ogImage: "https://hometownpaintingokc.com/wp-content/uploads/2023/11/20231006_074510.jpg"
+ogImage: "/uploads/2023/11/20231006_074510.jpg"
 draft: false
 ---
 
@@ -17,11 +17,11 @@ Keeping Mesta Park Beautiful
 
 At Hometown Painting, we’re committed to preserving the beauty and integrity of Mesta Park. Whether it’s a fresh coat of paint or a detailed restoration, we approach every project with the respect and care these historic homes deserve.
 
-![20231006 074510](https://hometownpaintingokc.com/wp-content/uploads/2023/11/20231006_074510.jpg "20231006_074510")
+![20231006 074510](/uploads/2023/11/20231006_074510.webp "20231006_074510")
 
 ## Historic Homes Require Extra Care
 
-![917 after scaled](https://hometownpaintingokc.com/wp-content/uploads/2023/11/917-after-scaled.jpg)
+![917 after scaled](/uploads/2023/11/917-after-scaled.webp)
 
 Careful prep to ensure a lasting job
 
@@ -39,7 +39,7 @@ Contact us today to speak to experienced, local,  professional painters in the 
 
 ## Our House Painting Services in Mesta Park
 
-![IMG 1857](https://hometownpaintingokc.com/wp-content/uploads/2023/11/IMG_1857-1024x683.jpg "IMG_1857")
+![IMG 1857](/uploads/2023/11/IMG_1857.webp "IMG_1857")
 
 [Exterior Painting](https://hometownpaintingokc.com/exterior-painting-oklahoma-city)
 
@@ -49,7 +49,7 @@ Contact us today to speak to experienced, local,  professional painters in the 
 4. Soffit and Fascia
 5. Pressure Washing
 
-![interior of a home in edmond ok with fresh paint on the walls](https://hometownpaintingokc.com/wp-content/uploads/2022/11/living-room-paint-edmond.png)
+![interior of a home in edmond ok with fresh paint on the walls](/uploads/2022/11/living-room-paint-edmond.webp)
 
 [Interior Painting](https://hometownpaintingokc.com/interior-painting-okc/)
 
@@ -59,7 +59,7 @@ Contact us today to speak to experienced, local,  professional painters in the 
 4. Cabinet Refinishing
 5. Drywall Repair
 
-![oxford brown fence in okc](https://hometownpaintingokc.com/wp-content/uploads/2023/02/oxford-brown-fence-in-okc-1024x683.jpg)
+![oxford brown fence in okc](/uploads/2023/02/oxford-brown-fence-in-okc.webp)
 
 [Fence Staining](https://hometownpaintingokc.com/fence-staining-okc/)
 
@@ -73,7 +73,7 @@ Contact us today to speak to experienced, local,  professional painters in the 
 
 ****Pattrick T.****
 
-![Untitled 300 × 100](https://hometownpaintingokc.com/wp-content/uploads/2023/09/Untitled-300-×-100-px.png)
+![Untitled 300 × 100](/uploads/2023/09/Untitled-300-×-100-px.webp)
 
 **Homeowner in Mesta Park, OKC**
 
@@ -81,7 +81,7 @@ Contact us today to speak to experienced, local,  professional painters in the 
 
 **Bill H.**
 
-![Untitled 300 × 100](https://hometownpaintingokc.com/wp-content/uploads/2023/09/Untitled-300-×-100-px.png)
+![Untitled 300 × 100](/uploads/2023/09/Untitled-300-×-100-px.webp)
 
 *Homeowner in Mesta Park, OKC*
 
@@ -103,7 +103,7 @@ Please take some more time to learn [about us here](https://hometownpaintingokc.
 
 – Matt Stone, Owner Hometown Painting LLC – House Painters OKC
 
-![the owners of Hometown Painting LLC, Professional painters](https://hometownpaintingokc.com/wp-content/uploads/2022/08/paint-owners-cropped-scaled.jpg)
+![the owners of Hometown Painting LLC, Professional painters](/uploads/2022/08/paint-owners-cropped-scaled.webp)
 
 Matt and Rachel Stone – Owners of Hometown Painting
 

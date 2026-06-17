@@ -3,7 +3,7 @@ title: "Why Are Different Painters' Prices So Different? | Guide"
 description: "You may have gotten vastly different quotes to paint the same project. Why are the prices so different? Learn about how a painting company charges for its work."
 permalink: "/why-are-painters-prices-different/"
 h1: "Why are different painters’ prices so different?"
-ogImage: "https://hometownpaintingokc.com/wp-content/uploads/2022/08/paint-interior-okc-5-1.png"
+ogImage: "/uploads/2022/08/paint-interior-okc-5-1.jpg"
 draft: false
 kind: "post"
 date: "2023-10-06"

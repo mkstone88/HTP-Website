@@ -3,7 +3,7 @@ title: "Disclaimer For Hometown Painting | House Painters In The OKC Metro"
 description: "If you require any more information or have any questions about our site's disclaimer, please feel free to contact us by email at matt@hometownpaintingokc.com"
 permalink: "/disclaimer/"
 h1: "Disclaimer for Hometown Painting"
-ogImage: "https://hometownpaintingokc.com/wp-content/uploads/2022/08/IMG_0174-min-scaled-1024x519.jpg"
+ogImage: "/uploads/2022/08/IMG_0174-min-scaled.jpg"
 draft: false
 ---
 

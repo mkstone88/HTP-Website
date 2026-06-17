@@ -3,7 +3,7 @@ title: "How To Choose Exterior Paint Colors For Your Oklahoma Home | House Paint
 description: "Choosing exterior paint colors can feel overwhelming. Walk into any paint store and you're staring at thousands of options. Add in the fact that this decision"
 permalink: "/how-to-choose-exterior-paint-colors-for-your-oklahoma-home/"
 h1: "How to Choose Exterior Paint Colors for Your Oklahoma Home"
-ogImage: "https://hometownpaintingokc.com/wp-content/uploads/2025/12/20250915_123304-1024x768.jpg"
+ogImage: "/uploads/2025/12/20250915_123304.jpg"
 draft: false
 kind: "post"
 date: "2025-12-29"
@@ -17,7 +17,7 @@ You don’t need a design degree or perfect taste. And honestly, there’s not j
 
 ## Start with What You Can’t Change
 
-![exterior paint job in Oklahoma City](https://hometownpaintingokc.com/wp-content/uploads/2025/12/20250830_163001-scaled-e1766979633128.jpg "20250830_163001")
+![exterior paint job in Oklahoma City](/uploads/2025/12/20250830_163001-scaled-e1766979633128.webp "20250830_163001")
 
 Before you look at a single paint chip, take stock of what’s already there.
 
@@ -37,13 +37,13 @@ The general rule is to pair warm tones with other warm tones. I’ve seen people
 
 **The 60-30-10 rule.** This is a common rule you will see in design. When applied to paint it means: Your main body color should cover about 60% of your home. Trim and secondary areas take up around 30%. Accent colors like your front door or shutters are the final 10%. This balance keeps things from feeling too busy or too flat.
 
-![Infographic The 60–30–10 Rule](https://hometownpaintingokc.com/wp-content/uploads/2025/12/Infographic-The-60–30–10-Rule.jpg)
+![Infographic The 60–30–10 Rule](/uploads/2025/12/Infographic-The-60–30–10-Rule.webp)
 
 Keep this in perspective. You’re choosing colors you’ll live with comfortably for years, not designing a showroom. Simple and classic beats trendy almost every time.
 
 ## Consider Your Home’s Style
 
-![20250915 123304](https://hometownpaintingokc.com/wp-content/uploads/2025/12/20250915_123304-768x576.jpg)
+![20250915 123304](/uploads/2025/12/20250915_123304.webp)
 
 Different architectural styles tend to look best with certain color palettes.
 

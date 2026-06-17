@@ -3,7 +3,7 @@ title: "Top Pergola Staining In OKC | Protect Your Pergola Today"
 description: "For a fresh, new look, discover why we're the choice for pergola staining Oklahoma City residents recommend."
 permalink: "/pergola-staining-okc/"
 h1: "Pergola Staining OKC Homeowners Can Trust"
-ogImage: "https://hometownpaintingokc.com/wp-content/uploads/2024/03/3588-2.jpeg"
+ogImage: "/uploads/2024/03/3588-2.jpg"
 draft: false
 ---
 
@@ -27,7 +27,7 @@ Improve Property Value
 
 Outdoor living is becoming more popular every year. OKC Metro home buyers/owners are looking for outdoor spaces that they will love.
 
-![3588 2](https://hometownpaintingokc.com/wp-content/uploads/2024/03/3588-2.jpeg)
+![3588 2](/uploads/2024/03/3588-2.webp)
 
 ## Here’s what some of our OKC customers say
 
@@ -35,7 +35,7 @@ For a fresh, new look, discover why we’re the choice for pergola staining Okla
 
 **Jordan V.**
 
-![Untitled 300 × 100](https://hometownpaintingokc.com/wp-content/uploads/2023/09/Untitled-300-×-100-px.png)
+![Untitled 300 × 100](/uploads/2023/09/Untitled-300-×-100-px.webp)
 
 *Homeowner in Yukon, OK*
 
@@ -43,7 +43,7 @@ I cannot say enough about how much I appreciate Matt and his team for sealing ou
 
 ****Marlene****
 
-![Untitled 300 × 100](https://hometownpaintingokc.com/wp-content/uploads/2023/09/Untitled-300-×-100-px.png)
+![Untitled 300 × 100](/uploads/2023/09/Untitled-300-×-100-px.webp)
 
 **Homeowner in Tuttle, OK**
 
@@ -51,7 +51,7 @@ They did an awesome job! The staff worked hard the whole time they were here! Th
 
 ****Matt F.****
 
-![Untitled 300 × 100](https://hometownpaintingokc.com/wp-content/uploads/2023/09/Untitled-300-×-100-px.png)
+![Untitled 300 × 100](/uploads/2023/09/Untitled-300-×-100-px.webp)
 
 **Homeowner in Edmond, OK**
 
@@ -79,7 +79,7 @@ We have received training directly from the Wood Defender team on the best ways 
 - Protecting your property: This is one of our top priorities on the job site.
 - Efficient work: Get back to enjoying your yard sooner.
 
-![pergola after scaled](https://hometownpaintingokc.com/wp-content/uploads/2024/03/pergola-after-scaled.jpg)
+![pergola after scaled](/uploads/2024/03/pergola-after-scaled.webp)
 
 ## Ready to Stain? Just have questions?
 
@@ -91,15 +91,15 @@ Contact us today to speak to experienced, local,  professional painters in the 
 
 ### Deck Staining
 
-![A new deck with fresh stain in Oklahoma city](https://hometownpaintingokc.com/wp-content/uploads/2023/02/Deck-Stain-OKC-2-1024x683.jpg)
+![A new deck with fresh stain in Oklahoma city](/uploads/2023/02/Deck-Stain-OKC-2.webp)
 
 ### [Fence Staining](https://hometownpaintingokc.com/fence-staining-okc/)
 
-![oxford brown fence in okc](https://hometownpaintingokc.com/wp-content/uploads/2023/02/oxford-brown-fence-in-okc-1024x683.jpg)
+![oxford brown fence in okc](/uploads/2023/02/oxford-brown-fence-in-okc.webp)
 
 ### Cedar Siding Staining
 
-![siding staining okc just finished staining the cedar siding on this house with a red oil based stain](https://hometownpaintingokc.com/wp-content/uploads/2023/10/IMG_1513-scaled.jpg)
+![siding staining okc just finished staining the cedar siding on this house with a red oil based stain](/uploads/2023/10/IMG_1513-scaled.webp)
 
 ## Frequently Asked Questions: Pergola Staining OKC
 
@@ -144,23 +144,23 @@ Oil based stains offer protection from:
 - Damaging UV rays
 - Fence turning gray
 
-![IMG 0728 scaled](https://hometownpaintingokc.com/wp-content/uploads/2022/11/IMG_0728-scaled.jpg)
+![IMG 0728 scaled](/uploads/2022/11/IMG_0728-scaled.webp)
 
 We test many stain brands to find the best ones to use on your fence.
 
 ## Our Pergola Stain Work in the OKC Metro
 
-![pergola staining in okc](https://hometownpaintingokc.com/wp-content/uploads/2023/09/608E.VictoriaTerrace-6-1024x681.jpg)
+![pergola staining in okc](/uploads/2023/09/608E.VictoriaTerrace-6.webp)
 
-![3588 2](https://hometownpaintingokc.com/wp-content/uploads/2024/03/3588-2.jpeg)
+![3588 2](/uploads/2024/03/3588-2.webp)
 
-![pergola after](https://hometownpaintingokc.com/wp-content/uploads/2024/03/pergola-after-1024x687.jpg)
+![pergola after](/uploads/2024/03/pergola-after.webp)
 
-![Deck stained with sable brown](https://hometownpaintingokc.com/wp-content/uploads/2022/09/Sable-Brown-Deck-1024x576.jpg)
+![Deck stained with sable brown](/uploads/2022/09/Sable-Brown-Deck.webp)
 
-![pergola after 2](https://hometownpaintingokc.com/wp-content/uploads/2024/03/pergola-after-2-1024x687.jpg)
+![pergola after 2](/uploads/2024/03/pergola-after-2.webp)
 
-![Oxford pergola stain 2](https://hometownpaintingokc.com/wp-content/uploads/2024/03/Oxford-pergola-stain-2-1024x610.jpg)
+![Oxford pergola stain 2](/uploads/2024/03/Oxford-pergola-stain-2.webp)
 
 ## Our Pergola Staining Process
 

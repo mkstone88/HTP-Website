@@ -3,7 +3,7 @@ title: "Exterior Prep Work For Painting In Oklahoma City"
 description: "Learn what professional exterior prep work includes in Oklahoma City—washing, scraping, sanding, priming, caulking, and repairs for a long-lasting paint job."
 permalink: "/exterior-painting-prep-work-oklahoma-city/"
 h1: "What’s Included in Professional Exterior Prep Work?"
-ogImage: "https://hometownpaintingokc.com/wp-content/uploads/2025/12/Feature-Image-Pre-Prep-Oklahoma-1024x541.png"
+ogImage: "/uploads/2025/12/Feature-Image-Pre-Prep-Oklahoma.jpg"
 draft: false
 kind: "post"
 date: "2025-12-08"
@@ -21,7 +21,7 @@ Oklahoma weather is hard on paint—sun, wind, dust, humidity, and storms all ta
 
 Professional prep work is about giving the coating the best possible starting point.
 
-![Gemini Generated Image i11d6ni11d6ni11d](https://hometownpaintingokc.com/wp-content/uploads/2025/12/Gemini_Generated_Image_i11d6ni11d6ni11d-768x768.png)
+![Gemini Generated Image i11d6ni11d6ni11d](/uploads/2025/12/Gemini_Generated_Image_i11d6ni11d6ni11d.webp)
 
 Before anything else, the entire exterior needs to be washed to remove:
 

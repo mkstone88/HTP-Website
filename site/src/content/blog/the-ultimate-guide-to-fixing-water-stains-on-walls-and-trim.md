@@ -3,7 +3,7 @@ title: "The Ultimate Guide To Fixing Water Stains On Walls And Trim | House Pain
 description: "Water stains can be a nightmare for homeowners. These pesky stains can be unsightly and make a room feel unclean, even if it is spotless. Not to mention, if"
 permalink: "/the-ultimate-guide-to-fixing-water-stains-on-walls-and-trim/"
 h1: "The Ultimate Guide to Fixing Water Stains on Walls and Trim"
-ogImage: "https://hometownpaintingokc.com/wp-content/uploads/2022/12/interior-woodwork-painted.jpg"
+ogImage: "/uploads/2022/12/interior-woodwork-painted.jpg"
 draft: false
 kind: "post"
 date: "2023-04-13"
@@ -13,7 +13,7 @@ Water stains can be a nightmare for homeowners. These pesky stains can be unsigh
 
 ## Sources of Water Damage
 
-![plumbing g5e4eb50cd 1920](https://hometownpaintingokc.com/wp-content/uploads/2023/04/plumbing-g5e4eb50cd_1920.jpg)
+![plumbing g5e4eb50cd 1920](/uploads/2023/04/plumbing-g5e4eb50cd_1920.webp)
 
 Water damage can come from various sources, including leaky pipes, roof leaks, flooding, and condensation. Even a [leaky dishwasher](https://www.appliancegeeked.com/why-dishwasher-leaks-water-when-not-use/) can cause water stains. It’s important to identify the source of the water damage to prevent it from happening again.
 
@@ -21,7 +21,7 @@ Because of our often-extreme weather, roof leaks are one of the most common sour
 
 ## Fixing Water Stains with Primer and Paint
 
-![Painters okc: interior painting of a living room](https://hometownpaintingokc.com/wp-content/uploads/2022/08/paint-Interior-okc2.png)
+![Painters okc: interior painting of a living room](/uploads/2022/08/paint-Interior-okc2.webp)
 
 If you’ve ever tried to paint over a water stain without addressing it first, you know that the stain will bleed through the paint, ruining your hard work. That’s where primer comes in. Primer is designed to seal in stains and create a smooth surface for the paint to adhere to. Without primer, your paint job will look patchy and uneven.
 
@@ -35,7 +35,7 @@ When it comes to painting over water stains, it’s important to use a paint rol
 
 ### Trim and Baseboards
 
-![kitchen g5c8d3ab7b 1920](https://hometownpaintingokc.com/wp-content/uploads/2023/04/kitchen-g5c8d3ab7b_1920.jpg)
+![kitchen g5c8d3ab7b 1920](/uploads/2023/04/kitchen-g5c8d3ab7b_1920.webp)
 
 Water stains on trim and baseboards can be just as unsightly as stains on walls. Fortunately, the process for fixing water stains on trim and baseboards is the same as for walls.
 

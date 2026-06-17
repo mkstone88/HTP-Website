@@ -3,7 +3,7 @@ title: "See Our Work In The OKC Metro"
 description: "See pictures of homes we have painted in Oklahoma City and the surrounding community. We have pictures of interior and exterior projects."
 permalink: "/gallery/"
 h1: "Take a Look at Our Work"
-ogImage: "https://hometownpaintingokc.com/wp-content/uploads/2024/03/Untitled-design1.png"
+ogImage: "/uploads/2024/03/Untitled-design1.jpg"
 draft: false
 ---
 
@@ -13,45 +13,45 @@ Interior and Exterior Painting In the OKC Metro
 
 ## Exterior Painting
 
-![Untitled design1](https://hometownpaintingokc.com/wp-content/uploads/2024/03/Untitled-design1.png)
+![Untitled design1](/uploads/2024/03/Untitled-design1.webp)
 
-![Exterior Painting Before and After](https://hometownpaintingokc.com/wp-content/uploads/2024/03/Exterior-Painting-Before-and-After.png)
+![Exterior Painting Before and After](/uploads/2024/03/Exterior-Painting-Before-and-After.webp)
 
-![Exterior Before and After1](https://hometownpaintingokc.com/wp-content/uploads/2024/03/Exterior-Before-and-After1.png)
+![Exterior Before and After1](/uploads/2024/03/Exterior-Before-and-After1.webp)
 
-![Exterior Before and After2](https://hometownpaintingokc.com/wp-content/uploads/2024/03/Exterior-Before-and-After2.png)
+![Exterior Before and After2](/uploads/2024/03/Exterior-Before-and-After2.webp)
 
-![Exterior Before and After3](https://hometownpaintingokc.com/wp-content/uploads/2024/03/Exterior-Before-and-After3.png)
+![Exterior Before and After3](/uploads/2024/03/Exterior-Before-and-After3.webp)
 
-![Exterior Before and After](https://hometownpaintingokc.com/wp-content/uploads/2024/03/Exterior-Before-and-After.png)
+![Exterior Before and After](/uploads/2024/03/Exterior-Before-and-After.webp)
 
 ## Fence, Deck and Pergola Staining
 
-![Stain OKC6](https://hometownpaintingokc.com/wp-content/uploads/2024/03/Stain-OKC6.png)
+![Stain OKC6](/uploads/2024/03/Stain-OKC6.webp)
 
-![Stain OKC5](https://hometownpaintingokc.com/wp-content/uploads/2024/03/Stain-OKC5.png)
+![Stain OKC5](/uploads/2024/03/Stain-OKC5.webp)
 
-![Stain OKC4](https://hometownpaintingokc.com/wp-content/uploads/2024/03/Stain-OKC4.png)
+![Stain OKC4](/uploads/2024/03/Stain-OKC4.webp)
 
-![Stain OKC3](https://hometownpaintingokc.com/wp-content/uploads/2024/03/Stain-OKC3.png)
+![Stain OKC3](/uploads/2024/03/Stain-OKC3.webp)
 
-![Stain OKC2](https://hometownpaintingokc.com/wp-content/uploads/2024/03/Stain-OKC2.png)
+![Stain OKC2](/uploads/2024/03/Stain-OKC2.webp)
 
-![Stain OKC](https://hometownpaintingokc.com/wp-content/uploads/2024/03/Stain-OKC.png)
+![Stain OKC](/uploads/2024/03/Stain-OKC.webp)
 
 ## Interior Painting
 
-![Interior Painting OKC2](https://hometownpaintingokc.com/wp-content/uploads/2024/03/Interior-Painting-OKC2.png)
+![Interior Painting OKC2](/uploads/2024/03/Interior-Painting-OKC2.webp)
 
-![Interior Painting OKC](https://hometownpaintingokc.com/wp-content/uploads/2024/03/Interior-Painting-OKC.png)
+![Interior Painting OKC](/uploads/2024/03/Interior-Painting-OKC.webp)
 
-![Interior Painting OKC3](https://hometownpaintingokc.com/wp-content/uploads/2024/03/Interior-Painting-OKC3.png)
+![Interior Painting OKC3](/uploads/2024/03/Interior-Painting-OKC3.webp)
 
-![Interior Painting OKC4](https://hometownpaintingokc.com/wp-content/uploads/2024/03/Interior-Painting-OKC4.png)
+![Interior Painting OKC4](/uploads/2024/03/Interior-Painting-OKC4.webp)
 
-![Interior Painting OKC1](https://hometownpaintingokc.com/wp-content/uploads/2024/03/Interior-Painting-OKC1.png)
+![Interior Painting OKC1](/uploads/2024/03/Interior-Painting-OKC1.webp)
 
-![Interior Painting OKC5](https://hometownpaintingokc.com/wp-content/uploads/2024/03/Interior-Painting-OKC5.png)
+![Interior Painting OKC5](/uploads/2024/03/Interior-Painting-OKC5.webp)
 
 ## Start Your Home’s Transformation With a Free Estimate
 
@@ -66,11 +66,11 @@ Interior and Exterior Painting In the OKC Metro
 - No high-pressure
 - Quote delivered on the spot (no waiting!)
 
-![Untitled design](https://hometownpaintingokc.com/wp-content/uploads/2025/05/Untitled-design-150x150.png)
+![Untitled design](/uploads/2025/05/Untitled-design.webp)
 
-![Hometown Painting Reveiws](https://hometownpaintingokc.com/wp-content/uploads/2023/08/Hometown-Painting-Reveiws.jpg)
+![Hometown Painting Reveiws](/uploads/2023/08/Hometown-Painting-Reveiws.webp)
 
-![Logo for the Painting Contractor's Association](https://hometownpaintingokc.com/wp-content/uploads/2025/02/PCA-Logo-RGB.png "PCA-Logo-RGB")
+![Logo for the Painting Contractor's Association](/uploads/2025/02/PCA-Logo-RGB.webp "PCA-Logo-RGB")
 
 ## Ready to Paint? Just have questions?
 

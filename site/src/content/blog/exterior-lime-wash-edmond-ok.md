@@ -3,7 +3,7 @@ title: "Exterior Lime Wash In Edmond OK - Modernize Your Home Fast"
 description: "Lime Wash is the perfect way to completely update the look and feel of your home. The perfect vibe for Edmond OK."
 permalink: "/exterior-lime-wash-edmond-ok/"
 h1: "A Complete New Look: Exterior Lime Wash in Edmond OK"
-ogImage: "https://hometownpaintingokc.com/wp-content/uploads/2024/07/7113LostForestDr-14.jpg"
+ogImage: "/uploads/2024/07/7113LostForestDr-14.jpg"
 draft: false
 kind: "post"
 date: "2024-07-17"
@@ -21,7 +21,7 @@ This combination of lime wash and thoughtful detailing resulted in a cohesive, s
 
 ## Before Limewash
 
-![A home in Edmond OK with brick and stucco on the exterior](https://hometownpaintingokc.com/wp-content/uploads/2024/07/20240520_082844-1024x768.jpg)
+![A home in Edmond OK with brick and stucco on the exterior](/uploads/2024/07/20240520_082844.webp)
 
 Before adding the lime wash the house looked like a typical Edmond home. The neutral brick and stone colors were nice but Ashley wanted something more interesting for her exterior.
 
@@ -29,7 +29,7 @@ She gathered inspirational pictures of lime washed homes online and began dreami
 
 ## The Lime Wash Process
 
-![20240521 090043](https://hometownpaintingokc.com/wp-content/uploads/2024/07/20240521_090043-768x1024.jpg)
+![20240521 090043](/uploads/2024/07/20240521_090043.webp)
 
 The lime wash process began with some simple steps to make sure the look was exactly what she wanted.
 
@@ -40,7 +40,7 @@ The lime wash process began with some simple steps to make sure the look was exa
 - Paint and stain all the other surfaces on the home.
 - Clean up everything so you would never know a painter was just at the house.
 
-![20240521 090220](https://hometownpaintingokc.com/wp-content/uploads/2024/07/20240521_090220-1024x768.jpg)
+![20240521 090220](/uploads/2024/07/20240521_090220.webp)
 
 We made sure to use the best lime wash product available in our area. After thorough research, we chose Romabio, a true crushed limestone product imported from Italy. Romabio is renowned for its superior quality and authenticity, bringing a touch of Italian craftsmanship to our projects. This all-natural product is designed to stand the test of time, ensuring that Ashley’s house will maintain its beautiful appearance for decades to come.
 
@@ -50,14 +50,14 @@ In addition to its practical benefits, Romabio lime wash offers great aesthetic 
 
 ## Final Results!
 
-![A newly lime washed house in Edmond OK](https://hometownpaintingokc.com/wp-content/uploads/2024/07/7113LostForestDr-13.jpg)
+![A newly lime washed house in Edmond OK](/uploads/2024/07/7113LostForestDr-13.webp)
 
 The final look was nothing short of stunning!
 
-![A back yard next to the new lime wash house in Edmond OK](https://hometownpaintingokc.com/wp-content/uploads/2024/07/7113LostForestDr-17.jpg)
+![A back yard next to the new lime wash house in Edmond OK](/uploads/2024/07/7113LostForestDr-17.webp)
 
 The house makes a perfect backdrop for a family get together or a day by the pool.
 
-![7113LostForestDr 4](https://hometownpaintingokc.com/wp-content/uploads/2024/07/7113LostForestDr-4.jpg)
+![7113LostForestDr 4](/uploads/2024/07/7113LostForestDr-4.webp)
 
 This contemporary, modernized lime wash home is something Ashley can be proud of!

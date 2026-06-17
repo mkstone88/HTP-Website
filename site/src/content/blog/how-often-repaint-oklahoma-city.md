@@ -3,7 +3,7 @@ title: "How Often Should You Repaint Your House In Oklahoma City?"
 description: "Learn the signs that it's time to repaint your house. Discover how Oklahoma City's unique climate impacts the longevity of your home's exterior paint job."
 permalink: "/how-often-repaint-oklahoma-city/"
 h1: "How Often Should You Repaint Your House in Oklahoma City?"
-ogImage: "https://hometownpaintingokc.com/wp-content/uploads/2023/06/How-Often-Should-You-Paint.jpg"
+ogImage: "/uploads/2023/06/How-Often-Should-You-Paint.jpg"
 draft: false
 kind: "post"
 date: "2025-12-08"
@@ -65,7 +65,7 @@ Small issues left unattended tend to spread, especially during storm season.
 
 ## **The Oklahoma City Factor: Climate and Weather**
 
-![Picture of the sun to show how uv rays can damage a fence](https://hometownpaintingokc.com/wp-content/uploads/2022/09/Sun.jpg)
+![Picture of the sun to show how uv rays can damage a fence](/uploads/2022/09/Sun.webp)
 
 Oklahoma City is known for its diverse and sometimes extreme weather conditions, which can have a substantial impact on the longevity of your home’s paint job.
 
@@ -91,7 +91,7 @@ As a general guideline, here’s how often you should plan to repaint different 
 
 ## **How to Know Your Home Is Ready for Repainting**
 
-![IMG 08911 scaled](https://hometownpaintingokc.com/wp-content/uploads/2022/11/IMG_08911-scaled-300x200.jpg)
+![IMG 08911 scaled](/uploads/2022/11/IMG_08911-scaled.webp)
 
 While the general timelines provided can guide you, observing your house’s condition is the best way to [know if it’s time to paint](https://hometownpaintingokc.com/best-time-of-year-paint-exterior-oklahoma/). Here are some telltale signs that your house may need a new coat of paint:
 
@@ -102,7 +102,7 @@ While the general timelines provided can guide you, observing your house’s con
 
 ## **The Benefits of Regular Repainting**
 
-![pexels pixabay 259588](https://hometownpaintingokc.com/wp-content/uploads/2023/06/pexels-pixabay-259588-768x512.jpg)
+![pexels pixabay 259588](/uploads/2023/06/pexels-pixabay-259588.webp)
 
 Keeping a regular repainting schedule for your home has several benefits. Here are just a few reasons why regular repainting is an excellent investment for your home:
 

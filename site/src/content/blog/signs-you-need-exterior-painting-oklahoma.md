@@ -3,7 +3,7 @@ title: "10 Signs You Need Exterior Painting In Oklahoma City"
 description: "Clear signs your home needs exterior painting in Oklahoma City. Learn how to spot peeling, fading, cracking, and other issues before damage sets in."
 permalink: "/signs-you-need-exterior-painting-oklahoma/"
 h1: "10 Clear Signs It’s Time to Repaint Your Home’s Exterior"
-ogImage: "https://hometownpaintingokc.com/wp-content/uploads/2022/11/IMG_0609-1024x683.jpg"
+ogImage: "/uploads/2022/11/IMG_0609.jpg"
 draft: false
 kind: "post"
 date: "2025-12-08"
@@ -104,7 +104,7 @@ Even if you’re staying put, a tired exterior can make the whole home feel olde
 
 ---
 
-![Picture of Jimmy Hughes, real estate broker in Okalahoma city](https://hometownpaintingokc.com/wp-content/uploads/2023/01/WEB-JimmyHughesHeadshot-e1673623254939-144x150.webp)
+![Picture of Jimmy Hughes, real estate broker in Okalahoma city](/uploads/2023/01/WEB-JimmyHughesHeadshot-e1673623254939.webp)
 
 > “Sellers often ask if their home should be repainted before listing. The basic rule of thumb I recommend is that you want to eliminate hassle for the buyer in every way possible. Repainting can often increase the attractiveness of the home you are selling, and can help you fetch a premium offer for your property.”
 >

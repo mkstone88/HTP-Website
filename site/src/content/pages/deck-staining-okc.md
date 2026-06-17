@@ -3,7 +3,7 @@ title: "Professional Deck Staining OKC | Hometown Painting Oklahoma City | House
 description: "Your deck is one of the most valuable outdoor investments in your home. Whether you're looking to restore a weathered deck or protect a newly built one,"
 permalink: "/deck-staining-okc/"
 h1: "Professional Deck Staining OKC | Hometown Painting Oklahoma City"
-ogImage: "https://hometownpaintingokc.com/wp-content/uploads/2022/08/IMG_0174-min-scaled-1024x519.jpg"
+ogImage: "/uploads/2022/08/IMG_0174-min-scaled.jpg"
 draft: false
 ---
 

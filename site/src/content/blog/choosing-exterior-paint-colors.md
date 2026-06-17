@@ -3,7 +3,7 @@ title: "Choosing The Best Exterior Paint Colors For Your Home"
 description: "Choosing the best exterior paint color for your home can seem challenging. With these easy steps, you can be confident choosing exterior paint colors."
 permalink: "/choosing-exterior-paint-colors/"
 h1: "How to pick an Exterior Paint Color"
-ogImage: "https://hometownpaintingokc.com/wp-content/uploads/2022/08/Exterior-house-paint-okc.jpg"
+ogImage: "/uploads/2022/08/Exterior-house-paint-okc.jpg"
 draft: false
 kind: "post"
 date: "2023-10-11"
@@ -21,7 +21,7 @@ If you tend to like bold striking colors you may want to carry this trend to you
 
 ## Look For Inspiration From Other Homes
 
-![exterior of a house in okc painted blue and white color](https://hometownpaintingokc.com/wp-content/uploads/2023/01/Ext-paint-blue-1024x683.jpg)
+![exterior of a house in okc painted blue and white color](/uploads/2023/01/Ext-paint-blue.webp)
 
 One great (and free) way to get exterior paint color ideas is to see what others have used on their homes. There is no need to copy someone else’s colors. You can use their color schemes as a jumping off paint for your own inspiration.
 
@@ -31,7 +31,7 @@ This is also a great time to consider whether you want your home to stand out or
 
 ### Use Pinterest to Find Ideas
 
-![exterior paint colors search screen from Pinterest](https://hometownpaintingokc.com/wp-content/uploads/2023/01/Pinterest-ext-colors-1024x398.png)
+![exterior paint colors search screen from Pinterest](/uploads/2023/01/Pinterest-ext-colors.webp)
 
 Another great place to look for color inspiration is [Pinterest](https://pinterest.com). By searching for exterior paint colors you will find many example pictures. If you have already narrowed down to a few color options you can search for those colors specifically.
 

@@ -3,7 +3,7 @@ title: "Interior Painting Landing Page | House Painters In The OKC Metro"
 description: "Get a Free Estimate"
 permalink: "/interior-painting/"
 h1: "Professional Interior Painters in the OKC Metro"
-ogImage: "https://hometownpaintingokc.com/wp-content/uploads/2025/05/5613NE107thSt-Interior-8.jpg"
+ogImage: "/uploads/2025/05/5613NE107thSt-Interior-8.jpg"
 draft: false
 ---
 
@@ -19,25 +19,25 @@ Let a fresh coat of paint redefine your living space, creating an ambiance that 
 
 ## Complete Interior Painting Services
 
-![5613NE107thSt Interior 8](https://hometownpaintingokc.com/wp-content/uploads/2025/05/5613NE107thSt-Interior-8.jpg)
+![5613NE107thSt Interior 8](/uploads/2025/05/5613NE107thSt-Interior-8.webp)
 
 ### Fresh Walls and Ceilings
 
 Want your home to feel fresh and clean? New paint can brighten up a home’s interior and make it an inviting place for friends to gather.
 
-![Interior 2](https://hometownpaintingokc.com/wp-content/uploads/2025/05/Interior-2-300x200.png)
+![Interior 2](/uploads/2025/05/Interior-2.webp)
 
 ### Premium Trim Finishing
 
 Experience premium interior painting that brings life to every corner of your OKC home. From Doors and baseboards to Crown molding and trim.
 
-![9409SW32ndTer Edited 2 scaled](https://hometownpaintingokc.com/wp-content/uploads/2025/05/9409SW32ndTer-Edited-2-scaled.jpg)
+![9409SW32ndTer Edited 2 scaled](/uploads/2025/05/9409SW32ndTer-Edited-2-scaled.webp)
 
 ### Colors Tailored for You
 
 Pick a fun splash of color or a solid traditional color – either way we can help your home make an impressive first impression.
 
-![5613NE107thSt Interior 20](https://hometownpaintingokc.com/wp-content/uploads/2025/05/5613NE107thSt-Interior-20.jpg)
+![5613NE107thSt Interior 20](/uploads/2025/05/5613NE107thSt-Interior-20.webp)
 
 ### Cabinet Painting
 
@@ -56,21 +56,21 @@ Your cabinets can come to life with a new coat of paint. We can cover older stai
 - No high-pressure
 - Quote delivered on the spot (no waiting!)
 
-![Untitled design](https://hometownpaintingokc.com/wp-content/uploads/2025/05/Untitled-design-150x150.png)
+![Untitled design](/uploads/2025/05/Untitled-design.webp)
 
-![Hometown Painting Reveiws](https://hometownpaintingokc.com/wp-content/uploads/2023/08/Hometown-Painting-Reveiws.jpg)
+![Hometown Painting Reveiws](/uploads/2023/08/Hometown-Painting-Reveiws.webp)
 
-![Logo for the Painting Contractor's Association](https://hometownpaintingokc.com/wp-content/uploads/2025/02/PCA-Logo-RGB.png "PCA-Logo-RGB")
+![Logo for the Painting Contractor's Association](/uploads/2025/02/PCA-Logo-RGB.webp "PCA-Logo-RGB")
 
 ## See Our Work
 
-![Interior](https://hometownpaintingokc.com/wp-content/uploads/2025/05/Interior.png)
+![Interior](/uploads/2025/05/Interior.webp)
 
-![5613NE107thSt Interior 25](https://hometownpaintingokc.com/wp-content/uploads/2025/05/5613NE107thSt-Interior-25.jpg)
+![5613NE107thSt Interior 25](/uploads/2025/05/5613NE107thSt-Interior-25.webp)
 
-![5613NE107thSt Interior 18](https://hometownpaintingokc.com/wp-content/uploads/2025/05/5613NE107thSt-Interior-18.jpg)
+![5613NE107thSt Interior 18](/uploads/2025/05/5613NE107thSt-Interior-18.webp)
 
-![Interior 3](https://hometownpaintingokc.com/wp-content/uploads/2025/05/Interior-3.png)
+![Interior 3](/uploads/2025/05/Interior-3.webp)
 
 ## Why Our OKC Metro Neighbors Choose Hometown Painting
 

@@ -3,7 +3,7 @@ title: "Free Painting Estimates In Oklahoma City"
 description: "Request a Free Estimate!"
 permalink: "/painting-estimate/"
 h1: "Premium Home Painting in Oklahoma City"
-ogImage: "https://hometownpaintingokc.com/wp-content/uploads/2025/02/Erin-Baird-e1738790494952.png"
+ogImage: "/uploads/2025/02/Erin-Baird-e1738790494952.jpg"
 draft: false
 formId: "Gi6MfAF8VO97YgxZIwzu"
 ---
@@ -26,21 +26,21 @@ We Don’t Leave Until You’re Happy
 
 5 Year Workmanship Guarantee
 
-![Hometown Painting Reveiws](https://hometownpaintingokc.com/wp-content/uploads/2025/02/Hometown-Painting-Reveiws.png)
+![Hometown Painting Reveiws](/uploads/2025/02/Hometown-Painting-Reveiws.webp)
 
 Do you wonder what it is like to get a free estimate from Hometown Painting? Watch the video below and we will walk you step by step through the process.
 
 ## What our Clients Say
 
-![Erin Baird e1738790494952](https://hometownpaintingokc.com/wp-content/uploads/2025/02/Erin-Baird-e1738790494952.png "Erin Baird")
+![Erin Baird e1738790494952](/uploads/2025/02/Erin-Baird-e1738790494952.webp "Erin Baird")
 
-![Stephoni](https://hometownpaintingokc.com/wp-content/uploads/2025/02/Stephoni-Exterior.png)
+![Stephoni](/uploads/2025/02/Stephoni-Exterior.webp)
 
 ## Ready to Have The Best Looking Home On The Block?
 
 [Request a Free Estimate!](https://api.leadconnectorhq.com/widget/form/Gi6MfAF8VO97YgxZIwzu)
 
-![PCA Logo RGB](https://hometownpaintingokc.com/wp-content/uploads/2025/02/PCA-Logo-RGB.png "PCA-Logo-RGB")
+![PCA Logo RGB](/uploads/2025/02/PCA-Logo-RGB.webp "PCA-Logo-RGB")
 
 ## Industry Associations
 

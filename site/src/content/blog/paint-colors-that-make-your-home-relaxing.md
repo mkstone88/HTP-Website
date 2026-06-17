@@ -3,7 +3,7 @@ title: "Paint Colors That Make Your Home Relaxing"
 description: "Choosing the right paint colors can make your home a serene refuge for you and your family. Learn how to choose the best relaxing color palette for your home."
 permalink: "/paint-colors-that-make-your-home-relaxing/"
 h1: "Paint Colors for a Relaxing Home"
-ogImage: "https://hometownpaintingokc.com/wp-content/uploads/2022/08/interior-painted-okc.jpg"
+ogImage: "/uploads/2022/08/interior-painted-okc.jpg"
 draft: false
 kind: "post"
 date: "2025-06-09"
@@ -23,7 +23,7 @@ Creating a relaxing home is not difficult once you understand the basics of what
 
 ## Cool Tones Are More Relaxing
 
-![Interior room with painted walls and ceilings](https://hometownpaintingokc.com/wp-content/uploads/2022/08/paint-interior-okc-5.png)
+![Interior room with painted walls and ceilings](/uploads/2022/08/paint-interior-okc-5.webp)
 
 Cool tones are more relaxing to the eye. They create a more subdued feeling in a space rather than the excitement of warmer colors. Learn more about the difference between [warm and cool colors here](https://www.benjaminmoore.com/en-us/color-overview/color-insights/warm-and-cool-colors).
 
@@ -44,21 +44,21 @@ Muted Warm Tones:
 - Pale Yellow
 - Sage Green
 
-![a list of cool colors that would make a home relaxing](https://hometownpaintingokc.com/wp-content/uploads/2022/12/Relaxing-Cool-Paint-Colors.jpg)
+![a list of cool colors that would make a home relaxing](/uploads/2022/12/Relaxing-Cool-Paint-Colors.webp)
 
-![warm neutral paint colors that would be relaxing in your home](https://hometownpaintingokc.com/wp-content/uploads/2022/12/Relaxing-Cool-Paint-Colors1.jpg)
+![warm neutral paint colors that would be relaxing in your home](/uploads/2022/12/Relaxing-Cool-Paint-Colors1.webp)
 
 ## Use The Right Tone and Saturation
 
 Tones are created by adding gray to a pure color. It visually “tones down” a pure hue by muddying the true color. By choosing a tonal color the intensity of the color relaxes making it more relaxing on the eye.
 
-![chart of relaxing colors](https://hometownpaintingokc.com/wp-content/uploads/2022/12/Relaxing-Color-tones.jpg)
+![chart of relaxing colors](/uploads/2022/12/Relaxing-Color-tones.webp)
 
 As you can see, these blue colors are all similar, but the three on the right have been toned down from the pure hue on the left. These colors will have a greater calming effect in a room.
 
 ## Which Rooms Are The Most Important To Make Relaxing?
 
-![bedroom painted okc](https://hometownpaintingokc.com/wp-content/uploads/2022/08/bedroom-painted-okc-1024x683.jpg)
+![bedroom painted okc](/uploads/2022/08/bedroom-painted-okc.webp)
 
 While it may be your desire to make your whole home relaxing, some may feel this is too bland. Often common areas and kitchens will benefit from bright or bolder colors that bring more energy and excitement. There are some rooms however that seem to always benefit from a serene color palette.
 

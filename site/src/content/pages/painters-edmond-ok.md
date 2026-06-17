@@ -3,7 +3,7 @@ title: "House Painters In Edmond, OK | Interior And Exterior Paint"
 description: "We can help you transform your Edmond home with luxurious paint. Whether it's your interior or exterior, we can give you a hassle-free painting experience."
 permalink: "/painters-edmond-ok/"
 h1: "Edmond OK"
-ogImage: "https://hometownpaintingokc.com/wp-content/uploads/2023/09/608E.VictoriaTerrace-1-1-1024x679.jpg"
+ogImage: "/uploads/2023/09/608E.VictoriaTerrace-1-1.jpg"
 draft: false
 ---
 
@@ -15,7 +15,7 @@ Professional House Painters Edmond, OK can Trust.
 
 ### Exterior Painting
 
-![exterior painters Edmond ok just finished painting the outside of this house.](https://hometownpaintingokc.com/wp-content/uploads/2023/09/608E.VictoriaTerrace-1-1-scaled.jpg)
+![exterior painters Edmond ok just finished painting the outside of this house.](/uploads/2023/09/608E.VictoriaTerrace-1-1-scaled.webp)
 
 Make your Edmond home the envy of the neighborhood.
 
@@ -28,7 +28,7 @@ Make your Edmond home the envy of the neighborhood.
 
 ### Fence Staining
 
-![A fence in Edmond, OK that has just been stained with Wood Defender](https://hometownpaintingokc.com/wp-content/uploads/2022/11/fence-staining-in-edmond-ok.jpg)
+![A fence in Edmond, OK that has just been stained with Wood Defender](/uploads/2022/11/fence-staining-in-edmond-ok.webp)
 
 We can help you make your fence last longer and look great.
 
@@ -41,7 +41,7 @@ We can help you make your fence last longer and look great.
 
 ### Interior Painting
 
-![interior of a home in edmond ok with fresh paint on the walls](https://hometownpaintingokc.com/wp-content/uploads/2022/11/living-room-paint-edmond.png)
+![interior of a home in edmond ok with fresh paint on the walls](/uploads/2022/11/living-room-paint-edmond.webp)
 
 We can help you make your interior inviting for your family and firends.
 
@@ -66,7 +66,7 @@ Best,
 
 Matt, Owner of Hometown Painting
 
-![Matt Stone a painter in Edmond OK](https://hometownpaintingokc.com/wp-content/uploads/2023/08/20230509_2013151-scaled.jpg)
+![Matt Stone a painter in Edmond OK](/uploads/2023/08/20230509_2013151-scaled.webp)
 
 ## Ready to Paint? Just have questions?
 
@@ -76,21 +76,21 @@ Contact us today to speak to experienced, local,  professional painters in the 
 
 ## House Painting Edmond: Our Portfolio
 
-![exterior painting in Edmond OK brought this house back to life](https://hometownpaintingokc.com/wp-content/uploads/2023/10/2933LakeshireRidgeRd-11-1024x723.jpg)
+![exterior painting in Edmond OK brought this house back to life](/uploads/2023/10/2933LakeshireRidgeRd-11.webp)
 
-![20230825 110745 1](https://hometownpaintingokc.com/wp-content/uploads/2023/08/20230825_110745-1-768x1024.jpg)
+![20230825 110745 1](/uploads/2023/08/20230825_110745-1.webp)
 
-![trim and doors in an interior living room painted with enamel](https://hometownpaintingokc.com/wp-content/uploads/2022/12/interior-woodwork-painted.jpg)
+![trim and doors in an interior living room painted with enamel](/uploads/2022/12/interior-woodwork-painted.webp)
 
-![interior of a home in edmond ok with fresh paint on the walls](https://hometownpaintingokc.com/wp-content/uploads/2022/11/living-room-paint-edmond.png)
+![interior of a home in edmond ok with fresh paint on the walls](/uploads/2022/11/living-room-paint-edmond.webp)
 
-![A living room that has been worked on by interior painters](https://hometownpaintingokc.com/wp-content/uploads/2022/09/interior-painters-yukon-ok.jpg)
+![A living room that has been worked on by interior painters](/uploads/2022/09/interior-painters-yukon-ok.webp)
 
 ### Here is what our Edmond customers say:
 
 **Elizabeth S**
 
-![Untitled 300 × 100](https://hometownpaintingokc.com/wp-content/uploads/2023/09/Untitled-300-×-100-px.png)
+![Untitled 300 × 100](/uploads/2023/09/Untitled-300-×-100-px.webp)
 
 *Homeowner in Edmond, OK*
 
@@ -98,7 +98,7 @@ Matt and his team did an incredible job staining the wood trim on our two story 
 
 ****K.H.****
 
-![Untitled 300 × 100](https://hometownpaintingokc.com/wp-content/uploads/2023/09/Untitled-300-×-100-px.png)
+![Untitled 300 × 100](/uploads/2023/09/Untitled-300-×-100-px.webp)
 
 **Homeowner in Edmond, OK**
 
@@ -106,7 +106,7 @@ Throughout the job, the crew did a thorough and conscientious job of taping and 
 
 ****Matt F.****
 
-![Untitled 300 × 100](https://hometownpaintingokc.com/wp-content/uploads/2023/09/Untitled-300-×-100-px.png)
+![Untitled 300 × 100](/uploads/2023/09/Untitled-300-×-100-px.webp)
 
 **Homeowner in Edmond, OK**
 

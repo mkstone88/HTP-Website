@@ -3,7 +3,7 @@ title: "Siding Staining | Express Clydesdale Barns | Yukon, OK"
 description: "The Express Clydesdale barns are a landmark in Yukon, OK. Learn how Hometown Painting helped the Express Ranches preserve their history by staining the siding."
 permalink: "/siding-staining-express-clydesdale-barns/"
 h1: "Cedar Siding Staining: The Express Clydesdale Barns in Yukon, OK"
-ogImage: "https://hometownpaintingokc.com/wp-content/uploads/2023/02/IMG_7435-1024x686.jpg"
+ogImage: "/uploads/2023/02/IMG_7435.jpg"
 draft: false
 kind: "post"
 date: "2023-06-28"
@@ -17,19 +17,19 @@ The Express Ranch entrusted [Hometown Painting](/) with the task of restoring th
 
 The barns are a historic feature in Yukon, OK. They were restored for the express purpose of housing the Clydesdale horses.
 
-![picture of the historic barn in yukon ok](https://hometownpaintingokc.com/wp-content/uploads/2023/02/historic-yukon-barn-scaled.jpg)
+![picture of the historic barn in yukon ok](/uploads/2023/02/historic-yukon-barn-scaled.webp)
 
 Hometown Painting is excited that we had the opportunity to continue the tradition of preserving this iconic Oklahoma landmark.
 
 ## Preparing the Cedar Siding for Stain
 
-![the clydesdale barn with the siding looking old and faded](https://hometownpaintingokc.com/wp-content/uploads/2023/02/clydesdale-barn-before-scaled.jpg)
+![the clydesdale barn with the siding looking old and faded](/uploads/2023/02/clydesdale-barn-before-scaled.webp)
 
 When we inspected the cedar siding, we found that it was dry and brittle. The previous stain job had worn almost completely off in some places. Moisture had already started to rot some siding boards. Without a new coat of siding stain, the barn would only continue to deteriorate.
 
 We started by thoroughly washing the wood to prepare it. We applied a cleaner beforehand to help remove any dirt or mildew growing on the cedar. After everything was thoroughly rinsed we gave the barns several days to dry.
 
-![a man spraying bleach on the wood siding to prepare it for stain.](https://hometownpaintingokc.com/wp-content/uploads/2023/02/Bleach-siding-1024x682.jpg)
+![a man spraying bleach on the wood siding to prepare it for stain.](/uploads/2023/02/Bleach-siding.webp)
 
 ## Choosing the Best Stain the Cedar Siding
 
@@ -41,7 +41,7 @@ The Express team chose to use the [Coffee Brown color](https://hometownpaintingo
 
 This was a big job! We wanted every surface of the siding to be saturated with stain. We carefully went board by board for several weeks, staining the entire structure. We often worked late into the evening to try and get the job done.
 
-![a boom lift being used to reach high places during the staining of the yukon, ok barns](https://hometownpaintingokc.com/wp-content/uploads/2023/02/IMG_1048-scaled.jpg)
+![a boom lift being used to reach high places during the staining of the yukon, ok barns](/uploads/2023/02/IMG_1048-scaled.webp)
 
 Because of the height of the barns, we used lifts to stain many areas. We also had harnesses on site for the work up on the roofs. Such a large job stretched our team but they came through and did a great job. I am so pleased with the work they did.
 
@@ -49,13 +49,13 @@ Because of the height of the barns, we used lifts to stain many areas. We also h
 
 Before…
 
-![old faded stain on the barn siding](https://hometownpaintingokc.com/wp-content/uploads/2023/02/siding-stain-before.jpg "siding stain before")
+![old faded stain on the barn siding](/uploads/2023/02/siding-stain-before.webp "siding stain before")
 
 After…
 
-![fresh new stain on the barn siding](https://hometownpaintingokc.com/wp-content/uploads/2023/02/siding-stain-after-scaled.jpg)
+![fresh new stain on the barn siding](/uploads/2023/02/siding-stain-after-scaled.webp)
 
 The final results are stunning! The barns look like they have new life breathed into them. I love that the community in Yukon, OK will be able to enjoy these barns for many more years to come.
 
-![the front of the express clydesdale barns with all the siding freshly stained.](https://hometownpaintingokc.com/wp-content/uploads/2023/02/yukon-barn-after-scaled.jpg)
-![An image of the front entrance to the express barns in yukon ok.](https://hometownpaintingokc.com/wp-content/uploads/2023/02/IMG_7435.jpg "IMG_7435")
+![the front of the express clydesdale barns with all the siding freshly stained.](/uploads/2023/02/yukon-barn-after-scaled.webp)
+![An image of the front entrance to the express barns in yukon ok.](/uploads/2023/02/IMG_7435.webp "IMG_7435")

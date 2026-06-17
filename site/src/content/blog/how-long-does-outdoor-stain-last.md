@@ -3,7 +3,7 @@ title: "How Long Does Outdoor Stain Last In OKC? | Expert Advice"
 description: "How long does fence or deck stain last in Oklahoma City? Find out the key factors that affect the longevity of a stain job and how to choose the best stain."
 permalink: "/how-long-does-outdoor-stain-last/"
 h1: "How Long Does Outdoor Stain Last in OKC?"
-ogImage: "https://hometownpaintingokc.com/wp-content/uploads/2022/08/Fence-Stain-OKC-3.jpg"
+ogImage: "/uploads/2022/08/Fence-Stain-OKC-3.jpg"
 draft: false
 kind: "post"
 date: "2023-10-11"
@@ -19,7 +19,7 @@ We look at staining exterior wood as a long-term investment in your home. There 
 
 **Read more to find out what factors will increase your stain’s life expectancy.**
 
-![This fence was not stained by a pro and looks splotchy](https://hometownpaintingokc.com/wp-content/uploads/2022/11/IMG_0310-scaled.jpg)
+![This fence was not stained by a pro and looks splotchy](/uploads/2022/11/IMG_0310-scaled.webp)
 
 *This fence is already badly fading in spots where the stain was put on too thin. One of the best ways to make sure your stain lasts long is to have it applied by a professional.*
 
@@ -35,7 +35,7 @@ An older fence or deck will be able to absorb more stain but at some point the w
 
 ### Sun Exposure
 
-![Picture of the sun to show how uv rays can damage a fence](https://hometownpaintingokc.com/wp-content/uploads/2022/09/Sun-300x169.jpg)
+![Picture of the sun to show how uv rays can damage a fence](/uploads/2022/09/Sun.webp)
 
 UV rays from the sun are very damaging to outdoor wood. A quality stain will absorb these rays and protect the wood from damage. This means that the stain itself will degrade instead of your wooden structure. The more sun exposure a stain job gets the quicker it will fade and need to be recoated.
 
@@ -43,7 +43,7 @@ This is why the siding on the south or west facing sides of a home need to be st
 
 ## Type of Stain Used
 
-![IMG 0728 scaled](https://hometownpaintingokc.com/wp-content/uploads/2022/11/IMG_0728-scaled-1024x683.jpg)
+![IMG 0728 scaled](/uploads/2022/11/IMG_0728-scaled.webp)
 
 As mentioned above, solid stains tend to last a little longer than transparent or semi-transparent stains. In general, the more pigments a stain contains, the longer it will resist fading. The more transparent a stain is, the less pigment is used.
 

@@ -3,7 +3,7 @@ title: "Pricing | House Painters In The OKC Metro"
 description: "Transparency: We want you to be as well-informed as possible about your next paint job, including the project's potential cost."
 permalink: "/pricing/"
 h1: "What Will Your Next Paint Job Cost?"
-ogImage: "https://hometownpaintingokc.com/wp-content/uploads/2023/09/2933LakeshireRidgeRd-2-1024x688.jpg"
+ogImage: "/uploads/2023/09/2933LakeshireRidgeRd-2.jpg"
 draft: false
 ---
 
@@ -19,11 +19,11 @@ draft: false
 
 **Savings:** We will also give some tips for saving money on your next project.
 
-![2933LakeshireRidgeRd 2](https://hometownpaintingokc.com/wp-content/uploads/2023/09/2933LakeshireRidgeRd-2-1024x688.jpg)
+![2933LakeshireRidgeRd 2](/uploads/2023/09/2933LakeshireRidgeRd-2.webp)
 
 ## Exterior Painting
 
-![Painters yukon ok](https://hometownpaintingokc.com/wp-content/uploads/2022/09/Painters-yukon-ok-scaled-1024x519.jpg "Painters-yukon-ok")
+![Painters yukon ok](/uploads/2022/09/Painters-yukon-ok-scaled.webp "Painters-yukon-ok")
 
 **Complete Exterior Painting usually ranges between 4 to 8 thousand.**
 
@@ -33,7 +33,7 @@ Many factors can affect where your project may fall in this range. Click below f
 
 ## Interior Painting
 
-![interior of a home in edmond ok with fresh paint on the walls](https://hometownpaintingokc.com/wp-content/uploads/2022/11/living-room-paint-edmond.png)
+![interior of a home in edmond ok with fresh paint on the walls](/uploads/2022/11/living-room-paint-edmond.webp)
 
 **Interior Painting usually ranges between $5 to $10 per square foot.**
 
@@ -43,7 +43,7 @@ This depends on whether we will paint the walls and ceilings or if the woodwork 
 
 ## Fence Staining
 
-![oxford brown fence in okc scaled](https://hometownpaintingokc.com/wp-content/uploads/2023/02/oxford-brown-fence-in-okc-scaled.jpg)
+![oxford brown fence in okc scaled](/uploads/2023/02/oxford-brown-fence-in-okc-scaled.webp)
 
 **Fence Staining an entire backyard costs around 2 to 4 thousand.**
 

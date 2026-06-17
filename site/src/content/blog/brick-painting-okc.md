@@ -3,7 +3,7 @@ title: "Exterior Brick Painting | Transform Your OKC Home's Exterior"
 description: "Painting your home's brick is a quick way to make a dramatic transformation. Learn about the benefits of brick painting and the best products and techniques."
 permalink: "/brick-painting-okc/"
 h1: "Painting Exterior Brick in OKC"
-ogImage: "https://hometownpaintingokc.com/wp-content/uploads/2022/11/IMG_0840-scaled-1024x683.jpg"
+ogImage: "/uploads/2022/11/IMG_0840-scaled.jpg"
 draft: false
 kind: "post"
 date: "2023-10-06"
@@ -17,7 +17,7 @@ Are you wondering if you should paint the exterior brick on your OKC home? **We 
 
 ## Is Painting Brick a Good Idea?
 
-![IMG 0832 1](https://hometownpaintingokc.com/wp-content/uploads/2022/11/IMG_0832-1-768x512.jpg)
+![IMG 0832 1](/uploads/2022/11/IMG_0832-1.webp)
 
 Painting your home’s brick can be a great idea in certain situations. There are advantages and drawbacks to painting brick and understanding these will help you make your decision. The best thing to do is to educate yourself before deciding for your home.
 
@@ -42,7 +42,7 @@ Choosing the right products and preparation methods is critical to avoid problem
 
 ## What Kind of Paint Should Be Used on Brick?
 
-![exterior brick painting](https://hometownpaintingokc.com/wp-content/uploads/2022/11/IMG_0700-1-1024x680.jpg)
+![exterior brick painting](/uploads/2022/11/IMG_0700-1.webp)
 
 It is important to use the correct type of paint when painting exterior brick. Using the wrong type of paint will not only cause the paint job to have problems. It can also affect the integrity of the brick itself.
 

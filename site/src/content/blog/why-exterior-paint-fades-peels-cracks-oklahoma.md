@@ -3,7 +3,7 @@ title: "Why Exterior Paint Fades, Peels & Cracks In Oklahoma"
 description: "Learn why exterior paint fades, peels, and cracks in Oklahoma’s heat, sun, wind, and storms. Understand the causes so your next repaint lasts longer."
 permalink: "/why-exterior-paint-fades-peels-cracks-oklahoma/"
 h1: "Why Exterior Paint Fades, Peels, and Cracks in Oklahoma"
-ogImage: "https://hometownpaintingokc.com/wp-content/uploads/2025/12/Peeling-Paint-Oklahoma-1024x541.png"
+ogImage: "/uploads/2025/12/Peeling-Paint-Oklahoma.jpg"
 draft: false
 kind: "post"
 date: "2025-12-11"

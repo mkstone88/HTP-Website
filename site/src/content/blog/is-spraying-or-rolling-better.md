@@ -3,7 +3,7 @@ title: "Spray Vs. Rolling Exterior Paint | Which Is Better?"
 description: "If you're looking to get the best pain job on your home's exterior, should you spray or roll? We will discuss the pros and cons of each."
 permalink: "/is-spraying-or-rolling-better/"
 h1: "Spray vs Roll for exterior painting"
-ogImage: "https://hometownpaintingokc.com/wp-content/uploads/2022/10/Roller.png"
+ogImage: "/uploads/2022/10/Roller.jpg"
 draft: false
 kind: "post"
 date: "2023-10-06"

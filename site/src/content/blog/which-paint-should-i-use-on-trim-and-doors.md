@@ -3,7 +3,7 @@ title: "Which Paint Should I Use On Trim And Doors?"
 description: "Choosing the right paint to go on the woodwork of your home can make a huge difference in the final appearance and durability of the finished product. Smooth,"
 permalink: "/which-paint-should-i-use-on-trim-and-doors/"
 h1: "Which Paint Should I Use On Trim and Doors?"
-ogImage: "https://hometownpaintingokc.com/wp-content/uploads/2022/12/Interior-2.png"
+ogImage: "/uploads/2022/12/Interior-2.jpg"
 draft: false
 kind: "post"
 date: "2025-05-01"
@@ -13,7 +13,7 @@ Choosing the right paint to go on the woodwork of your home can make a huge diff
 
 ## Why Choosing High-Quality Paint is Critical for Woodwork
 
-![trim and doors in an interior living room painted with enamel](https://hometownpaintingokc.com/wp-content/uploads/2022/12/interior-woodwork-painted.jpg)
+![trim and doors in an interior living room painted with enamel](/uploads/2022/12/interior-woodwork-painted.webp)
 
 There are two main factors that make for the perfect trim and door paint.
 
@@ -47,7 +47,7 @@ Trim enamels are also given additives that increase their durability. This makes
 
 ## Hometown Painting’s Top Choice For Painting Woodwork
 
-![emerald urethane trim enamel paint can](https://hometownpaintingokc.com/wp-content/uploads/2022/08/Emerald-Urethane-Can.jpg)
+![emerald urethane trim enamel paint can](/uploads/2022/08/Emerald-Urethane-Can.webp)
 
 Hometown Painting partners with Sherwin Williams to provide quality paint products to our customers. When it comes to trim paint, one of the best on the market is Sherwin Williams [Emerald Urethane Trim Enamel](https://www.sherwin-williams.com/homeowners/products/emerald-urethane-trim-enamel).
 

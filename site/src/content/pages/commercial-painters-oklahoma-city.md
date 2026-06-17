@@ -3,7 +3,7 @@ title: "Commercial Painters Oklahoma City | House Painters In The OKC Metro"
 description: "A Local, Professional Painting Company in OKC"
 permalink: "/commercial-painters-oklahoma-city/"
 h1: "Oklahoma City’s Trusted Commercial Painters"
-ogImage: "https://hometownpaintingokc.com/wp-content/uploads/2025/06/CT-After-2-1024x683.jpg"
+ogImage: "/uploads/2025/06/CT-After-2.jpg"
 draft: false
 ---
 
@@ -17,7 +17,7 @@ When it comes to commercial painting in Oklahoma City, reliability, safety, and 
 
 ## Our Commercial Painting Process
 
-![CT After 2 scaled](https://hometownpaintingokc.com/wp-content/uploads/2025/06/CT-After-2-scaled.jpg)
+![CT After 2 scaled](/uploads/2025/06/CT-After-2-scaled.webp)
 
 We understand that every commercial property is unique, and so is every painting project. Our process is designed to minimize disruption to your business while ensuring a flawless finish:
 
@@ -58,7 +58,7 @@ Please take some more time to learn [about us here](https://hometownpaintingokc.
 
 – *Matt Stone*
 
-![the owners of Hometown Painting LLC, Professional painters](https://hometownpaintingokc.com/wp-content/uploads/2022/08/paint-owners-cropped-scaled.jpg)
+![the owners of Hometown Painting LLC, Professional painters](/uploads/2022/08/paint-owners-cropped-scaled.webp)
 
 Matt and Rachel Stone
 

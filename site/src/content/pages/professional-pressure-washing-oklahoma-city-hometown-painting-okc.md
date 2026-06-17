@@ -3,7 +3,7 @@ title: "Professional Pressure Washing Oklahoma City | Hometown Painting OKC | Ho
 description: "When it comes to maintaining the exterior of your home or business in Oklahoma City, few services are as effective and transformative as professional pressure"
 permalink: "/professional-pressure-washing-oklahoma-city-hometown-painting-okc/"
 h1: "Professional Pressure Washing Oklahoma City | Hometown Painting OKC"
-ogImage: "https://hometownpaintingokc.com/wp-content/uploads/2022/08/IMG_0174-min-scaled-1024x519.jpg"
+ogImage: "/uploads/2022/08/IMG_0174-min-scaled.jpg"
 draft: false
 ---
 

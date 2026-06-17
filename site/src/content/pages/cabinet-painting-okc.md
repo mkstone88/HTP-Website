@@ -3,7 +3,7 @@ title: "Cabinet Painting OKC | House Painters In The OKC Metro"
 description: "Professional cabinet painters in OKC. Hometown Painting transforms kitchens with expert finishes and lasting quality. Get a free quote today."
 permalink: "/cabinet-painting-okc/"
 h1: "Cabinet Painting OKC"
-ogImage: "https://hometownpaintingokc.com/wp-content/uploads/2025/05/5613NE107thSt-Interior-25.jpg"
+ogImage: "/uploads/2025/05/5613NE107thSt-Interior-25.jpg"
 draft: false
 ---
 
@@ -15,7 +15,7 @@ Are you looking to refresh your kitchen without the high cost and hassle of a fu
 
 ## Why Choose Cabinet Painting Over Replacement in Oklahoma City?
 
-![Cabinets in an OKC home that were just painted](https://hometownpaintingokc.com/wp-content/uploads/2025/05/5613NE107thSt-Interior-25.jpg)
+![Cabinets in an OKC home that were just painted](/uploads/2025/05/5613NE107thSt-Interior-25.webp)
 
 Replacing kitchen cabinets can be expensive, time-consuming, and disruptive. Cabinet painting and **kitchen cabinet refinishing** offer a faster, more affordable alternative. By updating the color and finish of your existing cabinets, you can achieve a modern, custom look without the mess and expense of demolition. Plus, painting is eco-friendly, reducing waste by reusing your current cabinetry.
 

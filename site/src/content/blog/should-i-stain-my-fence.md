@@ -3,7 +3,7 @@ title: "Should I Stain My Fence? (Is It Worth It?)"
 description: "Is it woth it to stain your fence? We recommend that every fence should be stained. Find out why below."
 permalink: "/should-i-stain-my-fence/"
 h1: "Should I Stain My Fence? (Is it worth it?)"
-ogImage: "https://hometownpaintingokc.com/wp-content/uploads/2022/11/IMG_0545-scaled-1024x683.jpg"
+ogImage: "/uploads/2022/11/IMG_0545-scaled.jpg"
 draft: false
 kind: "post"
 date: "2025-05-01"
@@ -15,7 +15,7 @@ The truth is, Hometown Painting LLC recommends that every wood fence should be s
 
 ## Unstained vs. Stained Fences
 
-![should I stain my fence? yes](https://hometownpaintingokc.com/wp-content/uploads/2022/11/IMG_0545-scaled-1024x683.jpg)
+![should I stain my fence? yes](/uploads/2022/11/IMG_0545-scaled.webp)
 
 Both of these fence panels were installed the same day. The one on the left did not get any stain.  The one on the right was stained shortly after it was installed. After 3 years there is a striking difference in their appearance.
 

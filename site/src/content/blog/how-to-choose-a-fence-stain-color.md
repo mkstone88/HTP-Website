@@ -3,7 +3,7 @@ title: "How To Chooose A Fence Stain Color | 2022 Color Guide"
 description: "Fence stain comes in a wide variety of colors. How can you know the best option to choose for your home? We have created a handy guide to help you select the perfect shade."
 permalink: "/how-to-choose-a-fence-stain-color/"
 h1: "How to choose a fence stain color"
-ogImage: "https://hometownpaintingokc.com/wp-content/uploads/2023/10/IMG_0907-1024x680.jpg"
+ogImage: "/uploads/2023/10/IMG_0907.jpg"
 draft: false
 kind: "post"
 date: "2023-10-11"
@@ -21,7 +21,7 @@ Stained cedar beams, columns and accents are becoming very popular today. If you
 
 Alternatively you could choose a color in the same family as what you already have but go a little darker or lighter. That way the colors should still compliment each other.
 
-![image 2](https://hometownpaintingokc.com/wp-content/uploads/2023/10/image-2-702x1024.jpeg)
+![image 2](/uploads/2023/10/image-2.webp)
 
 ### Is your siding or brick a warm or cool color?
 
@@ -29,11 +29,11 @@ If your brick or siding is a warm color like red or yellow, a warm stain will ni
 
 A warm stain will have warm undertones of red, yellow or orange. These undertones only have to be slight for the effect to work so don’t worry if you don’t want to have a “RED” fence.
 
-![image 3](https://hometownpaintingokc.com/wp-content/uploads/2023/10/image-3.jpeg)
+![image 3](/uploads/2023/10/image-3.webp)
 
 If your brick or siding is a cool color like blue or gray, a cool or neutral stain would likely be best.
 
-![image 4](https://hometownpaintingokc.com/wp-content/uploads/2023/10/image-4.jpeg)
+![image 4](/uploads/2023/10/image-4.webp)
 
 Brown colors often come across as neutral and pair well with cool tones.
 
@@ -59,7 +59,7 @@ Lighter colors will stand out more than darker.
 
 The less “natural” the color is the less it will blend in with its surroundings.
 
-![image 5](https://hometownpaintingokc.com/wp-content/uploads/2023/10/image-5.jpeg)
+![image 5](/uploads/2023/10/image-5.webp)
 
 To make your fence blend in:
 
@@ -75,7 +75,7 @@ This refers to how opaque or see-through a stain is. A transparent stain will sh
 
 #### Transparent Stain
 
-![redwood stain on a cedar fence](https://hometownpaintingokc.com/wp-content/uploads/2023/10/IMG_0907-1024x680.jpg)
+![redwood stain on a cedar fence](/uploads/2023/10/IMG_0907.webp)
 
 - Usually used on new fences.
 - Offer the most natural look.
@@ -84,7 +84,7 @@ This refers to how opaque or see-through a stain is. A transparent stain will sh
 
 #### Semi-transparent Stain
 
-![Fence Stained with coffee brown scaled](https://hometownpaintingokc.com/wp-content/uploads/2022/10/Fence-Stained-with-coffee-brown-scaled-1024x683.jpg "Fence Stained with coffee brown")
+![Fence Stained with coffee brown scaled](/uploads/2022/10/Fence-Stained-with-coffee-brown-scaled.webp "Fence Stained with coffee brown")
 
 - For both new and older fences.
 - Can hide imperfections in the wood.
@@ -93,7 +93,7 @@ This refers to how opaque or see-through a stain is. A transparent stain will sh
 
 **Solid Stains** are another option to consider. They offer complete color coverage and act more like paint. This is a great option if the fence has been damaged or has blemishes that will show through the more transparent stains. The solid color will completely hide the wood underneath and give a consistent look.
 
-![Unbranded stain transparency chart](https://hometownpaintingokc.com/wp-content/uploads/2023/01/Unbranded-stain-transparency-chart-1024x517.jpg)
+![Unbranded stain transparency chart](/uploads/2023/01/Unbranded-stain-transparency-chart.webp)
 
 ## #5 Will this Color be in Stock?
 

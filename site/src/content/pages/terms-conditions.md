@@ -3,7 +3,7 @@ title: "Terms And Conditions | House Painters In The OKC Metro"
 description: "Welcome to Hometown Painting!"
 permalink: "/terms-conditions/"
 h1: "Terms and Conditions"
-ogImage: "https://hometownpaintingokc.com/wp-content/uploads/2022/08/IMG_0174-min-scaled-1024x519.jpg"
+ogImage: "/uploads/2022/08/IMG_0174-min-scaled.jpg"
 draft: false
 ---
 

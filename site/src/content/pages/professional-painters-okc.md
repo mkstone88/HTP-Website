@@ -3,7 +3,7 @@ title: "Professional Painters OKC | Hometown Painting LLC"
 description: "Hometown Painting LLC are your professional painters in the OKC Metro area. We specialize in residential painting. We can make your home look great!"
 permalink: "/professional-painters-okc/"
 h1: "A Tradition of Professional Painters in OKC"
-ogImage: "https://hometownpaintingokc.com/wp-content/uploads/2022/08/paint-owners-cropped-scaled-868x1024.jpg"
+ogImage: "/uploads/2022/08/paint-owners-cropped-scaled.jpg"
 draft: false
 ---
 
@@ -17,13 +17,13 @@ We strive to provide you with:
 
 Matt – Owner -Hometown Painting LLC
 
-![Matt and Racher are Professional Painters OKC](https://hometownpaintingokc.com/wp-content/uploads/2022/08/paint-owners-cropped-scaled.jpg)
+![Matt and Racher are Professional Painters OKC](/uploads/2022/08/paint-owners-cropped-scaled.webp)
 
 [Request a Free Quote](https://hometownpaintingokc.com/contact-us/)
 
 ## Starting a Professional Painting Tradition
 
-![Matt's grandfather started his career as a professional painter](https://hometownpaintingokc.com/wp-content/uploads/2022/08/50s-Young-Painter.jpg)
+![Matt's grandfather started his career as a professional painter](/uploads/2022/08/50s-Young-Painter.webp)
 
 Matt’s grandfather, Art, worked as a professional painter most of his life. As a young man, he apprenticed as a painter to support his family. He worked mostly in commercial painting.
 
@@ -57,7 +57,7 @@ We strive to create a pleasant experience for each customer. We want you to feel
 - Consistent communication.
 - High standards for our work.
 
-![20230509 2013151](https://hometownpaintingokc.com/wp-content/uploads/2023/08/20230509_2013151-883x1024.jpg)
+![20230509 2013151](/uploads/2023/08/20230509_2013151.webp)
 
 ## Professional Painters will…
 
@@ -81,7 +81,7 @@ We offer a [warranty](https://hometownpaintingokc.com/professional-painters-okc/
 
 ## Professional Painters OKC: Our Services
 
-![2933LakeshireRidgeRd 2 scaled](https://hometownpaintingokc.com/wp-content/uploads/2023/09/2933LakeshireRidgeRd-2-scaled.jpg)
+![2933LakeshireRidgeRd 2 scaled](/uploads/2023/09/2933LakeshireRidgeRd-2-scaled.webp)
 
 ### Exterior Painting
 
@@ -93,7 +93,7 @@ We can professionally paint your OKC home’s exterior.
 - Door Painting
 - Garage door painting
 
-![9409SW32ndTer Edited 4 scaled](https://hometownpaintingokc.com/wp-content/uploads/2023/09/9409SW32ndTer-Edited-4-scaled.jpg)
+![9409SW32ndTer Edited 4 scaled](/uploads/2023/09/9409SW32ndTer-Edited-4-scaled.webp)
 
 ### Interior Painting
 
@@ -104,7 +104,7 @@ We can professionally paint your OKC home’s interior.
 - Doors and trim
 - Wall repair
 
-![608E.VictoriaTerrace 6 scaled](https://hometownpaintingokc.com/wp-content/uploads/2023/09/608E.VictoriaTerrace-6-scaled.jpg)
+![608E.VictoriaTerrace 6 scaled](/uploads/2023/09/608E.VictoriaTerrace-6-scaled.webp)
 
 ### Fence Staining
 

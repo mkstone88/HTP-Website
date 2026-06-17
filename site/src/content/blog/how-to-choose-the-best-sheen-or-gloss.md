@@ -3,7 +3,7 @@ title: "How To Choose The Best Sheen Or Gloss"
 description: "Choosing the right finish for each type of paint in your home in an important step when planning a paint project. The many options available can seem"
 permalink: "/how-to-choose-the-best-sheen-or-gloss/"
 h1: "How To Choose The Best Sheen Or Gloss"
-ogImage: "https://hometownpaintingokc.com/wp-content/uploads/2022/12/interior-woodwork-painted.jpg"
+ogImage: "/uploads/2022/12/interior-woodwork-painted.jpg"
 draft: false
 kind: "post"
 date: "2025-05-01"
@@ -17,11 +17,11 @@ These terms refer to either the gloss or sheen that a paint has. Many painters w
 
 Gloss and sheen are two very similar but slightly different concepts. To keep things simple, we will not go into the differences between the two because there are already great articles that explain the difference. (Consider reading [this one](https://www.sherwin-williams.com/architects-specifiers-designers/inspiration/stir/sw-art-stir-gloss-and-sheen) from Sherwin Williams.) Both gloss and sheen refer to the amount of light that paint will reflect. The higher the gloss the shinier the paint will appear. Flat paint will appear dull; without any shine.
 
-![cabinets in a kitchen painted with glossy paint](https://hometownpaintingokc.com/wp-content/uploads/2022/12/Gloss-cabinets.jpg)
+![cabinets in a kitchen painted with glossy paint](/uploads/2022/12/Gloss-cabinets.webp)
 
 Glossy cabinets like these reflect a lot of light. They have an almost mirrorlike finish.
 
-![cabinets in a kitchen painted with satin paint](https://hometownpaintingokc.com/wp-content/uploads/2022/12/Satin-Cabinets-1024x648.jpg)
+![cabinets in a kitchen painted with satin paint](/uploads/2022/12/Satin-Cabinets.webp)
 
 These cabinets are painted with a satin finish. This is a less glossy option and gives them a more muted look.
 
@@ -29,7 +29,7 @@ These cabinets are painted with a satin finish. This is a less glossy option and
 
 There are many descriptive words used to refer to different levels of sheen or gloss. It can be hard to remember which types of gloss are actually more or less shiny. The chart below shows the common sheens available from Sherwin Williams in order from the least reflective to the most.
 
-![Chart showing the sheens available for Sherwin Williams paint](https://hometownpaintingokc.com/wp-content/uploads/2022/12/SW-Sheen-Guide.jpg)
+![Chart showing the sheens available for Sherwin Williams paint](/uploads/2022/12/SW-Sheen-Guide.webp)
 
 Keep in mind that not all sheens will be available in every paint type. You can work with your painter to make sure that you choose paints that will give you the look you want. Also, at the bottom of this article, we will include a chart showing which sheens are available in common Sherwin Williams paints.
 
@@ -64,4 +64,4 @@ Bathrooms are a great place for using mid-level sheens like satin and eggshell.
 
 Bedrooms do not usually receive the wear and tear of other areas of the home. They also need to be relaxing since these are the rooms we go to rest. Choosing a low sheen like eggshell or matte for the walls will help make the room more calming.
 
-![chart showing the various paints and sheens available from sherwin williams](https://hometownpaintingokc.com/wp-content/uploads/2022/12/Sherwin-Williams-Paint-Sheen-Guide.jpg)
+![chart showing the various paints and sheens available from sherwin williams](/uploads/2022/12/Sherwin-Williams-Paint-Sheen-Guide.webp)

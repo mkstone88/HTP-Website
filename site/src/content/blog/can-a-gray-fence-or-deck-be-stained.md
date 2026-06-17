@@ -3,7 +3,7 @@ title: "Can A Gray Fence Or Deck Be Stained? | House Painters In The OKC Metro"
 description: "If you have an older fence or deck that has turned gray you may think it is too late to have beautifully stained wood in your backyard. The truth is that"
 permalink: "/can-a-gray-fence-or-deck-be-stained/"
 h1: "Can a Gray Fence or Deck be Stained?"
-ogImage: "https://hometownpaintingokc.com/wp-content/uploads/2023/01/Before-Vs.-After.jpg"
+ogImage: "/uploads/2023/01/Before-Vs.-After.jpg"
 draft: false
 kind: "post"
 date: "2023-10-11"
@@ -13,7 +13,7 @@ If you have an older fence or deck that has turned gray you may think it is too 
 
 ## What Causes Fences to Turn Gray
 
-![Old Fence Without stain that has turned gray](https://hometownpaintingokc.com/wp-content/uploads/2022/09/IMG_0074-scaled-1024x683.jpg "IMG_0074")
+![Old Fence Without stain that has turned gray](/uploads/2022/09/IMG_0074-scaled.webp "IMG_0074")
 
 This fence is ready to be bleached and stained. Look below to see the results.
 
@@ -58,7 +58,7 @@ There are several downsides to using bleach listed below:
 
 The cons of Oxalic acid mirror those of bleach. It is a harsh chemical and the surrounding plants and the person applying it should all be protected.
 
-![Fence stained with wood defender cedar tone fence stain.](https://hometownpaintingokc.com/wp-content/uploads/2022/09/IMG_0164-scaled.jpg)
+![Fence stained with wood defender cedar tone fence stain.](/uploads/2022/09/IMG_0164-scaled.webp)
 
 This is the same fence shown above after being bleached and stained.
 

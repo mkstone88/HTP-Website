@@ -3,7 +3,7 @@ title: "Reviews | House Painters In The OKC Metro"
 description: "Strong local businesses build the strong community we all love and enjoy."
 permalink: "/reviews/"
 h1: "Do You Love To Support Local Businesses?"
-ogImage: "https://hometownpaintingokc.com/wp-content/uploads/2022/08/paint-owners-cropped-scaled-868x1024.jpg"
+ogImage: "/uploads/2022/08/paint-owners-cropped-scaled.jpg"
 draft: false
 ---
 
@@ -15,17 +15,17 @@ We want to thank you so much for trusting Hometown Painting to help make your ho
 
 Below is a list of places to tell others about your experience.
 
-![the owners of Hometown Painting LLC, Professional painters](https://hometownpaintingokc.com/wp-content/uploads/2022/08/paint-owners-cropped-scaled-254x300.jpg)
+![the owners of Hometown Painting LLC, Professional painters](/uploads/2022/08/paint-owners-cropped-scaled.webp)
 
 *Matt & Rachel – Owners of Hometown Painting*
 
 ## Our Favorite Review Sites:
 
-[![google](https://hometownpaintingokc.com/wp-content/uploads/2024/05/google-300x176.png "google")](https://g.page/r/Ce4Ja9wvNPqfEB0/review)
+[![google](/uploads/2024/05/google.webp "google")](https://g.page/r/Ce4Ja9wvNPqfEB0/review)
 
 [Leave a Google Review](https://g.page/r/Ce4Ja9wvNPqfEB0/review)
 
-[![Facebook Logo Primary](https://hometownpaintingokc.com/wp-content/uploads/2024/05/Facebook_Logo_Primary-300x300.png)](https://facebook.com/hometownpaintingokc/reviews)
+[![Facebook Logo Primary](/uploads/2024/05/Facebook_Logo_Primary.webp)](https://facebook.com/hometownpaintingokc/reviews)
 
 [Leave a Facebook Review](https://facebook.com/hometownpaintingokc/reviews)
 

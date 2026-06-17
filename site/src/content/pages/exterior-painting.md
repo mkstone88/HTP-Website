@@ -3,7 +3,7 @@ title: "Exterior Painting Landing Page | House Painters In The OKC Metro"
 description: "Get a Free Estimate"
 permalink: "/exterior-painting/"
 h1: "Professional Exterior Painting in Oklahoma City"
-ogImage: "https://hometownpaintingokc.com/wp-content/uploads/2022/10/painted-fence-flaking.jpg"
+ogImage: "/uploads/2022/10/painted-fence-flaking.jpg"
 draft: false
 ---
 
@@ -19,25 +19,25 @@ Ready to give your home the curb appeal it deserves? Protect your exterior with 
 
 ## Complete Exterior Painting Services
 
-![painted fence flaking](https://hometownpaintingokc.com/wp-content/uploads/2022/10/painted-fence-flaking-300x200.jpg)
+![painted fence flaking](/uploads/2022/10/painted-fence-flaking.webp)
 
 ### Careful Preparation
 
 We take the time to carefully prep every surface — repairing damage, filling cracks, and priming where needed — so your paint job not only looks amazing but lasts for years to come.
 
-![Painters yukon ok](https://hometownpaintingokc.com/wp-content/uploads/2022/09/Painters-yukon-ok-scaled.jpg)
+![Painters yukon ok](/uploads/2022/09/Painters-yukon-ok-scaled.webp)
 
 ### Siding and Trim
 
 Boost your home’s curb appeal and protect it from the elements with a fresh coat of paint. We handle all the prep — from repairs to detailed trim work — so your siding looks sharp and holds up beautifully for years to come.
 
-![7113LostForestDr 13 scaled](https://hometownpaintingokc.com/wp-content/uploads/2025/02/7113LostForestDr-13-scaled.jpg)
+![7113LostForestDr 13 scaled](/uploads/2025/02/7113LostForestDr-13-scaled.webp)
 
 ### Brick Painting
 
 Tired of dated or mismatched brick? We help you modernize your home with a clean, timeless finish that still lets the texture shine through. Our proven prep and paint process ensures long-lasting coverage that won’t peel, chip, or trap moisture.
 
-![a pink door with a wreath that has just been painted](https://hometownpaintingokc.com/wp-content/uploads/2025/05/13521StonedaleDr-3-scaled.jpg)
+![a pink door with a wreath that has just been painted](/uploads/2025/05/13521StonedaleDr-3-scaled.webp)
 
 ### Front Doors
 
@@ -56,21 +56,21 @@ Pick a fun splash of color or a solid traditional color – either way we can he
 - No high-pressure
 - Quote delivered on the spot (no waiting!)
 
-![Untitled design](https://hometownpaintingokc.com/wp-content/uploads/2025/05/Untitled-design-150x150.png)
+![Untitled design](/uploads/2025/05/Untitled-design.webp)
 
-![Hometown Painting Reveiws](https://hometownpaintingokc.com/wp-content/uploads/2023/08/Hometown-Painting-Reveiws.jpg)
+![Hometown Painting Reveiws](/uploads/2023/08/Hometown-Painting-Reveiws.webp)
 
-![Logo for the Painting Contractor's Association](https://hometownpaintingokc.com/wp-content/uploads/2025/02/PCA-Logo-RGB.png "PCA-Logo-RGB")
+![Logo for the Painting Contractor's Association](/uploads/2025/02/PCA-Logo-RGB.webp "PCA-Logo-RGB")
 
 ## See Our Work
 
-![Exterior Before and After](https://hometownpaintingokc.com/wp-content/uploads/2024/03/Exterior-Before-and-After.png)
+![Exterior Before and After](/uploads/2024/03/Exterior-Before-and-After.webp)
 
-![608E.VictoriaTerrace 3](https://hometownpaintingokc.com/wp-content/uploads/2023/09/608E.VictoriaTerrace-3-1024x681.jpg)
+![608E.VictoriaTerrace 3](/uploads/2023/09/608E.VictoriaTerrace-3.webp)
 
-![7113LostForestDr 14](https://hometownpaintingokc.com/wp-content/uploads/2024/07/7113LostForestDr-14.jpg)
+![7113LostForestDr 14](/uploads/2024/07/7113LostForestDr-14.webp)
 
-![Exterior Before and After3](https://hometownpaintingokc.com/wp-content/uploads/2024/03/Exterior-Before-and-After3.png)
+![Exterior Before and After3](/uploads/2024/03/Exterior-Before-and-After3.webp)
 
 ## Why Our OKC Metro Neighbors Choose Hometown Painting
 

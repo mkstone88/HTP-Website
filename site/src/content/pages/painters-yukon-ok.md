@@ -3,7 +3,7 @@ title: "5 Star Rated |House Painters Yukon, OK | Free Estimates"
 description: "Hometown Painting LLC: The Painters Yukon, OK Homeowners Trust. We offer Interior and Exterior Painting. Free Estimates. Military and First Responder Discounts."
 permalink: "/painters-yukon-ok/"
 h1: "House Painters Yukon OK Homeowners Trust"
-ogImage: "https://hometownpaintingokc.com/wp-content/uploads/2023/09/608E.VictoriaTerrace-1-1-1024x679.jpg"
+ogImage: "/uploads/2023/09/608E.VictoriaTerrace-1-1.jpg"
 draft: false
 ---
 
@@ -17,7 +17,7 @@ Hometown Painting LLC offers residential painting in Yukon, OK.
 
 ### Exterior Painting
 
-![exterior painters Edmond ok just finished painting the outside of this house.](https://hometownpaintingokc.com/wp-content/uploads/2023/09/608E.VictoriaTerrace-1-1-scaled.jpg)
+![exterior painters Edmond ok just finished painting the outside of this house.](/uploads/2023/09/608E.VictoriaTerrace-1-1-scaled.webp)
 
 Make your Yukon home a safe place for your family.
 
@@ -30,7 +30,7 @@ Make your Yukon home a safe place for your family.
 
 ### Fence Staining
 
-![A fence in Edmond, OK that has just been stained with Wood Defender](https://hometownpaintingokc.com/wp-content/uploads/2022/11/fence-staining-in-edmond-ok.jpg)
+![A fence in Edmond, OK that has just been stained with Wood Defender](/uploads/2022/11/fence-staining-in-edmond-ok.webp)
 
 We can help you make your fence last longer and look great.
 
@@ -43,7 +43,7 @@ We can help you make your fence last longer and look great.
 
 ### Interior Painting
 
-![interior of a home in edmond ok with fresh paint on the walls](https://hometownpaintingokc.com/wp-content/uploads/2022/11/living-room-paint-edmond.png)
+![interior of a home in edmond ok with fresh paint on the walls](/uploads/2022/11/living-room-paint-edmond.webp)
 
 We can help you make your interior inviting for your family and firends.
 
@@ -54,7 +54,7 @@ We can help you make your interior inviting for your family and firends.
 - Accent Walls
 - [Learn More](https://hometownpaintingokc.com/exterior-painting-okc/)
 
-![old picture of a painter in front of a truck](https://hometownpaintingokc.com/wp-content/uploads/2022/08/50s-Young-Painter.jpg)
+![old picture of a painter in front of a truck](/uploads/2022/08/50s-Young-Painter.webp)
 
 ### Yukon OK Painters
 
@@ -76,7 +76,7 @@ Contact us today to speak to experienced, local,  professional painters in the 
 
 ****Jordan V.****
 
-![Untitled 300 × 100](https://hometownpaintingokc.com/wp-content/uploads/2023/09/Untitled-300-×-100-px.png)
+![Untitled 300 × 100](/uploads/2023/09/Untitled-300-×-100-px.webp)
 
 **Homeowner in Oklahoma City, OK**
 
@@ -84,7 +84,7 @@ I cannot say enough about how much I appreciate Matt and his team for sealing ou
 
 **Robyn**
 
-![Untitled 300 × 100](https://hometownpaintingokc.com/wp-content/uploads/2023/09/Untitled-300-×-100-px.png)
+![Untitled 300 × 100](/uploads/2023/09/Untitled-300-×-100-px.webp)
 
 *Homeowner in Yukon, OK*
 
@@ -92,7 +92,7 @@ We had a fantastic experience with Hometown Painting! After I called to schedule
 
 ****Casey M.****
 
-![Untitled 300 × 100](https://hometownpaintingokc.com/wp-content/uploads/2023/09/Untitled-300-×-100-px.png)
+![Untitled 300 × 100](/uploads/2023/09/Untitled-300-×-100-px.webp)
 
 **Homeowner in OKC, OK**
 

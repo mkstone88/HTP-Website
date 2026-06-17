@@ -3,7 +3,7 @@ title: "Contact Us | Hometown Painting LLC"
 description: "To request a free estimate for your next painting project, please fill out the form below."
 permalink: "/contact-us/"
 h1: "Get In Touch With Hometown Painting"
-ogImage: "https://hometownpaintingokc.com/wp-content/uploads/2022/08/IMG_0174-min-scaled-1024x519.jpg"
+ogImage: "/uploads/2022/08/IMG_0174-min-scaled.jpg"
 draft: false
 formId: "6JivItrSTCuiaeSyXWz8"
 ---
@@ -11,8 +11,6 @@ formId: "6JivItrSTCuiaeSyXWz8"
 To request a free estimate for your next painting project, please fill out the form below.
 
 “From start to finish, the experience was very professional and easy to navigate. The attention to detail, concern for our personal belongings and ease of communication were outstanding. We enjoyed getting to know each of the crew members too.”
-
-![painting customer](https://hometownpaintingokc.com/wp-content/uploads/2022/11/customer-150x150.jpg "customer")
 
 Diedre B.
 Oklahoma City Homeowner

@@ -3,7 +3,7 @@ title: "BEST Exterior Painters In Town | Exterior Painting Oklahoma City"
 description: "We provide exterior painting Oklahoma City can trust. Exterior house painting is a must to protect your home from the OKC weather. 5 Year warranty on our exterior work!"
 permalink: "/exterior-painting-oklahoma-city/"
 h1: "Exterior Painting Oklahoma City Homeowners can trust"
-ogImage: "https://hometownpaintingokc.com/wp-content/uploads/2023/09/608E.VictoriaTerrace-3-1024x681.jpg"
+ogImage: "/uploads/2023/09/608E.VictoriaTerrace-3.jpg"
 draft: false
 ---
 
@@ -34,7 +34,7 @@ When you choose Hometown Painting, you get reliability, craftsmanship, and a lon
 
 ## Our Exterior Painting Services in Oklahoma City
 
-![608E.VictoriaTerrace 3](https://hometownpaintingokc.com/wp-content/uploads/2023/09/608E.VictoriaTerrace-3-1024x681.jpg)
+![608E.VictoriaTerrace 3](/uploads/2023/09/608E.VictoriaTerrace-3.webp)
 
 ### Professional Painting Service
 
@@ -64,7 +64,7 @@ Our Painting Services Include:
 
 ****Denise Conover****
 
-![Untitled 300 × 100](https://hometownpaintingokc.com/wp-content/uploads/2023/09/Untitled-300-×-100-px.png)
+![Untitled 300 × 100](/uploads/2023/09/Untitled-300-×-100-px.webp)
 
 **Homeowner in the Oklahoma City Area**
 
@@ -72,7 +72,7 @@ Our Painting Services Include:
 
 **Allen Fredrickson**
 
-![Untitled 300 × 100](https://hometownpaintingokc.com/wp-content/uploads/2023/09/Untitled-300-×-100-px.png)
+![Untitled 300 × 100](/uploads/2023/09/Untitled-300-×-100-px.webp)
 
 *Homeowner in the Oklahoma City Area*
 
@@ -80,15 +80,15 @@ Our Painting Services Include:
 
 ****Jeff MacEntire****
 
-![Untitled 300 × 100](https://hometownpaintingokc.com/wp-content/uploads/2023/09/Untitled-300-×-100-px.png)
+![Untitled 300 × 100](/uploads/2023/09/Untitled-300-×-100-px.webp)
 
 **Homeowner in the Oklahoma City Area**
 
 I was very pleased with the job they did. Matt is personable, had good communication throughout the entire process, and even had his guys come back to paint over an area after completing the job because we had a change of heart on the color we chose. The quote was in the middle range, and the service was top notch. I would use them again or recommend them to anyone.
 
-![A screenshot of a review for Hometown Painting. It reads "Matt, Ivan, and the rest if the crew did a fantastic job! They were efficient amd tidy, and our house looks great! I highly recommend Hometown Painting"](https://hometownpaintingokc.com/wp-content/uploads/2025/11/Biller-Review.png)
+![A screenshot of a review for Hometown Painting. It reads "Matt, Ivan, and the rest if the crew did a fantastic job! They were efficient amd tidy, and our house looks great! I highly recommend Hometown Painting"](/uploads/2025/11/Biller-Review.webp)
 
-![A screenshot for a review for Hometown Painting. It reads "Professional service, fair and transparent pricing-very satisfied! We will call Matt, Ivan, and the team for painting in the future and recommend them to anyone!"](https://hometownpaintingokc.com/wp-content/uploads/2025/11/Blalock-Review.png)
+![A screenshot for a review for Hometown Painting. It reads "Professional service, fair and transparent pricing-very satisfied! We will call Matt, Ivan, and the team for painting in the future and recommend them to anyone!"](/uploads/2025/11/Blalock-Review.webp)
 
 ## Our Simple Painting Process For the Best Results
 
@@ -118,17 +118,17 @@ I was very pleased with the job they did. Matt is personable, had good communica
 
 ## Our Exterior Paint Work
 
-![Untitled design1](https://hometownpaintingokc.com/wp-content/uploads/2024/03/Untitled-design1.png)
+![Untitled design1](/uploads/2024/03/Untitled-design1.webp)
 
-![Before and after picture of a home in the Oklahoma City area that had the exterior painted.](https://hometownpaintingokc.com/wp-content/uploads/2024/03/Exterior-Painting-Before-and-After.png)
+![Before and after picture of a home in the Oklahoma City area that had the exterior painted.](/uploads/2024/03/Exterior-Painting-Before-and-After.webp)
 
-![Exterior Before and After2](https://hometownpaintingokc.com/wp-content/uploads/2024/03/Exterior-Before-and-After2.png)
+![Exterior Before and After2](/uploads/2024/03/Exterior-Before-and-After2.webp)
 
-![Exterior Before and After1](https://hometownpaintingokc.com/wp-content/uploads/2024/03/Exterior-Before-and-After1.png)
+![Exterior Before and After1](/uploads/2024/03/Exterior-Before-and-After1.webp)
 
-![Before and after picture of a front door on the exterior of a house that has been painted pink](https://hometownpaintingokc.com/wp-content/uploads/2024/03/Exterior-Before-and-After3.png)
+![Before and after picture of a front door on the exterior of a house that has been painted pink](/uploads/2024/03/Exterior-Before-and-After3.webp)
 
-![7113LostForestDr 14](https://hometownpaintingokc.com/wp-content/uploads/2024/07/7113LostForestDr-14.jpg)
+![7113LostForestDr 14](/uploads/2024/07/7113LostForestDr-14.webp)
 
 [See More](https://hometownpaintingokc.com/gallery/)
 
@@ -146,7 +146,7 @@ Please take some more time to learn [about us here](https://hometownpaintingokc.
 
 – *Matt Stone*
 
-![the owners of Hometown Painting LLC, Professional painters](https://hometownpaintingokc.com/wp-content/uploads/2022/08/paint-owners-cropped-scaled-868x1024.jpg)
+![the owners of Hometown Painting LLC, Professional painters](/uploads/2022/08/paint-owners-cropped-scaled.webp)
 
 Matt and Rachel Stone
 
