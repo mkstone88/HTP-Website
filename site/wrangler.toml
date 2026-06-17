@@ -1,0 +1,6 @@
+# Cloudflare Pages config for the Astro site.
+# Pages "root directory" should be set to `site` in the dashboard; this file
+# then lives at that root so `wrangler pages deploy` picks up the build output.
+name = "htp-website"
+compatibility_date = "2026-06-17"
+pages_build_output_dir = "dist"

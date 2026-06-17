@@ -18,6 +18,10 @@ const { title, description, image, article = false } = Astro.props;
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
 const ogImage = image ? new URL(image, Astro.site).href : undefined;
 
+// Staging guard: when PUBLIC_NOINDEX is set (test subdomain), keep the whole
+// site out of search engines so it can't be indexed as duplicate content.
+const noindex = import.meta.env.PUBLIC_NOINDEX === 'true';
+
 // Sitewide LocalBusiness (HousePainter) schema — rebuilt from live data.
 const businessSchema = {
   '@context': 'https://schema.org',
@@ -52,6 +56,7 @@ const businessSchema = {
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{title}</title>
     <meta name="description" content={description} />
+    {noindex && <meta name="robots" content="noindex, nofollow" />}
     <link rel="canonical" href={canonical} />
 
     <meta property="og:title" content={title} />
