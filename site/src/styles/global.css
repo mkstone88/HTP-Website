@@ -529,3 +529,49 @@ body {
 .cta-band h2 { font-family: 'DM Serif Display', serif; font-size: 1.7rem; margin-bottom: 14px; color: #fff; }
 .cta-band .cta-phone { background: #fff; color: #C41230; }
 .cta-band .cta-phone:hover { background: #F5F0EB; }
+
+/* Post meta + embedded GHL form section */
+.post-meta { font-size: 0.85rem; opacity: 0.8; margin-top: 6px; }
+.form-section { background: #F5F0EB; padding: 56px 0; }
+.form-narrow { max-width: 640px; }
+.form-section h2 {
+  font-family: 'DM Serif Display', serif;
+  font-size: 1.8rem;
+  color: #1B2A4A;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.ghl-form { background: #fff; border-radius: 8px; overflow: hidden; }
+
+/* Blog listing */
+.blog-list { padding: 56px 0; }
+.post-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 28px;
+}
+.post-card {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #e5e5e5;
+  border-radius: 8px;
+  overflow: hidden;
+  text-decoration: none;
+  color: inherit;
+  transition: box-shadow 0.2s, transform 0.2s;
+  background: #fff;
+}
+.post-card:hover { box-shadow: 0 6px 20px rgba(0,0,0,0.10); transform: translateY(-2px); }
+.post-card-img { height: 180px; background: #1B2A4A center/cover no-repeat; }
+.post-card-body { padding: 22px; display: flex; flex-direction: column; flex: 1; }
+.post-card-body h2 {
+  font-family: 'DM Serif Display', serif;
+  font-size: 1.18rem;
+  color: #1B2A4A;
+  margin-bottom: 10px;
+  line-height: 1.25;
+}
+.post-card-body p { font-size: 0.92rem; color: #555; margin-bottom: 14px; flex: 1; }
+.post-card-link { color: #C41230; font-weight: 600; font-size: 0.92rem; }
+@media (max-width: 900px) { .post-grid { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 600px) { .post-grid { grid-template-columns: 1fr; } }

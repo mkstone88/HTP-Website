@@ -1,0 +1,67 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import GHLForm from '../components/GHLForm.astro';
+import { business } from '../data/site';
+
+export async function getStaticPaths() {
+  const pages = await getCollection('pages', ({ data }) => !data.draft);
+  const posts = await getCollection('blog', ({ data }) => !data.draft);
+
+  const entries = [
+    ...pages.map((e) => ({ entry: e, type: 'page' as const })),
+    ...posts.map((e) => ({ entry: e, type: 'post' as const })),
+  ]
+    // '/blog/' has its own custom index route; '/' is the home page.
+    .filter(({ entry }) => entry.data.permalink !== '/blog/' && entry.data.permalink !== '/');
+
+  return entries.map(({ entry, type }) => ({
+    // Astro's [...slug] wants the path without leading/trailing slashes.
+    params: { slug: entry.data.permalink.replace(/^\/|\/$/g, '') },
+    props: { entry, type },
+  }));
+}
+
+const { entry, type } = Astro.props;
+const { Content } = await entry.render();
+const d = entry.data;
+const isPost = type === 'post';
+---
+<BaseLayout title={d.title} description={d.description} image={d.ogImage} article={isPost}>
+  <section class="page-hero">
+    <div class="container">
+      <nav class="breadcrumbs" aria-label="Breadcrumb">
+        <a href="/">Home</a> ›{' '}
+        {isPost ? (<><a href="/blog/">Blog</a> › {d.h1 || d.title}</>) : (d.h1 || d.title)}
+      </nav>
+      <h1>{d.h1 || d.title}</h1>
+      {isPost && (
+        <p class="post-meta">
+          {new Date(d.date).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+        </p>
+      )}
+    </div>
+  </section>
+
+  <article class="prose">
+    <div class="container">
+      <Content />
+    </div>
+  </article>
+
+  {d.formId && (
+    <section class="form-section">
+      <div class="container form-narrow">
+        <h2>Request Your Free Estimate</h2>
+        <GHLForm formId={d.formId} title={d.title} height={620} />
+      </div>
+    </section>
+  )}
+
+  <section class="cta-band">
+    <div class="container">
+      <h2>Ready for a Free Estimate?</h2>
+      <a href={business.phoneHref} class="cta-phone">Call {business.phoneDisplay}</a>
+    </div>
+  </section>
+</BaseLayout>

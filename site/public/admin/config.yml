@@ -1,0 +1,51 @@
+# Sveltia / Decap CMS config — edits commit markdown back to GitHub.
+backend:
+  name: github
+  repo: mkstone88/HTP-Website
+  branch: main
+  # Sveltia can use GitHub's own OAuth via a small worker; see CMS-SETUP.md.
+
+# Where uploaded images go (served from the site root).
+media_folder: site/public/uploads
+public_folder: /uploads
+
+site_url: https://hometownpaintingokc.com
+display_url: https://hometownpaintingokc.com
+
+collections:
+  - name: blog
+    label: Blog Posts
+    label_singular: Blog Post
+    folder: site/src/content/blog
+    create: true
+    slug: '{{slug}}'
+    preview_path: '{{permalink}}'
+    sortable_fields: [date, title]
+    fields:
+      - { name: title, label: 'SEO Title (<title>)', widget: string }
+      - { name: description, label: 'Meta Description', widget: text }
+      - { name: h1, label: 'Page Heading (H1)', widget: string, required: false }
+      - { name: permalink, label: 'URL Path', widget: string, hint: 'e.g. /should-i-stain-my-fence/ — changing this breaks SEO, add a redirect.' }
+      - { name: date, label: 'Date', widget: datetime, date_format: 'YYYY-MM-DD', time_format: false }
+      - { name: ogImage, label: 'Social Share Image', widget: image, required: false }
+      - { name: kind, label: 'Kind', widget: hidden, default: post }
+      - { name: draft, label: 'Draft (hidden from site)', widget: boolean, default: false }
+      - { name: body, label: 'Content', widget: markdown }
+
+  - name: pages
+    label: Pages
+    label_singular: Page
+    folder: site/src/content/pages
+    create: true
+    slug: '{{slug}}'
+    preview_path: '{{permalink}}'
+    sortable_fields: [title]
+    fields:
+      - { name: title, label: 'SEO Title (<title>)', widget: string }
+      - { name: description, label: 'Meta Description', widget: text }
+      - { name: h1, label: 'Page Heading (H1)', widget: string, required: false }
+      - { name: permalink, label: 'URL Path', widget: string, hint: 'e.g. /cabinet-painting-okc/ — changing this breaks SEO, add a redirect.' }
+      - { name: formId, label: 'GoHighLevel Form ID (optional)', widget: string, required: false }
+      - { name: ogImage, label: 'Social Share Image', widget: image, required: false }
+      - { name: draft, label: 'Draft (hidden from site)', widget: boolean, default: false }
+      - { name: body, label: 'Content', widget: markdown }

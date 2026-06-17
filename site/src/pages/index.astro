@@ -1,7 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import LeadForm from '../components/LeadForm.astro';
-import { business } from '../data/site';
+import GHLForm from '../components/GHLForm.astro';
+import { business, forms } from '../data/site';
 
 // Title + meta carried over verbatim from the live WordPress home page.
 const title = 'Trusted Painters In OKC | 120+ 5-Star Reviews | Hometown Painting';
@@ -46,7 +46,11 @@ const why = [
         </ul>
         <a href={business.phoneHref} class="cta-phone">Call {business.phoneDisplay}</a>
       </div>
-      <LeadForm />
+      <div class="hero-form" id="quote-form">
+        <h2>Get Your Free Estimate</h2>
+        <p>We'll respond within the hour.</p>
+        <GHLForm formId={forms.homepage} title="Website Form - Homepage" height={560} />
+      </div>
     </div>
   </section>
 

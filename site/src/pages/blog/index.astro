@@ -1,0 +1,41 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const posts = (await getCollection('blog', ({ data }) => !data.draft)).sort(
+  (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
+);
+
+// Use the live /blog/ page's title + meta.
+const title = 'Blog | House Painters In The OKC Metro';
+const description =
+  'Have you ever had a question about which paint to use or how the process works? In our blog, we answer your questions about painting and staining in Oklahoma City.';
+---
+<BaseLayout title={title} description={description}>
+  <section class="page-hero">
+    <div class="container">
+      <nav class="breadcrumbs" aria-label="Breadcrumb"><a href="/">Home</a> › Blog</nav>
+      <h1>Everything You Want to Know About Painting in OKC</h1>
+      <p>Tips, guides, and answers from our crew on painting and staining in Oklahoma's climate.</p>
+    </div>
+  </section>
+
+  <section class="blog-list">
+    <div class="container">
+      <div class="post-grid">
+        {posts.map((post) => (
+          <a class="post-card" href={post.data.permalink}>
+            {post.data.ogImage && (
+              <div class="post-card-img" style={`background-image:url('${post.data.ogImage}')`}></div>
+            )}
+            <div class="post-card-body">
+              <h2>{post.data.h1 || post.data.title}</h2>
+              <p>{post.data.description}</p>
+              <span class="post-card-link">Read more →</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+</BaseLayout>

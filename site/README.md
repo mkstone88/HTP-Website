@@ -5,13 +5,17 @@ Design system copied from the PPC landing pages at `quote.hometownpaintingokc.co
 (Heritage Navy `#1B2A4A`, Brand Red `#C41230`, Warm Linen `#F5F0EB`; DM Serif
 Display + DM Sans + Montserrat wordmark), extended for a multi-page marketing site.
 
-## Status: proof-of-concept
+## Status: full content port
 
-Built so far:
-- `/` — home page (live WordPress home content in the new design)
-- `/exterior-painting-oklahoma-city/` — representative inner service page (template demo)
-- Shared layout, header w/ nav, footer, lead form, analytics, JSON-LD schema
-- `public/_redirects` (legacy WP 301s) + `robots.txt` + auto sitemap
+- **All 63 URLs ported** (37 pages + 27 posts, minus 1 consolidated deck dupe).
+- Content lives as markdown in `src/content/{pages,blog}/`, extracted from the
+  live WordPress `.entry-content` (see `../migration/extract.py`).
+- `/` home + `/blog/` index are custom Astro pages; everything else renders from
+  markdown via `src/pages/[...slug].astro` at its exact `permalink`.
+- **GoHighLevel forms** embedded via `src/components/GHLForm.astro` (homepage form
+  on `/`, contact + estimate forms on their pages).
+- **CMS:** Sveltia CMS at `/admin/` (Git-based, free) — see `../migration/CMS-SETUP.md`.
+- `public/_redirects` (legacy WP 301s) + `robots.txt` + auto sitemap.
 
 ## Commands
 
@@ -32,11 +36,14 @@ npm run preview  # serve the production build
 
 ## TODO before the real build
 
-- Wire the lead form `action` to the GHL webhook (currently in WordPress `script.js`).
-- Port the remaining 35 pages + 27 blog posts (content in `../migration/raw_html/`).
-- Decide markdown-only vs Git CMS, booking iframe vs redirect (see `../migration/FINDINGS.md`).
+- Wire CMS auth (GitHub OAuth worker) — see `../migration/CMS-SETUP.md`.
+- Localize images: content currently hot-links `hometownpaintingokc.com/wp-content/...`;
+  download into `public/uploads/` (or R2) before WordPress is retired.
 - Real white/reversed logo asset (currently a CSS text wordmark).
-- Add gallery + before/after images.
+- Custom layouts for `/gallery/` (image grid) and `/pricing/` if desired
+  (currently render through the standard prose template).
+- Booking widget (`api.leadconnectorhq.com/widget/bookings/hometownpainting`) —
+  add where wanted.
 
 ## Regenerate screenshots
 

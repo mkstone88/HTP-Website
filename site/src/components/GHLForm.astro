@@ -1,0 +1,22 @@
+---
+// GoHighLevel inline form embed — same mechanism the live WordPress site uses.
+// Forms are served from api.leadconnectorhq.com and sized by form_embed.js.
+interface Props {
+  formId: string;
+  title?: string;
+  height?: number;
+}
+const { formId, title = 'Free Estimate Request', height = 560 } = Astro.props;
+const src = `https://api.leadconnectorhq.com/widget/form/${formId}`;
+---
+<div class="ghl-form">
+  <iframe
+    src={src}
+    id={`inline-${formId}`}
+    data-form-id={formId}
+    data-layout-iframe-id={`inline-${formId}`}
+    title={title}
+    style={`width:100%;height:${height}px;border:none;border-radius:8px;background:#fff;`}
+    scrolling="no"></iframe>
+</div>
+<script is:inline src="https://link.msgsndr.com/js/form_embed.js" async></script>

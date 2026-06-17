@@ -32,6 +32,15 @@ export const tracking = {
   adsCallConversion: 'AW-16858477075/hyo3CMjMg8caEJPk3-Y-',
 };
 
+// GoHighLevel form ids (from the live site). The homepage form is the global
+// default; contact/estimate pages set their own via markdown frontmatter.
+export const forms = {
+  homepage: 'YVYhjNMJFKBjYA1uMNkm',
+  contact: '6JivItrSTCuiaeSyXWz8',
+  estimate: 'Gi6MfAF8VO97YgxZIwzu',
+  bookingWidget: 'https://api.leadconnectorhq.com/widget/bookings/hometownpainting',
+};
+
 // Primary navigation (mirrors the live site's main service pages).
 export const nav = [
   { label: 'Interior Painting', href: '/interior-painting-okc/' },
