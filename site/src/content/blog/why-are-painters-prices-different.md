@@ -45,4 +45,4 @@ It is a bad thing from the homeowner’s perspective if the painter underestimat
 
 The simplest answer for why different painters don’t all charge the same price for the same job is that there is no identical job. No two painting companies are the same and no two painters will approach a job the exact same way.
 
-If you have more questions about painting in Oklahoma City or would like a second opinion about your painting project, you can call Hometown Painting LLC at (405) 202-7945. Or reach out on our [contact page](https://hometownpaintingokc.com/contact-us/).
+If you have more questions about painting in Oklahoma City or would like a second opinion about your painting project, you can call Hometown Painting LLC at (405) 400-1619. Or reach out on our [contact page](https://hometownpaintingokc.com/contact-us/).

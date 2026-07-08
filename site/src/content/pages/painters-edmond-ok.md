@@ -116,7 +116,7 @@ Great job staining our fence and pavilion. I would highly recommend. Always on t
 
 ### Do you do free estimates in Edmond, OK?
 
-Yes, we service the entire city of Edmond, OK and our estimates are always free. Call us any time at (405)202-7945 or request a free quote on our [contact page](https://hometownpaintingokc.com/contact-us/).
+Yes, we service the entire city of Edmond, OK and our estimates are always free. Call us any time at (405)400-1619 or request a free quote on our [contact page](https://hometownpaintingokc.com/contact-us/).
 
 ### What services do you offer in Edmond?
 

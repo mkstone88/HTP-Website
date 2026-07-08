@@ -341,7 +341,7 @@ United States
 
 Read More On [Our Blog!](https://hometownpaintingokc.com/blog/)
 
-[(405) 400-1619](tel:4052027945)
+[(405) 400-1619](tel:4054001619)
 
 Open 24 hours, 7 days a week.
 

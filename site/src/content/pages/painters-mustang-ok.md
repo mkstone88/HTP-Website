@@ -181,4 +181,4 @@ Yes, we carry both liability and worker’s comp insurance.
 
 ### How can I get a free estimate in Mustang, OK?
 
-You can call us Monday to Friday from 8:00 to 5:00 at (405) 202-7945. Or you can request a free quote on our [contact page](https://hometownpaintingokc.com/contact-us/).
+You can call us Monday to Friday from 8:00 to 5:00 at (405) 400-1619. Or you can request a free quote on our [contact page](https://hometownpaintingokc.com/contact-us/).

@@ -36,4 +36,4 @@ Fence Stains will also help the fence to last longer
 
 As wood and labor prices increase the cost to replace a wooden fence continue to go up. Fence Staining is an excellent way to save money on a costly fence replacement. Wood fences can often last for 20 years or longer if they are properly maintained and stained.
 
-Would you like to know what it would cost to have your fence in the OKC metro stained? You can call Hometown Painting LLC at (405) 202-7945 or [Request a free estimate](https://hometownpaintingokc.com/contact-us/).
+Would you like to know what it would cost to have your fence in the OKC metro stained? You can call Hometown Painting LLC at (405) 400-1619 or [Request a free estimate](https://hometownpaintingokc.com/contact-us/).

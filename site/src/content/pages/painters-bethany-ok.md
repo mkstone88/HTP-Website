@@ -64,7 +64,7 @@ Matt Stone – Owner – [Hometown Painting LLC](/)
 
 ### Free Painting Estimates in Bethany, OK
 
-Whether you need interior, exterior, commercial, or residential painting, we offer free quotes to all homeowners in Bethany, Oklahoma. Please call us at (405) 202-7945 or visit our [contact page](https://hometownpaintingokc.com/contact-us/) to request your free estimate.
+Whether you need interior, exterior, commercial, or residential painting, we offer free quotes to all homeowners in Bethany, Oklahoma. Please call us at (405) 400-1619 or visit our [contact page](https://hometownpaintingokc.com/contact-us/) to request your free estimate.
 
 ## FAQs: Painters Bethany, OK
 

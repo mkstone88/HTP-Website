@@ -64,4 +64,4 @@ Because higher-sheen paints are more durable, woodwork had traditionally been pa
 
 ## Conclusion
 
-Improvements in technology have made water-based trim enamels the best choice for painting your home’s woodwork. You can have peace of mind knowing that your trim and doors will look great for years to come and will not harm your health in the process. If you have any further questions about interior painting feel free to [contact us](https://hometownpaintingokc.com/contact-us/) or call (405) 202-7945
+Improvements in technology have made water-based trim enamels the best choice for painting your home’s woodwork. You can have peace of mind knowing that your trim and doors will look great for years to come and will not harm your health in the process. If you have any further questions about interior painting feel free to [contact us](https://hometownpaintingokc.com/contact-us/) or call (405) 400-1619

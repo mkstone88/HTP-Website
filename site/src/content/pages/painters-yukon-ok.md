@@ -102,7 +102,7 @@ Everyone one is super friendly, did an amazing job! Our fence turned out great, 
 
 ### Do you offer free estimates in Yukon OK?
 
-Yes, we offer free estimates in Yukon. Feet free to call us at (405) 202-7945 or visit our [Request an Estimate](https://hometownpaintingokc.com/contact-us/) page.
+Yes, we offer free estimates in Yukon. Feet free to call us at (405) 400-1619 or visit our [Request an Estimate](https://hometownpaintingokc.com/contact-us/) page.
 
 ### How much does it cost to paint a home in Yukon?
 

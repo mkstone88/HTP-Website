@@ -74,4 +74,4 @@ This is the same fence shown above after being bleached and stained.
 
 ## Getting Your Fence or Deck Restored
 
-Hometown Painting provides free estimates for [fence and deck restoration](https://hometownpaintingokc.com/fence-staining-okc/) in the OKC Metro. We would be happy to answer your questions about which method would be best for your fence or deck. Please give us a call at (405) 202-7945 or fill out the form on our [contact page](https://hometownpaintingokc.com/contact-us/).
+Hometown Painting provides free estimates for [fence and deck restoration](https://hometownpaintingokc.com/fence-staining-okc/) in the OKC Metro. We would be happy to answer your questions about which method would be best for your fence or deck. Please give us a call at (405) 400-1619 or fill out the form on our [contact page](https://hometownpaintingokc.com/contact-us/).
