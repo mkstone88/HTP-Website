@@ -28,7 +28,10 @@ const d = entry.data;
 const isPost = type === 'post';
 ---
 <BaseLayout title={d.title} description={d.description} image={d.ogImage} article={isPost}>
-  <section class="page-hero">
+  <section
+    class:list={['page-hero', { 'page-hero--photo': d.ogImage }]}
+    style={d.ogImage ? `background-image: linear-gradient(rgba(27,42,74,0.86), rgba(27,42,74,0.70)), url('${d.ogImage}');` : undefined}
+  >
     <div class="container">
       <nav class="breadcrumbs" aria-label="Breadcrumb">
         <a href="/">Home</a> ›{' '}

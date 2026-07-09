@@ -252,12 +252,22 @@ body {
   gap: 24px;
 }
 .service-card {
+  display: block;
   border: 1px solid #e5e5e5;
   border-radius: 8px;
-  padding: 32px;
-  transition: box-shadow 0.2s;
+  overflow: hidden;
+  text-decoration: none;
+  color: inherit;
+  transition: box-shadow 0.2s, transform 0.2s;
 }
-.service-card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.08); }
+.service-card:hover { box-shadow: 0 8px 24px rgba(0,0,0,0.12); transform: translateY(-3px); }
+.service-photo {
+  display: block;
+  width: 100%;
+  height: 210px;
+  object-fit: cover;
+}
+.service-card-body { padding: 24px 28px 30px; }
 .service-icon { font-size: 2.2rem; margin-bottom: 14px; }
 .service-card h3 {
   font-family: 'DM Serif Display', serif;
@@ -491,6 +501,13 @@ body {
 
 /* Inner-page hero (slimmer than the home hero) */
 .page-hero { background: #1B2A4A; color: #F5F0EB; padding: 48px 0; }
+.page-hero--photo {
+  background-color: #1B2A4A;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 76px 0;
+}
 .page-hero h1 {
   font-family: 'DM Serif Display', serif;
   font-size: 2.1rem;

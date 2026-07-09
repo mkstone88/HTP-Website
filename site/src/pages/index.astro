@@ -9,10 +9,10 @@ const description =
   "Oklahoma City's trusted residential painters. 120+ perfect 5-star reviews, 5-year written warranty, on-the-spot estimates. Serving Yukon, Mustang, Edmond & OKC metro.";
 
 const services = [
-  { icon: '🏠', title: 'Exterior Painting', body: 'Oklahoma weather is hard on paint. We do full prep — scrape, sand, caulk, prime — before any color goes on. Premium Sherwin-Williams. 5-year warranty.', href: '/exterior-painting-oklahoma-city/' },
-  { icon: '🛋️', title: 'Interior Painting', body: 'Furniture protected, floors covered, walls patched and prepped. We leave your home cleaner than we found it. 5-year warranty.', href: '/interior-painting-okc/' },
-  { icon: '🗄️', title: 'Cabinet Painting', body: 'Full disassembly, deglossing, and spray application for a factory-smooth finish that holds up to daily kitchen use.', href: '/cabinet-painting-okc/' },
-  { icon: '🌿', title: 'Fence & Deck Staining', body: 'Proper cleaning and prep first, then premium stain to protect and restore your wood. We don\'t skip steps outdoors either.', href: '/fence-staining-okc/' },
+  { img: '/uploads/2023/09/608E.VictoriaTerrace-1-1.webp', title: 'Exterior Painting', body: 'Oklahoma weather is hard on paint. We do full prep — scrape, sand, caulk, prime — before any color goes on. Premium Sherwin-Williams. 5-year warranty.', href: '/exterior-painting-oklahoma-city/' },
+  { img: '/uploads/2024/03/Interior-Painting-OKC5.webp', title: 'Interior Painting', body: 'Furniture protected, floors covered, walls patched and prepped. We leave your home cleaner than we found it. 5-year warranty.', href: '/interior-painting-okc/' },
+  { img: '/uploads/2025/05/5613NE107thSt-Interior-25.webp', title: 'Cabinet Painting', body: 'Full disassembly, deglossing, and spray application for a factory-smooth finish that holds up to daily kitchen use.', href: '/cabinet-painting-okc/' },
+  { img: '/uploads/2023/04/Fence-Staining-OKC.webp', title: 'Fence & Deck Staining', body: 'Proper cleaning and prep first, then premium stain to protect and restore your wood. We don\'t skip steps outdoors either.', href: '/fence-staining-okc/' },
 ];
 
 const reviews = [
@@ -30,7 +30,7 @@ const why = [
 ---
 <BaseLayout title={title} description={description}>
   <!-- HERO -->
-  <section class="hero" style="background-image: linear-gradient(rgba(27,42,74,0.82), rgba(27,42,74,0.82));">
+  <section class="hero" style="background-image: linear-gradient(rgba(27,42,74,0.88), rgba(27,42,74,0.72)), url('/uploads/2024/07/7113LostForestDr-14.webp');">
     <div class="container hero-inner">
       <div class="hero-copy">
         <h1>Professional Painters OKC Homeowners Trust</h1>
@@ -61,12 +61,14 @@ const why = [
       <p class="section-sub">Every service backed by our process, our crew, and our warranty.</p>
       <div class="services-grid">
         {services.map((s) => (
-          <div class="service-card">
-            <div class="service-icon">{s.icon}</div>
-            <h3>{s.title}</h3>
-            <p>{s.body}</p>
-            <a href={s.href} class="service-link">Learn more about {s.title.toLowerCase()} →</a>
-          </div>
+          <a href={s.href} class="service-card">
+            <img class="service-photo" src={s.img} alt={`${s.title} project in the Oklahoma City metro`} loading="lazy" width="600" height="400" />
+            <div class="service-card-body">
+              <h3>{s.title}</h3>
+              <p>{s.body}</p>
+              <span class="service-link">Learn more about {s.title.toLowerCase()} →</span>
+            </div>
+          </a>
         ))}
       </div>
     </div>
