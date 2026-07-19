@@ -7,73 +7,61 @@ ogImage: "/uploads/2024/03/Untitled-design1.jpg"
 draft: false
 ---
 
-Interior and Exterior Painting In the OKC Metro
+Interior, exterior, and staining projects from across the Oklahoma City metro.
 
-[Get a Free Estimate](#estimate)
+<a class="prose-cta" href="/contact-us/">Get a Free Estimate →</a>
 
 ## Exterior Painting
 
-![Untitled design1](/uploads/2024/03/Untitled-design1.webp)
+![Exterior painting project in the OKC metro](/uploads/2024/03/Untitled-design1.webp)
 
-![Exterior Painting Before and After](/uploads/2024/03/Exterior-Painting-Before-and-After.webp)
+![Exterior painting before and after](/uploads/2024/03/Exterior-Painting-Before-and-After.webp)
 
-![Exterior Before and After1](/uploads/2024/03/Exterior-Before-and-After1.webp)
+![Exterior before and after project](/uploads/2024/03/Exterior-Before-and-After1.webp)
 
-![Exterior Before and After2](/uploads/2024/03/Exterior-Before-and-After2.webp)
+![Exterior before and after project](/uploads/2024/03/Exterior-Before-and-After2.webp)
 
-![Exterior Before and After3](/uploads/2024/03/Exterior-Before-and-After3.webp)
+![Exterior before and after project](/uploads/2024/03/Exterior-Before-and-After3.webp)
 
-![Exterior Before and After](/uploads/2024/03/Exterior-Before-and-After.webp)
+![Exterior before and after project](/uploads/2024/03/Exterior-Before-and-After.webp)
 
-## Fence, Deck and Pergola Staining
+## Fence, Deck & Pergola Staining
 
-![Stain OKC6](/uploads/2024/03/Stain-OKC6.webp)
+![Fence and deck staining in OKC](/uploads/2024/03/Stain-OKC6.webp)
 
-![Stain OKC5](/uploads/2024/03/Stain-OKC5.webp)
+![Fence and deck staining in OKC](/uploads/2024/03/Stain-OKC5.webp)
 
-![Stain OKC4](/uploads/2024/03/Stain-OKC4.webp)
+![Fence and deck staining in OKC](/uploads/2024/03/Stain-OKC4.webp)
 
-![Stain OKC3](/uploads/2024/03/Stain-OKC3.webp)
+![Fence and deck staining in OKC](/uploads/2024/03/Stain-OKC3.webp)
 
-![Stain OKC2](/uploads/2024/03/Stain-OKC2.webp)
+![Fence and deck staining in OKC](/uploads/2024/03/Stain-OKC2.webp)
 
-![Stain OKC](/uploads/2024/03/Stain-OKC.webp)
+![Fence and deck staining in OKC](/uploads/2024/03/Stain-OKC.webp)
 
 ## Interior Painting
 
-![Interior Painting OKC2](/uploads/2024/03/Interior-Painting-OKC2.webp)
+![Interior painting project in OKC](/uploads/2024/03/Interior-Painting-OKC2.webp)
 
-![Interior Painting OKC](/uploads/2024/03/Interior-Painting-OKC.webp)
+![Interior painting project in OKC](/uploads/2024/03/Interior-Painting-OKC.webp)
 
-![Interior Painting OKC3](/uploads/2024/03/Interior-Painting-OKC3.webp)
+![Interior painting project in OKC](/uploads/2024/03/Interior-Painting-OKC3.webp)
 
-![Interior Painting OKC4](/uploads/2024/03/Interior-Painting-OKC4.webp)
+![Interior painting project in OKC](/uploads/2024/03/Interior-Painting-OKC4.webp)
 
-![Interior Painting OKC1](/uploads/2024/03/Interior-Painting-OKC1.webp)
+![Interior painting project in OKC](/uploads/2024/03/Interior-Painting-OKC1.webp)
 
-![Interior Painting OKC5](/uploads/2024/03/Interior-Painting-OKC5.webp)
+![Interior painting project in OKC](/uploads/2024/03/Interior-Painting-OKC5.webp)
 
 ## Start Your Home’s Transformation With a Free Estimate
 
-### Summer Special: Half Price Paint Upgrade!
+Here’s exactly what to expect when you request your free, no-pressure estimate:
 
-### What to Expect:
+<div class="mini-grid">
+  <div class="mini-card"><h4>Easy Scheduling</h4><p>Schedule online or by phone in minutes.</p></div>
+  <div class="mini-card"><h4>Friendly Visit</h4><p>A professional, no-pressure visit to see your project.</p></div>
+  <div class="mini-card"><h4>Detailed Proposal</h4><p>Know exactly what to expect — transparent pricing, no hidden fees.</p></div>
+  <div class="mini-card"><h4>On-the-Spot Quote</h4><p>Your quote is delivered on the spot — no waiting around.</p></div>
+</div>
 
-- Schedule easily online or by phone.
-- Friendly Professional Visit
-- Detailed proposal – Know exactly what to expect
-- Transparent Price – No hidden fees or surprises
-- No high-pressure
-- Quote delivered on the spot (no waiting!)
-
-![Untitled design](/uploads/2025/05/Untitled-design.webp)
-
-![Hometown Painting Reveiws](/uploads/2023/08/Hometown-Painting-Reveiws.webp)
-
-![Logo for the Painting Contractor's Association](/uploads/2025/02/PCA-Logo-RGB.webp "PCA-Logo-RGB")
-
-## Ready to Paint? Just have questions?
-
-Contact us today to speak to experienced, local painters in the OKC metro.
-
-[Contact Us](/contact-us/)
+<a class="prose-cta" href="/contact-us/">Get a Free Estimate →</a>

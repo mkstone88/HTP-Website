@@ -8,21 +8,17 @@ draft: false
 formId: "6JivItrSTCuiaeSyXWz8"
 ---
 
-To request a free estimate for your next painting project, please fill out the form below.
+To request a free estimate for your next painting project, fill out the form below and we’ll be in touch fast.
 
-“From start to finish, the experience was very professional and easy to navigate. The attention to detail, concern for our personal belongings and ease of communication were outstanding. We enjoyed getting to know each of the crew members too.”
+<div class="prose-reviews">
+  <div class="p-review"><div class="p-stars">★★★★★</div><p>“From start to finish, the experience was very professional and easy to navigate. The attention to detail, concern for our personal belongings, and ease of communication were outstanding. We enjoyed getting to know each of the crew members too.”</p><cite>— Diedre B. · Oklahoma City</cite></div>
+</div>
 
-Diedre B.
-Oklahoma City Homeowner
+## Prefer to Reach Us Directly?
 
-## What’s it like to get a painting estimate?
+If you have a question or would like to speak with us directly, give us a call or send an email:
 
-Do you wonder what it is like to get a free estimate from Hometown Painting? Watch the video below and we will walk you step by step through the process.
-
-## Questions?
-
-If you just have a question or would like to speak to us directly, you can call or email us.
-
-Phone: (405) 400-1619
-
-Email: Matt@hometownpaintingokc.com
+<div class="mini-grid">
+  <div class="mini-card"><h4>Call Us</h4><p><a href="tel:4054001619">(405) 400-1619</a><br>Monday–Friday, 8:00–5:00</p></div>
+  <div class="mini-card"><h4>Email Us</h4><p><a href="mailto:Matt@hometownpaintingokc.com">Matt@hometownpaintingokc.com</a></p></div>
+</div>

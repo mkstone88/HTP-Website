@@ -8,40 +8,24 @@ draft: false
 formId: "Gi6MfAF8VO97YgxZIwzu"
 ---
 
-## **Get a free Estimate Today!**
+A beautiful home starts with a perfect paint job — let’s bring your vision to life. The average home should be repainted every 8–12 years, depending on the quality of the previous job and materials. Fresh paint boosts curb appeal, weather resistance, and even your home’s value.
 
-[Request a Free Estimate!](https://api.leadconnectorhq.com/widget/form/Gi6MfAF8VO97YgxZIwzu)
+## Why Hometown Painting?
 
-## A beautiful home starts with a perfect paint job. Let’s bring your vision to life!
+<div class="mini-grid">
+  <div class="mini-card"><h4>Hassle-Free Estimates</h4><p>A simple, no-pressure process with a quote on the spot.</p></div>
+  <div class="mini-card"><h4>Best-in-Industry Standards</h4><p>Proven prep and premium products on every job.</p></div>
+  <div class="mini-card"><h4>We Don’t Leave Until You’re Happy</h4><p>A final walkthrough to make sure it’s right.</p></div>
+  <div class="mini-card"><h4>5-Year Workmanship Guarantee</h4><p>A written warranty that backs our work.</p></div>
+</div>
 
-The average home should be repainted every 8 to 12 years, depending on how well it was painted and the quality of the materials used. Fresh paint has many benefits, including curb appeal, weather resistance, and even an increase to your home’s value.
+## What Our Clients Say
 
-### Why Hometown Painting?
-
-Hassle Free Estimates
-
-Best in Industry Standards
-
-We Don’t Leave Until You’re Happy
-
-5 Year Workmanship Guarantee
-
-![Hometown Painting Reveiws](/uploads/2025/02/Hometown-Painting-Reveiws.webp)
-
-Do you wonder what it is like to get a free estimate from Hometown Painting? Watch the video below and we will walk you step by step through the process.
-
-## What our Clients Say
-
-![Erin Baird e1738790494952](/uploads/2025/02/Erin-Baird-e1738790494952.webp "Erin Baird")
-
-![Stephoni](/uploads/2025/02/Stephoni-Exterior.webp)
-
-## Ready to Have The Best Looking Home On The Block?
-
-[Request a Free Estimate!](https://api.leadconnectorhq.com/widget/form/Gi6MfAF8VO97YgxZIwzu)
-
-![PCA Logo RGB](/uploads/2025/02/PCA-Logo-RGB.webp "PCA-Logo-RGB")
+<div class="prose-reviews">
+  <div class="p-review"><div class="p-stars">★★★★★</div><p>“Hometown Painting did an outstanding job repainting my entire house! They handled everything professionally and with great attention to detail. The house looks amazing — reliable, professional, and great to work with. Highly recommend!”</p><cite>— Erin Baird · Oklahoma City</cite></div>
+  <div class="p-review"><div class="p-stars">★★★★★</div><p>“The crew was efficient, professional, and respectful of our home — minimal mess and a thorough cleanup. Pricing was very fair for the work involved. We love how the exterior turned out!”</p><cite>— Stephoni · Oklahoma City</cite></div>
+</div>
 
 ## Industry Associations
 
-As a commitment to quality and professionalism in the painting trade we are proud members or the Painting Contractor’s Association (PCA). The PCA sets the standards for our industry so that you can feel confident your paint job is being done right with today’s best techniques!
+We’re proud members of the **Painting Contractors Association (PCA)** — a commitment to quality and professionalism in the trade. The PCA sets the standards for our industry, so you can feel confident your paint job is done right with today’s best techniques.

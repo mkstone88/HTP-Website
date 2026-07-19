@@ -7,30 +7,36 @@ ogImage: "/uploads/2022/08/IMG_0174-min-scaled.jpg"
 draft: false
 ---
 
-In order to help our customers to the best of our ability, Hometown Painting offers a warranty on their painting work. While we do our best to provide great work every time, it is possible that we missed something. We encourage our customers to call us any time they have a question or concern about the work we have done.
+To take care of our customers to the best of our ability, Hometown Painting offers a warranty on our painting work. We do our best to get it right every time — but if we ever miss something, we encourage you to call us any time with a question or concern.
 
 ## Our Warranty
 
-Our warranty begins on the date that the contract is signed. The duration of your warranty will be written on the contract.
+Your warranty begins on the date the contract is signed, and its duration is written on your contract. It covers paint that cracks, chips, or peels during the warranty period, as well as fence stain that peels or develops mildew during the period.
 
-Our warranty covers paint that cracks, chips or peels during the warranty period. Also covered is fence stain that peels or mildew growth on a fence during the warranty period.
+### To Qualify for Your Warranty
 
-In order to qualify for our warranty you must:
+- Pay in full for the contract amount when the work is completed.
+- Retain your original contract.
+- Contact us within the warranty period to report the issue.
+- Make the property accessible so we can perform the repairs.
 
-- Pay in full for the amount of the contract when the work is completed.
-- Retain the original contract.
-- Contact Hometown Painting within the warranty period to inform us of the issue.
-- Make the property accessible to us to perform the repairs.
-
-Hometown Painting will:
+### What Hometown Painting Will Do
 
 - Repair any areas with peeling or flaking at no cost to you.
-- Use the same techniques and products specified in the original contract or the closest equivalent if they are no longer available.
+- Use the same techniques and products from the original contract (or the closest equivalent if they’re no longer available).
 
-Our warranty does not cover:
+### What Our Warranty Does Not Cover
 
-- An exact color match cannot be guaranteed between the repaired area and the non-repaired areas. We will do our best to match the color.
+- Exact color matching between repaired and non-repaired areas (we’ll do our best to match).
 - Any work where Hometown Painting did not supply the paint materials.
 - Any horizontal surface where water can pool.
-- Any moisture damage from improper drainage, gutters or sprinklers.
-- Any paint applied to wood that is rotten or unsuitable for painting. Hometown Painting will let you know about any rotten wood we find during the estimate or painting process. If you choose not to have this wood replaced we will not be able to warranty any paint on that surface.
+- Moisture damage from improper drainage, gutters, or sprinklers.
+- Paint applied to rotten or unsuitable wood. We’ll point out any rotten wood during the estimate or job — if you choose not to replace it, we can’t warranty paint on that surface.
+
+## Have a Warranty Question?
+
+We’re always happy to help — reach out any time.
+
+<a class="prose-cta" href="/contact-us/">Contact Us →</a>
+
+Or give us a call: (405) 400-1619
