@@ -53,6 +53,12 @@ Every commercial property is unique. Our process is designed to minimize disrupt
 
 <a class="prose-cta" href="/contact-us/">Get a Free Commercial Estimate →</a>
 
+## A Recent Commercial Project
+
+We repainted the exterior of **Victory Baptist Church** in Yukon, OK — restoring a weathered building to a clean, protected finish. [Read the project story →](/commercial-painting-in-yukon-ok-victory-baptist-church/)
+
+![Victory Baptist Church in Yukon, OK after a fresh exterior repaint by Hometown Painting](/uploads/2025/06/church-after.webp)
+
 ## About Us: The Hometown Painting Story
 
 When I started my career in painting, my grandfather gave me his old paint sprayer. It wasn’t much to look at, but it was a hard-working machine that helped me do great work — the perfect symbol of him passing the torch to me.

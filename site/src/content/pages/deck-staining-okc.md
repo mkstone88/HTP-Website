@@ -78,6 +78,12 @@ We follow a meticulous, multi-step process built on years of experience with Okl
 <details class="faq-item"><summary>How do I maintain my deck after staining?</summary><div><p>Sweep debris, clean spills promptly, and use gentle cleaning with a soft brush and mild soap. Avoid pressure washing for at least a year after staining.</p></div></details>
 <details class="faq-item"><summary>What if my deck has rot or damage?</summary><div><p>We assess all damage during the initial inspection. Minor damage is repaired as part of staining; severe rot may need board replacement. We’ll walk you through the options.</p></div></details>
 
+## Our Recent Deck Work
+
+![A backyard deck freshly stained a warm sable brown in the OKC metro](/uploads/2023/11/sable-deck.webp)
+
+![A deck stained and sealed by Hometown Painting in Oklahoma City](/uploads/2023/02/Deck-Stain-OKC.webp)
+
 ## Ready to Restore Your Deck?
 
 Your deck deserves professional care from a team that understands Oklahoma City’s climate. Whether it’s deck restoration, staining, or sealing, we deliver results built to last.
