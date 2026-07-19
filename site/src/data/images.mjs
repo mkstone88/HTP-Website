@@ -9,7 +9,7 @@
 // it on in ONE of two ways once Transformations is live:
 //   1. Flip IMG_CDN_DEFAULT below to true and redeploy, OR
 //   2. Set the env var PUBLIC_IMG_CDN=cloudflare on the build.
-const IMG_CDN_DEFAULT = false; // <-- flip to true once Cloudflare Transformations is enabled
+const IMG_CDN_DEFAULT = true; // Cloudflare Transformations enabled 2026-07 (verified on test.hometownpaintingokc.com)
 
 export const IMG_CDN =
   process.env.PUBLIC_IMG_CDN === 'cloudflare' ||
