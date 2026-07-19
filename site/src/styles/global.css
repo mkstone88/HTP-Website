@@ -945,6 +945,12 @@ body {
 .prose .blog-card p { font-size: 0.92rem; color: #555; margin: 0 0 14px; line-height: 1.55; }
 .prose .blog-card .blog-more { margin-top: auto; color: #C41230; font-weight: 600; text-decoration: none; font-size: 0.92rem; }
 
+/* Price tier cards */
+.prose .price-cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; margin: 26px 0 10px; }
+.prose .price-cards .compare-card { display: flex; flex-direction: column; }
+.prose .price-tag { font-size: 1.5rem; font-weight: 700; color: #C41230; font-family: 'DM Sans', sans-serif; margin: 2px 0 8px; }
+.prose .price-cards .compare-card a { margin-top: auto; font-weight: 600; }
+
 /* Color swatch cards (fence stain color guide) */
 .prose .color-cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; margin: 26px 0 10px; }
 .prose .color-card {
@@ -1014,6 +1020,7 @@ body {
   .prose .svc-cards,
   .prose .blog-cards,
   .prose .color-cards,
+  .prose .price-cards,
   .prose .compare { grid-template-columns: 1fr; }
 }
 .prose blockquote {
