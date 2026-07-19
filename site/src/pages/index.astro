@@ -1,7 +1,11 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import GHLForm from '../components/GHLForm.astro';
+import Img from '../components/Img.astro';
 import { business, forms } from '../data/site';
+import { cfBg } from '../data/images.mjs';
+
+const heroImg = '/uploads/2024/07/7113LostForestDr-14.webp';
 
 // Title + meta carried over verbatim from the live WordPress home page.
 const title = 'Trusted Painters In OKC | 120+ 5-Star Reviews | Hometown Painting';
@@ -41,7 +45,7 @@ const work = [
 ---
 <BaseLayout title={title} description={description}>
   <!-- HERO -->
-  <section class="hero" style="background-image: linear-gradient(rgba(27,42,74,0.85), rgba(27,42,74,0.68)), url('/uploads/2024/07/7113LostForestDr-14.webp');">
+  <section class="hero" style={`background-image: linear-gradient(rgba(27,42,74,0.85), rgba(27,42,74,0.68)), url('${cfBg(heroImg)}');`}>
     <div class="container">
       <div class="hero-copy">
         <h1>Professional Painters OKC Homeowners Trust</h1>
@@ -106,7 +110,7 @@ const work = [
       <div class="services-grid">
         {services.map((s) => (
           <a href={s.href} class="service-card">
-            <img class="service-photo" src={s.img} alt={`${s.title} project in the Oklahoma City metro`} loading="lazy" width="600" height="400" />
+            <Img class="service-photo" src={s.img} alt={`${s.title} project in the Oklahoma City metro`} width={600} height={400} sizes="(max-width: 768px) 100vw, 530px" />
             <div class="service-card-body">
               <h3>{s.title}</h3>
               <p>{s.body}</p>
@@ -131,7 +135,7 @@ const work = [
       <div class="work-grid">
         {work.map((w) => (
           <a href="/gallery/" class="work-tile" aria-label="View our project gallery">
-            <img src={w.img} alt={w.alt} loading="lazy" width="600" height="400" />
+            <Img src={w.img} alt={w.alt} width={600} height={400} sizes="(max-width: 768px) 50vw, 350px" />
           </a>
         ))}
       </div>
@@ -160,10 +164,10 @@ const work = [
   <section class="about">
     <div class="container about-inner">
       <div class="about-photo">
-        <img
+        <Img
           src="/uploads/2022/08/paint-owners-cropped-scaled.webp"
           alt="Matt Stone, owner of Hometown Painting, with his wife"
-          width="600" height="720" loading="lazy" />
+          width={600} height={720} sizes="(max-width: 768px) 100vw, 460px" />
       </div>
       <div class="about-copy">
         <p class="about-eyebrow">Meet Your Painter</p>

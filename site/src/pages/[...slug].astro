@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import GHLForm from '../components/GHLForm.astro';
 import { business } from '../data/site';
+import { cfBg } from '../data/images.mjs';
 
 export async function getStaticPaths() {
   const pages = await getCollection('pages', ({ data }) => !data.draft);
@@ -30,7 +31,7 @@ const isPost = type === 'post';
 <BaseLayout title={d.title} description={d.description} image={d.ogImage} article={isPost}>
   <section
     class:list={['page-hero', { 'page-hero--photo': d.ogImage }]}
-    style={d.ogImage ? `background-image: linear-gradient(rgba(27,42,74,0.90), rgba(27,42,74,0.74)), url('${d.ogImage}');` : undefined}
+    style={d.ogImage ? `background-image: linear-gradient(rgba(27,42,74,0.90), rgba(27,42,74,0.74)), url('${cfBg(d.ogImage)}');` : undefined}
   >
     <div class="container">
       <nav class="breadcrumbs" aria-label="Breadcrumb">

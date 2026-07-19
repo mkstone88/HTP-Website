@@ -1,0 +1,41 @@
+---
+// Responsive image. Renders a plain <img> today; once the Cloudflare CDN is
+// enabled (see src/data/images.mjs) it automatically gains a resized,
+// AVIF/WebP srcset — no markup changes needed here or at the call sites.
+import { cfSrc, cfSrcset } from '../data/images.mjs';
+
+interface Props {
+  src: string;
+  alt: string;
+  width?: number;
+  height?: number;
+  sizes?: string;
+  loading?: 'lazy' | 'eager';
+  class?: string;
+  fallbackWidth?: number;
+}
+
+const {
+  src,
+  alt,
+  width,
+  height,
+  sizes = '(max-width: 800px) 100vw, 800px',
+  loading = 'lazy',
+  class: className,
+  fallbackWidth = 960,
+} = Astro.props;
+
+const srcset = cfSrcset(src);
+---
+<img
+  src={cfSrc(src, fallbackWidth)}
+  srcset={srcset}
+  sizes={srcset ? sizes : undefined}
+  alt={alt}
+  width={width}
+  height={height}
+  loading={loading}
+  decoding="async"
+  class={className}
+/>
