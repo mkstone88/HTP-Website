@@ -901,6 +901,20 @@ body {
 .prose .faq-item > div { padding: 0 0 16px; }
 .prose .faq-item > div p { margin-bottom: 8px; }
 
+/* Non-link tag list (e.g. "services included") */
+.prose .tag-list { display: flex; flex-wrap: wrap; gap: 10px; margin: 14px 0 8px; padding: 0; list-style: none; }
+.prose .tag-list li {
+  background: #F5F0EB;
+  color: #1B2A4A;
+  padding: 8px 16px;
+  border-radius: 20px;
+  font-weight: 500;
+  font-size: 0.95rem;
+  border: 1px solid #e7ded4;
+  margin: 0;
+}
+.prose .tag-list li::before { display: none; }
+
 /* Service-area chips */
 .prose .area-chips { display: flex; flex-wrap: wrap; gap: 10px; margin: 16px 0 8px; }
 .prose .area-chips a {
