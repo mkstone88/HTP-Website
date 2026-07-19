@@ -7,82 +7,49 @@ ogImage: "/uploads/2025/05/5613NE107thSt-Interior-8.jpg"
 draft: false
 ---
 
-Local. Trusted. Backed by a 5-Year Warranty.
+Let a fresh coat of paint redefine your living space and create an ambiance that reflects your style. Our team transforms homes across Oklahoma City with thorough attention to detail and a 5-year warranty. Proudly serving OKC, Yukon, Mustang, Edmond, Moore, Norman, and nearby communities.
 
-Let a fresh coat of paint redefine your living space, creating an ambiance that reflects your style and personality. Our team specializes in transforming homes across Oklahoma City with thorough attention to detail and unmatched quality.
-
-[Get a Free Estimate](#quote-form)
-
-**Proudly Serving** Oklahoma City • Yukon • Mustang • Edmond • Moore • Norman and nearby communities.
-
-## Our Google Reviews
+<a class="prose-cta" href="/contact-us/">Get a Free Estimate →</a>
 
 ## Complete Interior Painting Services
 
-![5613NE107thSt Interior 8](/uploads/2025/05/5613NE107thSt-Interior-8.webp)
-
-### Fresh Walls and Ceilings
-
-Want your home to feel fresh and clean? New paint can brighten up a home’s interior and make it an inviting place for friends to gather.
-
-![Interior 2](/uploads/2025/05/Interior-2.webp)
-
-### Premium Trim Finishing
-
-Experience premium interior painting that brings life to every corner of your OKC home. From Doors and baseboards to Crown molding and trim.
-
-![9409SW32ndTer Edited 2 scaled](/uploads/2025/05/9409SW32ndTer-Edited-2-scaled.webp)
-
-### Colors Tailored for You
-
-Pick a fun splash of color or a solid traditional color – either way we can help your home make an impressive first impression.
-
-![5613NE107thSt Interior 20](/uploads/2025/05/5613NE107thSt-Interior-20.webp)
-
-### Cabinet Painting
-
-Your cabinets can come to life with a new coat of paint. We can cover older stained wood or refinishing old paint.
+<div class="svc-cards">
+  <a class="svc-card" href="/interior-painting-okc/"><img src="/uploads/2025/05/5613NE107thSt-Interior-8.webp" alt="Freshly painted walls and ceilings in an OKC home"><h4>Fresh Walls &amp; Ceilings</h4></a>
+  <a class="svc-card" href="/interior-painting-okc/"><img src="/uploads/2025/05/9409SW32ndTer-Edited-2-scaled.webp" alt="Premium trim and door finishing"><h4>Premium Trim Finishing</h4></a>
+  <a class="svc-card" href="/interior-painting-okc/"><img src="/uploads/2025/05/Interior-2.webp" alt="Custom interior paint colors"><h4>Colors Tailored for You</h4></a>
+  <a class="svc-card" href="/cabinet-painting-okc/"><img src="/uploads/2025/05/5613NE107thSt-Interior-20.webp" alt="Cabinet painting in an OKC kitchen"><h4>Cabinet Painting</h4></a>
+</div>
 
 ## Start Your Home’s Transformation With a Free Estimate
 
-### Spring Special: Half Price Paint Upgrade!
+Here’s exactly what to expect when you request your free, no-pressure estimate:
 
-### What to Expect:
-
-- Schedule easily online or by phone.
-- Friendly Professional Visit
-- Detailed proposal – Know exactly what to expect
-- Transparent Price – No hidden fees or surprises
-- No high-pressure
-- Quote delivered on the spot (no waiting!)
-
-![Untitled design](/uploads/2025/05/Untitled-design.webp)
-
-![Hometown Painting Reveiws](/uploads/2023/08/Hometown-Painting-Reveiws.webp)
-
-![Logo for the Painting Contractor's Association](/uploads/2025/02/PCA-Logo-RGB.webp "PCA-Logo-RGB")
+<div class="mini-grid">
+  <div class="mini-card"><h4>Easy Scheduling</h4><p>Schedule online or by phone in minutes.</p></div>
+  <div class="mini-card"><h4>Friendly Visit</h4><p>A professional, no-pressure visit to see your project.</p></div>
+  <div class="mini-card"><h4>Detailed Proposal</h4><p>Know exactly what to expect — with a transparent price and no hidden fees.</p></div>
+  <div class="mini-card"><h4>On-the-Spot Quote</h4><p>Your quote is delivered on the spot — no waiting around.</p></div>
+</div>
 
 ## See Our Work
 
-![Interior](/uploads/2025/05/Interior.webp)
+![A freshly painted interior in OKC](/uploads/2025/05/Interior.webp)
 
-![5613NE107thSt Interior 25](/uploads/2025/05/5613NE107thSt-Interior-25.webp)
+![Painted cabinets in an OKC home](/uploads/2025/05/5613NE107thSt-Interior-25.webp)
 
-![5613NE107thSt Interior 18](/uploads/2025/05/5613NE107thSt-Interior-18.webp)
+![Interior painting detail](/uploads/2025/05/5613NE107thSt-Interior-18.webp)
 
-![Interior 3](/uploads/2025/05/Interior-3.webp)
+![Interior painting project in the OKC metro](/uploads/2025/05/Interior-3.webp)
 
-## Why Our OKC Metro Neighbors Choose Hometown Painting
+## Why OKC Metro Neighbors Choose Hometown Painting
 
-Hometown Painting offers expert interior painting, exterior painting, and fence staining services across the entire OKC metro. We an help with residential and commercial painting. Whether you’re updating a historic home or refreshing your fence, our skilled painters deliver clean, beautiful results.
+Hometown Painting offers expert interior painting, exterior painting, and fence staining across the entire OKC metro — residential and commercial. Whether you’re updating a historic home or refreshing your fence, our skilled painters deliver clean, beautiful results. **We care because we’re your neighbors.**
 
-[Get a Free Estimate](#quote-form)
+<div class="mini-grid">
+  <div class="mini-card"><h4>No Waiting for Estimates</h4><p>We provide detailed quotes on the spot during our visit.</p></div>
+  <div class="mini-card"><h4>Work You Can Count On</h4><p>Every project comes with our written warranty.</p></div>
+  <div class="mini-card"><h4>Skilled, Trustworthy Team</h4><p>Thoroughly vetted painters who respect your home.</p></div>
+  <div class="mini-card"><h4>Clear Communication</h4><p>Your project coordinator keeps you informed every step of the way.</p></div>
+</div>
 
-**We care because we’re your neighbors.**
-
-We believe your home painting project should be straightforward and stress-free. As your neighbors here in the OKC metro, we combine careful attention to detail with modern paint technology to give you beautiful results that last.
-
-- **No Waiting for Estimates** | We provide detailed quotes on the spot during our visit
-- **Work You Can Count On** | Every project comes with our written warranty
-- **Skilled, Trustworthy Team** | Thoroughly vetted painters who respect your home
-- **Clear Communication** | Your Project Excellence Coordinator keeps you informed every step of the way
+<a class="prose-cta" href="/contact-us/">Get a Free Estimate →</a>

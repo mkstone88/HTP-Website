@@ -7,110 +7,90 @@ ogImage: "/uploads/2023/10/image-1.jpg"
 draft: false
 ---
 
-Picking the right fence stain color can make your backyard feel luxurious. We offer multiple fence stain colors from Wood Defender to match your personal style and your home’s architecture. Feel free to browse our in-stock colors below.
+Picking the right fence stain color can make your backyard feel luxurious. We offer multiple Wood Defender fence stain colors to match your style and your home’s architecture. Because stain highlights the wood’s natural grain, color varies a bit across different woods — browse our most popular in-stock colors below.
 
-Because fence stain is designed to highlight the beauty of wood’s natural grain, variations in color are common with fence stains. We have included multiple pictures of each fence stain color so you can see the range of colors achieved on different types of wood.
-
-See our most popular fence stain colors below:
+<a class="prose-cta" href="/contact-us/">Get a Free Estimate →</a>
 
 ## Transparent Fence Stain Colors
 
-Transparent fence stains are lightly pigmented. They show off the most of the underlying wood. We usually recommend transparent stains be used on new fences.
+Transparent stains are lightly pigmented and show off the most of the underlying wood. We usually recommend them for newer fences.
 
 - Great for new wood
 - Highlights the wood grain
 - Creates a more natural look
 
-### Cedar Tone
-
-![image 1](/uploads/2023/10/image-1.webp)
-
-\*Our Most Popular Stain Color in the OKC Metro\*
-
-- Warm red undertone
-- Rustic Charm
-
-![DSC05338 2](/uploads/2023/02/DSC05338-2.webp)
-
-### Leatherwood
-
-![Leatherwood fence stain transparent color](/uploads/2022/09/Transparent_Fence_stain-Leatherwood.webp)
-
-\*Our Most Popular Stain Color in the Edmond OK\*
-
-- Neutral to warm brown tone
-- Sophisticated look
-
-![IMG 0316 scaled](/uploads/2022/10/IMG_0316-scaled.webp)
-
-### Oxford Brown
-
-![OXFORD brown transpatent fence stain color](/uploads/2022/09/transparent-oxforb-brown-stain.webp)
-
-\*Makes a Striking Statement\*
-
-- Neutral darker brown tone
-- Luxurious dark tones
-
-![20230929 090625](/uploads/2023/10/20230929_090625.webp)
-
-### Redwood
-
-![redwood fence stain color close up](/uploads/2022/09/transparent-fence-stain-redwood.webp)
-
-- Bright red tone
-- Great for a rustic look
-
-![redwood stain on a cedar fence](/uploads/2023/10/IMG_0907.webp)
+<div class="color-cards">
+  <div class="color-card">
+    <img src="/uploads/2023/10/image-1.webp" alt="Cedar Tone transparent fence stain">
+    <div class="color-card-body">
+      <h4>Cedar Tone</h4>
+      <p class="color-note">Most popular in the OKC metro</p>
+      <ul><li>Warm red undertone</li><li>Rustic charm</li></ul>
+    </div>
+  </div>
+  <div class="color-card">
+    <img src="/uploads/2022/09/Transparent_Fence_stain-Leatherwood.webp" alt="Leatherwood transparent fence stain">
+    <div class="color-card-body">
+      <h4>Leatherwood</h4>
+      <p class="color-note">Most popular in Edmond</p>
+      <ul><li>Neutral-to-warm brown</li><li>Sophisticated look</li></ul>
+    </div>
+  </div>
+  <div class="color-card">
+    <img src="/uploads/2022/09/transparent-oxforb-brown-stain.webp" alt="Oxford Brown transparent fence stain">
+    <div class="color-card-body">
+      <h4>Oxford Brown</h4>
+      <p class="color-note">Makes a striking statement</p>
+      <ul><li>Neutral darker brown</li><li>Luxurious dark tones</li></ul>
+    </div>
+  </div>
+  <div class="color-card">
+    <img src="/uploads/2022/09/transparent-fence-stain-redwood.webp" alt="Redwood transparent fence stain">
+    <div class="color-card-body">
+      <h4>Redwood</h4>
+      <p class="color-note">Rustic favorite</p>
+      <ul><li>Bright red tone</li><li>Great for a rustic look</li></ul>
+    </div>
+  </div>
+</div>
 
 ## Semi-Transparent Fence Stain Colors
 
-Semi-transparent stains use stronger pigments than transparent. They cover more of the wood underneath and give a stronger color. This is especially useful if the fence is older or there are imperfections you want to cover.
+Semi-transparent stains use stronger pigments — they cover more of the wood underneath and give a bolder color. Especially useful for older fences or imperfections you want to hide.
 
 - Great for older fences or restains
-- Stronger pigments give a bolder color
-- Shows a little of the wood’s grain
+- Stronger pigments for a bolder color
+- Still shows a little of the wood grain
 
-### Sierra
+<div class="color-cards">
+  <div class="color-card">
+    <img src="/uploads/2022/09/semitransparent-fence-stain-sierra.webp" alt="Sierra semi-transparent fence stain">
+    <div class="color-card-body">
+      <h4>Sierra</h4>
+      <p class="color-note">Most popular semi-transparent</p>
+      <ul><li>Rich warm undertone</li><li>Similar to cedar tone</li></ul>
+    </div>
+  </div>
+  <div class="color-card">
+    <img src="/uploads/2022/09/SemiTransparent_Fence_SableBrown-300x238-1.webp" alt="Sable Brown semi-transparent fence stain">
+    <div class="color-card-body">
+      <h4>Sable Brown</h4>
+      <p class="color-note">Complements your decor</p>
+      <ul><li>Rich, neutral brown</li></ul>
+    </div>
+  </div>
+  <div class="color-card">
+    <img src="/uploads/2022/09/SemiTransparent_Fence_CoffeeBrown-300x238-1.webp" alt="Coffee Brown semi-transparent fence stain">
+    <div class="color-card-body">
+      <h4>Coffee Brown</h4>
+      <p class="color-note">Bold &amp; modern</p>
+      <ul><li>Rich dark brown</li><li>Pairs well with a modern look</li></ul>
+    </div>
+  </div>
+</div>
 
-![sierra fence stain from wood defender close up](/uploads/2022/09/semitransparent-fence-stain-sierra.webp)
+## Want to See Your Favorite Color on Your Fence?
 
-\*Our most popular semi-transparent color\*
+If you need help choosing, visit our [fence stain color selection guide](/how-to-choose-a-fence-stain-color/), or [schedule a free quote](/contact-us/) and we’ll help you pick. To see the full range, visit the [Wood Defender](https://wooddefender.com/buy-online/) website.
 
-- Rich warm undertone
-- Similar to cedar tone
-
-![sierra wood defender on cedar](/uploads/2022/09/Sierra-fence-stain-scaled.webp "sierra fence stain")
-
-### Sable Brown
-
-![Sable brown fance stain color](/uploads/2022/09/SemiTransparent_Fence_SableBrown-300x238-1.webp)
-
-\*Neutral tone compliments your decor\*
-
-- Rich brown color
-
-![wood defender sable brown stain on a fence](/uploads/2022/09/Fence-Stain-Edmond.webp)
-
-### Coffee Brown
-
-![Coffee Brown wood defender fence stain](/uploads/2022/09/SemiTransparent_Fence_CoffeeBrown-300x238-1.webp)
-
-\*Dark brown tone\*
-
-- Rich dark brown color
-- Pairs well with a modern look
-
-![Fence Stained with coffee brown scaled](/uploads/2022/10/Fence-Stained-with-coffee-brown-scaled.webp "Fence Stained with coffee brown")
-
-### Want to see what your favorite color will look like on your fence?
-
-[Request a Free Estimate](https://api.leadconnectorhq.com/widget/form/YVYhjNMJFKBjYA1uMNkm)
-
-![split rail fence with sable brown stain](/uploads/2022/09/Fence-Stain-Edmond-3.webp)
-
-If you need help selecting a color you can visit our [fence stain color selection guide](/how-to-choose-a-fence-stain-color/).
-
-Or you can [schedule a free quote](/contact-us/) and we would be happy to assist you with choosing a color.
-
-To see a more complete selection of fence stain colors please visit the [Wood Defender](https://wooddefender.com/buy-online/) website.
+<a class="prose-cta" href="/contact-us/">Get a Free Estimate →</a>
