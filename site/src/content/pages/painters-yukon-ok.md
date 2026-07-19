@@ -7,106 +7,41 @@ ogImage: "/uploads/2023/09/608E.VictoriaTerrace-1-1.jpg"
 draft: false
 ---
 
-New Paint makes your home fresh and inviting
+New paint makes your home fresh and inviting. Hometown Painting offers interior painting, exterior painting, and fence staining in Yukon, OK — with free estimates and military and first-responder discounts.
 
-[Request a Free Estimate](https://api.leadconnectorhq.com/widget/form/YVYhjNMJFKBjYA1uMNkm)
+<a class="prose-cta" href="/contact-us/">Request a Free Estimate →</a>
 
 ## House Painting Services in Yukon, OK
 
-Hometown Painting LLC offers residential painting in Yukon, OK.
+<div class="svc-cards">
+  <a class="svc-card" href="/exterior-painting-oklahoma-city/"><img src="/uploads/2023/09/608E.VictoriaTerrace-1-1-scaled.webp" alt="Exterior painting in Yukon, OK"><h4>Exterior Painting</h4></a>
+  <a class="svc-card" href="/interior-painting-okc/"><img src="/uploads/2022/11/living-room-paint-edmond.webp" alt="Interior painting in Yukon, OK"><h4>Interior Painting</h4></a>
+  <a class="svc-card" href="/fence-staining-okc/"><img src="/uploads/2022/11/fence-staining-in-edmond-ok.webp" alt="Fence staining in Yukon, OK"><h4>Fence Staining</h4></a>
+</div>
 
-### Exterior Painting
+## Yukon, OK Painters
 
-![exterior painters Edmond ok just finished painting the outside of this house.](/uploads/2023/09/608E.VictoriaTerrace-1-1-scaled.webp)
+We know Yukon is a place where tradition and family are valued. We’re proud to be a family-owned and operated company — my grandfather was a painter and passed his skills and inspiration to me. I even started out using his old paint sprayer. Take some time to [learn about us here](/professional-painters-okc/).
 
-Make your Yukon home a safe place for your family.
+*— Matt Stone, Owner*
 
-- Siding and trim
-- Brick painting
-- Shutters
-- Doors and garage doors
-- Power Washing
-- [Learn More](/exterior-painting-okc/)
+![Matt’s grandfather, who started the family painting tradition](/uploads/2022/08/50s-Young-Painter.webp)
 
-### Fence Staining
+## Here’s What Our Yukon Customers Say
 
-![A fence in Edmond, OK that has just been stained with Wood Defender](/uploads/2022/11/fence-staining-in-edmond-ok.webp)
+<div class="prose-reviews">
+  <div class="p-review"><div class="p-stars">★★★★★</div><p>“I cannot say enough about how much I appreciate Matt and his team for sealing our new fence. Matt listens to what you want, advises when needed, and holds himself and his team to a high standard. I’ll definitely be using Hometown Painting again!”</p><cite>— Jordan V. · Oklahoma City</cite></div>
+  <div class="p-review"><div class="p-stars">★★★★★</div><p>“We had a fantastic experience! Matt came out quickly and gave me an estimate on the spot. Prices were fair and affordable, and he explained in detail what was included. The finished product is gorgeous! I’d highly recommend them for your painting projects.”</p><cite>— Robyn · Yukon, OK</cite></div>
+  <div class="p-review"><div class="p-stars">★★★★★</div><p>“Everyone is super friendly and did an amazing job! Our fence turned out great — exactly what we wanted. I’ll definitely recommend them to family and friends!”</p><cite>— Casey M. · OKC</cite></div>
+</div>
 
-We can help you make your fence last longer and look great.
+## Yukon, OK Residential Painting FAQ
 
-- UV and moisture protection
-- Cedar fences
-- Wood Siding
-- Pergola staining
-- Deck staining
-- [Learn More](/exterior-painting-okc/)
+<details class="faq-item"><summary>Do you offer free estimates in Yukon, OK?</summary><div><p>Yes — we offer free estimates in Yukon. Feel free to call us at (405) 400-1619 or visit our <a href="/contact-us/">Request an Estimate</a> page.</p></div></details>
+<details class="faq-item"><summary>How much does it cost to paint a home in Yukon?</summary><div><p>A lot of factors affect the price. Exterior painting usually ranges $3,500–$8,000 for a whole house, depending on condition, size, and products. Interior painting runs roughly $400–$800 for a bedroom and $600–$2,000 for a living room. See our <a href="/pricing/">pricing page</a> for more.</p></div></details>
 
-### Interior Painting
+## Ready for a Free Estimate in Yukon?
 
-![interior of a home in edmond ok with fresh paint on the walls](/uploads/2022/11/living-room-paint-edmond.webp)
+<a class="prose-cta" href="/contact-us/">Request a Free Estimate →</a>
 
-We can help you make your interior inviting for your family and firends.
-
-- Walls and ceilings
-- Trim painting
-- Doors
-- Cabinet painting
-- Accent Walls
-- [Learn More](/exterior-painting-okc/)
-
-![old picture of a painter in front of a truck](/uploads/2022/08/50s-Young-Painter.webp)
-
-### Yukon OK Painters
-
-> We know that Yukon OK is a place where tradition and family are valued.
->
-> We’re proud to be a family owned and operated company. My grandfather was a painter, and he passed his skills and inspiration to me. I even began working as a painter while using my grandfather’s old paint sprayer.
->
-> Please take some more time to [learn about us here](/professional-painters-okc/).
->
-> Matt Stone – Owner
-
-## Ready to Paint? Just have questions?
-
-Contact us today to speak to experienced, local,  professional painters in the OKC metro.
-
-[Contact Us](/contact-us/)
-
-## Here’s what Our Yukon Customers Say
-
-****Jordan V.****
-
-
-**Homeowner in Oklahoma City, OK**
-
-I cannot say enough about how much I appreciate Matt and his team for sealing our new fence. Matt listens to what you want, advises when needed, and holds himself and his team to a high standard. I will definitely be using Hometown Painting again!
-
-**Robyn**
-
-
-*Homeowner in Yukon, OK*
-
-We had a fantastic experience with Hometown Painting! After I called to schedule an estimate, Matt (the owner) came out quickly and was able to give me an estimate on the spot. Prices were fair and pretty affordable, and he explained in detail what all was included. The finished product is gorgeous! I would highly recommend them for your painting projects.
-
-****Casey M.****
-
-
-**Homeowner in OKC, OK**
-
-Everyone one is super friendly, did an amazing job! Our fence turned out great, it was exactly what we wanted! I will definitely recommend them to family and friends!!
-
-### Yukon OK Residential Painting FAQ
-
-### Do you offer free estimates in Yukon OK?
-
-Yes, we offer free estimates in Yukon. Feet free to call us at (405) 400-1619 or visit our [Request an Estimate](/contact-us/) page.
-
-### How much does it cost to paint a home in Yukon?
-
-There are a lot of factors that affect the price of painting a Yukon OK home. Here are some general guidelines to help.
-
-**Exterior painting** in Yukon OK usually ranges between $3500 to $8000 for an entire house. Factors that affect the painting price include the condition and size of the house and the quality of the products used.
-
-For **Interior Painting** in Yukon OK the prices range between $400 to $800 for a bedroom and $600 to $2000 for a living room. Factors that affect the price include the size of the room and the number of surfaces being painted.
-
-For more information please visit our [pricing page](/pricing/).
+Or give us a call: (405) 400-1619
