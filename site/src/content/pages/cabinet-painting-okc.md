@@ -5,6 +5,7 @@ permalink: "/cabinet-painting-okc/"
 h1: "Cabinet Painting OKC"
 ogImage: "/uploads/2025/05/5613NE107thSt-Interior-25.jpg"
 draft: false
+warranty: "2-Year Warranty"
 ---
 
 Refresh your kitchen without the cost and hassle of a full remodel. **Cabinet painting in OKC** is a smart, cost-effective way to transform your space, boost your home’s value, and enjoy a like-new look for your cabinets. At Hometown Painting, our professional cabinet painters deliver a factory finish that rivals new cabinetry — at a fraction of the price.
@@ -71,7 +72,7 @@ We follow a proven, step-by-step process for a flawless, durable finish:
 
 ## Our Cabinet Paint Warranty
 
-We stand behind our work with a written **cabinet paint warranty** covering peeling, cracking, and fading for up to 1 year. If anything comes up, our team will make it right — guaranteed.
+We stand behind our work with a written **2-year cabinet paint warranty** covering peeling, cracking, and fading. If anything comes up, our team will make it right — guaranteed.
 
 ## Frequently Asked Questions
 

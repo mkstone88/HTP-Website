@@ -14,6 +14,9 @@ const pages = defineCollection({
     // Keep this page out of search engines (PPC landing pages, thank-you).
     // Must be mirrored in NOINDEX_PATHS in astro.config.mjs to drop it from the sitemap.
     noindex: z.boolean().default(false),
+    // Hero trust-chip warranty label. Painting pages get the 5-year default;
+    // staining + cabinet pages set "2-Year Warranty" (per Matt, 2026-07-19).
+    warranty: z.string().default('5-Year Warranty'),
     // Emit aggregateRating schema — only for pages that visibly display reviews.
     showRating: z.boolean().default(false),
   }),

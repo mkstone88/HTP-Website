@@ -75,7 +75,7 @@ const breadcrumbSchema = {
           {d.description && <p class="page-hero-sub">{d.description}</p>}
           <ul class="page-hero-trust">
             <li><span class="phts-stars">★★★★★</span> {business.rating.value} · {business.rating.count}+ Reviews</li>
-            <li>5-Year Warranty</li>
+            <li>{d.warranty ?? '5-Year Warranty'}</li>
             <li>Free Estimates</li>
             <li>Fully Insured</li>
           </ul>

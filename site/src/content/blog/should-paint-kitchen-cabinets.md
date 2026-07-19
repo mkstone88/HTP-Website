@@ -25,7 +25,7 @@ Understanding these pros and cons will help you decide whether to paint your cab
 
 ## The Cost Of Painting Cabinets
 
-Painting cabinets is one of the more expensive painting projects you can do around your home. Cabinets take special care to paint correctly. It is both time and labor-intensive to properly prepare and paint cabinets. The [average cost to paint kitchen cabinets](https://www.myprojectpaint.com/how-much-does-it-cost-to-paint-kitchen-cabinets) can range from $2000 to $6000. That being said, it is still far cheaper to have cabinets painted than to replace them altogether.
+Painting cabinets is one of the more expensive painting projects you can do around your home. Cabinets take special care to paint correctly. It is both time and labor-intensive to properly prepare and paint cabinets. The [average cost to paint kitchen cabinets](https://www.myprojectpaint.com/how-much-does-it-cost-to-paint-kitchen-cabinets) typically runs $5,000 to $10,000. That being said, it is still far cheaper to have cabinets painted than to replace them altogether.
 
 ### Factors that affect the cost of painting Kitchen Cabinets
 

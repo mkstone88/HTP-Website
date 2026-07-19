@@ -20,12 +20,12 @@ We believe your price should be custom to your situation, so we take detailed me
 <div class="compare">
   <div class="compare-card compare-card--win">
     <h4>Walls Only</h4>
-    <div class="price-tag">From $4 / sq ft</div>
+    <div class="price-tag">From $5 / sq ft</div>
     <p>Walls and ceilings, professionally prepped and painted.</p>
   </div>
   <div class="compare-card">
     <h4>Walls + Woodwork</h4>
-    <div class="price-tag">Around $7 / sq ft</div>
+    <div class="price-tag">$7–$10 / sq ft</div>
     <p>Includes trim, doors, and other woodwork along with walls and ceilings.</p>
   </div>
 </div>

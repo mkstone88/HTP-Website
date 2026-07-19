@@ -22,7 +22,7 @@ We want you to be as well-informed as possible about your next paint job — inc
 <div class="price-cards">
   <div class="compare-card">
     <h4>Exterior Painting</h4>
-    <div class="price-tag">$4,000–$8,000</div>
+    <div class="price-tag">$4,000–$10,000</div>
     <p>A complete exterior repaint. Prep and trim details drive where you land.</p>
     <a href="/pricing/exterior-painting-cost-oklahoma-city/">See exterior pricing →</a>
   </div>

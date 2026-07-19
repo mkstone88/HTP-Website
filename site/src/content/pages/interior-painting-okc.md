@@ -70,7 +70,7 @@ As local Oklahoma City homeowners ourselves, we understand those concerns. Our i
   </div>
   <div class="benefit-card">
     <h4>Transparent pricing</h4>
-    <p>Most interior projects run <strong>$4–$8 per sq. ft.</strong>, depending on room size, prep, and colors. We walk you through every line item — no surprises.</p>
+    <p>Most interior projects run <strong>$5–$10 per sq. ft.</strong>, depending on room size, prep, and colors. We walk you through every line item — no surprises.</p>
   </div>
 </div>
 
@@ -182,7 +182,7 @@ Or give us a call: (405) 400-1619
 <details class="faq-item">
   <summary>How much does it cost to paint a home’s interior in OKC?</summary>
   <div>
-    <p>Interior painting in OKC averages $4–$8 per square foot. A lot of factors affect the price, so we customize each quote to your home. See our <a href="/pricing/interior-pricing/">interior pricing</a> page for more.</p>
+    <p>Interior painting in OKC averages $5–$10 per square foot. A lot of factors affect the price, so we customize each quote to your home. See our <a href="/pricing/interior-pricing/">interior pricing</a> page for more.</p>
   </div>
 </details>
 

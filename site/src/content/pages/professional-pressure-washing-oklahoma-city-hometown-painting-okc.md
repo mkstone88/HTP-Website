@@ -25,9 +25,7 @@ It’s about more than looks: regular pressure washing extends the life of your 
   <div class="mini-card"><h4>House Exterior</h4><p>Safe cleaning of vinyl siding, brick, stucco, and more — without damage.</p></div>
   <div class="mini-card"><h4>Driveways &amp; Walkways</h4><p>Remove stubborn stains, oil marks, and algae from concrete and asphalt.</p></div>
   <div class="mini-card"><h4>Decks &amp; Patios</h4><p>Restore wood and composite decks and prep them for staining or sealing.</p></div>
-  <div class="mini-card"><h4>Roof Cleaning</h4><p>Safely remove moss, algae, and debris to improve appearance and prevent damage.</p></div>
-  <div class="mini-card"><h4>Gutter Cleaning</h4><p>Keep your gutters flowing with a thorough clean-out.</p></div>
-  <div class="mini-card"><h4>Commercial Properties</h4><p>Building exteriors, parking lots, sidewalks, equipment, and fleet washing.</p></div>
+  <div class="mini-card"><h4>Commercial Properties</h4><p>Building exteriors, sidewalks, and entryways.</p></div>
 </div>
 
 ## The Professional Pressure Washing Process

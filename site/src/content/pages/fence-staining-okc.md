@@ -5,6 +5,7 @@ permalink: "/fence-staining-okc/"
 h1: "Fence Staining OKC can Trust."
 ogImage: "/uploads/2023/04/Fence-Staining-OKC.jpg"
 draft: false
+warranty: "2-Year Warranty"
 ---
 
 ## Benefits of Fence Staining in OKC
@@ -103,7 +104,7 @@ Contact us today to speak to experienced, local,  professional painters in the 
 <details class="faq-item">
   <summary>How much does fence staining cost?</summary>
   <div>
-    <p>Most full backyard stains run $1,500–$3,000. Our current price is about $1 per square foot of fence, plus any extra labor to cover concrete or landscaping along the fence line.</p>
+    <p>Most full backyard stains run $2,000–$4,000. Our current price is about $1 per square foot of fence, plus any extra labor to cover concrete or landscaping along the fence line.</p>
   </div>
 </details>
 

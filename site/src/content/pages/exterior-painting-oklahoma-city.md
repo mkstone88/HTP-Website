@@ -24,7 +24,7 @@ We handle every detail from careful prep and color consultation to clean, effici
   <div class="mini-card"><h4>Professional Craftsmanship</h4><p>Experienced crews who take pride in every detail.</p></div>
   <div class="mini-card"><h4>5-Year Warranty</h4><p>Every project includes a written warranty for peace of mind.</p></div>
   <div class="mini-card"><h4>Hassle-Free Process</h4><p>Clear estimates, on-time scheduling, and constant communication.</p></div>
-  <div class="mini-card"><h4>Premium Materials</h4><p>We use only trusted products like Sherwin-Williams and Benjamin Moore.</p></div>
+  <div class="mini-card"><h4>Premium Materials</h4><p>We use premium Sherwin-Williams products — with Benjamin Moore available on request.</p></div>
   <div class="mini-card"><h4>Built for OKC Weather</h4><p>A long-lasting paint job designed for Oklahoma City’s tough climate.</p></div>
 </div>
 
@@ -152,7 +152,7 @@ Or give us a call: (405) 400-1619
 <details class="faq-item">
   <summary>How much does it cost to paint a house exterior in OKC?</summary>
   <div>
-    <p>Typical range: $4,000–$8,000. Several factors affect the price:</p>
+    <p>Typical range: $4,000–$10,000. Several factors affect the price:</p>
     <ul>
       <li>The size of the home</li>
       <li>The amount of surface to be painted</li>
@@ -165,7 +165,7 @@ Or give us a call: (405) 400-1619
 <details class="faq-item">
   <summary>How long does exterior paint last in OKC?</summary>
   <div>
-    <p>Typically 5–12 years. It depends on the quality of the paint and the condition of the surfaces. We’ll recommend products based on how long you want your paint job to last. You can find more helpful info <a href="https://www.homereference.net/exterior-paint-job-lifespan/">here</a>.</p>
+    <p>Typically 7–10 years. It depends on the quality of the paint and the condition of the surfaces. We’ll recommend products based on how long you want your paint job to last.</p>
   </div>
 </details>
 

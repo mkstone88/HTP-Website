@@ -7,6 +7,7 @@ permalink: "/deck-staining-okc/"
 h1: "Professional Deck Staining in Oklahoma City"
 ogImage: "/uploads/2022/08/IMG_0174-min-scaled.jpg"
 draft: false
+warranty: "2-Year Warranty"
 ---
 
 Your deck is one of the most valuable outdoor investments in your home. Whether you’re restoring a weathered deck or protecting a newly built one, professional deck staining in Oklahoma City keeps it beautiful, structurally sound, and protected against Oklahoma’s harsh weather. At Hometown Painting, we transform tired, gray decks into stunning outdoor living spaces.

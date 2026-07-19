@@ -8,7 +8,7 @@ draft: false
 formId: "Gi6MfAF8VO97YgxZIwzu"
 ---
 
-A beautiful home starts with a perfect paint job — let’s bring your vision to life. The average home should be repainted every 8–12 years, depending on the quality of the previous job and materials. Fresh paint boosts curb appeal, weather resistance, and even your home’s value.
+A beautiful home starts with a perfect paint job — let’s bring your vision to life. The average home should be repainted every 7–10 years, depending on the quality of the previous job and materials. Fresh paint boosts curb appeal, weather resistance, and even your home’s value.
 
 ## Why Hometown Painting?
 
@@ -16,7 +16,7 @@ A beautiful home starts with a perfect paint job — let’s bring your vision t
   <div class="mini-card"><h4>Hassle-Free Estimates</h4><p>A simple, no-pressure process with a quote on the spot.</p></div>
   <div class="mini-card"><h4>Best-in-Industry Standards</h4><p>Proven prep and premium products on every job.</p></div>
   <div class="mini-card"><h4>We Don’t Leave Until You’re Happy</h4><p>A final walkthrough to make sure it’s right.</p></div>
-  <div class="mini-card"><h4>5-Year Workmanship Guarantee</h4><p>A written warranty that backs our work.</p></div>
+  <div class="mini-card"><h4>Written Workmanship Warranty</h4><p>5 years on painting, 2 years on staining and cabinets — in writing.</p></div>
 </div>
 
 ## What Our Clients Say

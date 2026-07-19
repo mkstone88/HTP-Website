@@ -5,6 +5,7 @@ permalink: "/pergola-staining-okc/"
 h1: "Pergola Staining OKC Homeowners Can Trust"
 ogImage: "/uploads/2024/03/3588-2.jpg"
 draft: false
+warranty: "2-Year Warranty"
 ---
 
 ## Benefits of Pergola Staining in OKC

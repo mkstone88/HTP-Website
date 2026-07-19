@@ -32,8 +32,8 @@ Storm exposure also matters—wind-driven rain and hail can weaken paint over ti
 
 Some materials naturally hold paint better:
 
-- **Brick:** If you’ve painted brick, expect a 10–15 year lifespan.
-- **Wood siding:** More porous; often needs repainting every 5–7 years.
+- **Brick:** If you’ve painted brick, expect a 15–20 year lifespan.
+- **Wood siding:** More porous; often needs repainting every 7–10 years.
 - **Fiber cement (Hardie):** Usually lasts 8–12 years with proper prep.
 - **Stucco:** Typically 7–10 years, depending on cracks and previous coatings.
 
@@ -83,7 +83,7 @@ High humidity, especially during the summer months, is another consideration. Hu
 
 As a general guideline, here’s how often you should plan to repaint different types of home exteriors:
 
-- Wood siding and trim: Every 8-10 years
+- Wood siding and trim: Every 7-10 years
 - Aluminum or vinyl siding: Every 5-8 years.
 - Stucco: Once painted every 8-10 years.
 - Brick: If unpainted, it only needs to be cleaned, but if painted, every 15-20 years.

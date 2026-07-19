@@ -5,6 +5,7 @@ permalink: "/okc-fence-stain-colors/"
 h1: "Wood Defender Oil-Based Fence stain colors available in the OKC Metro"
 ogImage: "/uploads/2023/10/image-1.jpg"
 draft: false
+warranty: "2-Year Warranty"
 ---
 
 Picking the right fence stain color can make your backyard feel luxurious. We offer multiple Wood Defender fence stain colors to match your style and your home’s architecture. Because stain highlights the wood’s natural grain, color varies a bit across different woods — browse our most popular in-stock colors below.

@@ -9,9 +9,15 @@ draft: false
 
 To take care of our customers to the best of our ability, Hometown Painting offers a warranty on our painting work. We do our best to get it right every time — but if we ever miss something, we encourage you to call us any time with a question or concern.
 
-## Our 5-Year Warranty
+## What Our Warranty Covers
 
-Interior and exterior painting projects are backed by our **5-year written warranty** — the exact terms and dates for your project are written on your contract. Your warranty begins on the date the contract is signed. It covers paint that cracks, chips, or peels during the warranty period, as well as fence stain that peels or develops mildew during the period.
+Every Hometown Painting project comes with a written warranty:
+
+- **Interior & exterior painting — 5-year written warranty** on walls, trim, and exterior surfaces.
+- **Kitchen cabinet painting — 2-year written warranty.**
+- **Fence, deck, pergola & other exterior staining — 2-year written warranty.**
+
+Your warranty begins on the date the contract is signed, and your contract states your project's exact terms. It covers paint that cracks, chips, or peels during the warranty period, as well as stain that peels or develops mildew during the period.
 
 ### To Qualify for Your Warranty
 
