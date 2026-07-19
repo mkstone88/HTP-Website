@@ -1,9 +1,10 @@
 import type { APIRoute } from 'astro';
+import { isNoindex } from '../data/seo';
 
 // Dynamic robots.txt:
-// - On the staging/test subdomain (PUBLIC_NOINDEX=true) -> block everything.
-// - In production -> allow crawling and point at the sitemap.
-const noindex = import.meta.env.PUBLIC_NOINDEX === 'true';
+// - Non-production builds (previews/staging/local) -> block everything.
+// - Production (main branch) -> allow crawling and point at the sitemap.
+const noindex = isNoindex();
 
 const staging = `# Test/staging build — do not index.
 User-agent: *

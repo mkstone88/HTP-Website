@@ -4,6 +4,7 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import Analytics from '../components/Analytics.astro';
 import { business } from '../data/site';
+import { isNoindex } from '../data/seo';
 
 interface Props {
   title: string;
@@ -18,9 +19,9 @@ const { title, description, image, article = false } = Astro.props;
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
 const ogImage = image ? new URL(image, Astro.site).href : undefined;
 
-// Staging guard: when PUBLIC_NOINDEX is set (test subdomain), keep the whole
-// site out of search engines so it can't be indexed as duplicate content.
-const noindex = import.meta.env.PUBLIC_NOINDEX === 'true';
+// Staging guard: keep every non-production build (previews, staging, local)
+// out of search engines. Only the main branch is indexable. See src/data/seo.ts.
+const noindex = isNoindex();
 
 // Sitewide LocalBusiness (HousePainter) schema — rebuilt from live data.
 const businessSchema = {
