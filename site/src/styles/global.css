@@ -760,20 +760,145 @@ body {
   margin: 26px auto;
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.10);
 }
-/* Image-only paragraphs flow as a tidy 2-up gallery instead of a tall stack */
-.prose p:has(> img:only-child) {
+/* Runs of 2+ consecutive image-only paragraphs flow as a tidy 2-up gallery.
+   Lone feature images are left full-width. */
+.prose p:has(> img:only-child):has(+ p:has(> img:only-child)),
+.prose p:has(> img:only-child) + p:has(> img:only-child) {
   display: inline-block;
   width: calc(50% - 8px);
   vertical-align: top;
   margin: 0 0 10px;
   line-height: 0;
 }
-.prose p:has(> img:only-child) img {
+.prose p:has(> img:only-child):has(+ p:has(> img:only-child)) img,
+.prose p:has(> img:only-child) + p:has(> img:only-child) img {
   width: 100%;
   height: 250px;
   object-fit: cover;
   margin: 0;
   box-shadow: none;
+}
+
+/* ---- Service-page content components (rendered from raw HTML inside .prose) ---- */
+.prose .pillars,
+.prose .benefit-grid,
+.prose .mini-grid,
+.prose .prose-reviews,
+.prose .process-phases { display: grid; gap: 18px; margin: 28px 0 10px; }
+.prose .pillars,
+.prose .mini-grid,
+.prose .prose-reviews,
+.prose .process-phases { grid-template-columns: repeat(3, 1fr); }
+.prose .benefit-grid { grid-template-columns: repeat(2, 1fr); }
+
+.prose .pillar-card,
+.prose .mini-card,
+.prose .phase,
+.prose .p-review {
+  background: #fff;
+  border: 1px solid #ececec;
+  border-radius: 10px;
+  padding: 24px 22px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.04);
+}
+.prose .pillar-icon { font-size: 1.8rem; margin-bottom: 6px; }
+.prose .pillar-card h3,
+.prose .mini-card h4,
+.prose .phase h3 {
+  font-family: 'DM Serif Display', serif;
+  color: #1B2A4A;
+  margin: 0 0 10px;
+}
+.prose .pillar-card h3 { font-size: 1.3rem; }
+.prose .mini-card h4 { font-size: 1.12rem; }
+.prose .pillar-card ul { margin: 0; }
+.prose .mini-card p { margin: 0; font-size: 0.95rem; color: #555; line-height: 1.55; }
+
+.prose .benefit-card {
+  background: #F5F0EB;
+  border-left: 3px solid #C41230;
+  border-radius: 0 8px 8px 0;
+  padding: 18px 20px;
+}
+.prose .benefit-card h4 {
+  font-family: 'DM Sans', sans-serif;
+  color: #1B2A4A;
+  font-size: 1.05rem;
+  margin: 0 0 6px;
+}
+.prose .benefit-card p { margin: 0; font-size: 0.95rem; color: #444; }
+
+.prose .p-stars { color: #C41230; letter-spacing: 2px; margin-bottom: 10px; }
+.prose .p-review p { font-size: 0.95rem; color: #444; margin: 0 0 12px; line-height: 1.6; }
+.prose .p-review cite { font-style: normal; font-weight: 600; color: #1B2A4A; font-size: 0.9rem; }
+
+.prose .phase-num {
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  background: #C41230;
+  color: #fff;
+  display: grid;
+  place-items: center;
+  font-weight: 700;
+  margin-bottom: 12px;
+}
+.prose .phase p { font-size: 0.95rem; margin-bottom: 10px; line-height: 1.55; }
+.prose .phase p strong { color: #1B2A4A; }
+
+/* FAQ accordion (native details/summary) */
+.prose .faq-item {
+  border: 1px solid #e5e5e5;
+  border-radius: 8px;
+  margin-bottom: 12px;
+  padding: 0 20px;
+  background: #fff;
+}
+.prose .faq-item summary {
+  font-weight: 600;
+  color: #1B2A4A;
+  cursor: pointer;
+  padding: 16px 28px 16px 0;
+  list-style: none;
+  position: relative;
+  font-size: 1.05rem;
+}
+.prose .faq-item summary::-webkit-details-marker { display: none; }
+.prose .faq-item summary::after {
+  content: "+";
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 1.5rem;
+  color: #C41230;
+  font-weight: 400;
+  line-height: 1;
+}
+.prose .faq-item[open] summary::after { content: "\2212"; }
+.prose .faq-item > div { padding: 0 0 16px; }
+.prose .faq-item > div p { margin-bottom: 8px; }
+
+/* Service-area chips */
+.prose .area-chips { display: flex; flex-wrap: wrap; gap: 10px; margin: 16px 0 8px; }
+.prose .area-chips a {
+  background: #F5F0EB;
+  color: #1B2A4A;
+  padding: 8px 16px;
+  border-radius: 20px;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.95rem;
+  border: 1px solid #e7ded4;
+}
+.prose .area-chips a:hover { background: #1B2A4A; color: #fff; }
+
+@media (max-width: 768px) {
+  .prose .pillars,
+  .prose .benefit-grid,
+  .prose .mini-grid,
+  .prose .prose-reviews,
+  .prose .process-phases { grid-template-columns: 1fr; }
 }
 .prose blockquote {
   border-left: 4px solid #C41230;

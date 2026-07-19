@@ -27,118 +27,119 @@ As local Oklahoma City homeowners ourselves, we understand those concerns. Our i
 
 ## Hometown Painting is your interior painting pro in the OKC Metro
 
-Communication
+<div class="pillars">
+  <div class="pillar-card">
+    <div class="pillar-icon">💬</div>
+    <h3>Communication</h3>
+    <ul>
+      <li>We listen to your goals and help you create a plan to update your home’s interior.</li>
+      <li>You’ll receive a detailed quote the same day we come out.</li>
+      <li>We keep you updated throughout the project with calls and texts.</li>
+    </ul>
+  </div>
+  <div class="pillar-card">
+    <div class="pillar-icon">🛡️</div>
+    <h3>Protect Your Home</h3>
+    <ul>
+      <li>We cover or move anything in the areas being painted before we start.</li>
+      <li>We keep an orderly job site and clean up when we’re done — fresh paint should be the only trace we were there.</li>
+    </ul>
+  </div>
+  <div class="pillar-card">
+    <div class="pillar-icon">🎨</div>
+    <h3>Expertise</h3>
+    <ul>
+      <li>From perfectly even walls to smooth finishes on cabinets and doors, we have the skill to make your home look impressive.</li>
+      <li>We use high-quality products and proven techniques for a paint job that lasts.</li>
+    </ul>
+  </div>
+</div>
 
-- We listen to your desires and help you create a plan to update your home’s interior.
-- You will receive a detailed quote the same day we come out.
-- Also, we will keep you updated throughout the painting process with calls and texts.
-
-Protect Your Home
-
-- Once the painting project begins, we make sure to cover or move anything in the areas being painted.
-- We will maintain an orderly job site and clean up when we are done. We want your freshly painted home to be the only trace a painting company was there.
-
-Expertise
-
-- Whether it’s a perfectly even color on your walls or a smooth finish on cabinets and doors, Hometown Painting has the experience and skill to make your home look impressive.
-- We use high quality products to make sure you have a lasting paint job. We use the best techniques to achieve the results you are looking for.
-
-[Contact Us](/contact-us/)
+<a class="prose-cta" href="/contact-us/">Contact Us →</a>
 
 ## Our Interior Painting Services in Oklahoma City
 
-![Interior Painting OKC5](/uploads/2024/03/Interior-Painting-OKC5.webp)
+![Interior painting project in Oklahoma City](/uploads/2024/03/Interior-Painting-OKC5.webp)
 
-**Make your home feel like you again:**
-Fresh interior paint instantly transforms the look and mood of your rooms. Whether you want calm, cozy spaces or bright, welcoming ones, the right colors make your home feel more like *your* home.
+<div class="benefit-grid">
+  <div class="benefit-card">
+    <h4>Make your home feel like you again</h4>
+    <p>Fresh interior paint instantly transforms the look and mood of your rooms. The right colors make your home feel more like <em>your</em> home.</p>
+  </div>
+  <div class="benefit-card">
+    <h4>Protect your investment</h4>
+    <p>Quality paint protects walls, trim, and cabinets from everyday wear, scuffs, moisture, and aging — helping you avoid bigger repairs down the road.</p>
+  </div>
+  <div class="benefit-card">
+    <h4>A clear, simple process</h4>
+    <p>We respond quickly, give a detailed on-site estimate, help with color choices, and keep you updated at every step.</p>
+  </div>
+  <div class="benefit-card">
+    <h4>Transparent pricing</h4>
+    <p>Most interior projects run <strong>$4–$8 per sq. ft.</strong>, depending on room size, prep, and colors. We walk you through every line item — no surprises.</p>
+  </div>
+</div>
 
-**Protect your investment:**
-Quality interior paint protects walls, trim, and cabinets from everyday wear, scuffs, moisture, and aging — helping you avoid bigger repairs down the road.
+### What We Paint Inside Your Home
 
-**A clear, simple process:**
-We respond quickly, provide a detailed on-site estimate, help you with color choices, and keep you updated at every step so you always know what’s happening in your home.
+<div class="mini-grid">
+  <div class="mini-card"><h4>Walls &amp; Ceilings</h4><p>Smooth, even coats for clean, updated spaces — perfect for refreshing tired rooms or changing a home’s whole mood.</p></div>
+  <div class="mini-card"><h4>Trim, Baseboards &amp; Doors</h4><p>These details make a huge difference. Crisp, clean trim and smooth doors elevate the entire room.</p></div>
+  <div class="mini-card"><h4>Cabinet Painting</h4><p>Smooth finishes with proper prep, sanding, priming, and durable enamel — great for kitchens, baths, and laundry rooms.</p></div>
+  <div class="mini-card"><h4>Drywall Repair &amp; Texture</h4><p>Dents, cracks, nail pops, and patchwork repaired before paint goes on, for a flawless final look.</p></div>
+  <div class="mini-card"><h4>Popcorn Ceiling Removal</h4><p>Safely removed or repaired for a more updated, modern interior.</p></div>
+  <div class="mini-card"><h4>Accent Walls</h4><p>A pop of color that reflects your style without overwhelming the space.</p></div>
+</div>
 
-**Transparent pricing:**
-Most interior painting projects range from **$4–$8 per sq. ft.**, depending on room size, prep work, and the number of colors. We walk you through every line item so there are no surprises.
-
-### Walls & Ceilings
-
-Smooth, even coats for clean, updated spaces. Painting a new color is great for refreshing tired rooms or changing the whole mood of your home.
-
-### Trim, Baseboards & Interior Doors
-
-These details make a **huge** difference. Crisp, clean trim and smooth doors elevate the entire room.
-
-### Cabinet Painting Service
-
-Smooth finishes using proper prep, sanding, priming, and durable enamel coatings. Great for Bathrooms, Kitchens and Laundry Rooms from cabinet painters who care.
-
-![5613NE107thSt Interior 25](/uploads/2025/05/5613NE107thSt-Interior-25.webp)
-
-### Drywall Repair & Texture Matching
-
-We can fix the walls before we ever start painting. Minor dents, cracks, nail pops, and patchwork are repaired before paint goes on, ensuring a flawless final look. We can even help with more extensive drywall repairs.
-
-### Popcorn Ceiling Removal & Repairs
-
-Safely removed or repaired for a more updated, modern interior.
-
-### Accent Walls
-
-Painting a pop of color reflects your style without overwhelming the space.
+![Cabinets painted in a recent Oklahoma City interior project](/uploads/2025/05/5613NE107thSt-Interior-25.webp)
 
 <a class="prose-cta" href="/contact-us/">Request a Free Quote →</a>
 
 ## Here’s What Our OKC Customers Say
 
-****Feliz**** **Ponkilla**
-
-
-**Homeowner in the Oklahoma City Area**
-
-“I can’t stop saying enough great things about Matt and his team. We had Matt’s company paint our old kitchen cabinets, coffee bar cabinets and walls. They had to refinish all the wood, paint twice with primer, twice with the color. Matt and his team were professional and meticulous. They did a beautiful job and we love the room. I show before and after pictures to everyone.”
-
-**Erin Baird**
-
-
-*Homeowner in the Oklahoma City Area*
-
-Hometown Painting and Matt did an outstanding job repainting my entire house! I had to leave town for work during the project, and they handled everything professionally and with great attention to detail. When I returned, the house looked amazing—better than I could have hoped for. I did notice two small areas that needed a touch-up, and Matt came right out to fix them without hesitation. The house looks fantastic now! Reliable, professional, and great to work with—I highly recommend Hometown Painting!
-
-****Rebecca C****
-
-
-**Homeowner in the Oklahoma City** Area
-
-“From my first call to the last, Hometown Painting was there to answer my questions and were very accommodating to come to our home and help us with color options when we were undecided. The painters were very efficient and detailed from start to finish. The painting process only took 3 days, and they painted almost the entire interior!! We love our new color!”
+<div class="prose-reviews">
+  <div class="p-review">
+    <div class="p-stars">★★★★★</div>
+    <p>“I can’t stop saying enough great things about Matt and his team. We had them paint our old kitchen cabinets, coffee bar cabinets and walls. They refinished all the wood, painted twice with primer and twice with color. Professional and meticulous. They did a beautiful job and we love the room. I show before and after pictures to everyone.”</p>
+    <cite>— Feliz Ponkilla · Oklahoma City</cite>
+  </div>
+  <div class="p-review">
+    <div class="p-stars">★★★★★</div>
+    <p>“Hometown Painting and Matt did an outstanding job repainting my entire house! I had to leave town for work and they handled everything professionally. When I returned, the house looked amazing — better than I could have hoped for. Two small areas needed a touch-up and Matt came right out to fix them. Reliable, professional, and great to work with — highly recommend!”</p>
+    <cite>— Erin Baird · Oklahoma City</cite>
+  </div>
+  <div class="p-review">
+    <div class="p-stars">★★★★★</div>
+    <p>“From my first call to the last, Hometown Painting answered my questions and were very accommodating with color options when we were undecided. The painters were efficient and detailed from start to finish. The whole thing took only 3 days and we love our new color!”</p>
+    <cite>— Rebecca C. · Oklahoma City</cite>
+  </div>
+</div>
 
 ## Our Simple Process For a Perfect Paint Job
 
-A Simple, Straightforward Process From Start to Finish
-
-1. Schedule Your Free Estimate
-
-**First Conversation**: We’ll chat about what you’re looking for, answer your questions, and schedule a time to visit your home that works for you.
-
-**In-Home Visit**: Your Project Consultant will look at the areas you want painted, discuss options, and provide a detailed estimate right then and there, no waiting.
-
-**Color Help:** Selecting paint colors for your walls and trim can seem overwhelming. With all the choices out there it’s hard to pick just one. We can help with a custom color consultation and samlpes.
-
-During Your Project
-
-**Clear Preparation**: We will cover floors and surrounding areas, remove switchplates, fill nail holes and any other prep that is needed to ensure a great paint job.
-
-**Careful Painting**: Our friendly team works efficiently while paying attention to the details, and we keep you updated throughout the process.
-
-**Final Walkthrough**: Together, we’ll check all the painted areas to make sure you’re completely happy with how everything turned out.
-
-After Your Project
-
-**Enjoy Your Beautiful Home!** Smile and relax knowing your home is protected and looks great.
-
-**Warranty**: You can rest easy. We stand by our work and will be happy to address any issues that arise after the work is completed.
-
-**Ongoing Support:** We want you be your painter for life, not just one project. Feel free to reach out any time about future projects.
+<div class="process-phases">
+  <div class="phase">
+    <div class="phase-num">1</div>
+    <h3>Schedule Your Estimate</h3>
+    <p><strong>First Conversation</strong> — We’ll talk through what you’re looking for, answer questions, and schedule a visit that works for you.</p>
+    <p><strong>In-Home Visit</strong> — Your consultant looks at the areas, discusses options, and gives a detailed estimate right then — no waiting.</p>
+    <p><strong>Color Help</strong> — Overwhelmed by choices? We offer a custom color consultation and samples.</p>
+  </div>
+  <div class="phase">
+    <div class="phase-num">2</div>
+    <h3>During Your Project</h3>
+    <p><strong>Clear Preparation</strong> — We cover floors, remove switchplates, fill nail holes, and handle any prep needed for a great result.</p>
+    <p><strong>Careful Painting</strong> — Our team works efficiently, pays attention to the details, and keeps you updated throughout.</p>
+    <p><strong>Final Walkthrough</strong> — Together we check every painted area to make sure you’re completely happy.</p>
+  </div>
+  <div class="phase">
+    <div class="phase-num">3</div>
+    <h3>After Your Project</h3>
+    <p><strong>Enjoy Your Home</strong> — Relax knowing your home is protected and looks great.</p>
+    <p><strong>Warranty</strong> — We stand by our work and are happy to address any issues that come up.</p>
+    <p><strong>Ongoing Support</strong> — We want to be your painter for life. Reach out anytime about future projects.</p>
+  </div>
+</div>
 
 ## Our Interior Painting Work
 
@@ -184,40 +185,49 @@ Or give us a call: (405) 400-1619
 
 ## Interior Painting FAQs
 
-### How much does it cost to paint a home’s interior in OKC?
+<details class="faq-item">
+  <summary>How much does it cost to paint a home’s interior in OKC?</summary>
+  <div>
+    <p>Interior painting in OKC averages $4–$8 per square foot. A lot of factors affect the price, so we customize each quote to your home. See our <a href="/pricing/interior-pricing/">interior pricing</a> page for more.</p>
+  </div>
+</details>
 
-The cost for interior painting in OKC averages $4-$8 per square foot. There are a lot of factors that affect the price to paint a house. We customize each quote to your home.
+<details class="faq-item">
+  <summary>What if I need help picking the color?</summary>
+  <div>
+    <p>We’re happy to help. We can recommend colors that have worked well for other clients and put samples up so you know exactly what it will look like. Sherwin-Williams also offers free <a href="https://www.sherwin-williams.com/en-us/virtual-color-consultation">virtual color consultations</a>.</p>
+  </div>
+</details>
 
-See our [interior pricing](/pricing/interior-pricing/) page for more information.
+<details class="faq-item">
+  <summary>How should I prepare for interior painting?</summary>
+  <div>
+    <p>We keep it simple. Just remove small or breakable items from the areas to be painted. We can move furniture to the center of the room and cover it, and we handle things like removing and reinstalling switchplates.</p>
+  </div>
+</details>
 
-### What if I need help picking the color?
+<details class="faq-item">
+  <summary>Do you offer a warranty on interior painting?</summary>
+  <div>
+    <p>Yes! We offer a written <a href="/professional-painters-okc/warranty/">warranty</a> on all our interior painting work. If an issue comes up after we leave, just let us know and we’ll make it right.</p>
+  </div>
+</details>
 
-We would be happy to help you pick a paint color. We can recommend colors that have worked well for clients in the past. We would be happy to put paint samples on for you so you will know exactly what it will look like.
-Also, Sherwin Williams offers free [virtual color consultations](https://www.sherwin-williams.com/en-us/virtual-color-consultation).
+<details class="faq-item">
+  <summary>How long does interior painting usually take?</summary>
+  <div>
+    <p>Most projects take 1–3 days, depending on the number of rooms and the amount of prep work needed.</p>
+  </div>
+</details>
 
-### How should I prepare for interior painting?
+## Interior Painters Near You in the OKC Metro
 
-We try to make the interior painting process as simple for you as possible. We ask that you remove any small or breakable items from the area to be painted. Usually, we can move any furniture to the center of the room and cover it. We also take care of things like removing and reinstalling switchplates.
+Serving Oklahoma City and the surrounding communities of Edmond, Yukon, Mustang, Bethany, and many others:
 
-### Do you offer a warranty on interior painting?
-
-Yes! We offer one year [warranties](/professional-painters-okc/warranty/) on all our interior painting work. If you have an issue after we leave please let us know so we can help you in the best way possible.
-
-### How long does interior painting usually take?
-
-Most projects take **1–3 days**, depending on the number of rooms and the amount of prep work needed.
-
-### Interior Painters Near You in Oklahoma City Metro – Serving Edmond, Yukon, Mustang & More
-
-This includes the towns of:
-
-- Oklahoma City
-- [Edmond](/painters-edmond-ok/)
-- [Mustang](/painters-mustang-ok/)
-- [Yukon](/painters-yukon-ok/)
-- [Bethany](/painters-bethany-ok/)
-- And Many Others…
-
-And Neighborhoods Like:
-
-- [Mesta Park](/mesta-park/)
+<div class="area-chips">
+  <a href="/painters-edmond-ok/">Edmond</a>
+  <a href="/painters-mustang-ok/">Mustang</a>
+  <a href="/painters-yukon-ok/">Yukon</a>
+  <a href="/painters-bethany-ok/">Bethany</a>
+  <a href="/mesta-park/">Mesta Park</a>
+</div>
