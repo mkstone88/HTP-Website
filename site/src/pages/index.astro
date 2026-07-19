@@ -30,8 +30,8 @@ const why = [
 ---
 <BaseLayout title={title} description={description}>
   <!-- HERO -->
-  <section class="hero" style="background-image: linear-gradient(rgba(27,42,74,0.88), rgba(27,42,74,0.72)), url('/uploads/2024/07/7113LostForestDr-14.webp');">
-    <div class="container hero-inner">
+  <section class="hero" style="background-image: linear-gradient(rgba(27,42,74,0.85), rgba(27,42,74,0.68)), url('/uploads/2024/07/7113LostForestDr-14.webp');">
+    <div class="container">
       <div class="hero-copy">
         <h1>Professional Painters OKC Homeowners Trust</h1>
         <p class="hero-sub">
@@ -44,11 +44,32 @@ const why = [
           <li>✓ Fully Insured</li>
           <li>✓ Free, On-the-Spot Estimates</li>
         </ul>
-        <a href={business.phoneHref} class="cta-phone">Call {business.phoneDisplay}</a>
+        <div class="hero-ctas">
+          <a href={business.phoneHref} class="cta-phone">Call {business.phoneDisplay}</a>
+          <a href="#estimate" class="cta-secondary">Get Your Free Estimate →</a>
+        </div>
       </div>
-      <div class="hero-form" id="quote-form">
+    </div>
+  </section>
+
+  <!-- ESTIMATE -->
+  <section class="estimate" id="estimate">
+    <div class="container estimate-inner">
+      <div class="estimate-copy">
         <h2>Get Your Free Estimate</h2>
-        <p>We'll respond within the hour.</p>
+        <p class="estimate-lead">
+          Tell us about your project and we'll respond within the hour — no pressure,
+          no obligation.
+        </p>
+        <ul class="estimate-points">
+          <li>✓ Free, on-the-spot estimates</li>
+          <li>✓ 5-year written warranty, interior &amp; exterior</li>
+          <li>✓ Fully insured, respectful crew</li>
+          <li>✓ Premium Sherwin-Williams paints</li>
+        </ul>
+        <p class="estimate-or">Prefer to talk now? <a href={business.phoneHref}>Call {business.phoneDisplay}</a></p>
+      </div>
+      <div class="estimate-form">
         <GHLForm formId={forms.homepage} title="Website Form - Homepage" height={560} />
       </div>
     </div>
@@ -123,7 +144,7 @@ const why = [
       <p>Free estimates, fast response, and a crew that treats your home like their own.</p>
       <a href={business.phoneHref} class="cta-phone">Call {business.phoneDisplay}</a>
       <p class="or-text">— or —</p>
-      <a href="#lead-form" class="btn-secondary">Fill Out the Form Above</a>
+      <a href="#estimate" class="btn-secondary">Get Your Free Estimate</a>
     </div>
   </section>
 </BaseLayout>

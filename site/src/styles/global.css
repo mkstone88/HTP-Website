@@ -178,6 +178,48 @@ body {
   transition: background 0.2s;
 }
 .cta-phone:hover { background: #a01020; }
+.hero .hero-copy { max-width: 640px; }
+.hero-ctas { display: flex; flex-wrap: wrap; gap: 14px; align-items: center; }
+.cta-secondary {
+  display: inline-block;
+  background: rgba(255, 255, 255, 0.12);
+  color: #fff;
+  border: 2px solid rgba(245, 240, 235, 0.7);
+  font-size: 1.1rem;
+  font-weight: 600;
+  padding: 12px 26px;
+  border-radius: 4px;
+  text-decoration: none;
+  transition: background 0.2s, border-color 0.2s;
+}
+.cta-secondary:hover { background: rgba(255, 255, 255, 0.22); border-color: #fff; }
+
+/* ESTIMATE SECTION */
+.estimate { background: #F5F0EB; padding: 64px 0; scroll-margin-top: 80px; }
+.estimate-inner {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 48px;
+  align-items: start;
+}
+.estimate-copy h2 {
+  font-family: 'DM Serif Display', serif;
+  font-size: 2rem;
+  color: #1B2A4A;
+  margin-bottom: 12px;
+}
+.estimate-lead { font-size: 1.05rem; color: #444; line-height: 1.6; margin-bottom: 22px; }
+.estimate-points { list-style: none; margin-bottom: 22px; }
+.estimate-points li { padding: 5px 0; font-weight: 500; color: #1B2A4A; }
+.estimate-or { color: #555; font-size: 1rem; }
+.estimate-or a { color: #C41230; font-weight: 600; text-decoration: none; }
+.estimate-or a:hover { text-decoration: underline; }
+.estimate-form {
+  background: #fff;
+  border-radius: 8px;
+  padding: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+}
 
 /* FORM */
 .hero-form {
@@ -445,6 +487,7 @@ body {
 /* RESPONSIVE */
 @media (max-width: 768px) {
   .hero-inner { grid-template-columns: 1fr; }
+  .estimate-inner { grid-template-columns: 1fr; gap: 28px; }
   .services-grid { grid-template-columns: 1fr; }
   .hero h1 { font-size: 1.8rem; }
   .review-grid { grid-template-columns: 1fr; }
