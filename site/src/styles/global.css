@@ -782,23 +782,38 @@ body {
   margin: 26px auto;
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.10);
 }
-/* Runs of 2+ consecutive image-only paragraphs flow as a tidy 2-up gallery.
-   Lone feature images are left full-width. */
-.prose p:has(> img:only-child):has(+ p:has(> img:only-child)),
+/* Runs of 2+ consecutive image-only paragraphs flow as a tidy photo grid
+   (2-up on phones, 3-up on desktop). Lone feature images stay full-width.
+   NOTE: the "followed by an image paragraph" half must use a plain relative
+   selector — :has(+ p > img:only-child) — NOT a nested :has(). Nesting :has()
+   inside :has() is invalid CSS and silently invalidates the WHOLE rule group,
+   which drops every gallery back to full-width stacked images. */
+.prose p:has(> img:only-child):has(+ p > img:only-child),
 .prose p:has(> img:only-child) + p:has(> img:only-child) {
   display: inline-block;
-  width: calc(50% - 8px);
+  width: calc(50% - 6px);
   vertical-align: top;
   margin: 0 0 10px;
   line-height: 0;
 }
-.prose p:has(> img:only-child):has(+ p:has(> img:only-child)) img,
+.prose p:has(> img:only-child):has(+ p > img:only-child) img,
 .prose p:has(> img:only-child) + p:has(> img:only-child) img {
   width: 100%;
-  height: 250px;
+  height: 240px;
   object-fit: cover;
   margin: 0;
+  border-radius: 10px;
   box-shadow: none;
+}
+@media (min-width: 760px) {
+  .prose p:has(> img:only-child):has(+ p > img:only-child),
+  .prose p:has(> img:only-child) + p:has(> img:only-child) {
+    width: calc(33.333% - 7px);
+  }
+  .prose p:has(> img:only-child):has(+ p > img:only-child) img,
+  .prose p:has(> img:only-child) + p:has(> img:only-child) img {
+    height: 220px;
+  }
 }
 
 /* ---- Service-page content components (rendered from raw HTML inside .prose) ---- */
