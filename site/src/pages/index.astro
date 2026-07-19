@@ -24,8 +24,19 @@ const reviews = [
 const why = [
   { icon: '🛡️', title: '5-Year Warranty — Interior & Exterior', body: 'If it peels, blisters, or fails under normal conditions, we fix it at no cost. No arguing, no fine print.' },
   { icon: '🎨', title: 'Premium Sherwin-Williams Paints', body: 'Duration, Emerald, and Cashmere — the products that hold up and look great long after the job is done.' },
-  { icon: '🏡', title: 'A Craft Passed Down', body: 'Matt learned painting from his grandfather Art. That care and attention to detail is built into everything we do.' },
+  { icon: '💬', title: 'Clear, Daily Communication', body: "Matt keeps you updated throughout the project — you always know what's happening and when. No ghosting, no surprises." },
   { icon: '📋', title: 'Fully Insured, Every Job', body: "Full liability and workers' comp on every project. You're protected from the first day to the last." },
+];
+
+// Recent Work strip — a curated mix of exterior, interior, cabinet, and staining
+// projects. Every tile links through to the full gallery.
+const work = [
+  { img: '/uploads/2023/09/608E.VictoriaTerrace-3.webp', alt: 'Exterior repaint of a stone and brick home in the OKC metro' },
+  { img: '/uploads/2022/08/IMG_0174-min-scaled.webp', alt: 'Craftsman-style home exterior painted gray with crisp white trim' },
+  { img: '/uploads/2023/09/9409SW32ndTer-Edited-1.webp', alt: 'Freshly painted interior with wood floors and detailed trim' },
+  { img: '/uploads/2025/05/5613NE107thSt-Interior-25.webp', alt: 'Kitchen and laundry cabinets painted a soft sage green' },
+  { img: '/uploads/2025/05/13521StonedaleDr-3-scaled.webp', alt: 'Front door painted a warm pink against fresh exterior trim' },
+  { img: '/uploads/2023/04/Fence-Staining-OKC.webp', alt: 'Backyard privacy fence stained a rich brown by Hometown Painting' },
 ];
 ---
 <BaseLayout title={title} description={description}>
@@ -49,6 +60,18 @@ const why = [
           <a href="#estimate" class="cta-secondary">Get Your Free Estimate →</a>
         </div>
       </div>
+    </div>
+  </section>
+
+  <!-- TRUST BAR -->
+  <section class="trustbar">
+    <div class="container trustbar-inner">
+      <span class="trustbar-stars">★★★★★</span>
+      <span class="trustbar-text"><strong>{business.rating.value} out of 5</strong> · {business.rating.count}+ Google Reviews</span>
+      <span class="trustbar-sep" aria-hidden="true"></span>
+      <span class="trustbar-item">5-Year Written Warranty</span>
+      <span class="trustbar-sep" aria-hidden="true"></span>
+      <span class="trustbar-item">Fully Insured &amp; Locally Owned</span>
     </div>
   </section>
 
@@ -95,6 +118,26 @@ const why = [
     </div>
   </section>
 
+  <!-- RECENT WORK -->
+  <section class="work">
+    <div class="container">
+      <div class="work-head">
+        <div>
+          <h2>Recent Work in the OKC Metro</h2>
+          <p class="section-sub">A few of the homes we've transformed across Oklahoma City.</p>
+        </div>
+        <a href="/gallery/" class="work-viewall">View Full Gallery →</a>
+      </div>
+      <div class="work-grid">
+        {work.map((w) => (
+          <a href="/gallery/" class="work-tile" aria-label="View our project gallery">
+            <img src={w.img} alt={w.alt} loading="lazy" width="600" height="400" />
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
   <!-- REVIEWS -->
   <section class="reviews">
     <div class="container">
@@ -109,6 +152,37 @@ const why = [
             <cite>— {r.cite}</cite>
           </div>
         ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- MEET MATT -->
+  <section class="about">
+    <div class="container about-inner">
+      <div class="about-photo">
+        <img
+          src="/uploads/2022/08/paint-owners-cropped-scaled.webp"
+          alt="Matt Stone, owner of Hometown Painting, with his wife"
+          width="600" height="720" loading="lazy" />
+      </div>
+      <div class="about-copy">
+        <p class="about-eyebrow">Meet Your Painter</p>
+        <h2>A Family Business, Not a Middleman</h2>
+        <p>
+          Hi, I'm Matt Stone. I learned this trade from my grandfather Art, and that same care
+          and attention to detail goes into every home we touch. When you hire Hometown Painting,
+          you're not handing your house to a rotating crew of subcontractors — you're working
+          directly with me and a team that treats your home like our own.
+        </p>
+        <p>
+          We show up when we say we will, keep you updated every day, protect your furniture and
+          floors, and leave the place cleaner than we found it — all backed by a 5-year written
+          warranty.
+        </p>
+        <div class="about-cta">
+          <a href={business.phoneHref} class="cta-phone">Call {business.phoneDisplay}</a>
+          <a href="#estimate" class="cta-secondary cta-secondary--dark">Get Your Free Estimate →</a>
+        </div>
       </div>
     </div>
   </section>
