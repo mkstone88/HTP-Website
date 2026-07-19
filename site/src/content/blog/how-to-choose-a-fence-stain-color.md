@@ -107,6 +107,6 @@ Some suppliers will carry a selection of the most popular colors in stock in you
 
 Sometimes, talking to someone who does staining for a living is the easiest way to pick the perfect color. They have likely seen many situations similar to yours and can recommend what has worked in the past.
 
-If you are a homeowner in the Oklahoma City Metro area, Hometown Painting LLC would be happy to assist you with fence stain color selection. You can simply put in a request on our [contact page](https://hometownpaintingokc.com/contact-us/) and someone will reach out within 24 hours.
+If you are a homeowner in the Oklahoma City Metro area, Hometown Painting LLC would be happy to assist you with fence stain color selection. You can simply put in a request on our [contact page](/contact-us/) and someone will reach out within 24 hours.
 
-Also, you can learn more about our [fence staining process here](https://hometownpaintingokc.com/fence-staining-okc/).
+Also, you can learn more about our [fence staining process here](/fence-staining-okc/).

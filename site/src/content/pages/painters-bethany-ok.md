@@ -24,7 +24,7 @@ We can help you protect your Bethany home.
 - Shutters
 - Doors and garage doors
 - Power Washing
-- [Learn More](https://hometownpaintingokc.com/exterior-painting-okc/)
+- [Learn More](/exterior-painting-okc/)
 
 ### Fence Staining
 
@@ -37,7 +37,7 @@ We can help you make your fence last longer and look great.
 - Wood Siding
 - Pergola staining
 - Deck staining
-- [Learn More](https://hometownpaintingokc.com/exterior-painting-okc/)
+- [Learn More](/exterior-painting-okc/)
 
 ### Interior Painting
 
@@ -50,7 +50,7 @@ We can help you make your interior inviting for your family and firends.
 - Doors
 - Cabinet painting
 - Accent Walls
-- [Learn More](https://hometownpaintingokc.com/exterior-painting-okc/)
+- [Learn More](/exterior-painting-okc/)
 
 ### Why we love painting in Bethany, OK
 
@@ -64,7 +64,7 @@ Matt Stone – Owner – [Hometown Painting LLC](/)
 
 ### Free Painting Estimates in Bethany, OK
 
-Whether you need interior, exterior, commercial, or residential painting, we offer free quotes to all homeowners in Bethany, Oklahoma. Please call us at (405) 400-1619 or visit our [contact page](https://hometownpaintingokc.com/contact-us/) to request your free estimate.
+Whether you need interior, exterior, commercial, or residential painting, we offer free quotes to all homeowners in Bethany, Oklahoma. Please call us at (405) 400-1619 or visit our [contact page](/contact-us/) to request your free estimate.
 
 ## FAQs: Painters Bethany, OK
 
@@ -74,7 +74,7 @@ Yes, Hometown Painting LLC carries both Worker’s Compensation and Liability in
 
 ### Is Hometown Painting a local Bethany company?
 
-Hometown Painting is locally owned right here in Bethany, Oklahoma. Matt and Rachel love serving our Bethany, OK neighbors. Please take the time to learn more [about our company](https://hometownpaintingokc.com/professional-painters-okc/).
+Hometown Painting is locally owned right here in Bethany, Oklahoma. Matt and Rachel love serving our Bethany, OK neighbors. Please take the time to learn more [about our company](/professional-painters-okc/).
 
 ### Which fence stain colors are popular in Bethany, OK?
 
@@ -82,7 +82,7 @@ Our most popular fence stain color in Bethany, OK is Cedar Tone by Wood Defender
 
 ### How often should I repaint my home in Bethany, Oklahoma?
 
-Since Bethany is a mature community, many of the homes in our town are older. These homes may need a little more maintenance than a newer home would. We suggest getting an estimate to paint any time you notice [problems with your exterior paint](https://hometownpaintingokc.com/when-to-paint-exterior/). On average, a home in Bethany will need to be repainted every 5 to 8 years.
+Since Bethany is a mature community, many of the homes in our town are older. These homes may need a little more maintenance than a newer home would. We suggest getting an estimate to paint any time you notice [problems with your exterior paint](/when-to-paint-exterior/). On average, a home in Bethany will need to be repainted every 5 to 8 years.
 
 ## Our Paint and Stain Work In Bethany, OK
 

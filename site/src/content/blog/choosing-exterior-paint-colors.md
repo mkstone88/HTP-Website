@@ -9,9 +9,9 @@ kind: "post"
 date: "2023-10-11"
 ---
 
-Choosing the best exterior paint colors for your home can seem like a daunting task. There are over 1700 colors available from Sherwin Williams alone. You may be choosing one color to compliment your home’s brick, or you may be choosing a complex color palette for a victorian home. For each of those projects and everything in between, [Hometown Painting](https://hometownpaintingokc.com/) would like to help OKC homeowners make the best paint color selection for their home’s exterior.
+Choosing the best exterior paint colors for your home can seem like a daunting task. There are over 1700 colors available from Sherwin Williams alone. You may be choosing one color to compliment your home’s brick, or you may be choosing a complex color palette for a victorian home. For each of those projects and everything in between, [Hometown Painting](/) would like to help OKC homeowners make the best paint color selection for their home’s exterior.
 
-From our years of experience with [exterior painting](https://hometownpaintingokc.com/exterior-painting-okc/) in the OKC metro, we have gathered some tips for you to keep in mind for your next exterior painting project. Use these as a guide to help you select your next paint color. Keep in mind that we are always here to help and you can [contact us](https://hometownpaintingokc.com/contact-us/) with your paint-related questions.
+From our years of experience with [exterior painting](/exterior-painting-okc/) in the OKC metro, we have gathered some tips for you to keep in mind for your next exterior painting project. Use these as a guide to help you select your next paint color. Keep in mind that we are always here to help and you can [contact us](/contact-us/) with your paint-related questions.
 
 ## Look To You Own Personal Style
 
@@ -37,7 +37,7 @@ Another great place to look for color inspiration is [Pinterest](https://pintere
 
 ## Match The Other Elements Of Your Home
 
-There are going to be some elements on your home’s exterior that you can’t change. This might include exterior brick or stone. Your house may need to coordinate with your [fence stain color](https://hometownpaintingokc.com/how-to-choose-a-fence-stain-color/). You will also have to consider the roof color as well. It is important to check if the exterior paint color you are considering will coordinate with these parts of your home.
+There are going to be some elements on your home’s exterior that you can’t change. This might include exterior brick or stone. Your house may need to coordinate with your [fence stain color](/how-to-choose-a-fence-stain-color/). You will also have to consider the roof color as well. It is important to check if the exterior paint color you are considering will coordinate with these parts of your home.
 
 One way to test whether the colors will coordinate is to match warm colors and cool colors. If your brick or stone is a warm color or has a warm undertone, painting a cool color next to it will likely clash. You can learn more about [warm vs. cool colors here](https://www.benjaminmoore.com/en-us/color-overview/color-insights/warm-and-cool-colors). Also, consider reading this article on [identifying undertones in exterior surfaces](https://papermoonpainting.com/identifying-undertones-in-exterior-paint-colors/).
 

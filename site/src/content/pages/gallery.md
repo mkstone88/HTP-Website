@@ -76,4 +76,4 @@ Interior and Exterior Painting In the OKC Metro
 
 Contact us today to speak to experienced, local painters in the OKC metro.
 
-[Contact Us](https://hometownpaintingokc.com/contact-us/)
+[Contact Us](/contact-us/)

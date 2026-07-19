@@ -35,7 +35,7 @@ We follow a proven, step-by-step **cabinet painting process** to ensure a flawle
 
 Whether you need a single room refreshed or your home’s entire exterior painted, we’re here to make it simple and stress-free.
 
-[Get Your On-the-Spot Estimate](https://hometownpaintingokc.com/contact-us/)
+[Get Your On-the-Spot Estimate](/contact-us/)
 
 Or give us a call: (405) 400-1619
 
@@ -80,6 +80,6 @@ Ready to give your kitchen a fresh, modern look? Contact Hometown Painting for a
 
 Whether you need a single room refreshed or your home’s entire exterior painted, we’re here to make it simple and stress-free.
 
-[Get Your On-the-Spot Estimate](https://hometownpaintingokc.com/contact-us/)
+[Get Your On-the-Spot Estimate](/contact-us/)
 
 Or give us a call: (405) 400-1619

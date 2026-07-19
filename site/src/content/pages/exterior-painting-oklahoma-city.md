@@ -9,7 +9,7 @@ draft: false
 
 Local, Professional Exterior Painters in OKC
 
-Request a Free Quote
+<a class="prose-cta" href="/contact-us/">Request a Free Quote →</a>
 
 ## Tired of Peeling Paint or Faded Colors?
 
@@ -64,7 +64,6 @@ Our Painting Services Include:
 
 ****Denise Conover****
 
-![Untitled 300 × 100](/uploads/2023/09/Untitled-300-×-100-px.webp)
 
 **Homeowner in the Oklahoma City Area**
 
@@ -72,7 +71,6 @@ Our Painting Services Include:
 
 **Allen Fredrickson**
 
-![Untitled 300 × 100](/uploads/2023/09/Untitled-300-×-100-px.webp)
 
 *Homeowner in the Oklahoma City Area*
 
@@ -80,7 +78,6 @@ Our Painting Services Include:
 
 ****Jeff MacEntire****
 
-![Untitled 300 × 100](/uploads/2023/09/Untitled-300-×-100-px.webp)
 
 **Homeowner in the Oklahoma City Area**
 
@@ -130,7 +127,7 @@ I was very pleased with the job they did. Matt is personable, had good communica
 
 ![7113LostForestDr 14](/uploads/2024/07/7113LostForestDr-14.webp)
 
-[See More](https://hometownpaintingokc.com/gallery/)
+[See More](/gallery/)
 
 ## Work with us: The Hometown Painting Story
 
@@ -142,7 +139,7 @@ I admire the craftsmanship and integrity of my grandfather’s generation of pai
 
 We’re proud to be a family owned and operated company. My wife, Rachel, has played a vital role in making Hometown Painting what it is today.
 
-Please take some more time to learn [about us here](https://hometownpaintingokc.com/professional-painters-okc).
+Please take some more time to learn [about us here](/professional-painters-okc).
 
 – *Matt Stone*
 
@@ -154,7 +151,7 @@ Matt and Rachel Stone
 
 Whether you need a single room refreshed or your home’s entire exterior painted, we’re here to make it simple and stress-free.
 
-Request a Free Quote
+<a class="prose-cta" href="/contact-us/">Request a Free Quote →</a>
 
 Or give us a call: (405) 400-1619
 
@@ -169,7 +166,7 @@ There are many factors that affect the price to paint a house in Oklahoma City.
 – The amount of surfaces to be painted.
 – The condition of the house and the amount of preparation needed.
 
-The best way to find out the exact price to paint the exterior of your home is to request a [free estimate](https://hometownpaintingokc.com/contact-us/). For more information about exterior painting prices check our our [pricing page](https://hometownpaintingokc.com/pricing/exterior-pricing/).
+The best way to find out the exact price to paint the exterior of your home is to request a [free estimate](/contact-us/). For more information about exterior painting prices check our our [pricing page](/pricing/exterior-pricing/).
 
 ### How long does exterior paint last in OKC?
 
@@ -187,7 +184,7 @@ There are several signs that tell you it’s time to paint your house’s exteri
 – Cracking caulk.
 – Color fading.
 
-You can learn more about [exterior paint problems](https://hometownpaintingokc.com/when-to-paint-exterior/).
+You can learn more about [exterior paint problems](/when-to-paint-exterior/).
 Hometown Painting LLC can help you with a free house exterior inspection.
 
 ### How long does it take to paint the exterior of a house?

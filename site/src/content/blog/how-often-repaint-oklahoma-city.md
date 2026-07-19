@@ -9,7 +9,7 @@ kind: "post"
 date: "2025-12-08"
 ---
 
-We provide **[exterior painting](https://hometownpaintingokc.com/exterior-painting-oklahoma-city/) in the OKC metro**, and one of the most common questions we hear is how often you really need to repaint? Homeowners want to keep their houses protected and looking sharp, but Oklahoma’s weather can be tough on exterior surfaces. Sun, wind, humidity, and storms all play a role in how long your paint will last.
+We provide **[exterior painting](/exterior-painting-oklahoma-city/) in the OKC metro**, and one of the most common questions we hear is how often you really need to repaint? Homeowners want to keep their houses protected and looking sharp, but Oklahoma’s weather can be tough on exterior surfaces. Sun, wind, humidity, and storms all play a role in how long your paint will last.
 
 This guide breaks down what typical repaint cycles look like in the Oklahoma City area, and what might make your home fall on the shorter or longer side of that timeline.
 
@@ -93,7 +93,7 @@ As a general guideline, here’s how often you should plan to repaint different 
 
 ![IMG 08911 scaled](/uploads/2022/11/IMG_08911-scaled.webp)
 
-While the general timelines provided can guide you, observing your house’s condition is the best way to [know if it’s time to paint](https://hometownpaintingokc.com/best-time-of-year-paint-exterior-oklahoma/). Here are some telltale signs that your house may need a new coat of paint:
+While the general timelines provided can guide you, observing your house’s condition is the best way to [know if it’s time to paint](/best-time-of-year-paint-exterior-oklahoma/). Here are some telltale signs that your house may need a new coat of paint:
 
 - Peeling or Chipping Paint: This is one of the most obvious signs that your home needs a new paint job. Peeling or chipping indicates that the existing paint is no longer protecting the surface, which can leave your siding vulnerable to damage.
 - Fading Color: Over time, paint colors can fade, especially if they’re exposed to direct sunlight for most of the day. If your once vibrant paint job looks washed out and dull, it’s time to repaint.

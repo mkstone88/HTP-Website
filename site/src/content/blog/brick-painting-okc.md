@@ -91,6 +91,6 @@ The homeowners were very pleased with how the brick turned out. The creamy white
 
 Would you like a quote to paint your brick? Do you have questions?
 
-[Request a free quote!](https://hometownpaintingokc.com/contact-us/)
+[Request a free quote!](/contact-us/)
 
-Are you interested in having your brick painted? You can [request a free quote](https://hometownpaintingokc.com/contact-us/) from Hometown Painting LLC. Or you can learn about our other [exterior painting services](https://hometownpaintingokc.com/exterior-painting-okc/).
+Are you interested in having your brick painted? You can [request a free quote](/contact-us/) from Hometown Painting LLC. Or you can learn about our other [exterior painting services](/exterior-painting-okc/).

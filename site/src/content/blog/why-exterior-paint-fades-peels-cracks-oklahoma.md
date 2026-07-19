@@ -13,7 +13,7 @@ One of the questions we hear most often is why some homes seem to fade or peel f
 
 The good news is that once you understand *why* paint fails, you’re in a better position to choose the right products and make sure the job is done right.
 
-I’ll explain why exterior paint fades, cracks and peels and how to get the most out of your next [exterior paint job](https://hometownpaintingokc.com/exterior-painting-oklahoma-city/).
+I’ll explain why exterior paint fades, cracks and peels and how to get the most out of your next [exterior paint job](/exterior-painting-oklahoma-city/).
 
 ## **1. Fading: Oklahoma’s Sun Is Stronger Than It Looks**
 
@@ -34,7 +34,7 @@ Peeling usually isn’t about the paint, it’s about the *surface underneath*. 
 
 ### **Poor prep work.**
 
-If the surface wasn’t cleaned, scraped, sanded, primed, or caulked properly, the new coating never had a fair shot. Moisture sneaks in, the paint lifts, and before long you’re dealing with entire sheets of paint sloughing off. It may [cost more](https://hometownpaintingokc.com/pricing/exterior-painting-cost-oklahoma-city/) to do proper prep us front, but in the long run it always make sense.
+If the surface wasn’t cleaned, scraped, sanded, primed, or caulked properly, the new coating never had a fair shot. Moisture sneaks in, the paint lifts, and before long you’re dealing with entire sheets of paint sloughing off. It may [cost more](/pricing/exterior-painting-cost-oklahoma-city/) to do proper prep us front, but in the long run it always make sense.
 
 Common causes of peeling include:
 

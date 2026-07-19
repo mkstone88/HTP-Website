@@ -68,7 +68,7 @@ While it may be your desire to make your whole home relaxing, some may feel this
 
 ## Tips For Creating a Relaxing Color Palette
 
-#1 Choose no more than three colors. These colors would include everything in the room. Paint, [trim](https://hometownpaintingokc.com/which-paint-should-i-use-on-trim-and-doors/), furniture, textiles, and accessories.
+#1 Choose no more than three colors. These colors would include everything in the room. Paint, [trim](/which-paint-should-i-use-on-trim-and-doors/), furniture, textiles, and accessories.
 
 #2 Using a [monochromatic scheme](https://www.pinterest.com/lorraineminogue/monochromatic-color-scheme/) is a simple, sophisticated way to achieve a relaxing color palette. Interest can be added through decor accessories, hardware finishes, and lighting choices.
 
@@ -76,4 +76,4 @@ While it may be your desire to make your whole home relaxing, some may feel this
 
 ## Choose The Right Sheen For Your Paint
 
-Sheen refers to how much light a paint reflects. The glossier the sheen, the shiner the paint will look, and the more light it will reflect. Flat and Matte sheens with little shine will give the most relaxing look to a room. Consider choosing a satin finish for woodwork and trim and an eggshell finish for walls. For more information about sheen, read our [paint sheen guide](https://hometownpaintingokc.com/how-to-choose-the-best-sheen-or-gloss/).
+Sheen refers to how much light a paint reflects. The glossier the sheen, the shiner the paint will look, and the more light it will reflect. Flat and Matte sheens with little shine will give the most relaxing look to a room. Consider choosing a satin finish for woodwork and trim and an eggshell finish for walls. For more information about sheen, read our [paint sheen guide](/how-to-choose-the-best-sheen-or-gloss/).

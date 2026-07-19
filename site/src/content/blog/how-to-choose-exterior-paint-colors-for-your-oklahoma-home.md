@@ -11,7 +11,7 @@ date: "2025-12-29"
 
 Choosing exterior paint colors can feel overwhelming. Walk into any paint store and you’re staring at thousands of options. Add in the fact that this decision will be on display for the next seven to ten years, and it’s easy to get stuck.
 
-The good news? We help hundreds of OKC homeowners [paint their homes](https://hometownpaintingokc.com/exterior-painting-oklahoma-city/) every year and we have found some simple ways to narrow down your options and choose a great color.
+The good news? We help hundreds of OKC homeowners [paint their homes](/exterior-painting-oklahoma-city/) every year and we have found some simple ways to narrow down your options and choose a great color.
 
 You don’t need a design degree or perfect taste. And honestly, there’s not just one perfect color for your home. You just need a simple process to narrow down the colors that actually works with your home, and then pick the one that looks best to you.
 
@@ -23,13 +23,13 @@ Before you look at a single paint chip, take stock of what’s already there.
 
 Your roof is the biggest factor. It covers a huge portion of your home’s exterior, and you’re not replacing it just to match a paint color. If your roof is brown or terracotta, you’ll want paint colors that complement those warm tones. If your roof is gray or black, cooler paint tones tend to look more cohesive.
 
-Brick, stone, and other permanent materials matter just as much. These aren’t going anywhere, so your paint needs to work with them. Take a few photos of your brick or stone in different lighting throughout the day. You’ll start to notice undertones you didn’t see before. Maybe your “red” brick actually has a lot of orange, or your stone has hints of gray or tan. Now if the color of your brick just won’t work with the colors you prefer, you can consider [painting the brick](https://hometownpaintingokc.com/brick-painting-okc/) too.
+Brick, stone, and other permanent materials matter just as much. These aren’t going anywhere, so your paint needs to work with them. Take a few photos of your brick or stone in different lighting throughout the day. You’ll start to notice undertones you didn’t see before. Maybe your “red” brick actually has a lot of orange, or your stone has hints of gray or tan. Now if the color of your brick just won’t work with the colors you prefer, you can consider [painting the brick](/brick-painting-okc/) too.
 
 Your neighborhood’s overall character is worth considering too. We’re not saying you need to match your neighbors, but a bright turquoise house on a street full of traditional brick ranches might feel out of place. Respecting the general feel of your area usually leads to better results.
 
 ## A Little Color Theory (Without the Confusion)
 
-You don’t need to become an expert to pick the [perfect paint](https://hometownpaintingokc.com/best-exterior-paint-oklahoma-weather/), but understanding a few basics helps.
+You don’t need to become an expert to pick the [perfect paint](/best-exterior-paint-oklahoma-weather/), but understanding a few basics helps.
 
 **Warm colors and cool colors.** Warm colors have red, orange, or yellow undertones. Think beiges, tans, creamy whites, soft yellows. Cool colors lean toward blue, green, or gray. If your brick or stone has warm red or orange tones, warm paint colors usually look better. If your existing materials are gray or blue-toned, cooler colors make more sense.
 

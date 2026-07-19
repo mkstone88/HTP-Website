@@ -17,17 +17,17 @@ We are the painters in Mustang, OK homeowners can turn to for all their resident
 
 ![608E.VictoriaTerrace 3 scaled](/uploads/2023/09/608E.VictoriaTerrace-3-scaled.webp)
 
-[Exterior Painting](https://hometownpaintingokc.com/exterior-painting-okc/)
+[Exterior Painting](/exterior-painting-okc/)
 
 1. Siding Painting
 2. Trim and Doors
-3. [Brick Painting](https://hometownpaintingokc.com/brick-painting-okc/)
+3. [Brick Painting](/brick-painting-okc/)
 4. Soffit and Fascia
 5. Pressure Washing
 
 ![interior of a home in edmond ok with fresh paint on the walls](/uploads/2022/11/living-room-paint-edmond.webp)
 
-[Interior Painting](https://hometownpaintingokc.com/interior-painting-okc/)
+[Interior Painting](/interior-painting-okc/)
 
 1. Wall Painting
 2. Trim and Doors
@@ -37,7 +37,7 @@ We are the painters in Mustang, OK homeowners can turn to for all their resident
 
 ![oxford brown fence in okc scaled](/uploads/2023/02/oxford-brown-fence-in-okc-scaled.webp)
 
-[Fence Staining](https://hometownpaintingokc.com/fence-staining-okc/)
+[Fence Staining](/fence-staining-okc/)
 
 1. Fence Staining
 2. Power Washing
@@ -47,7 +47,6 @@ We are the painters in Mustang, OK homeowners can turn to for all their resident
 
 “Everyone one is super friendly, did an amazing job! Our fence turned out great, it was exactly what we wanted! I will definitely recommend them to family and friends!!”
 
-![Untitled 300 × 100](/uploads/2023/09/Untitled-300-×-100-px.webp)
 
 Casey M.
 
@@ -95,13 +94,13 @@ Benefits of Duration exterior paint
 - Resists fading and peeling.
 - Designed to be a long lasting paint.
 
-Learn more about [exterior painting](https://hometownpaintingokc.com/exterior-painting-okc/).
+Learn more about [exterior painting](/exterior-painting-okc/).
 
 ## Ready to Paint? Just have questions?
 
 Contact us today to speak to experienced, local,  professional painters in the OKC metro.
 
-[Contact Us](https://hometownpaintingokc.com/contact-us/)
+[Contact Us](/contact-us/)
 
 ### **Fence Staining Mustang, OK**
 
@@ -128,7 +127,7 @@ Our fence stain protects against…
 - Harmful UV rays
 - Mildew growth
 
-Learn more about [Fence Staining](https://hometownpaintingokc.com/fence-staining-okc/).
+Learn more about [Fence Staining](/fence-staining-okc/).
 
 ### **Interior Painting Mustang, OK**
 
@@ -139,13 +138,12 @@ Interior Paint can transform a space.
 - Express your style: When you pick the colors your home becomes a reflection of who you are.
 - Make it fresh: Your walls and woodwork can look like new again.
 
-Learn more about [interior painting](https://hometownpaintingokc.com/interior-painting-okc/).
+Learn more about [interior painting](/interior-painting-okc/).
 
 ![interior of a living room that was painted with Sherwin Williams paint](/uploads/2022/11/interior-painting-bethany-ok.webp "interior painting bethany ok")
 
 Great service very professional and knowledgeable. Here when they said they would be. Done when they said they would be. Cleaned up after they finished. No mess left behind. Estimate was the best and we got no surprise up charges.
 
-![Untitled 300 × 100](/uploads/2023/09/Untitled-300-×-100-px.webp)
 
 Jonni
 
@@ -165,7 +163,7 @@ Jonni
 
 We’re proud to be a family owned and operated company. My grandfather was a painter, and he passed his skills and inspiration to me. I even began working as a painter while using my grandfather’s old paint sprayer.
 
-Please take some more time to learn [about us here](https://hometownpaintingokc.com/professional-painters-okc).  – Matt Stone – Owner Hometown Painting LLC
+Please take some more time to learn [about us here](/professional-painters-okc).  – Matt Stone – Owner Hometown Painting LLC
 
 ![old picture of a painter in front of a truck](/uploads/2022/08/50s-Young-Painter.webp)
 
@@ -181,4 +179,4 @@ Yes, we carry both liability and worker’s comp insurance.
 
 ### How can I get a free estimate in Mustang, OK?
 
-You can call us Monday to Friday from 8:00 to 5:00 at (405) 400-1619. Or you can request a free quote on our [contact page](https://hometownpaintingokc.com/contact-us/).
+You can call us Monday to Friday from 8:00 to 5:00 at (405) 400-1619. Or you can request a free quote on our [contact page](/contact-us/).

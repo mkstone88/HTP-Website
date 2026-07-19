@@ -9,7 +9,7 @@ kind: "post"
 date: "2025-12-08"
 ---
 
-We provide [exterior painting](https://hometownpaintingokc.com/exterior-painting-oklahoma-city/) in the OKC metro, and homeowners often ask how to tell when their house truly needs repainting. Paint failures aren’t always dramatic at first. They usually start small: subtle fading, hairline cracks, or caulk pulling away. And, those early signs are easy to overlook.
+We provide [exterior painting](/exterior-painting-oklahoma-city/) in the OKC metro, and homeowners often ask how to tell when their house truly needs repainting. Paint failures aren’t always dramatic at first. They usually start small: subtle fading, hairline cracks, or caulk pulling away. And, those early signs are easy to overlook.
 
 But the sooner you catch them, the less likely you’ll face wood rot, swelling trim, or expensive repairs down the road.
 
@@ -87,7 +87,7 @@ If trim boards are:
 Even if the paint still “looks fine,” most homes in the Oklahoma City area reach the end of their protective life around this point.
 Climate, storm exposure, and paint quality all play a role.
 
-If you’re unsure what’s typical, we explain [how often most Oklahoma homes need repainting](https://hometownpaintingokc.com/how-often-repaint-oklahoma-city/) in more detail.
+If you’re unsure what’s typical, we explain [how often most Oklahoma homes need repainting](/how-often-repaint-oklahoma-city/) in more detail.
 
 ## **10. You’re Preparing to Sell or Improve Curb Appeal**
 
@@ -115,4 +115,4 @@ Even if you’re staying put, a tired exterior can make the whole home feel olde
 Spotting these issues early can save you from costly repairs and protect your home’s structure.
 If you’ve noticed more than a couple of these signs, your home is likely ready for a professional repaint.
 
-If you’d like a straightforward assessment of your home’s exterior, our team is happy to help. We offer detailed, on-the-spot estimates and a clear plan for protecting your home with a [quality repaint](https://hometownpaintingokc.com/exterior-painting-oklahoma-city/).
+If you’d like a straightforward assessment of your home’s exterior, our team is happy to help. We offer detailed, on-the-spot estimates and a clear plan for protecting your home with a [quality repaint](/exterior-painting-oklahoma-city/).

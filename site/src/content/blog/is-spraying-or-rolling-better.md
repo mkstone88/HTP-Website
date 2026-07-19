@@ -9,13 +9,13 @@ kind: "post"
 date: "2023-10-06"
 ---
 
-From time to time we have clients request that we use a roller and brush to paint their home’s exterior. They seem to think that this will result in a better finish. But is that really true? It makes some sense that a “hand done” job will be better that what a machine can do. Read below to get the truth from a [professional painting company](https://hometownpaintingokc.com/exterior-painting-okc/).
+From time to time we have clients request that we use a roller and brush to paint their home’s exterior. They seem to think that this will result in a better finish. But is that really true? It makes some sense that a “hand done” job will be better that what a machine can do. Read below to get the truth from a [professional painting company](/exterior-painting-okc/).
 
 ## Rolling vs. Spraying
 
 What does Hometown Painting do?
 
-The quick answer is that in the hands of an experienced professional a paint sprayer is just as good, if not better, than a brush and roller approach. Paint sprayers are a normal part of our [exterior painting process](https://hometownpaintingokc.com/exterior-painting-okc/).
+The quick answer is that in the hands of an experienced professional a paint sprayer is just as good, if not better, than a brush and roller approach. Paint sprayers are a normal part of our [exterior painting process](/exterior-painting-okc/).
 
 So why then do so many people think that a brush and roller is better? The most common reason I hear given is the thickness of the paint being applied.
 
@@ -54,4 +54,4 @@ A paint sprayer will result in a smoother finish than a roller or brush. This wi
 
 ### Spraying Paint is Not as Easy as it Looks.
 
-A paint sprayer requires experience and skill to use correctly. If you would like to talk to a professional painter about your next project, visit our [contact page](https://hometownpaintingokc.com/contact-us/) for more details.
+A paint sprayer requires experience and skill to use correctly. If you would like to talk to a professional painter about your next project, visit our [contact page](/contact-us/) for more details.

@@ -9,7 +9,7 @@ kind: "post"
 date: "2023-10-06"
 ---
 
-While staining a fence is within the ability of many homeowners, there are many ways it can go wrong. The safest bet is to [hire a pro to stain your fence](https://hometownpaintingokc.com/fence-staining-okc/), but of course this costs more. If you are “on the fence” about whether to hire someone or do the fence staining yourself, consider these reasons you may want to hire a pro.
+While staining a fence is within the ability of many homeowners, there are many ways it can go wrong. The safest bet is to [hire a pro to stain your fence](/fence-staining-okc/), but of course this costs more. If you are “on the fence” about whether to hire someone or do the fence staining yourself, consider these reasons you may want to hire a pro.
 
 ## A Professional Can Achieve High-Quality Results.
 
@@ -24,7 +24,7 @@ Can you guess which of these two fences was stained by a pro? Uneven or splotchy
 
 ![a pro stained this fence](/uploads/2022/11/professionally-stained-fence.webp)
 
-As a pro fence stainer, I come accross fences like the one above all the time and wonder if the homeowner wishes they had gotten an [estimate from Hometown Painting](https://hometownpaintingokc.com/contact-us/) first.
+As a pro fence stainer, I come accross fences like the one above all the time and wonder if the homeowner wishes they had gotten an [estimate from Hometown Painting](/contact-us/) first.
 
 ## A Pro Can Recommend the Best Products.
 
@@ -54,4 +54,4 @@ Probably the biggest reason to hire a fence stain pro is that it saves you time.
 
 My guess is you would rather spend time enjoying your backyard than staining the fence.
 
-If you would like to get a free estimate for a fence stain in the Oklahoma City Metro area you can [request a free estimate](https://hometownpaintingokc.com/contact-us/).
+If you would like to get a free estimate for a fence stain in the Oklahoma City Metro area you can [request a free estimate](/contact-us/).

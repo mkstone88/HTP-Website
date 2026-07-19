@@ -109,8 +109,8 @@ Semi-transparent stains use stronger pigments than transparent. They cover more 
 
 ![split rail fence with sable brown stain](/uploads/2022/09/Fence-Stain-Edmond-3.webp)
 
-If you need help selecting a color you can visit our [fence stain color selection guide](https://hometownpaintingokc.com/how-to-choose-a-fence-stain-color/).
+If you need help selecting a color you can visit our [fence stain color selection guide](/how-to-choose-a-fence-stain-color/).
 
-Or you can [schedule a free quote](https://hometownpaintingokc.com/contact-us/) and we would be happy to assist you with choosing a color.
+Or you can [schedule a free quote](/contact-us/) and we would be happy to assist you with choosing a color.
 
 To see a more complete selection of fence stain colors please visit the [Wood Defender](https://wooddefender.com/buy-online/) website.

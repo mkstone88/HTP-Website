@@ -37,4 +37,4 @@ We want to make updating your home as easy as possible. We look at your free est
 
 Contact us today to speak to experienced, local,  professional painters in the OKC metro.
 
-[Contact Us](https://hometownpaintingokc.com/contact-us/)
+[Contact Us](/contact-us/)

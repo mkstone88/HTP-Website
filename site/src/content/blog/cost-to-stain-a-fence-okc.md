@@ -72,7 +72,7 @@ If the fence is older it may take some work to prepare it for stain. Typical pre
 - Small repairs
 - Trimming bushes etc. that may have grown against the fence
 
-Each of these additional steps would add to the cost of staining your fence. Check with a local [fence stain contractor](https://hometownpaintingokc.com/fence-staining-okc/) to see what preparation your fence may need before staining.
+Each of these additional steps would add to the cost of staining your fence. Check with a local [fence stain contractor](/fence-staining-okc/) to see what preparation your fence may need before staining.
 
 #### What Type of Stain is Being Used?
 
@@ -182,4 +182,4 @@ This fence surrounds a very large backyard in south Oklahoma City.
 
 The easiest way know what your fence staining will cost is to find a fence staining contractor that offers free quotes. A quality contractor will listen to what you want and will recommend the best products and methods to stain your fence.
 
-If you live in the OKC metro area feel free to contact Hometown Painting and [schedule a free fence stain estimate](https://hometownpaintingokc.com/contact-us/). Or learn more about [our staining process](https://hometownpaintingokc.com/fence-staining-okc/) here.
+If you live in the OKC metro area feel free to contact Hometown Painting and [schedule a free fence stain estimate](/contact-us/). Or learn more about [our staining process](/fence-staining-okc/) here.

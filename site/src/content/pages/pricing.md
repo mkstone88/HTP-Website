@@ -29,7 +29,7 @@ draft: false
 
 Many factors can affect where your project may fall in this range. Click below for more information.
 
-[Exterior Paint Pricing](https://hometownpaintingokc.com/pricing/exterior-pricing/)
+[Exterior Paint Pricing](/pricing/exterior-pricing/)
 
 ## Interior Painting
 
@@ -39,7 +39,7 @@ Many factors can affect where your project may fall in this range. Click below f
 
 This depends on whether we will paint the walls and ceilings or if the woodwork is included. Learn more about what affects the price of interior painting below.
 
-[Interior Paint Pricing](https://hometownpaintingokc.com/pricing/interior-pricing/)
+[Interior Paint Pricing](/pricing/interior-pricing/)
 
 ## Fence Staining
 
@@ -49,7 +49,7 @@ This depends on whether we will paint the walls and ceilings or if the woodwork 
 
 The size of the yard is the biggest determining factor but there are other considerations as well. Click below to learn more about the costs of staining an Oklahoma fence.
 
-[Fence Stain Pricing](https://hometownpaintingokc.com/cost-to-stain-a-fence-okc/)
+[Fence Stain Pricing](/cost-to-stain-a-fence-okc/)
 
 ## **Understanding Factors That Influence Paint Job Costs**
 

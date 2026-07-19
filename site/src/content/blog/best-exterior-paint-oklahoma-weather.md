@@ -122,7 +122,7 @@ While full priming of an entire home is usually not necessary, there are some si
 - Weather-damaged spots
 - Stained or tannin-rich surfaces
 
-Primer choice depends on what we uncover during preparation. A clean, stable surface allows both the primer and paint to do their jobs. Another reason your exterior should be [prepped thoroughly](https://hometownpaintingokc.com/exterior-painting-prep-work-oklahoma-city/). If you’d like to see exactly what that involves, we break it down here: the products we pair with our prep process (insert your actual link).
+Primer choice depends on what we uncover during preparation. A clean, stable surface allows both the primer and paint to do their jobs. Another reason your exterior should be [prepped thoroughly](/exterior-painting-prep-work-oklahoma-city/). If you’d like to see exactly what that involves, we break it down here: the products we pair with our prep process (insert your actual link).
 
 # **Which Paint Lasts the Longest in Oklahoma?**
 

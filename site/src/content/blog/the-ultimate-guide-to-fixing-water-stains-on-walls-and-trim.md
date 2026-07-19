@@ -9,7 +9,7 @@ kind: "post"
 date: "2023-04-13"
 ---
 
-Water stains can be a nightmare for homeowners. These pesky stains can be unsightly and make a room feel unclean, even if it is spotless. Not to mention, if left untreated, water stains can lead to mold growth and further damage to the structure of your home. As an Oklahoma homeowner, it’s important to understand the sources of water damage and how to fix water stains on your walls and trim. That’s where Hometown Painting LLC comes in. As a local painting company in Oklahoma City, we’re here to help our customers take care of their home’s [interior](https://hometownpaintingokc.com/interior-painting-okc/).
+Water stains can be a nightmare for homeowners. These pesky stains can be unsightly and make a room feel unclean, even if it is spotless. Not to mention, if left untreated, water stains can lead to mold growth and further damage to the structure of your home. As an Oklahoma homeowner, it’s important to understand the sources of water damage and how to fix water stains on your walls and trim. That’s where Hometown Painting LLC comes in. As a local painting company in Oklahoma City, we’re here to help our customers take care of their home’s [interior](/interior-painting-okc/).
 
 ## Sources of Water Damage
 
@@ -41,7 +41,7 @@ Water stains on trim and baseboards can be just as unsightly as stains on walls.
 
 Start by cleaning the affected area with a mixture of water and mild detergent. If the stain is particularly stubborn, you may need to use a stronger cleaning solution or a stain remover. Also, if the water has caused the surface of the wood to bubble it may need to be sanded to make it smooth again.
 
-Once the area is clean and dry, apply a coat of primer designed for use on wood surfaces. Allow the primer to dry completely before applying the paint. Using quality trim paint will help prevent future stains. See our [guide to trim paint](https://hometownpaintingokc.com/which-paint-should-i-use-on-trim-and-doors/).
+Once the area is clean and dry, apply a coat of primer designed for use on wood surfaces. Allow the primer to dry completely before applying the paint. Using quality trim paint will help prevent future stains. See our [guide to trim paint](/which-paint-should-i-use-on-trim-and-doors/).
 
 ## Final Thoughts
 

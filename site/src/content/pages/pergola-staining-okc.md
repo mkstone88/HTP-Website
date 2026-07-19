@@ -35,7 +35,6 @@ For a fresh, new look, discover why we’re the choice for pergola staining Okla
 
 **Jordan V.**
 
-![Untitled 300 × 100](/uploads/2023/09/Untitled-300-×-100-px.webp)
 
 *Homeowner in Yukon, OK*
 
@@ -43,7 +42,6 @@ I cannot say enough about how much I appreciate Matt and his team for sealing ou
 
 ****Marlene****
 
-![Untitled 300 × 100](/uploads/2023/09/Untitled-300-×-100-px.webp)
 
 **Homeowner in Tuttle, OK**
 
@@ -51,7 +49,6 @@ They did an awesome job! The staff worked hard the whole time they were here! Th
 
 ****Matt F.****
 
-![Untitled 300 × 100](/uploads/2023/09/Untitled-300-×-100-px.webp)
 
 **Homeowner in Edmond, OK**
 
@@ -85,7 +82,7 @@ We have received training directly from the Wood Defender team on the best ways 
 
 Contact us today to speak to experienced, local,  professional painters in the OKC metro.
 
-[Contact Us](https://hometownpaintingokc.com/contact-us/)
+[Contact Us](/contact-us/)
 
 ## We Offer More Than Just Pergola Staining
 
@@ -93,7 +90,7 @@ Contact us today to speak to experienced, local,  professional painters in the 
 
 ![A new deck with fresh stain in Oklahoma city](/uploads/2023/02/Deck-Stain-OKC-2.webp)
 
-### [Fence Staining](https://hometownpaintingokc.com/fence-staining-okc/)
+### [Fence Staining](/fence-staining-okc/)
 
 ![oxford brown fence in okc](/uploads/2023/02/oxford-brown-fence-in-okc.webp)
 

@@ -339,7 +339,7 @@ United States
 
 **## 14. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?**Based on the applicable laws of your country or state of residence in the US, you may have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. To request to review, update, or delete your personal information, please fill out and submit a [data subject access request](https://app.termly.io/notify/e774f1d4-a781-441c-be35-059ce37aba91).
 
-Read More On [Our Blog!](https://hometownpaintingokc.com/blog/)
+Read More On [Our Blog!](/blog/)
 
 [(405) 400-1619](tel:4054001619)
 
@@ -347,13 +347,13 @@ Open 24 hours, 7 days a week.
 
 Call Any Time
 
-[Disclaimer](https://hometownpaintingokc.com/disclaimer/)
+[Disclaimer](/disclaimer/)
 
-[Terms and Conditions](https://hometownpaintingokc.com/terms-conditions/)
+[Terms and Conditions](/terms-conditions/)
 
 [Consent Preferences](#)
 
-[Privacy Policy](https://hometownpaintingokc.com/privacy-policy/)
+[Privacy Policy](/privacy-policy/)
 
 © Copyright 2026 Hometown Painting LLC
 

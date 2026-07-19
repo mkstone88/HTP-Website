@@ -11,7 +11,7 @@ date: "2023-06-28"
 
 The Express Clydesdale Barn is a historic landmark in [Yukon, Oklahoma](https://www.yukonok.gov/). The Express Ranch has taken great care to preserve and maintain this historic building. Recently, the barn’s siding had become worn and weathered. The stained finish on the barn’s exterior had worn completely off in many places. This left the building in danger of having its siding warp and rotting off.
 
-The Express Ranch entrusted [Hometown Painting](/) with the task of restoring the barns. We made a plan to clean and stain the cedar siding so it could last for many more years to come. With many years of experience staining wood structures in the [Yukon OK](https://hometownpaintingokc.com/painters-yukon-ok/) area along with the OKC metro, we were excited to have the opportunity to work on such a historic building.
+The Express Ranch entrusted [Hometown Painting](/) with the task of restoring the barns. We made a plan to clean and stain the cedar siding so it could last for many more years to come. With many years of experience staining wood structures in the [Yukon OK](/painters-yukon-ok/) area along with the OKC metro, we were excited to have the opportunity to work on such a historic building.
 
 ## History of the Express Clydesdale Barns
 
@@ -33,9 +33,9 @@ We started by thoroughly washing the wood to prepare it. We applied a cleaner be
 
 ## Choosing the Best Stain the Cedar Siding
 
-We chose the use Wood Defender stain for the barn’s cedar siding. Wood Defender is a [high-quality stain](https://hometownpaintingokc.com/what-is-the-best-outdoor-stain-for-okc/) that can stand up to harsh weather conditions as we experience in Oklahoma.
+We chose the use Wood Defender stain for the barn’s cedar siding. Wood Defender is a [high-quality stain](/what-is-the-best-outdoor-stain-for-okc/) that can stand up to harsh weather conditions as we experience in Oklahoma.
 
-The Express team chose to use the [Coffee Brown color](https://hometownpaintingokc.com/okc-fence-stain-colors/). This modern, dark brown shade will provide the barns with protection for years to come.
+The Express team chose to use the [Coffee Brown color](/okc-fence-stain-colors/). This modern, dark brown shade will provide the barns with protection for years to come.
 
 ## Applying Stain to Cedar Siding
 

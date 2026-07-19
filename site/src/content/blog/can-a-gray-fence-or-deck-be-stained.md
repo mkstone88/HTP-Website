@@ -9,7 +9,7 @@ kind: "post"
 date: "2023-10-11"
 ---
 
-If you have an older fence or deck that has turned gray you may think it is too late to have beautifully stained wood in your backyard. The truth is that fences and decks can be restored to their original condition and transformed with quality outdoor stain. There are several methods for removing the gray surface on the wood creating a perfect canvas for [staining any color](https://hometownpaintingokc.com/how-to-choose-a-fence-stain-color/) that matches your style. Read below to find out more about this process.
+If you have an older fence or deck that has turned gray you may think it is too late to have beautifully stained wood in your backyard. The truth is that fences and decks can be restored to their original condition and transformed with quality outdoor stain. There are several methods for removing the gray surface on the wood creating a perfect canvas for [staining any color](/how-to-choose-a-fence-stain-color/) that matches your style. Read below to find out more about this process.
 
 ## What Causes Fences to Turn Gray
 
@@ -70,8 +70,8 @@ This is the same fence shown above after being bleached and stained.
 >
 > **Paul Fisette** [University of Massachusetts](https://bct.eco.umass.edu/publications/articles/wood-myths-facts-and-fictions-about-wood/)
 
-#2 When staining an older fence or deck the boards have often been damaged over time. Stains come in different [levels of transparency](https://hometownpaintingokc.com/okc-fence-stain-colors/) that have more or less ability to hide the underlying wood. Often with older fences, it is best to choose a semi-transparent fence stain to cover some of the imperfections in the wood.
+#2 When staining an older fence or deck the boards have often been damaged over time. Stains come in different [levels of transparency](/okc-fence-stain-colors/) that have more or less ability to hide the underlying wood. Often with older fences, it is best to choose a semi-transparent fence stain to cover some of the imperfections in the wood.
 
 ## Getting Your Fence or Deck Restored
 
-Hometown Painting provides free estimates for [fence and deck restoration](https://hometownpaintingokc.com/fence-staining-okc/) in the OKC Metro. We would be happy to answer your questions about which method would be best for your fence or deck. Please give us a call at (405) 400-1619 or fill out the form on our [contact page](https://hometownpaintingokc.com/contact-us/).
+Hometown Painting provides free estimates for [fence and deck restoration](/fence-staining-okc/) in the OKC Metro. We would be happy to answer your questions about which method would be best for your fence or deck. Please give us a call at (405) 400-1619 or fill out the form on our [contact page](/contact-us/).

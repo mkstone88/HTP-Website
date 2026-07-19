@@ -35,7 +35,7 @@ One of its best properties is that it acts as a paint and primer in one. It is d
 
 When it came to applying BondPlex on the shop building, we started with a clean slate. That meant making sure the metal siding was free of dirt, grease, and loose paint. We used a commercial cleaning agent, a scrub brush and a power washer. This process was sufficient to remove the chalky residue that can interfere with the paint.
 
-Once the building was clean and dry, we were able to mask off the doors, windows and all the surrounding areas to protect them from paint. We then applied two thick coats of paint to the building. Our customer chose to use a [two-tone color scheme](https://hometownpaintingokc.com/choosing-exterior-paint-colors/) that matched the house we just finished painting.
+Once the building was clean and dry, we were able to mask off the doors, windows and all the surrounding areas to protect them from paint. We then applied two thick coats of paint to the building. Our customer chose to use a [two-tone color scheme](/choosing-exterior-paint-colors/) that matched the house we just finished painting.
 
 Our client couldn’t have been happier. The once plain metal building was now looking great and perfectly matched her home.
 
@@ -45,4 +45,4 @@ Our client couldn’t have been happier. The once plain metal building was now l
 
 Painting metal siding doesn’t have to be a headache. With the right products and the team at Hometown Painting, it is possible to have a great-looking shop, shed, or other metal structure.  We’re not just about changing colors, we’re about transforming spaces, and we look forward to doing that for your property.
 
-If you would like help with painting your metal building feel free to [request a free estimate](https://hometownpaintingokc.com/contact-us/).
+If you would like help with painting your metal building feel free to [request a free estimate](/contact-us/).

@@ -15,7 +15,7 @@ If you are planning to stain your fence, deck, or siding, you may wonder how lon
 
 **Solid Outdoor Stains: Restain every 3-5 years**
 
-We look at staining exterior wood as a long-term investment in your home. There are many factors that can increase or decrease the lifespan of an [exterior stain job](https://hometownpaintingokc.com/fence-staining-okc/). Taking these factors into account will give you a good estimate as to how long a stain job will last.
+We look at staining exterior wood as a long-term investment in your home. There are many factors that can increase or decrease the lifespan of an [exterior stain job](/fence-staining-okc/). Taking these factors into account will give you a good estimate as to how long a stain job will last.
 
 **Read more to find out what factors will increase your stain’s life expectancy.**
 

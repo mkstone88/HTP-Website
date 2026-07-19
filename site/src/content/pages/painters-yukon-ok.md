@@ -26,7 +26,7 @@ Make your Yukon home a safe place for your family.
 - Shutters
 - Doors and garage doors
 - Power Washing
-- [Learn More](https://hometownpaintingokc.com/exterior-painting-okc/)
+- [Learn More](/exterior-painting-okc/)
 
 ### Fence Staining
 
@@ -39,7 +39,7 @@ We can help you make your fence last longer and look great.
 - Wood Siding
 - Pergola staining
 - Deck staining
-- [Learn More](https://hometownpaintingokc.com/exterior-painting-okc/)
+- [Learn More](/exterior-painting-okc/)
 
 ### Interior Painting
 
@@ -52,7 +52,7 @@ We can help you make your interior inviting for your family and firends.
 - Doors
 - Cabinet painting
 - Accent Walls
-- [Learn More](https://hometownpaintingokc.com/exterior-painting-okc/)
+- [Learn More](/exterior-painting-okc/)
 
 ![old picture of a painter in front of a truck](/uploads/2022/08/50s-Young-Painter.webp)
 
@@ -62,7 +62,7 @@ We can help you make your interior inviting for your family and firends.
 >
 > We’re proud to be a family owned and operated company. My grandfather was a painter, and he passed his skills and inspiration to me. I even began working as a painter while using my grandfather’s old paint sprayer.
 >
-> Please take some more time to [learn about us here](https://hometownpaintingokc.com/professional-painters-okc/).
+> Please take some more time to [learn about us here](/professional-painters-okc/).
 >
 > Matt Stone – Owner
 
@@ -70,13 +70,12 @@ We can help you make your interior inviting for your family and firends.
 
 Contact us today to speak to experienced, local,  professional painters in the OKC metro.
 
-[Contact Us](https://hometownpaintingokc.com/contact-us/)
+[Contact Us](/contact-us/)
 
 ## Here’s what Our Yukon Customers Say
 
 ****Jordan V.****
 
-![Untitled 300 × 100](/uploads/2023/09/Untitled-300-×-100-px.webp)
 
 **Homeowner in Oklahoma City, OK**
 
@@ -84,7 +83,6 @@ I cannot say enough about how much I appreciate Matt and his team for sealing ou
 
 **Robyn**
 
-![Untitled 300 × 100](/uploads/2023/09/Untitled-300-×-100-px.webp)
 
 *Homeowner in Yukon, OK*
 
@@ -92,7 +90,6 @@ We had a fantastic experience with Hometown Painting! After I called to schedule
 
 ****Casey M.****
 
-![Untitled 300 × 100](/uploads/2023/09/Untitled-300-×-100-px.webp)
 
 **Homeowner in OKC, OK**
 
@@ -102,7 +99,7 @@ Everyone one is super friendly, did an amazing job! Our fence turned out great, 
 
 ### Do you offer free estimates in Yukon OK?
 
-Yes, we offer free estimates in Yukon. Feet free to call us at (405) 400-1619 or visit our [Request an Estimate](https://hometownpaintingokc.com/contact-us/) page.
+Yes, we offer free estimates in Yukon. Feet free to call us at (405) 400-1619 or visit our [Request an Estimate](/contact-us/) page.
 
 ### How much does it cost to paint a home in Yukon?
 
@@ -112,4 +109,4 @@ There are a lot of factors that affect the price of painting a Yukon OK home. He
 
 For **Interior Painting** in Yukon OK the prices range between $400 to $800 for a bedroom and $600 to $2000 for a living room. Factors that affect the price include the size of the room and the number of surfaces being painted.
 
-For more information please visit our [pricing page](https://hometownpaintingokc.com/pricing/).
+For more information please visit our [pricing page](/pricing/).

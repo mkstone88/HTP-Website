@@ -9,7 +9,7 @@ kind: "post"
 date: "2025-12-08"
 ---
 
-One thing we hear often is how surprised homeowners are by how much work happens *before* any paint touches the house. Prep work is the foundation of a long-lasting [exterior paint job](https://hometownpaintingokc.com/exterior-painting-oklahoma-city/), and it’s the step that separates a quick paint job from one that truly protects your home.
+One thing we hear often is how surprised homeowners are by how much work happens *before* any paint touches the house. Prep work is the foundation of a long-lasting [exterior paint job](/exterior-painting-oklahoma-city/), and it’s the step that separates a quick paint job from one that truly protects your home.
 
 If you’ve ever dealt with paint peeling after just a few years, there’s a good chance the surface wasn’t prepped well. In fact, many peeling and flaking issues come from poor prep; not necessarily from the paint itself.
 

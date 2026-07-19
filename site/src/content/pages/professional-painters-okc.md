@@ -19,7 +19,7 @@ Matt – Owner -Hometown Painting LLC
 
 ![Matt and Racher are Professional Painters OKC](/uploads/2022/08/paint-owners-cropped-scaled.webp)
 
-[Request a Free Quote](https://hometownpaintingokc.com/contact-us/)
+[Request a Free Quote](/contact-us/)
 
 ## Starting a Professional Painting Tradition
 
@@ -73,11 +73,11 @@ We commit to open communication with all our customers.
 
 ### Stand behind their work:
 
-We offer a [warranty](https://hometownpaintingokc.com/professional-painters-okc/warranty/) on all our work.
+We offer a [warranty](/professional-painters-okc/warranty/) on all our work.
 
 ### Want help with your next painting project?
 
-[Request a Free Quote](https://hometownpaintingokc.com/contact-us/)
+[Request a Free Quote](/contact-us/)
 
 ## Professional Painters OKC: Our Services
 
@@ -89,7 +89,7 @@ We can professionally paint your OKC home’s exterior.
 
 - Soffits and Fascia
 - Trim and Siding painting
-- [Brick](https://hometownpaintingokc.com/brick-painting-okc/) Painting
+- [Brick](/brick-painting-okc/) Painting
 - Door Painting
 - Garage door painting
 
@@ -119,6 +119,6 @@ We can professionally stain your OKC fence.
 
 ## Areas Served:
 
-We serve the entire Oklahoma City Metro area. This includes the cities: OKC, [Bethany](https://hometownpaintingokc.com/painters-bethany-ok/), [Mustang](https://hometownpaintingokc.com/painters-mustang-ok/), [Yukon](https://hometownpaintingokc.com/painters-yukon-ok/), and [Edmond](https://hometownpaintingokc.com/painters-edmond-ok/).
+We serve the entire Oklahoma City Metro area. This includes the cities: OKC, [Bethany](/painters-bethany-ok/), [Mustang](/painters-mustang-ok/), [Yukon](/painters-yukon-ok/), and [Edmond](/painters-edmond-ok/).
 
-Learn more about us on our [Link Tree](https://hometownpaintingokc.com/link-tree/)
+Learn more about us on our [Link Tree](/link-tree/)

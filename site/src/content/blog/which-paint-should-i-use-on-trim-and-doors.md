@@ -60,8 +60,8 @@ The benefits of Emerald Utethane Paint include:
 
 ### Choosing The Right Sheen For Your Woodwork
 
-Because higher-sheen paints are more durable, woodwork had traditionally been painted with semigloss or high gloss sheens. Modern paint technology has created even lower-sheen paints that can stand up to scrubbing and washing. For more information consult our [paint sheen guide](https://hometownpaintingokc.com/how-to-choose-the-best-sheen-or-gloss/).
+Because higher-sheen paints are more durable, woodwork had traditionally been painted with semigloss or high gloss sheens. Modern paint technology has created even lower-sheen paints that can stand up to scrubbing and washing. For more information consult our [paint sheen guide](/how-to-choose-the-best-sheen-or-gloss/).
 
 ## Conclusion
 
-Improvements in technology have made water-based trim enamels the best choice for painting your home’s woodwork. You can have peace of mind knowing that your trim and doors will look great for years to come and will not harm your health in the process. If you have any further questions about interior painting feel free to [contact us](https://hometownpaintingokc.com/contact-us/) or call (405) 400-1619
+Improvements in technology have made water-based trim enamels the best choice for painting your home’s woodwork. You can have peace of mind knowing that your trim and doors will look great for years to come and will not harm your health in the process. If you have any further questions about interior painting feel free to [contact us](/contact-us/) or call (405) 400-1619

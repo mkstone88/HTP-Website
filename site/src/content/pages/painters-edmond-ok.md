@@ -24,7 +24,7 @@ Make your Edmond home the envy of the neighborhood.
 - Shutters
 - Doors and garage doors
 - Power Washing
-- [Learn More](https://hometownpaintingokc.com/exterior-painting-okc/)
+- [Learn More](/exterior-painting-okc/)
 
 ### Fence Staining
 
@@ -37,7 +37,7 @@ We can help you make your fence last longer and look great.
 - Wood Siding
 - Pergola staining
 - Deck staining
-- [Learn More](https://hometownpaintingokc.com/exterior-painting-okc/)
+- [Learn More](/exterior-painting-okc/)
 
 ### Interior Painting
 
@@ -50,7 +50,7 @@ We can help you make your interior inviting for your family and firends.
 - Doors
 - Cabinet painting
 - Accent Walls
-- [Learn More](https://hometownpaintingokc.com/exterior-painting-okc/)
+- [Learn More](/exterior-painting-okc/)
 
 Hello,
 
@@ -58,7 +58,7 @@ I’m Matt, the owner of Hometown Painting. We’re here to transform your home 
 
 Your vision is our mission. Whether it’s a fresh coat of paint to brighten up your living room or a complete exterior makeover, we’re committed to delivering results that not only meet but exceed your expectations.
 
-Please feel free to reach out to us for a free, [detailed estimate](https://hometownpaintingokc.com/contact-us/) or with any questions you may have. We’re here to serve you.
+Please feel free to reach out to us for a free, [detailed estimate](/contact-us/) or with any questions you may have. We’re here to serve you.
 
 Looking forward to creating more beautiful spaces in Edmond, one home at a time.
 
@@ -72,7 +72,7 @@ Matt, Owner of Hometown Painting
 
 Contact us today to speak to experienced, local,  professional painters in the OKC metro.
 
-[Contact Us](https://hometownpaintingokc.com/contact-us/)
+[Contact Us](/contact-us/)
 
 ## House Painting Edmond: Our Portfolio
 
@@ -90,7 +90,6 @@ Contact us today to speak to experienced, local,  professional painters in the 
 
 **Elizabeth S**
 
-![Untitled 300 × 100](/uploads/2023/09/Untitled-300-×-100-px.webp)
 
 *Homeowner in Edmond, OK*
 
@@ -98,7 +97,6 @@ Matt and his team did an incredible job staining the wood trim on our two story 
 
 ****K.H.****
 
-![Untitled 300 × 100](/uploads/2023/09/Untitled-300-×-100-px.webp)
 
 **Homeowner in Edmond, OK**
 
@@ -106,7 +104,6 @@ Throughout the job, the crew did a thorough and conscientious job of taping and 
 
 ****Matt F.****
 
-![Untitled 300 × 100](/uploads/2023/09/Untitled-300-×-100-px.webp)
 
 **Homeowner in Edmond, OK**
 
@@ -116,7 +113,7 @@ Great job staining our fence and pavilion. I would highly recommend. Always on t
 
 ### Do you do free estimates in Edmond, OK?
 
-Yes, we service the entire city of Edmond, OK and our estimates are always free. Call us any time at (405)400-1619 or request a free quote on our [contact page](https://hometownpaintingokc.com/contact-us/).
+Yes, we service the entire city of Edmond, OK and our estimates are always free. Call us any time at (405)400-1619 or request a free quote on our [contact page](/contact-us/).
 
 ### What services do you offer in Edmond?
 
@@ -126,4 +123,4 @@ Our outdoor staining services are extensive, including fence staining, pergola s
 
 ### What Does House Painting Cost in Edmond, OK?
 
-Our prices for Edmond are in line with the rest of the metro area. For exteriors average prices range from $4000 to $8000 depending on the size of the house and scope of the job. Interior paint jobs can be much more variable in pricing because each job is unique. If you would like to know what your next paint job would cost feel free to request a [free estimate](https://hometownpaintingokc.com/contact-us/).
+Our prices for Edmond are in line with the rest of the metro area. For exteriors average prices range from $4000 to $8000 depending on the size of the house and scope of the job. Interior paint jobs can be much more variable in pricing because each job is unique. If you would like to know what your next paint job would cost feel free to request a [free estimate](/contact-us/).

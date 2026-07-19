@@ -31,7 +31,7 @@ We understand that every commercial property is unique, and so is every painting
 
 Whether you need a single room refreshed or your home’s entire exterior painted, we’re here to make it simple and stress-free.
 
-[Get Your On-the-Spot Estimate](https://hometownpaintingokc.com/contact-us/)
+[Get Your On-the-Spot Estimate](/contact-us/)
 
 Or give us a call: (405) 400-1619
 
@@ -54,7 +54,7 @@ I admire the craftsmanship and integrity of my grandfather’s generation of pai
 
 We’re proud to be a family owned and operated company. My wife, Rachel, has played a vital role in making Hometown Painting what it is today.
 
-Please take some more time to learn [about us here](https://hometownpaintingokc.com/professional-painters-okc).
+Please take some more time to learn [about us here](/professional-painters-okc).
 
 – *Matt Stone*
 

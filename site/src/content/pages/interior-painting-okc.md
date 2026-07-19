@@ -11,15 +11,15 @@ Free color Consult with Each new painting project
 
 Serving: Oklahoma City, Edmond, Yukon, Mustang and surrounding communities.
 
-Request a Free Estimate
+<a class="prose-cta" href="/contact-us/">Request a Free Estimate →</a>
 
 ## Transform Your Home Without the Usual Painting Stress
 
 Fresh interior paint changes how a room *feels*: brighter, cleaner, and more welcoming. But hiring painters can feel overwhelming:
 
-• Will they protect your home?
-• Will the finish look professional?
-• Will they communicate well?
+- Will they protect your home?
+- Will the finish look professional?
+- Will they communicate well?
 
 As local Oklahoma City homeowners ourselves, we understand those concerns. Our interior painting process keeps things simple, respectful, and hassle-free.
 
@@ -43,7 +43,7 @@ Expertise
 - Whether it’s a perfectly even color on your walls or a smooth finish on cabinets and doors, Hometown Painting has the experience and skill to make your home look impressive.
 - We use high quality products to make sure you have a lasting paint job. We use the best techniques to achieve the results you are looking for.
 
-[Contact Us](https://hometownpaintingokc.com/contact-us/)
+[Contact Us](/contact-us/)
 
 ## Our Interior Painting Services in Oklahoma City
 
@@ -87,13 +87,12 @@ Safely removed or repaired for a more updated, modern interior.
 
 Painting a pop of color reflects your style without overwhelming the space.
 
-Request a Free Quote
+<a class="prose-cta" href="/contact-us/">Request a Free Quote →</a>
 
 ## Here’s What Our OKC Customers Say
 
 ****Feliz**** **Ponkilla**
 
-![Untitled 300 × 100](/uploads/2023/09/Untitled-300-×-100-px.webp)
 
 **Homeowner in the Oklahoma City Area**
 
@@ -101,7 +100,6 @@ Request a Free Quote
 
 **Erin Baird**
 
-![Untitled 300 × 100](/uploads/2023/09/Untitled-300-×-100-px.webp)
 
 *Homeowner in the Oklahoma City Area*
 
@@ -109,7 +107,6 @@ Hometown Painting and Matt did an outstanding job repainting my entire house! I 
 
 ****Rebecca C****
 
-![Untitled 300 × 100](/uploads/2023/09/Untitled-300-×-100-px.webp)
 
 **Homeowner in the Oklahoma City** Area
 
@@ -157,7 +154,7 @@ After Your Project
 
 ![painting walls in okc](/uploads/2025/11/painting-walls-in-okc.webp)
 
-[See More](https://hometownpaintingokc.com/gallery/)
+[See More](/gallery/)
 
 ## About us: The Hometown Painting Story
 
@@ -169,7 +166,7 @@ I admire the craftsmanship and integrity of my grandfather’s generation of pai
 
 We’re proud to be a family owned and operated company. My wife, Rachel, has played a vital role in making Hometown Painting what it is today. See what sets us apart from other painting contractors.
 
-Please take some more time to learn [about us here](https://hometownpaintingokc.com/professional-painters-okc).
+Please take some more time to learn [about us here](/professional-painters-okc).
 
 – *Matt Stone*
 
@@ -181,7 +178,7 @@ Matt and Rachel Stone
 
 Whether you need a single room refreshed or your whole home’s interior painted, we’re here to make it simple and stress-free.
 
-Request a Free Quote
+<a class="prose-cta" href="/contact-us/">Request a Free Quote →</a>
 
 Or give us a call: (405) 400-1619
 
@@ -191,7 +188,7 @@ Or give us a call: (405) 400-1619
 
 The cost for interior painting in OKC averages $4-$8 per square foot. There are a lot of factors that affect the price to paint a house. We customize each quote to your home.
 
-See our [interior pricing](https://hometownpaintingokc.com/pricing/interior-pricing/) page for more information.
+See our [interior pricing](/pricing/interior-pricing/) page for more information.
 
 ### What if I need help picking the color?
 
@@ -204,7 +201,7 @@ We try to make the interior painting process as simple for you as possible. We a
 
 ### Do you offer a warranty on interior painting?
 
-Yes! We offer one year [warranties](https://hometownpaintingokc.com/professional-painters-okc/warranty/) on all our interior painting work. If you have an issue after we leave please let us know so we can help you in the best way possible.
+Yes! We offer one year [warranties](/professional-painters-okc/warranty/) on all our interior painting work. If you have an issue after we leave please let us know so we can help you in the best way possible.
 
 ### How long does interior painting usually take?
 
@@ -215,12 +212,12 @@ Most projects take **1–3 days**, depending on the number of rooms and the amou
 This includes the towns of:
 
 - Oklahoma City
-- [Edmond](https://hometownpaintingokc.com/painters-edmond-ok/)
-- [Mustang](https://hometownpaintingokc.com/painters-mustang-ok/)
-- [Yukon](https://hometownpaintingokc.com/painters-yukon-ok/)
-- [Bethany](https://hometownpaintingokc.com/painters-bethany-ok/)
+- [Edmond](/painters-edmond-ok/)
+- [Mustang](/painters-mustang-ok/)
+- [Yukon](/painters-yukon-ok/)
+- [Bethany](/painters-bethany-ok/)
 - And Many Others…
 
 And Neighborhoods Like:
 
-- [Mesta Park](https://hometownpaintingokc.com/mesta-park/)
+- [Mesta Park](/mesta-park/)

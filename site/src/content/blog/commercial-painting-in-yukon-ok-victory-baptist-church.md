@@ -9,7 +9,7 @@ kind: "post"
 date: "2024-06-07"
 ---
 
-The exterior of a commercial building is the first impression people will have of the business or organization. Unfortunately, the exterior of the Victory Baptist Church in [Yukon, OK](https://hometownpaintingokc.com/painters-yukon-ok/), was starting to show signs of wear and tear. The paint was flaking off and fading, and the wood was being damaged. It can be hard to find a good commercial painter in Yukon. The church needed a facelift, and Hometown Painting LLC was asked to help.
+The exterior of a commercial building is the first impression people will have of the business or organization. Unfortunately, the exterior of the Victory Baptist Church in [Yukon, OK](/painters-yukon-ok/), was starting to show signs of wear and tear. The paint was flaking off and fading, and the wood was being damaged. It can be hard to find a good commercial painter in Yukon. The church needed a facelift, and Hometown Painting LLC was asked to help.
 
 ![church before](/uploads/2023/04/church-before.webp "church before")
 

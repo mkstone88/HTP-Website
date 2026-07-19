@@ -35,23 +35,23 @@ Top-quality Paint
 
 Contact us today to speak to experienced, local,  professional painters in the OKC metro.
 
-[Contact Us](https://hometownpaintingokc.com/contact-us/)
+[Contact Us](/contact-us/)
 
 ## Our House Painting Services in Mesta Park
 
 ![IMG 1857](/uploads/2023/11/IMG_1857.webp "IMG_1857")
 
-[Exterior Painting](https://hometownpaintingokc.com/exterior-painting-oklahoma-city)
+[Exterior Painting](/exterior-painting-oklahoma-city)
 
 1. Siding Painting
 2. Trim and Doors
-3. [Brick Painting](https://hometownpaintingokc.com/brick-painting-okc/)
+3. [Brick Painting](/brick-painting-okc/)
 4. Soffit and Fascia
 5. Pressure Washing
 
 ![interior of a home in edmond ok with fresh paint on the walls](/uploads/2022/11/living-room-paint-edmond.webp)
 
-[Interior Painting](https://hometownpaintingokc.com/interior-painting-okc/)
+[Interior Painting](/interior-painting-okc/)
 
 1. Wall Painting
 2. Trim and Doors
@@ -61,7 +61,7 @@ Contact us today to speak to experienced, local,  professional painters in the 
 
 ![oxford brown fence in okc](/uploads/2023/02/oxford-brown-fence-in-okc.webp)
 
-[Fence Staining](https://hometownpaintingokc.com/fence-staining-okc/)
+[Fence Staining](/fence-staining-okc/)
 
 1. Fence Staining
 2. Power Washing
@@ -73,7 +73,6 @@ Contact us today to speak to experienced, local,  professional painters in the 
 
 ****Pattrick T.****
 
-![Untitled 300 × 100](/uploads/2023/09/Untitled-300-×-100-px.webp)
 
 **Homeowner in Mesta Park, OKC**
 
@@ -81,7 +80,6 @@ Contact us today to speak to experienced, local,  professional painters in the 
 
 **Bill H.**
 
-![Untitled 300 × 100](/uploads/2023/09/Untitled-300-×-100-px.webp)
 
 *Homeowner in Mesta Park, OKC*
 
@@ -99,7 +97,7 @@ I feel like this kindred spirit with the past generations is why Hometown Painti
 
 I have noticed that Mesta Park is a very family oriented neighborhood. We’re proud to be a local, family owned and operated company. My wife, Rachel, has played a vital role in making Hometown Painting what it is today.
 
-Please take some more time to learn [about us here](https://hometownpaintingokc.com/professional-painters-okc).
+Please take some more time to learn [about us here](/professional-painters-okc).
 
 – Matt Stone, Owner Hometown Painting LLC – House Painters OKC
 
@@ -107,4 +105,4 @@ Please take some more time to learn [about us here](https://hometownpaintingokc.
 
 Matt and Rachel Stone – Owners of Hometown Painting
 
-[Learn More About Us](https://hometownpaintingokc.com/professional-painters-okc/)
+[Learn More About Us](/professional-painters-okc/)
