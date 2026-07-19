@@ -30,7 +30,7 @@ const isPost = type === 'post';
 <BaseLayout title={d.title} description={d.description} image={d.ogImage} article={isPost}>
   <section
     class:list={['page-hero', { 'page-hero--photo': d.ogImage }]}
-    style={d.ogImage ? `background-image: linear-gradient(rgba(27,42,74,0.86), rgba(27,42,74,0.70)), url('${d.ogImage}');` : undefined}
+    style={d.ogImage ? `background-image: linear-gradient(rgba(27,42,74,0.90), rgba(27,42,74,0.74)), url('${d.ogImage}');` : undefined}
   >
     <div class="container">
       <nav class="breadcrumbs" aria-label="Breadcrumb">
@@ -38,10 +38,24 @@ const isPost = type === 'post';
         {isPost ? (<><a href="/blog/">Blog</a> › {d.h1 || d.title}</>) : (d.h1 || d.title)}
       </nav>
       <h1>{d.h1 || d.title}</h1>
-      {isPost && (
+      {isPost ? (
         <p class="post-meta">
           {new Date(d.date).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
         </p>
+      ) : (
+        <>
+          {d.description && <p class="page-hero-sub">{d.description}</p>}
+          <ul class="page-hero-trust">
+            <li><span class="phts-stars">★★★★★</span> {business.rating.value} · {business.rating.count}+ Reviews</li>
+            <li>5-Year Warranty</li>
+            <li>Free Estimates</li>
+            <li>Fully Insured</li>
+          </ul>
+          <div class="page-hero-cta">
+            <a href={business.phoneHref} class="cta-phone">Call {business.phoneDisplay}</a>
+            <a href="/contact-us/" class="cta-secondary">Get a Free Estimate →</a>
+          </div>
+        </>
       )}
     </div>
   </section>

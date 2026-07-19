@@ -7,12 +7,6 @@ ogImage: "/uploads/2024/03/Interior-Painting-OKC5.jpg"
 draft: false
 ---
 
-Free color Consult with Each new painting project
-
-Serving: Oklahoma City, Edmond, Yukon, Mustang and surrounding communities.
-
-<a class="prose-cta" href="/contact-us/">Request a Free Estimate →</a>
-
 ## Transform Your Home Without the Usual Painting Stress
 
 Fresh interior paint changes how a room *feels*: brighter, cleaner, and more welcoming. But hiring painters can feel overwhelming:
