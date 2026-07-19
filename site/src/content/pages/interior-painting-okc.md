@@ -161,7 +161,7 @@ I admire the craftsmanship and integrity of my grandfather’s generation of pai
 
 We’re proud to be a family owned and operated company. My wife, Rachel, has played a vital role in making Hometown Painting what it is today. See what sets us apart from other painting contractors.
 
-Please take some more time to learn [about us here](/professional-painters-okc).
+Please take some more time to learn [about us here](/professional-painters-okc/).
 
 – *Matt Stone*
 

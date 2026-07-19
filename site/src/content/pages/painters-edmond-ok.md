@@ -2,7 +2,7 @@
 title: "House Painters In Edmond, OK | Interior And Exterior Paint"
 description: "We can help you transform your Edmond home with luxurious paint. Whether it's your interior or exterior, we can give you a hassle-free painting experience."
 permalink: "/painters-edmond-ok/"
-h1: "Edmond OK"
+h1: "House Painters in Edmond, OK"
 ogImage: "/uploads/2023/09/608E.VictoriaTerrace-1-1.jpg"
 draft: false
 ---

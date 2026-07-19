@@ -1,9 +1,9 @@
 ---
 title: "Free Painting Estimates In Oklahoma City"
-description: "Request a Free Estimate!"
+description: "Request your free painting estimate in Oklahoma City. On-the-spot quotes, no pressure, and a 5-year written warranty on interior and exterior work."
 permalink: "/painting-estimate/"
-h1: "Premium Home Painting in Oklahoma City"
-ogImage: "/uploads/2025/02/Erin-Baird-e1738790494952.jpg"
+h1: "Get Your Free Painting Estimate in Oklahoma City"
+ogImage: "/uploads/2023/09/2933LakeshireRidgeRd-2.jpg"
 draft: false
 formId: "Gi6MfAF8VO97YgxZIwzu"
 ---

@@ -1,6 +1,15 @@
 ---
 import { business, nav } from '../data/site';
 const year = new Date().getFullYear();
+
+// City/neighborhood pages — sitewide links so every service area is one click away.
+const areaLinks = [
+  { label: 'Painters in Edmond, OK', href: '/painters-edmond-ok/' },
+  { label: 'Painters in Yukon, OK', href: '/painters-yukon-ok/' },
+  { label: 'Painters in Mustang, OK', href: '/painters-mustang-ok/' },
+  { label: 'Painters in Bethany, OK', href: '/painters-bethany-ok/' },
+  { label: 'Mesta Park Painters', href: '/mesta-park/' },
+];
 ---
 <footer class="site-footer">
   <div class="container">
@@ -11,6 +20,7 @@ const year = new Date().getFullYear();
           <span class="logo-tag">PAINTING</span>
         </a>
         <p>Locally owned residential &amp; commercial painters serving the OKC metro. Fully insured, 5-year warranty.</p>
+        <p>{business.address.street}, {business.address.city}, {business.address.region} {business.address.postalCode}</p>
         <p><a href={business.phoneHref}>{business.phoneDisplay}</a> · <a href={`mailto:${business.email}`}>{business.email}</a></p>
       </div>
 
@@ -21,7 +31,17 @@ const year = new Date().getFullYear();
             <li><a href={item.href}>{item.label}</a></li>
           ))}
           <li><a href="/cabinet-painting-okc/">Cabinet Painting</a></li>
+          <li><a href="/deck-staining-okc/">Deck Staining</a></li>
           <li><a href="/commercial-painters-oklahoma-city/">Commercial Painting</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <h4>Service Areas</h4>
+        <ul>
+          {areaLinks.map((item) => (
+            <li><a href={item.href}>{item.label}</a></li>
+          ))}
         </ul>
       </div>
 

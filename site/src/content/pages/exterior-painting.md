@@ -1,10 +1,12 @@
 ---
-title: "Exterior Painting Landing Page | House Painters In The OKC Metro"
-description: "Get a Free Estimate"
+title: "Exterior Painting Oklahoma City | Free Estimates | Hometown Painting"
+description: "Professional exterior painting in Oklahoma City. Full prep, premium Sherwin-Williams paint, free on-the-spot estimates, and a 5-year warranty."
 permalink: "/exterior-painting/"
 h1: "Professional Exterior Painting in Oklahoma City"
 ogImage: "/uploads/2022/10/painted-fence-flaking.jpg"
 draft: false
+# PPC landing page — kept out of search so it can't cannibalize /exterior-painting-oklahoma-city/.
+noindex: true
 ---
 
 Ready to give your home the curb appeal it deserves? Protect your exterior with lasting quality, backed by a 5-year workmanship warranty. Tell us a little about your project and we’ll start with a free, no-pressure estimate. Proudly serving OKC, Yukon, Mustang, Edmond, Moore, Norman, and nearby communities.

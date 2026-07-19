@@ -1,13 +1,13 @@
 ---
-title: "Professional Drywall Repair Oklahoma City | Hometown Painting OKC | House Painters In The OKC Metro"
-description: "At Hometown Painting OKC, we understand that damaged drywall can significantly impact the appearance and value of your property. Whether you're dealing with"
+title: "Professional Drywall Repair Oklahoma City | Hometown Painting | House Painters In The OKC Metro"
+description: "Professional drywall repair in Oklahoma City — holes, cracks, water damage, and texture matching, finished with a seamless paint match."
 permalink: "/professional-drywall-repair-oklahoma-city-hometown-painting-okc/"
-h1: "Professional Drywall Repair Oklahoma City | Hometown Painting OKC"
+h1: "Professional Drywall Repair in Oklahoma City"
 ogImage: "/uploads/2022/08/IMG_0174-min-scaled.jpg"
 draft: false
 ---
 
-At Hometown Painting OKC, we know damaged drywall can drag down the whole look of a room. Whether it’s holes from furniture moves, cracks from settling, or water damage from a leak, our experienced team provides comprehensive drywall repair throughout Oklahoma City and the surrounding metro.
+At Hometown Painting, we know damaged drywall can drag down the whole look of a room. Whether it’s holes from furniture moves, cracks from settling, or water damage from a leak, our experienced team provides comprehensive drywall repair throughout Oklahoma City and the surrounding metro.
 
 As OKC’s trusted painting professionals, we combine years of painting experience with specialized drywall repair techniques to deliver seamless results — then finish the job with a beautiful, color-matched paint finish.
 
@@ -48,7 +48,7 @@ As OKC’s trusted painting professionals, we combine years of painting experien
   <div class="mini-card"><h4>Nail Pops &amp; Screws</h4><p>Loose fasteners secured and the surface repaired for a smooth, professional finish.</p></div>
 </div>
 
-## Why Choose Hometown Painting OKC for Drywall Repair
+## Why Choose Hometown Painting for Drywall Repair
 
 <div class="mini-grid">
   <div class="mini-card"><h4>Local Expertise</h4><p>We understand how OKC’s climate and weather affect building materials.</p></div>
@@ -68,7 +68,7 @@ As OKC’s trusted painting professionals, we combine years of painting experien
 
 ## Ready to Restore Your Walls?
 
-Contact Hometown Painting OKC today for expert drywall repair that combines quality craftsmanship with competitive pricing.
+Contact Hometown Painting today for expert drywall repair that combines quality craftsmanship with competitive pricing.
 
 <a class="prose-cta" href="/contact-us/">Get a Free Estimate →</a>
 

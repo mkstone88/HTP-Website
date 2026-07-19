@@ -4,7 +4,9 @@ description: "Welcome to Hometown Painting OKC, your premier destination for pro
 permalink: "/house-painting-contractors-okc-professional-painters-oklahoma-city/"
 h1: "House Painting Contractors OKC | Professional Painters Oklahoma City"
 ogImage: "/uploads/2022/08/IMG_0174-min-scaled.jpg"
-draft: false
+# 2026-07 audit: thin duplicate consolidated into /professional-painters-okc/
+# (301 lives in public/_redirects). Flip draft back to false to restore.
+draft: true
 ---
 
 Welcome to Hometown Painting OKC — your trusted house painting contractors in Oklahoma City. With years of dedicated service to the OKC community, our team of experienced, insured professionals is committed to superior workmanship, attention to detail, and outstanding customer service on every project.

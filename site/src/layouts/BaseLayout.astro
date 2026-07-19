@@ -13,18 +13,38 @@ interface Props {
   image?: string;
   /** Set true on blog posts to emit BlogPosting-friendly og:type */
   article?: boolean;
+  /** Post publish date — emits BlogPosting schema when set with article */
+  publishDate?: Date;
+  /** Keep this single page out of search engines (PPC LPs, thank-you) */
+  pageNoindex?: boolean;
+  /** Emit aggregateRating — only on pages that visibly display reviews */
+  showRating?: boolean;
+  /** Hero background URL to preload (the page's LCP image) */
+  preloadHero?: string;
 }
 
-const { title, description, image, article = false } = Astro.props;
+const {
+  title,
+  description,
+  image,
+  article = false,
+  publishDate,
+  pageNoindex = false,
+  showRating = false,
+  preloadHero,
+} = Astro.props;
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
 const ogImage = image ? new URL(image, Astro.site).href : undefined;
 
 // Staging guard: keep every non-production build (previews, staging, local)
 // out of search engines. Only the main branch is indexable. See src/data/seo.ts.
-const noindex = isNoindex();
+// pageNoindex additionally opts a single page out on production builds.
+const noindex = isNoindex() || pageNoindex;
 
 // Sitewide LocalBusiness (HousePainter) schema — rebuilt from live data.
-const businessSchema = {
+// aggregateRating only appears on pages that display the reviews backing it
+// (Google review-snippet guidelines), via the showRating prop.
+const businessSchema: Record<string, unknown> = {
   '@context': 'https://schema.org',
   '@type': 'HousePainter',
   '@id': `${Astro.site}#business`,
@@ -42,13 +62,31 @@ const businessSchema = {
     addressCountry: business.address.country,
   },
   areaServed: business.areas.map((a) => ({ '@type': 'City', name: a })),
-  aggregateRating: {
+  sameAs: [business.social.facebook],
+};
+if (showRating) {
+  businessSchema.aggregateRating = {
     '@type': 'AggregateRating',
     ratingValue: business.rating.value,
     reviewCount: business.rating.count,
-  },
-  sameAs: [business.social.facebook],
-};
+  };
+}
+
+// BlogPosting schema for posts (the old WordPress site emitted this too).
+const postSchema =
+  article && publishDate
+    ? {
+        '@context': 'https://schema.org',
+        '@type': 'BlogPosting',
+        headline: title,
+        description,
+        ...(ogImage ? { image: ogImage } : {}),
+        datePublished: publishDate.toISOString(),
+        mainEntityOfPage: canonical,
+        author: { '@type': 'Organization', name: business.name },
+        publisher: { '@id': `${Astro.site}#business` },
+      }
+    : undefined;
 ---
 <!doctype html>
 <html lang="en">
@@ -60,12 +98,18 @@ const businessSchema = {
     {noindex && <meta name="robots" content="noindex, nofollow" />}
     <link rel="canonical" href={canonical} />
 
+    <link rel="icon" href="/favicon.ico" sizes="32x32" />
+    <link rel="icon" href="/icon-192.png" type="image/png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content={article ? 'article' : 'website'} />
     <meta property="og:url" content={canonical} />
     {ogImage && <meta property="og:image" content={ogImage} />}
     <meta name="twitter:card" content="summary_large_image" />
+
+    {preloadHero && <link rel="preload" as="image" href={preloadHero} />}
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -75,6 +119,7 @@ const businessSchema = {
     />
 
     <script type="application/ld+json" is:inline set:html={JSON.stringify(businessSchema)} />
+    {postSchema && <script type="application/ld+json" is:inline set:html={JSON.stringify(postSchema)} />}
     <Analytics />
   </head>
   <body>

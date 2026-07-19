@@ -27,8 +27,35 @@ const { entry, type } = Astro.props;
 const { Content } = await entry.render();
 const d = entry.data;
 const isPost = type === 'post';
+
+// BreadcrumbList schema mirroring the visible breadcrumb trail.
+const crumbs = [
+  { name: 'Home', item: new URL('/', Astro.site).href },
+  ...(isPost ? [{ name: 'Blog', item: new URL('/blog/', Astro.site).href }] : []),
+  { name: d.h1 || d.title },
+];
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: crumbs.map((c, i) => ({
+    '@type': 'ListItem',
+    position: i + 1,
+    name: c.name,
+    ...(c.item ? { item: c.item } : {}),
+  })),
+};
 ---
-<BaseLayout title={d.title} description={d.description} image={d.ogImage} article={isPost}>
+<BaseLayout
+  title={d.title}
+  description={d.description}
+  image={d.ogImage}
+  article={isPost}
+  publishDate={isPost ? d.date : undefined}
+  pageNoindex={d.noindex ?? false}
+  showRating={d.showRating ?? false}
+  preloadHero={d.ogImage ? cfBg(d.ogImage) : undefined}
+>
+  <script type="application/ld+json" is:inline set:html={JSON.stringify(breadcrumbSchema)} />
   <section
     class:list={['page-hero', { 'page-hero--photo': d.ogImage }]}
     style={d.ogImage ? `background-image: linear-gradient(rgba(27,42,74,0.90), rgba(27,42,74,0.74)), url('${cfBg(d.ogImage)}');` : undefined}

@@ -16,5 +16,29 @@
 /exterior-painting/deck-staining-okc-professional-deck-staining-services-in-oklahoma-city/professional-deck-staining-okc-hometown-painting-oklahoma-city/  /deck-staining-okc/  301
 /exterior-painting/deck-staining-okc-professional-deck-staining-services-in-oklahoma-city/  /deck-staining-okc/  301
 
-# --- Sitemap aliases (optional; new site emits /sitemap.xml directly) ---
-# /wp-sitemap.xml              /sitemap.xml  301
+# --- Legacy sitemap endpoints (2026-07 audit) ---
+# Old robots.txt + Search Console reference /sitemap_index.xml (Rank Math);
+# the new site emits /sitemap-index.xml. Cover every known variant.
+/sitemap.xml           /sitemap-index.xml  301
+/sitemap_index.xml     /sitemap-index.xml  301
+/wp-sitemap.xml        /sitemap-index.xml  301
+/post-sitemap.xml      /sitemap-index.xml  301
+/page-sitemap.xml      /sitemap-index.xml  301
+/local-sitemap.xml     /sitemap-index.xml  301
+
+# --- WordPress leftovers (2026-07 audit) ---
+# 1,593 old image URLs live under /wp-content/uploads/; the same year/month
+# tree is served from /uploads/ on the new site.
+/wp-content/uploads/*  /uploads/:splat  301
+/feed/                 /blog/  301
+/feed                  /blog/  301
+/comments/feed/        /blog/  301
+/author/*              /professional-painters-okc/  301
+# Per-post comment feeds (/<slug>/feed/) → the post itself.
+/:slug/feed/           /:slug/  301
+
+# --- Thin-duplicate consolidations (2026-07 audit) ---
+# Doorway page duplicating /professional-painters-okc/ (content kept as draft).
+/house-painting-contractors-okc-professional-painters-oklahoma-city/  /professional-painters-okc/  301
+# Thin subset of the interior page (content kept as draft).
+/wall-painting-okc/    /interior-painting-okc/  301

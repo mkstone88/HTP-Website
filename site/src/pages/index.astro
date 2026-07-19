@@ -6,11 +6,14 @@ import { business, forms } from '../data/site';
 import { cfBg } from '../data/images.mjs';
 
 const heroImg = '/uploads/2024/07/7113LostForestDr-14.webp';
+// Social-share image (jpg for maximum platform compatibility).
+const ogImg = '/uploads/2023/09/608E.VictoriaTerrace-3.jpg';
 
-// Title + meta carried over verbatim from the live WordPress home page.
-const title = 'Trusted Painters In OKC | 120+ 5-Star Reviews | Hometown Painting';
+// Title + meta carried over from the live WordPress home page
+// (review count refreshed 2026-07 to match the displayed 130+).
+const title = 'Trusted Painters In OKC | 130+ 5-Star Reviews | Hometown Painting';
 const description =
-  "Oklahoma City's trusted residential painters. 120+ perfect 5-star reviews, 5-year written warranty, on-the-spot estimates. Serving Yukon, Mustang, Edmond & OKC metro.";
+  "Oklahoma City's trusted residential painters. 130+ perfect 5-star reviews, 5-year written warranty, on-the-spot estimates. Serving Yukon, Mustang, Edmond & OKC metro.";
 
 const services = [
   { img: '/uploads/2023/09/608E.VictoriaTerrace-1-1.webp', title: 'Exterior Painting', body: 'Oklahoma weather is hard on paint. We do full prep — scrape, sand, caulk, prime — before any color goes on. Premium Sherwin-Williams. 5-year warranty.', href: '/exterior-painting-oklahoma-city/' },
@@ -43,7 +46,13 @@ const work = [
   { img: '/uploads/2023/04/Fence-Staining-OKC.webp', alt: 'Backyard privacy fence stained a rich brown by Hometown Painting' },
 ];
 ---
-<BaseLayout title={title} description={description}>
+<BaseLayout
+  title={title}
+  description={description}
+  image={ogImg}
+  showRating={true}
+  preloadHero={cfBg(heroImg)}
+>
   <!-- HERO -->
   <section class="hero" style={`background-image: linear-gradient(rgba(27,42,74,0.85), rgba(27,42,74,0.68)), url('${cfBg(heroImg)}');`}>
     <div class="container">

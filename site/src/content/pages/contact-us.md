@@ -20,5 +20,6 @@ If you have a question or would like to speak with us directly, give us a call o
 
 <div class="mini-grid">
   <div class="mini-card"><h4>Call Us</h4><p><a href="tel:4054001619">(405) 400-1619</a><br>Monday–Friday, 8:00–5:00</p></div>
-  <div class="mini-card"><h4>Email Us</h4><p><a href="mailto:Matt@hometownpaintingokc.com">Matt@hometownpaintingokc.com</a></p></div>
+  <div class="mini-card"><h4>Email Us</h4><p><a href="mailto:matt@hometownpaintingokc.com">matt@hometownpaintingokc.com</a></p></div>
+  <div class="mini-card"><h4>Our Location</h4><p>13637 SE 114th St<br>Oklahoma City, OK 73165</p></div>
 </div>

@@ -4,7 +4,9 @@ description: "The wall color of your home makes a huge statement. Does your home
 permalink: "/wall-painting-okc/"
 h1: "Wall Painting in the OKC Metro"
 ogImage: "/uploads/2024/03/Interior-Painting-OKC5.jpg"
-draft: false
+# 2026-07 audit: thin duplicate consolidated into /interior-painting-okc/
+# (301 lives in public/_redirects). Flip draft back to false to restore.
+draft: true
 ---
 
 Want to personalize your space and make it your own? Painting your interior walls is one of the quickest ways to update the look of your home.

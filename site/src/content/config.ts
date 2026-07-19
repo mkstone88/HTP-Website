@@ -11,6 +11,11 @@ const pages = defineCollection({
     draft: z.boolean().default(false),
     // GHL form id to embed on this page (contact / estimate pages).
     formId: z.string().optional(),
+    // Keep this page out of search engines (PPC landing pages, thank-you).
+    // Must be mirrored in NOINDEX_PATHS in astro.config.mjs to drop it from the sitemap.
+    noindex: z.boolean().default(false),
+    // Emit aggregateRating schema — only for pages that visibly display reviews.
+    showRating: z.boolean().default(false),
   }),
 });
 

@@ -20,8 +20,8 @@ draft: false
 ## Here’s What Some of Our OKC Customers Say
 
 <div class="prose-reviews">
-  <div class="p-review"><div class="p-stars">★★★★★</div><p>“I cannot say enough about how much I appreciate Matt and his team for sealing our new outdoor structure. Matt listens to what you want, advises when needed, and holds himself and his team to a high standard. I’ll definitely be using Hometown Painting again!”</p><cite>— Jordan V. · Yukon, OK</cite></div>
-  <div class="p-review"><div class="p-stars">★★★★★</div><p>“They did an awesome job! The staff worked hard the whole time they were here. They stained our wood and it looks like new!”</p><cite>— Marlene · Tuttle, OK</cite></div>
+  <div class="p-review"><div class="p-stars">★★★★★</div><p>“I cannot say enough about how much I appreciate Matt and his team for sealing our new fence. Matt listens to what you want, advises when needed, and holds himself and his team to a high standard. I’ll definitely be using Hometown Painting again!”</p><cite>— Jordan V. · Yukon, OK</cite></div>
+  <div class="p-review"><div class="p-stars">★★★★★</div><p>“They did an awesome job! The staff worked hard the whole time they were here. They stained our wood fence and it looks like new!”</p><cite>— Marlene · Tuttle, OK</cite></div>
   <div class="p-review"><div class="p-stars">★★★★★</div><p>“Great job staining our fence and pavilion. I would highly recommend. Always on time, with great communication on when they’d be here to get the job started and done.”</p><cite>— Matt F. · Edmond, OK</cite></div>
 </div>
 

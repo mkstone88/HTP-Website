@@ -1,6 +1,6 @@
 ---
 title: "Interior Pricing | House Painters In The OKC Metro"
-description: "Every homeowner dreams of a stunning interior, a backdrop worthy of every life event and quiet moment. While the idea of painting can seem daunting,"
+description: "What interior painting costs in the OKC metro — per-room and per-square-foot ranges, what drives the price, and how to budget for your project."
 permalink: "/pricing/interior-pricing/"
 h1: "Interior Painting Cost in the OKC Metro"
 ogImage: "/uploads/2023/09/9409SW32ndTer-Edited-1.jpg"

@@ -13,7 +13,7 @@ Keeping Mesta Park beautiful — thoughtful interior and exterior painting for t
 
 ## Why We Love Mesta Park
 
-Mesta Park, nestled in the heart of our city, isn’t just another neighborhood — it’s a vibrant testament to historical charm meeting modern living. We’ve had the privilege of bringing color to several of its historic homes, and we’re committed to preserving their beauty and integrity. Whether it’s a fresh coat or a detailed restoration, we approach every project with the respect and care these homes deserve.
+Mesta Park's craftsman bungalows and prairie-style homes are some of the most distinctive houses we get to work on anywhere in Oklahoma City. We've painted several of them, and we're committed to preserving their beauty and integrity. Whether it’s a fresh coat or a detailed restoration, we approach every project with the respect and care these homes deserve.
 
 ![A historic Mesta Park home painted by Hometown Painting](/uploads/2023/11/20231006_074510.webp)
 

@@ -1,5 +1,5 @@
 ---
-title: "5 Star Rated |House Painters Yukon, OK | Free Estimates"
+title: "5 Star Rated | House Painters Yukon, OK | Free Estimates"
 description: "Hometown Painting LLC: The Painters Yukon, OK Homeowners Trust. We offer Interior and Exterior Painting. Free Estimates. Military and First Responder Discounts."
 permalink: "/painters-yukon-ok/"
 h1: "House Painters Yukon OK Homeowners Trust"

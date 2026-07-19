@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import { cfBg } from '../../data/images.mjs';
 
 const posts = (await getCollection('blog', ({ data }) => !data.draft)).sort(
   (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
@@ -10,8 +11,13 @@ const posts = (await getCollection('blog', ({ data }) => !data.draft)).sort(
 const title = 'Blog | House Painters In The OKC Metro';
 const description =
   'Have you ever had a question about which paint to use or how the process works? In our blog, we answer your questions about painting and staining in Oklahoma City.';
+// Social-share image (jpg for maximum platform compatibility).
+const ogImg = '/uploads/2022/08/IMG_0174-min-scaled.jpg';
+
+const fmtDate = (d: Date) =>
+  d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
 ---
-<BaseLayout title={title} description={description}>
+<BaseLayout title={title} description={description} image={ogImg}>
   <section class="page-hero">
     <div class="container">
       <nav class="breadcrumbs" aria-label="Breadcrumb"><a href="/">Home</a> › Blog</nav>
@@ -26,10 +32,11 @@ const description =
         {posts.map((post) => (
           <a class="post-card" href={post.data.permalink}>
             {post.data.ogImage && (
-              <div class="post-card-img" style={`background-image:url('${post.data.ogImage}')`}></div>
+              <div class="post-card-img" style={`background-image:url('${cfBg(post.data.ogImage, 640)}')`}></div>
             )}
             <div class="post-card-body">
               <h2>{post.data.h1 || post.data.title}</h2>
+              <p class="post-card-date">{fmtDate(post.data.date)}</p>
               <p>{post.data.description}</p>
               <span class="post-card-link">Read more →</span>
             </div>

@@ -131,7 +131,7 @@ I admire the craftsmanship and integrity of my grandfather’s generation of pai
 
 We’re proud to be a family owned and operated company. My wife, Rachel, has played a vital role in making Hometown Painting what it is today.
 
-Please take some more time to learn [about us here](/professional-painters-okc).
+Please take some more time to learn [about us here](/professional-painters-okc/).
 
 – *Matt Stone*
 
@@ -158,7 +158,7 @@ Or give us a call: (405) 400-1619
       <li>The amount of surface to be painted</li>
       <li>The condition of the house and the prep needed</li>
     </ul>
-    <p>The best way to get an exact price is to request a <a href="/contact-us/">free estimate</a>. For more, see our <a href="/pricing/exterior-pricing/">pricing page</a>.</p>
+    <p>The best way to get an exact price is to request a <a href="/contact-us/">free estimate</a>. For more, see our <a href="/pricing/exterior-painting-cost-oklahoma-city/">pricing page</a>.</p>
   </div>
 </details>
 
@@ -178,7 +178,7 @@ Or give us a call: (405) 400-1619
       <li>Cracking caulk</li>
       <li>Fading color</li>
     </ul>
-    <p>Learn more about <a href="/when-to-paint-exterior/">exterior paint problems</a>. We’re happy to help with a free exterior inspection.</p>
+    <p>Learn more about <a href="/signs-you-need-exterior-painting-oklahoma/">exterior paint problems</a>. We’re happy to help with a free exterior inspection.</p>
   </div>
 </details>
 
@@ -195,3 +195,56 @@ Or give us a call: (405) 400-1619
     <p>Our exterior package typically includes a thorough inspection, surface prep (cleaning, sanding, priming), application of high-quality paint, and a final review to make sure the job meets your standards. Every estimate includes a detailed breakdown so you know exactly what to expect.</p>
   </div>
 </details>
+
+## From Our Exterior Painting Blog
+
+<div class="blog-cards">
+  <div class="blog-card">
+    <img src="/uploads/2022/08/IMG_0174-min-scaled.webp" alt="10 Clear Signs It's Time to Repaint Your Home's Exterior">
+    <div class="blog-card-body">
+      <h4><a href="/signs-you-need-exterior-painting-oklahoma/">10 Signs You Need Exterior Painting</a></h4>
+      <p>How to spot peeling, fading, and cracking before the damage sets in.</p>
+      <a class="blog-more" href="/signs-you-need-exterior-painting-oklahoma/">Read more &rarr;</a>
+    </div>
+  </div>
+  <div class="blog-card">
+    <img src="/uploads/2023/09/608E.VictoriaTerrace-1-1-scaled.webp" alt="Best Time of Year to Paint Your Home's Exterior in Oklahoma">
+    <div class="blog-card-body">
+      <h4><a href="/best-time-of-year-paint-exterior-oklahoma/">The Best Time of Year to Paint in Oklahoma</a></h4>
+      <p>Temperature, humidity, and the seasonal windows that make paint last.</p>
+      <a class="blog-more" href="/best-time-of-year-paint-exterior-oklahoma/">Read more &rarr;</a>
+    </div>
+  </div>
+  <div class="blog-card">
+    <img src="/uploads/2023/09/9409SW32ndTer-Edited-1.webp" alt="What's included in professional exterior prep work">
+    <div class="blog-card-body">
+      <h4><a href="/exterior-painting-prep-work-oklahoma-city/">What Professional Prep Work Includes</a></h4>
+      <p>Washing, scraping, sanding, priming, and caulking — the steps that make it last.</p>
+      <a class="blog-more" href="/exterior-painting-prep-work-oklahoma-city/">Read more &rarr;</a>
+    </div>
+  </div>
+  <div class="blog-card">
+    <img src="/uploads/2025/05/13521StonedaleDr-3-scaled.webp" alt="Why exterior paint fades, peels, and cracks in Oklahoma">
+    <div class="blog-card-body">
+      <h4><a href="/why-exterior-paint-fades-peels-cracks-oklahoma/">Why Paint Fades, Peels &amp; Cracks Here</a></h4>
+      <p>What Oklahoma heat, sun, wind, and storms do to a paint job — and how to beat it.</p>
+      <a class="blog-more" href="/why-exterior-paint-fades-peels-cracks-oklahoma/">Read more &rarr;</a>
+    </div>
+  </div>
+  <div class="blog-card">
+    <img src="/uploads/2025/02/7113LostForestDr-13-scaled.webp" alt="Best exterior paints and primers for Oklahoma weather">
+    <div class="blog-card-body">
+      <h4><a href="/best-exterior-paint-oklahoma-weather/">The Best Exterior Paints for Oklahoma Weather</a></h4>
+      <p>The products we trust to stand up to Oklahoma sun, wind, and storms.</p>
+      <a class="blog-more" href="/best-exterior-paint-oklahoma-weather/">Read more &rarr;</a>
+    </div>
+  </div>
+  <div class="blog-card">
+    <img src="/uploads/2023/09/2933LakeshireRidgeRd-2-scaled.webp" alt="How to choose exterior paint colors for your Oklahoma home">
+    <div class="blog-card-body">
+      <h4><a href="/how-to-choose-exterior-paint-colors-for-your-oklahoma-home/">How to Choose Exterior Paint Colors</a></h4>
+      <p>A step-by-step way to land on colors you'll love for the next decade.</p>
+      <a class="blog-more" href="/how-to-choose-exterior-paint-colors-for-your-oklahoma-home/">Read more &rarr;</a>
+    </div>
+  </div>
+</div>

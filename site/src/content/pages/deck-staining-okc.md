@@ -1,8 +1,10 @@
 ---
-title: "Professional Deck Staining OKC | Hometown Painting Oklahoma City | House Painters In The OKC Metro"
-description: "Your deck is one of the most valuable outdoor investments in your home. Whether you're looking to restore a weathered deck or protect a newly built one,"
+# Title/description restored from the primary legacy deck page (2026-07 audit) —
+# the consolidation had shipped the weaker nested duplicate's metadata.
+title: "Deck Staining OKC | Professional Deck Staining Services In Oklahoma City"
+description: "Professional deck staining services in Oklahoma City. Transform your weathered deck with premium stains, expert application, and lasting protection. Free consultation available."
 permalink: "/deck-staining-okc/"
-h1: "Professional Deck Staining OKC | Hometown Painting Oklahoma City"
+h1: "Professional Deck Staining in Oklahoma City"
 ogImage: "/uploads/2022/08/IMG_0174-min-scaled.jpg"
 draft: false
 ---
@@ -83,6 +85,14 @@ We follow a meticulous, multi-step process built on years of experience with Okl
 ![A backyard deck freshly stained a warm sable brown in the OKC metro](/uploads/2023/11/sable-deck.webp)
 
 ![A deck stained and sealed by Hometown Painting in Oklahoma City](/uploads/2023/02/Deck-Stain-OKC.webp)
+
+## More Staining Resources
+
+We stain more than decks — see our [fence staining service](/fence-staining-okc/) and [pergola staining](/pergola-staining-okc/) too. Planning ahead? These guides answer the most common questions:
+
+- [What is the best outdoor stain for OKC?](/what-is-the-best-outdoor-stain-for-okc/)
+- [How long does outdoor stain last in OKC?](/how-long-does-outdoor-stain-last/)
+- [Can a gray fence or deck be stained?](/can-a-gray-fence-or-deck-be-stained/)
 
 ## Ready to Restore Your Deck?
 

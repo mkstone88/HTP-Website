@@ -231,7 +231,7 @@ We have received specialized training from Wood Defender, one of the leading sta
 
 We recommend using a quality oil based penetrating stain to protect your wood fence, deck or pergola. Unlike stains that stay on the surface of the wood, penetrating stains soak down into the wood fibers.
 
-The oil repels moisture, the leading cause of wood rot and warping. We have two types of oil based stain so we can take care of any situation.
+The oil repels moisture, the leading cause of wood rot and warping. We have two types of oil based stain so we can take care of any situation. Browse our most popular shades on the [Wood Defender fence stain colors](/okc-fence-stain-colors/) page.
 
 ### Transparent Fence Stain
 

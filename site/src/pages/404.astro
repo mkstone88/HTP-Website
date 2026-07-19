@@ -1,0 +1,35 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { business } from '../data/site';
+
+const title = 'Page Not Found | Hometown Painting';
+const description =
+  "Sorry — that page doesn't exist. Find our painting services, pricing, gallery, and free estimates for the OKC metro here.";
+---
+<BaseLayout title={title} description={description} pageNoindex={true}>
+  <section class="page-hero">
+    <div class="container">
+      <h1>Sorry, We Can't Find That Page</h1>
+      <p class="page-hero-sub">
+        The page you're looking for may have moved. Here's where to find what you need:
+      </p>
+    </div>
+  </section>
+
+  <section class="prose">
+    <div class="container">
+      <ul>
+        <li><a href="/">Home</a> — everything we do, in one place</li>
+        <li><a href="/interior-painting-okc/">Interior Painting</a> · <a href="/exterior-painting-oklahoma-city/">Exterior Painting</a> · <a href="/cabinet-painting-okc/">Cabinet Painting</a> · <a href="/fence-staining-okc/">Fence Staining</a></li>
+        <li><a href="/pricing/">Pricing guides</a> — what paint jobs cost in OKC</li>
+        <li><a href="/gallery/">Our work</a> — recent projects across the metro</li>
+        <li><a href="/blog/">The blog</a> — answers to common painting questions</li>
+        <li><a href="/contact-us/">Contact us</a> — get your free estimate</li>
+      </ul>
+      <p>
+        Or just call — we're happy to help:
+        <a href={business.phoneHref}><strong>{business.phoneDisplay}</strong></a>
+      </p>
+    </div>
+  </section>
+</BaseLayout>

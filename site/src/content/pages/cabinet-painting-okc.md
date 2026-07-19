@@ -95,6 +95,16 @@ We stand behind our work with a written **cabinet paint warranty** covering peel
   <div><p>Clean with a soft cloth and mild soap; avoid harsh chemicals and abrasive pads to preserve the finish.</p></div>
 </details>
 
+## What Our Cabinet Customers Say
+
+<div class="prose-reviews">
+  <div class="p-review"><div class="p-stars">★★★★★</div><p>“I can’t stop saying enough great things about Matt and his team. We had them paint our old kitchen cabinets, coffee bar cabinets and walls. They refinished all the wood, painted twice with primer and twice with color. Professional and meticulous. They did a beautiful job and we love the room. I show before and after pictures to everyone.”</p><cite>— Feliz Ponkilla · Oklahoma City</cite></div>
+</div>
+
+## Thinking It Over?
+
+Not sure whether painting your cabinets is the right call? Read our guide: [Should I Have My Kitchen Cabinets Painted?](/should-paint-kitchen-cabinets/) And for budget planning, our [interior pricing guide](/pricing/interior-pricing/) covers what cabinet projects typically cost.
+
 ## Ready to Love Your Kitchen Again?
 
 Contact Hometown Painting for a free estimate on cabinet painting in OKC. Our friendly team is here to answer your questions and help you fall in love with your kitchen again.

@@ -1,10 +1,12 @@
 ---
-title: "Painters OKC Landing Page | House Painters In The OKC Metro"
-description: "Get a Free Estimate"
+title: "Painters OKC | Free Estimates | Hometown Painting"
+description: "Professional local painters in the OKC metro. Interior, exterior, cabinets, and fence staining — free on-the-spot estimates and a 5-year warranty."
 permalink: "/painters/"
 h1: "Professional local Painters in the OKC Metro"
 ogImage: "/uploads/2025/05/5613NE107thSt-Interior-8.jpg"
 draft: false
+# PPC landing page — kept out of search so it can't cannibalize the homepage.
+noindex: true
 ---
 
 Hassle-free interior and exterior painting, backed by a 5-year warranty. Proudly serving Oklahoma City, Yukon, Mustang, Edmond, Moore, Norman, and nearby communities.

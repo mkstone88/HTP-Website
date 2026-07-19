@@ -1,10 +1,12 @@
 ---
-title: "Interior Painting Landing Page | House Painters In The OKC Metro"
-description: "Get a Free Estimate"
+title: "Interior Painting OKC Metro | Free Estimates | Hometown Painting"
+description: "Professional interior painters serving the OKC metro. Walls, ceilings, trim, and cabinets — free on-the-spot estimates and a 5-year warranty."
 permalink: "/interior-painting/"
 h1: "Professional Interior Painters in the OKC Metro"
 ogImage: "/uploads/2025/05/5613NE107thSt-Interior-8.jpg"
 draft: false
+# PPC landing page — kept out of search so it can't cannibalize /interior-painting-okc/.
+noindex: true
 ---
 
 Let a fresh coat of paint redefine your living space and create an ambiance that reflects your style. Our team transforms homes across Oklahoma City with thorough attention to detail and a 5-year warranty. Proudly serving OKC, Yukon, Mustang, Edmond, Moore, Norman, and nearby communities.
