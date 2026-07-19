@@ -7,56 +7,51 @@ ogImage: "/uploads/2023/04/Fence-Staining-OKC.jpg"
 draft: false
 ---
 
-**Protect your Fence and more in Oklahoma City**
-
-[Request a Free Estimate](https://api.leadconnectorhq.com/widget/form/YVYhjNMJFKBjYA1uMNkm)
-
 ## Benefits of Fence Staining in OKC
 
-Beauty
+<div class="pillars">
+  <div class="pillar-card">
+    <div class="pillar-icon">✨</div>
+    <h3>Beauty</h3>
+    <p>Enjoy your outdoor space so much more with a gorgeous stained fence as a backdrop. We offer a wide range of colors so you can customize the look to fit your style.</p>
+  </div>
+  <div class="pillar-card">
+    <div class="pillar-icon">💰</div>
+    <h3>Save Money</h3>
+    <p>Wood fence replacement is expensive and lumber prices keep rising. Staining your fence helps it last far longer in the harsh Oklahoma weather.</p>
+  </div>
+  <div class="pillar-card">
+    <div class="pillar-icon">🏡</div>
+    <h3>Boost Property Value</h3>
+    <p>Outdoor living gets more popular every year. OKC buyers and owners want outdoor spaces they’ll love — a freshly stained fence delivers.</p>
+  </div>
+</div>
 
-You will enjoy your outdoor space so much more with a gorgeous stained fence for a backdrop.
+![A cedar wood fence stained with oil-based stain in OKC](/uploads/2023/04/Fence-Staining-OKC-scaled.webp)
 
-We offer you a wide range of colors so you can customize the look of your fence to fit your style.
+## Here’s What Some of Our OKC Customers Say
 
-Save Money
+For a fresh new look, see why homeowners across the OKC metro recommend us for fence staining.
 
-Wood fence replacement is very expensive and lumber prices are only increasing. Staining your OKC fence will make it last longer in the harsh Oklahoma City weather.
+<div class="prose-reviews">
+  <div class="p-review">
+    <div class="p-stars">★★★★★</div>
+    <p>“I cannot say enough about how much I appreciate Matt and his team for sealing our new fence. Matt listens to what you want, advises when needed, and holds himself and his team to a high standard. I’ll definitely be using Hometown Painting again!”</p>
+    <cite>— Jordan V. · Yukon, OK</cite>
+  </div>
+  <div class="p-review">
+    <div class="p-stars">★★★★★</div>
+    <p>“They did an awesome job! The staff worked hard the whole time they were here. They stained our wood fence and it looks like new!”</p>
+    <cite>— Marlene · Tuttle, OK</cite>
+  </div>
+  <div class="p-review">
+    <div class="p-stars">★★★★★</div>
+    <p>“Great job staining our fence and pavilion. I would highly recommend. Always on time, with great communication on when they’d be here to get the job started and done.”</p>
+    <cite>— Matt F. · Edmond, OK</cite>
+  </div>
+</div>
 
-Improve Property Value
-
-Outdoor living is becoming more popular every year. OKC Metro home buyers/owners are looking for outdoor spaces that they will love.
-
-![a cedar wood fence stained with oil based fence staining OKC](/uploads/2023/04/Fence-Staining-OKC-scaled.webp)
-
-## Here’s what some of our OKC customers say
-
-For a fresh, new look, discover why we’re the choice for fence staining Oklahoma City residents recommend.
-
-**Jordan V.**
-
-
-*Homeowner in Yukon, OK*
-
-I cannot say enough about how much I appreciate Matt and his team for sealing our new **fence**. Matt listens to what you want, advises when needed, and holds himself and his team to a high standard. I will definitely be using Hometown Painting again!
-
-****Marlene****
-
-
-**Homeowner in Tuttle, OK**
-
-They did an awesome job! The staff worked hard the whole time they were here! They stained our wood **fence** and it looks like new!
-
-****Matt F.****
-
-
-**Homeowner in Edmond, OK**
-
-Great job staining our **fence** and pavilion. I would highly recommend. Always on time and great communication on when they would be here to get the job started and accomplished
-
-[Request a Free Estimate](https://api.leadconnectorhq.com/widget/form/YVYhjNMJFKBjYA1uMNkm)
-
-## Helpful Staining Videos
+<a class="prose-cta" href="/contact-us/">Request a Free Estimate →</a>
 
 ## Hometown Painting is OKC’s Fence Stain Pro
 
@@ -88,70 +83,92 @@ Contact us today to speak to experienced, local,  professional painters in the 
 
 ## We Offer More Than Just Fence Staining
 
-### Deck Staining
-
-![A new deck with fresh stain in Oklahoma city](/uploads/2023/02/Deck-Stain-OKC-2.webp)
-
-### [Pergola Staining](/pergola-staining-okc/)
-
-![cedar tone wood defender stain](/uploads/2022/09/cedar-tone-wood-defender-stain.webp)
-
-### Siding Staining
-
-![siding staining okc just finished staining the cedar siding on this house with a red oil based stain](/uploads/2023/10/IMG_1513-scaled.webp)
+<div class="svc-cards">
+  <a class="svc-card" href="/deck-staining-okc/">
+    <img src="/uploads/2023/02/Deck-Stain-OKC-2.webp" alt="A new deck with fresh stain in Oklahoma City">
+    <h4>Deck Staining</h4>
+  </a>
+  <a class="svc-card" href="/pergola-staining-okc/">
+    <img src="/uploads/2022/09/cedar-tone-wood-defender-stain.webp" alt="Cedar-tone Wood Defender stain on a pergola">
+    <h4>Pergola Staining</h4>
+  </a>
+  <div class="svc-card">
+    <img src="/uploads/2023/10/IMG_1513-scaled.webp" alt="Red oil-based stain on cedar siding in OKC">
+    <h4>Siding Staining</h4>
+  </div>
+</div>
 
 ## Frequently Asked Questions: Fence Staining OKC
 
-### How much does fence staining cost?
+<details class="faq-item">
+  <summary>How much does fence staining cost?</summary>
+  <div>
+    <p>Most full backyard stains run $1,500–$3,000. Our current price is about $1 per square foot of fence, plus any extra labor to cover concrete or landscaping along the fence line.</p>
+  </div>
+</details>
 
-Average: $1500 to $3000 for a full backyard stain.
-Our current price is $1 per square foot of fence. We also have to factor in any additional labor to cover concrete or landscaping by the fence.
+<details class="faq-item">
+  <summary>How long will the fence stain last?</summary>
+  <div>
+    <p>Wood Defender recommends staining every 2–4 years — that means restaining before you see major fading or graying. Semi-transparent stains often last a year or more longer than transparent stains.</p>
+  </div>
+</details>
 
-### How long will the fence stain last?
+<details class="faq-item">
+  <summary>How long does the fence stain process take?</summary>
+  <div>
+    <p>We can stain most fences in one day. If the fence needs to be washed first, we’ll wait 24–48 hours to let it dry before staining.</p>
+  </div>
+</details>
 
-Wood Defender recommends staining a fence every 2 to 4 years.
-This means you will be staining before you see major fading or graying.
-Semi-transparent stains will often last a year or more longer than transparent stains.
+<details class="faq-item">
+  <summary>What should I do to prepare for stain day?</summary>
+  <div>
+    <p>Please move any decor or landscaping items away from the fence before we arrive, and turn off any sprinklers 24 hours ahead of time.</p>
+  </div>
+</details>
 
-### How long does the fence stain process take?
+<details class="faq-item">
+  <summary>How long does it take the stain to dry?</summary>
+  <div>
+    <p>The stain is dry to the touch within 24–72 hours. You may see some shiny spots for a day or two while it finishes soaking in. It’s safe to let pets back in the yard as soon as our crew leaves.</p>
+  </div>
+</details>
 
-We can stain most fences in one day.
-If the fence needs to be washed before staining, we will need to wait 24-48 hours to let the fence dry.
+<details class="faq-item">
+  <summary>How long should I leave my sprinklers off?</summary>
+  <div>
+    <p>Turn sprinklers off for 24 hours before and after staining. That said, if a little water gets on the fence afterward, it shouldn’t have any long-term effect.</p>
+  </div>
+</details>
 
-### What should I do to prepare for stain day?
+<details class="faq-item">
+  <summary>How will I know when it’s time to restain my fence?</summary>
+  <div>
+    <p>The most obvious sign is a significant fade in color. If you notice any gray forming on the wood, that’s a sure sign it’s time to stain again.</p>
+  </div>
+</details>
 
-We ask that you move any decor or landscaping items away from the fence before we arrive. Also any sprinklers need to be turned off 24 hours before we arrive.
-
-### How long does it take the stain to dry?
-
-The stain should be dry to the touch within 24-72 hours.
-You may see some shiny spots for a day or two while the stain finishes soaking in.
-It is safe to allow your pets back in the yard as soon as our crew leaves.
-
-### How long should I leave my sprinklers off?
-
-We request that you turn your sprinklers off for 24 hours before and after the staining.
-That being said, if a little water gets on the fence after staining, it should have no long term affect.
-
-### How will I know when it’s time to restain my fence?
-
-The most obvious sign will be a significant fade in the color. Also, if you notice any gray forming on the wood that is a sure sign it’s time to stain again.
-
-### What is the best fence stain color for my fence?
-
-We have created a [fence stain color selection guide](/how-to-choose-a-fence-stain-color/) to help you pick your best color.
+<details class="faq-item">
+  <summary>What is the best fence stain color for my fence?</summary>
+  <div>
+    <p>We put together a <a href="/how-to-choose-a-fence-stain-color/">fence stain color selection guide</a> to help you pick the best color for your home.</p>
+  </div>
+</details>
 
 ## Quality Fence Staining Products
 
 We most often use high quality [Wood Defender](http://wooddefender.com) penetrating oil-based stain. Wood Defender both stains and seals the wood in one step. We apply the stain according to the manufacturer’s guidelines.
 
-Oil based stains offer protection from:
+Oil-based stains protect against:
 
-- Premature rotting
-- Warping
-- Mildew Growth
-- Damaging UV rays
-- Fence turning gray
+<ul class="tag-list">
+  <li>Premature rotting</li>
+  <li>Warping</li>
+  <li>Mildew growth</li>
+  <li>Damaging UV rays</li>
+  <li>Graying</li>
+</ul>
 
 ![IMG 0728 scaled](/uploads/2022/11/IMG_0728-scaled.webp)
 
@@ -190,7 +207,7 @@ We have received specialized training from Wood Defender, one of the leading sta
 1. **Initial consultation**
    We start by listening to you. What would you like your fence stain to look like? What questions do you have and how can we help you protect your outdoor space.
 2. **Moisture Check**
-   Dry wood is critical to the success of any stain work. We use a moisture meter to measure the actual moisture content of your .
+   Dry wood is critical to the success of any stain work. We use a moisture meter to measure the actual moisture content of your fence.
 3. **Wind Check**
    Strong winds are always a concern in the Oklahoma City area. We take precautions for where the wind may blow the stain as we apply it.
 4. **Wood Prep**
@@ -234,68 +251,71 @@ Semi-transparent stains are also great for covering more of the imperfections in
 
 ![Hometown graph 1 scaled](/uploads/2022/10/Hometown-graph-1-scaled.webp)
 
-### Recent Fence Staining Blog Posts
+## From Our Fence Staining Blog
 
-![IMG 7435 scaled](/uploads/2023/02/IMG_7435-scaled.webp)
-
-## [Cedar Siding Staining: The Express Clydesdale Barns in Yukon, OK](/siding-staining-express-clydesdale-barns/)
-
-February 3, 2023
-
-The Express Clydesdale Barn is a historic landmark in Yukon, Oklahoma. The Express Ranch has taken great care to preserve and maintain this historic building. Recently, the barn’s siding had become worn and weathered. The stained finish on the barn’s exterior had worn completely off in many places. This left the building in danger of … [Read more](/siding-staining-express-clydesdale-barns/ "Cedar Siding Staining: The Express Clydesdale Barns in Yukon, OK")
-
-![Fence Stain OKC 3](/uploads/2022/08/Fence-Stain-OKC-3.webp)
-
-## [How Long Does Outdoor Stain Last in OKC?](/how-long-does-outdoor-stain-last/)
-
-February 3, 2023
-
-If you are planning to stain your fence, deck, or siding, you may wonder how long outdoor stain should last. Oklahoma City’s weather can be unforgiving on exterior wood structures. Even so, if you purchase a quality stain product and it is applied properly outdoor stain should last years before it needs to be reapplied. … [Read more](/how-long-does-outdoor-stain-last/ "How Long Does Outdoor Stain Last in OKC?")
-
-![fence stained with red stain in okc](/uploads/2023/02/DSC05338-2.webp)
-
-## [What Is the Best Outdoor Stain for OKC?](/what-is-the-best-outdoor-stain-for-okc/)
-
-February 2, 2023
-
-If you want to protect your wood fence, deck or siding, you know stain and sealer are great ways to make them last longer. You may be wondering, however, “What is the best outdoor stain to use at my OKC home?” We have tried many fence and deck stains in the Oklahoma City metro and … [Read more](/what-is-the-best-outdoor-stain-for-okc/ "What Is the Best Outdoor Stain for OKC?")
-
-![before after photo of fence restoration](/uploads/2023/01/Before-Vs.-After.webp)
-
-## [Can a Gray Fence or Deck be Stained?](/can-a-gray-fence-or-deck-be-stained/)
-
-January 5, 2023
-
-If you have an older fence or deck that has turned gray you may think it is too late to have beautifully stained wood in your backyard. The truth is that fences and decks can be restored to their original condition and transformed with quality outdoor stain. There are several methods for removing the gray … [Read more](/can-a-gray-fence-or-deck-be-stained/ "Can a Gray Fence or Deck be Stained?")
-
-![should I stain my fence? yes](/uploads/2022/11/IMG_0545-scaled.webp)
-
-## [Should I Stain My Fence? (Is it worth it?)](/should-i-stain-my-fence/)
-
-November 14, 2022
-
-Is It Worth It To Stain My Fence? “Should I stain my fence?” That is a question that many homeowners in Oklahoma City are asking themselves. After the expense of building the fence, it may not seem like the time to spend more money to get it stained. The truth is, Hometown Painting LLC recommends … [Read more](/should-i-stain-my-fence/ "Should I Stain My Fence? (Is it worth it?)")
-
-![cedar fence stain scaled](/uploads/2022/11/cedar-fence-stain-scaled.webp)
-
-## [Should I hire a professional to stain my fence?](/should-i-hire-a-fence-staining-pro/)
-
-November 3, 2022
-
-Should I Hire a Fence Stain Professional? While staining a fence is within the ability of many homeowners, there are many ways it can go wrong. The safest bet is to hire a pro to stain your fence, but of course this costs more. If you are “on the fence” about whether to hire someone … [Read more](/should-i-hire-a-fence-staining-pro/ "Should I hire a professional to stain my fence?")
-
-![redwood stain on a cedar fence](/uploads/2023/10/IMG_0907-scaled.webp)
-
-## [How to choose a fence stain color](/how-to-choose-a-fence-stain-color/)
-
-October 10, 2022
-
-There are so many fence stain color options available it can be hard to settle on just one. You don’t want to waste time or money by choosing the wrong color for your fence. We have collected our top suggestions for selecting a fence stain color that will be perfect for your home. #1 Match … [Read more](/how-to-choose-a-fence-stain-color/ "How to choose a fence stain color")
-
-![What Does Fence Staining Cost](/uploads/2022/10/What-Does-Fence-Staining-Cost.webp)
-
-## [What is the Average Cost To Stain a Fence in the OKC Metro?](/cost-to-stain-a-fence-okc/)
-
-October 9, 2022
-
-What is the Average Cost to Stain a Fence in OKC? Do you wonder if you’re paying too much to have your fence professionally stained in the OKC metro? We  will break down the average cost to stain a fence and the main factors that affect the price. Then we will show you three example … [Read more](/cost-to-stain-a-fence-okc/ "What is the Average Cost To Stain a Fence in the OKC Metro?")
+<div class="blog-cards">
+  <div class="blog-card">
+    <img src="/uploads/2023/02/IMG_7435-scaled.webp" alt="Cedar Siding Staining: The Express Clydesdale Barns in Yukon, OK">
+    <div class="blog-card-body">
+      <h4><a href="/siding-staining-express-clydesdale-barns/">Cedar Siding Staining: The Express Clydesdale Barns in Yukon, OK</a></h4>
+      <p>How we restored the worn, weathered siding on this historic Yukon landmark.</p>
+      <a class="blog-more" href="/siding-staining-express-clydesdale-barns/">Read more &rarr;</a>
+    </div>
+  </div>
+  <div class="blog-card">
+    <img src="/uploads/2022/08/Fence-Stain-OKC-3.webp" alt="How Long Does Outdoor Stain Last in OKC?">
+    <div class="blog-card-body">
+      <h4><a href="/how-long-does-outdoor-stain-last/">How Long Does Outdoor Stain Last in OKC?</a></h4>
+      <p>What to expect from a quality stain job in Oklahoma&rsquo;s tough weather.</p>
+      <a class="blog-more" href="/how-long-does-outdoor-stain-last/">Read more &rarr;</a>
+    </div>
+  </div>
+  <div class="blog-card">
+    <img src="/uploads/2023/02/DSC05338-2.webp" alt="What Is the Best Outdoor Stain for OKC?">
+    <div class="blog-card-body">
+      <h4><a href="/what-is-the-best-outdoor-stain-for-okc/">What Is the Best Outdoor Stain for OKC?</a></h4>
+      <p>We&rsquo;ve tried many fence and deck stains across the metro &mdash; here&rsquo;s what holds up.</p>
+      <a class="blog-more" href="/what-is-the-best-outdoor-stain-for-okc/">Read more &rarr;</a>
+    </div>
+  </div>
+  <div class="blog-card">
+    <img src="/uploads/2023/01/Before-Vs.-After.webp" alt="Can a Gray Fence or Deck Be Stained?">
+    <div class="blog-card-body">
+      <h4><a href="/can-a-gray-fence-or-deck-be-stained/">Can a Gray Fence or Deck Be Stained?</a></h4>
+      <p>Yes &mdash; older gray wood can be restored and transformed with the right process.</p>
+      <a class="blog-more" href="/can-a-gray-fence-or-deck-be-stained/">Read more &rarr;</a>
+    </div>
+  </div>
+  <div class="blog-card">
+    <img src="/uploads/2022/11/IMG_0545-scaled.webp" alt="Should I Stain My Fence? (Is It Worth It?)">
+    <div class="blog-card-body">
+      <h4><a href="/should-i-stain-my-fence/">Should I Stain My Fence? (Is It Worth It?)</a></h4>
+      <p>Why staining a new fence protects your investment and saves money long term.</p>
+      <a class="blog-more" href="/should-i-stain-my-fence/">Read more &rarr;</a>
+    </div>
+  </div>
+  <div class="blog-card">
+    <img src="/uploads/2022/11/cedar-fence-stain-scaled.webp" alt="Should I Hire a Pro to Stain My Fence?">
+    <div class="blog-card-body">
+      <h4><a href="/should-i-hire-a-fence-staining-pro/">Should I Hire a Pro to Stain My Fence?</a></h4>
+      <p>The ways a DIY stain job can go wrong, and when it pays to hire a professional.</p>
+      <a class="blog-more" href="/should-i-hire-a-fence-staining-pro/">Read more &rarr;</a>
+    </div>
+  </div>
+  <div class="blog-card">
+    <img src="/uploads/2023/10/IMG_0907-scaled.webp" alt="How to Choose a Fence Stain Color">
+    <div class="blog-card-body">
+      <h4><a href="/how-to-choose-a-fence-stain-color/">How to Choose a Fence Stain Color</a></h4>
+      <p>Our top tips for picking a stain color that&rsquo;s perfect for your home.</p>
+      <a class="blog-more" href="/how-to-choose-a-fence-stain-color/">Read more &rarr;</a>
+    </div>
+  </div>
+  <div class="blog-card">
+    <img src="/uploads/2022/10/What-Does-Fence-Staining-Cost.webp" alt="What Is the Average Cost to Stain a Fence in OKC?">
+    <div class="blog-card-body">
+      <h4><a href="/cost-to-stain-a-fence-okc/">What Is the Average Cost to Stain a Fence in OKC?</a></h4>
+      <p>A breakdown of what affects fence staining prices, with real example quotes.</p>
+      <a class="blog-more" href="/cost-to-stain-a-fence-okc/">Read more &rarr;</a>
+    </div>
+  </div>
+</div>
