@@ -7,34 +7,38 @@ ogImage: "/uploads/2024/03/Interior-Painting-OKC5.jpg"
 draft: false
 ---
 
-Want to personalize your space and make it your own? Maybe you want to brighten things up a bit? Painting your interior walls is one of the quickest ways to update the look of your home!
+Want to personalize your space and make it your own? Painting your interior walls is one of the quickest ways to update the look of your home.
 
-[Request a Free Estimate](https://api.leadconnectorhq.com/widget/form/YVYhjNMJFKBjYA1uMNkm)
+<a class="prose-cta" href="/contact-us/">Request a Free Estimate →</a>
 
-![Interior Painting OKC5](/uploads/2024/03/Interior-Painting-OKC5.webp)
+![Freshly painted interior walls in an Oklahoma City home](/uploads/2024/03/Interior-Painting-OKC5.webp)
 
 ## Update the Colors on Your Home’s Walls
 
-![20240229 094123 scaled](/uploads/2024/05/20240229_094123-scaled.webp)
+<div class="mini-grid">
+  <div class="mini-card"><h4>Modernize</h4><p>Refresh and modernize the whole look of your space.</p></div>
+  <div class="mini-card"><h4>Fast Transformation</h4><p>A dramatic change in just a few days.</p></div>
+  <div class="mini-card"><h4>Make It Yours</h4><p>Personalize your home to fit your personality.</p></div>
+</div>
 
-- Modernize the look of your space.
-- Quick transformation in just a few days.
-- Personalize your home to fit your personality.
+![A freshly painted room in the OKC metro](/uploads/2024/05/20240229_094123-scaled.webp)
 
 ## Create the Mood You Want
 
-- Choose light colors for a bright airy feel.
-- Subdued tones can create a relaxing haven.
-- Bold colors inject energy and vibrance into a space.
+<div class="mini-grid">
+  <div class="mini-card"><h4>Light &amp; Airy</h4><p>Choose light colors for a bright, open feel.</p></div>
+  <div class="mini-card"><h4>Relaxing Haven</h4><p>Subdued tones create a calm, restful space.</p></div>
+  <div class="mini-card"><h4>Bold &amp; Vibrant</h4><p>Bold colors inject energy and personality into a room.</p></div>
+</div>
 
-![image](/uploads/2023/10/image.webp)
+![Interior wall painting inspiration in an OKC home](/uploads/2023/10/image.webp)
 
-We want to make updating your home as easy as possible. We look at your free estimate as a consultation. We really want to hear what you are looking for and make a plan to get you what you need. We can also make suggestions for color choices, sheens and finishes. Have a Pinterest board or Instagram pic that inspires you? Let’s look at it together and make your dream home a reality.
+We want to make updating your home as easy as possible. We treat your free estimate as a consultation — we want to hear what you’re looking for and make a plan to get you there. We’re happy to suggest colors, sheens, and finishes. Have a Pinterest board or an Instagram pic that inspires you? Let’s look at it together and make your dream home a reality.
 
-[Request a Free Estimate](https://api.leadconnectorhq.com/widget/form/YVYhjNMJFKBjYA1uMNkm)
+<a class="prose-cta" href="/contact-us/">Request a Free Estimate →</a>
 
-## Ready to Paint? Just have questions?
+## Ready to Paint? Just Have Questions?
 
-Contact us today to speak to experienced, local,  professional painters in the OKC metro.
+Contact us today to speak with experienced, local, professional painters in the OKC metro.
 
-[Contact Us](/contact-us/)
+<a class="prose-cta" href="/contact-us/">Contact Us →</a>
