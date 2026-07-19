@@ -15,7 +15,7 @@ Imagine instead pulling up to a freshly painted home with crisp trim, smooth sid
 
 We handle every detail from careful prep and color consultation to clean, efficient painting so you can enjoy a fresh start without the hassle. Let us handle the painting so you can enjoy your life.
 
-[Get Your On-the-Spot Estimate](https://api.leadconnectorhq.com/widget/form/YVYhjNMJFKBjYA1uMNkm)
+<a class="prose-cta" href="/contact-us/">Get a Free Estimate →</a>
 
 ## Why Choose Hometown Painting?
 

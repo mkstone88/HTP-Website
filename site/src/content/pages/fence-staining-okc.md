@@ -79,7 +79,7 @@ We have received training directly from the Wood Defender team on the best ways 
 
 Contact us today to speak to experienced, local,  professional painters in the OKC metro.
 
-[Contact Us](/contact-us/)
+<a class="prose-cta" href="/contact-us/">Contact Us →</a>
 
 ## We Offer More Than Just Fence Staining
 
@@ -225,7 +225,7 @@ We have received specialized training from Wood Defender, one of the leading sta
 10. **Clean Up**
     We make sure that your property is as clean when we leave as it was when we arrived.
 
-[Request a Free Estimate](https://api.leadconnectorhq.com/widget/form/YVYhjNMJFKBjYA1uMNkm)
+<a class="prose-cta" href="/contact-us/">Get a Free Estimate →</a>
 
 ## Best Fence Stain For Oklahoma City
 

@@ -17,7 +17,7 @@ Fresh interior paint changes how a room *feels*: brighter, cleaner, and more wel
 
 As local Oklahoma City homeowners ourselves, we understand those concerns. Our interior painting process keeps things simple, respectful, and hassle-free.
 
-[Get Your On-the-Spot Estimate](https://api.leadconnectorhq.com/widget/form/YVYhjNMJFKBjYA1uMNkm)
+<a class="prose-cta" href="/contact-us/">Get a Free Estimate →</a>
 
 ## Hometown Painting is your interior painting pro in the OKC Metro
 

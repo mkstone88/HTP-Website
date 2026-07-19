@@ -7,8 +7,8 @@ ogImage: "/uploads/2025/05/See-the-Calendar.jpg"
 draft: false
 ---
 
-We look forward to working with you on your project! If you were able to get an appointment scheduled on our calendar already, Great! If not there is a link below to select your appointment time.
+We look forward to working with you on your project! If you already scheduled an appointment on our calendar — great! If not, use the button below to pick a time that works for you.
 
-[![See the Calendar](/uploads/2025/05/See-the-Calendar.webp "See the Calendar")](https://api.leadconnectorhq.com/widget/bookings/hometownpainting)
+<a class="prose-cta" href="https://api.leadconnectorhq.com/widget/bookings/hometownpainting">See the Calendar & Book a Time →</a>
 
-### You will be redirected to our homepage soon…
+*You’ll be redirected to our homepage shortly…*

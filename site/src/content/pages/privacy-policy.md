@@ -7,8 +7,6 @@ ogImage: "/uploads/2022/08/IMG_0174-min-scaled.jpg"
 draft: false
 ---
 
-**# PRIVACY POLICY**
-
 **Last updated May 02, 2025**
 
 This Privacy Notice for Hometown Painting LLC (“**we**,” “**us**,” or “**our**“), describes how and why we might access, collect, store, use, and/or share (“**process**“) your personal information when you use our services (“**Services**“), including when you:
