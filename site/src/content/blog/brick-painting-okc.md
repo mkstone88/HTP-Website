@@ -89,8 +89,4 @@ It is important when painting brick to spray from different directions to cover 
 
 The homeowners were very pleased with how the brick turned out. The creamy white color they chose contrasts perfectly with the dark woodwork on the house. White brick is very trendy right now and will likely only increase in popularity.
 
-Would you like a quote to paint your brick? Do you have questions?
-
-[Request a free quote!](/contact-us/)
-
-Are you interested in having your brick painted? You can [request a free quote](/contact-us/) from Hometown Painting LLC. Or you can learn about our other [exterior painting services](/exterior-painting-okc/).
+Would you like a quote to paint your brick? Do you have questions? You can [request a free quote](/contact-us/) from Hometown Painting LLC, or learn about our other [exterior painting services](/exterior-painting-oklahoma-city/).

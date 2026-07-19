@@ -1,6 +1,6 @@
 ---
 title: "Can A Gray Fence Or Deck Be Stained? | House Painters In The OKC Metro"
-description: "If you have an older fence or deck that has turned gray you may think it is too late to have beautifully stained wood in your backyard. The truth is that"
+description: "Has your fence or deck turned gray? It's not too late to stain it. Learn the methods pros use to remove the gray layer and restore weathered wood."
 permalink: "/can-a-gray-fence-or-deck-be-stained/"
 h1: "Can a Gray Fence or Deck be Stained?"
 ogImage: "/uploads/2023/01/Before-Vs.-After.jpg"
@@ -66,11 +66,11 @@ This is the same fence shown above after being bleached and stained.
 
 #1 Keep in mind that as fences age the pores in the wood will slowly open up. This means that an older fence will absorb more stain on average than a newer fence. This means that it may take more stain to saturate an older fence. This also means that an older fence may appear to be a darker color than a newer fence stained with the exact same stain. This is because it is also absorbing more pigment along with the stain.
 
-> Weathered wood it not such a bad idea if you plan to stain the siding. Loose fibers and the roughened texture absorbs penetrating stains better.
+> Weathered wood is not such a bad idea if you plan to stain the siding. Loose fibers and the roughened texture absorbs penetrating stains better.
 >
 > **Paul Fisette** [University of Massachusetts](https://bct.eco.umass.edu/publications/articles/wood-myths-facts-and-fictions-about-wood/)
 
-#2 When staining an older fence or deck the boards have often been damaged over time. Stains come in different [levels of transparency](/okc-fence-stain-colors/) that have more or less ability to hide the underlying wood. Often with older fences, it is best to choose a semi-transparent fence stain to cover some of the imperfections in the wood.
+#2 When staining an older fence or [deck](/deck-staining-okc/) the boards have often been damaged over time. Stains come in different [levels of transparency](/okc-fence-stain-colors/) that have more or less ability to hide the underlying wood. Often with older fences, it is best to choose a semi-transparent fence stain to cover some of the imperfections in the wood.
 
 ## Getting Your Fence or Deck Restored
 

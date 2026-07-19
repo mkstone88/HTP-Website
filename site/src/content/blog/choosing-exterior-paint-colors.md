@@ -11,9 +11,9 @@ date: "2023-10-11"
 
 Choosing the best exterior paint colors for your home can seem like a daunting task. There are over 1700 colors available from Sherwin Williams alone. You may be choosing one color to compliment your home’s brick, or you may be choosing a complex color palette for a victorian home. For each of those projects and everything in between, [Hometown Painting](/) would like to help OKC homeowners make the best paint color selection for their home’s exterior.
 
-From our years of experience with [exterior painting](/exterior-painting-okc/) in the OKC metro, we have gathered some tips for you to keep in mind for your next exterior painting project. Use these as a guide to help you select your next paint color. Keep in mind that we are always here to help and you can [contact us](/contact-us/) with your paint-related questions.
+From our years of experience with [exterior painting](/exterior-painting-oklahoma-city/) in the OKC metro, we have gathered some tips for you to keep in mind for your next exterior painting project. Use these as a guide to help you select your next paint color. For an Oklahoma-specific walkthrough, see our newer guide on [choosing exterior paint colors for your Oklahoma home](/how-to-choose-exterior-paint-colors-for-your-oklahoma-home/). Keep in mind that we are always here to help and you can [contact us](/contact-us/) with your paint-related questions.
 
-## Look To You Own Personal Style
+## Look To Your Own Personal Style
 
 Your style is unique to you and your paint color choices should reflect that. One way to get inspiration is to see what colors you have already chosen in other areas of your home. From the interior walls of your home, to your personal decor items, your eye will typically be drawn to a certain color palette.
 
@@ -23,7 +23,7 @@ If you tend to like bold striking colors you may want to carry this trend to you
 
 ![exterior of a house in okc painted blue and white color](/uploads/2023/01/Ext-paint-blue.webp)
 
-One great (and free) way to get exterior paint color ideas is to see what others have used on their homes. There is no need to copy someone else’s colors. You can use their color schemes as a jumping off paint for your own inspiration.
+One great (and free) way to get exterior paint color ideas is to see what others have used on their homes. There is no need to copy someone else’s colors. You can use their color schemes as a jumping-off point for your own inspiration.
 
 One great place to start is in your own neighborhood. Take a look around your home at what other homeowners have done and see what you like. These homes will likely be a similar style to your own and will give you a good indication of how the colors would look on your home.
 

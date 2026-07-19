@@ -1,6 +1,6 @@
 ---
 title: "Which Paint Should I Use On Trim And Doors?"
-description: "Choosing the right paint to go on the woodwork of your home can make a huge difference in the final appearance and durability of the finished product. Smooth,"
+description: "The right paint makes trim and doors look better and last longer. Compare oil, lacquer and water-based enamels and see which trim paint we recommend."
 permalink: "/which-paint-should-i-use-on-trim-and-doors/"
 h1: "Which Paint Should I Use On Trim and Doors?"
 ogImage: "/uploads/2022/12/Interior-2.jpg"
@@ -33,7 +33,7 @@ Oil-Based Paint: This was the tried and true paint for woodwork in past generati
 
 Lacquer-based Paint: This is still a paint that is commonly used in the Oklahoma City area. It is especially common in new home construction. Painters often like this paint because it is extremely fast drying and makes the painting work go faster. It also results in a very smooth finish. It can be described as glass-like.
 
-Lacquer-based paints share the same health concerns as oil-based paints. They are very high in VOCs and give an extremely offensive odor while drying. While they have a very hard surface, they are difficult to touch-up if they are every chipped or scratched.
+Lacquer-based paints share the same health concerns as oil-based paints. They are very high in VOCs and give an extremely offensive odor while drying. While they have a very hard surface, they are difficult to touch-up if they are ever chipped or scratched.
 
 Water Based Trim Enamel: Some of the most exciting advances in paint technology recently have come in the area of water-based trim paints. Water-based paint has historically lagged behind both oil and lacquer in terms of smoothness and strength. With recent advances in paint technology, you don’t have to potentially sacrifice your health to have a strong, smooth finish on your woodwork.
 
@@ -51,7 +51,7 @@ Trim enamels are also given additives that increase their durability. This makes
 
 Hometown Painting partners with Sherwin Williams to provide quality paint products to our customers. When it comes to trim paint, one of the best on the market is Sherwin Williams [Emerald Urethane Trim Enamel](https://www.sherwin-williams.com/homeowners/products/emerald-urethane-trim-enamel).
 
-The benefits of Emerald Utethane Paint include:
+The benefits of Emerald Urethane Paint include:
 
 - Hard, durable finish resists wear and tear.
 - Creates a superbly smooth finish.
@@ -64,4 +64,4 @@ Because higher-sheen paints are more durable, woodwork had traditionally been pa
 
 ## Conclusion
 
-Improvements in technology have made water-based trim enamels the best choice for painting your home’s woodwork. You can have peace of mind knowing that your trim and doors will look great for years to come and will not harm your health in the process. If you have any further questions about interior painting feel free to [contact us](/contact-us/) or call (405) 400-1619
+Improvements in technology have made water-based trim enamels the best choice for painting your home’s woodwork. You can have peace of mind knowing that your trim and doors will look great for years to come and will not harm your health in the process. If you have any further questions about [interior painting](/interior-painting-okc/) feel free to [contact us](/contact-us/) or call (405) 400-1619

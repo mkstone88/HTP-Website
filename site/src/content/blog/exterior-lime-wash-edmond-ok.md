@@ -60,4 +60,4 @@ The house makes a perfect backdrop for a family get together or a day by the poo
 
 ![7113LostForestDr 4](/uploads/2024/07/7113LostForestDr-4.webp)
 
-This contemporary, modernized lime wash home is something Ashley can be proud of!
+This contemporary, modernized lime wash home is something Ashley can be proud of! Thinking about a new look for your own home? Learn more about our [exterior painting in Oklahoma City](/exterior-painting-oklahoma-city/) and our work as [painters in Edmond, OK](/painters-edmond-ok/).

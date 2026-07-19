@@ -21,7 +21,9 @@ Oklahoma weather is hard on paint—sun, wind, dust, humidity, and storms all ta
 
 Professional prep work is about giving the coating the best possible starting point.
 
-![Gemini Generated Image i11d6ni11d6ni11d](/uploads/2025/12/Gemini_Generated_Image_i11d6ni11d6ni11d.webp)
+![Flaking exterior paint that needs scraping and priming before repainting](/uploads/2022/10/painted-fence-flaking.webp)
+
+## **1. Washing the Entire Exterior**
 
 Before anything else, the entire exterior needs to be washed to remove:
 
@@ -34,7 +36,7 @@ In Oklahoma, dust storms and wind make this especially important. Paint cannot b
 
 Professionals choose pressure or soft washing depending on the siding type. For example, delicate surfaces often gets a gentler wash to avoid damage, while woodwork, brick or composite siding can handle more pressure.
 
-# **2. Scraping Loose or Peeling Paint**
+## **2. Scraping Loose or Peeling Paint**
 
 After the home dries, painters scrape any areas where the old paint is loose, bubbling, or flaking. This is the step that homeowners often underestimate.
 
@@ -46,7 +48,7 @@ Scraping ensures:
 
 It’s tedious, but it’s essential. Skipping this step, common with cheap “spray-and-go” jobs, is one of the biggest reasons Oklahoma homes experience early peeling.
 
-# **3. Sanding for Smooth, Even Surfaces**
+## **3. Sanding for Smooth, Even Surfaces**
 
 Once scraping is done, sanding helps feather the edges and smooth out rough patches. The goal isn’t to sand the whole house down to bare wood; it’s to create a surface where primer and paint can grab evenly.
 
@@ -58,7 +60,7 @@ Sanding helps:
 
 On trim, professionals often use multiple grits. On siding, sanding may be lighter but still important for durability.
 
-# **4. Caulking Gaps, Seams, and Joints**
+## **4. Caulking Gaps, Seams, and Joints**
 
 Caulk is the home’s first line of defense against moisture. Oklahoma’s temperature swings can cause caulk to dry out and crack over time.
 
@@ -72,7 +74,7 @@ A professional painter inspects and recaulk:
 
 High-quality, paintable exterior caulk expands and contracts with the weather. When applied correctly, it protects your home from water intrusion and helps create a cleaner-looking finish once painted.
 
-# **5. Priming Bare Wood and Problem Areas**
+## **5. Priming Bare Wood and Problem Areas**
 
 Primer is just as important as paint—sometimes more. Its job is to seal, stabilize, and prepare surfaces so the topcoat can bond tightly.
 
@@ -86,9 +88,9 @@ Professionals prime:
 
 Using a premium primer is especially helpful in Oklahoma because of our intense sun and heat. The better the primer bond, the longer the paint job will last.
 
-If you’re curious about the specific coatings we use, we go over the products we pair with our prep process in a separate article.
+If you’re curious about the specific coatings we use, we go over [the products we pair with our prep process](/best-exterior-paint-oklahoma-weather/) in a separate article.
 
-# **6. Repairing or Replacing Damaged Trim and Wood**
+## **6. Repairing or Replacing Damaged Trim and Wood**
 
 Surface preparation often reveals underlying issues, especially in older homes. Professionals look for:
 
@@ -102,7 +104,7 @@ Good painters will either repair the damage or recommend replacement before pain
 
 Trim replacements also ensure that the finished project looks clean and updated.
 
-# **7. Masking and Protecting Areas Not Being Painted**
+## **7. Masking and Protecting Areas Not Being Painted**
 
 Professional prep includes careful masking to keep your home and landscaping clean. This may include:
 
@@ -115,7 +117,7 @@ Professional prep includes careful masking to keep your home and landscaping cle
 
 Good masking helps keep lines crisp and prevents overspray or drips. It’s not just about the finished look—it’s part of respecting your home and property.
 
-# **8. Setting the Stage for a Smooth Painting Process**
+## **8. Setting the Stage for a Smooth Painting Process**
 
 Once all preparation steps are complete, the house is truly ready for paint. At this point, the surface is:
 
@@ -137,7 +139,7 @@ Professionals also walk the home one more time to double-check:
 
 Good prep work takes time, but it saves you money long term by preventing premature failure and reducing maintenance needs.
 
-# **Why Good Prep Makes Such a Big Difference**
+## **Why Good Prep Makes Such a Big Difference**
 
 A professional coat of paint is only as good as the surface underneath it. Skipping steps might save a few hours up front, but it almost always shortens the lifespan of the paint job—sometimes by several years.
 
@@ -150,6 +152,6 @@ When you invest in proper prep work, you’re protecting:
 
 It’s a straightforward, down-to-earth approach: do it right once, and it lasts.
 
-# **Ready for a Professional, Long-Lasting Exterior Paint Job?**
+## **Ready for a Professional, Long-Lasting Exterior Paint Job?**
 
 If you’d like a clear, detailed estimate that explains exactly what your home needs, we’re here to help. Our team walks you through every step so you know what to expect: **no surprises, no shortcuts**.

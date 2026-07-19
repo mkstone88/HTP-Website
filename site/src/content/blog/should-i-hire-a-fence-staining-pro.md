@@ -13,7 +13,7 @@ While staining a fence is within the ability of many homeowners, there are many 
 
 ## A Professional Can Achieve High-Quality Results.
 
-While fence staining is not the most dificult DIY task, there is definitely a learning curve for doing it correctly. Taking the time to learn the correct way to stain a fence makes the difference between a great stain job and one that looks “home-done.”
+While fence staining is not the most difficult DIY task, there is definitely a learning curve for doing it correctly. Taking the time to learn the correct way to stain a fence makes the difference between a great stain job and one that looks “home-done.”
 
 ![This fence was not stained by a pro and looks splotchy](/uploads/2022/11/IMG_0310.webp)
 ![This fence was professionally stained and looks great](/uploads/2022/09/Cedar-Tone-color-scaled.webp)
@@ -24,7 +24,7 @@ Can you guess which of these two fences was stained by a pro? Uneven or splotchy
 
 ![a pro stained this fence](/uploads/2022/11/professionally-stained-fence.webp)
 
-As a pro fence stainer, I come accross fences like the one above all the time and wonder if the homeowner wishes they had gotten an [estimate from Hometown Painting](/contact-us/) first.
+As a pro fence stainer, I come across fences like the one above all the time and wonder if the homeowner wishes they had gotten an [estimate from Hometown Painting](/contact-us/) first.
 
 ## A Pro Can Recommend the Best Products.
 
@@ -32,7 +32,7 @@ There are many different stain products on the market today. There are water-bas
 
 There is no one-size-fits-all approach when it comes to fence staining. Each product is useful in different situations. A pro can recommend the best product to use for your fence.
 
-This is especially true in situations where the fence is older and hasn’t been maintained . When making a plan to stain an older fence there are important questions that should be answered.
+This is especially true in situations where the fence is older and hasn’t been maintained. When making a plan to stain an older fence there are important questions that should be answered.
 
 - What prep is needed to clean the fence?
 - Should the old stain be stripped off?

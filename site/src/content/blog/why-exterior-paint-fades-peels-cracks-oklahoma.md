@@ -34,7 +34,7 @@ Peeling usually isn’t about the paint, it’s about the *surface underneath*. 
 
 ### **Poor prep work.**
 
-If the surface wasn’t cleaned, scraped, sanded, primed, or caulked properly, the new coating never had a fair shot. Moisture sneaks in, the paint lifts, and before long you’re dealing with entire sheets of paint sloughing off. It may [cost more](/pricing/exterior-painting-cost-oklahoma-city/) to do proper prep us front, but in the long run it always make sense.
+If the surface wasn’t cleaned, scraped, sanded, primed, or caulked properly, the new coating never had a fair shot. Moisture sneaks in, the paint lifts, and before long you’re dealing with entire sheets of paint sloughing off. It may [cost more](/pricing/exterior-painting-cost-oklahoma-city/) to do proper prep up front, but in the long run it always makes sense.
 
 Common causes of peeling include:
 
@@ -129,14 +129,14 @@ Here are signs your exterior is beginning to break down:
 
 If you’re seeing several of these, it may be time to take a closer look.
 
-# **Protecting Your Home Starts With Understanding the Causes**
+## **Protecting Your Home Starts With Understanding the Causes**
 
 When you understand why paint fails, you can avoid the frustration and expense of frequent repainting. Choosing the right products, allowing enough time for proper prep, and working with a team that understands Oklahoma weather goes a long way toward protecting your home.
 
 And when the job is done right, you should expect your paint to last—not fail early.
 
-# **Ready for a Long-Lasting Exterior Paint Job?**
+## **Ready for a Long-Lasting Exterior Paint Job?**
 
 If your home is showing signs of fading, peeling, or cracking, we’re happy to take a look and give you a clear, detailed estimate. Our team walks you through what your home needs—and why—so you feel confident in every step.
 
-Visit our main page for exterior painting in Oklahoma City to schedule your estimate.
+[Visit our main page for exterior painting in Oklahoma City](/exterior-painting-oklahoma-city/) to schedule your estimate.

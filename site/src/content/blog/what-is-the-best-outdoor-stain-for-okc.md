@@ -1,6 +1,6 @@
 ---
 title: "What Is The Best Outdoor Stain For OKC?"
-description: "If you want to protect your wood fence, deck or siding, you know stain and sealer are great ways to make them last longer. You may be wondering, however,"
+description: "What is the best outdoor stain for OKC fences and decks? We share why we recommend oil-based penetrating stains for protection, easy upkeep and value."
 permalink: "/what-is-the-best-outdoor-stain-for-okc/"
 h1: "What Is the Best Outdoor Stain for OKC?"
 ogImage: "/uploads/2023/02/DSC05338-2.jpg"
@@ -23,7 +23,7 @@ Our favorite brand of oil-based stain is Wood Defender. We don’t use a one siz
 
 **With that in mind, let’s learn more about what makes for the best outdoor stain.**
 
-![An stained fence illustrates the look of the best outdoor stain in okc](/uploads/2023/02/IMG_0875.webp "IMG_0875")
+![A stained fence illustrates the look of the best outdoor stain in okc](/uploads/2023/02/IMG_0875.webp "IMG_0875")
 
 ## The Best Stains Protect Wood
 
@@ -36,7 +36,7 @@ Outdoor wood must be protected from many threats. Nature wants to break down you
 - Mildew
   Mildew can be a green, gray or black substance growing on the surface of your fence, deck, or siding. It makes the boards look unattractive and can contribute to them breaking down over time. A great wood stain will inhibit mildew growth.
 
-Wood Defender and other similar oil-based, penetrating wood stains provide protection from all three of the hazardsmentioned above.
+Wood Defender and other similar oil-based, penetrating wood stains provide protection from all three of the hazards mentioned above.
 
 ## The Best Outdoor Stain is Easy to Maintain
 
@@ -46,7 +46,7 @@ We look at stained wood as a long-term investment. All wood stain products will 
 
 We recommend fully penetrating stains. This means that all of the product soaks into the wood instead of forming a film on the surface. Surface stains will cause two problems that make long-term maintenance more difficult.
 
-1. The film on the surface will block new stain coats from soaking into to wood.
+1. The film on the surface will block new stain coats from soaking into the wood.
 2. The surface of these stains will tend to peel or crack. This means they will have to be scraped and sanded before a new coat is applied.
 
 Because fully penetrating stains do not form a film on the surface they do not interfere with new coats of stain and are not prone to cracking or peeling.
@@ -63,4 +63,4 @@ While oil-based penetrating stains can be more expensive than other options, the
 
 Once you have selected the best outdoor stain for your project, it’s time to get the stain on your wood. If you are planning to do it yourself you can find great articles online about [how to stain](https://allaboutwoodstain.com/how-to-stain-a-fence/).
 
-If you would like professional help, Hometown Painting offers free estimates for the entire Oklahoma City Metro.
+If you would like professional help, Hometown Painting offers free estimates for [fence staining](/fence-staining-okc/) and [deck staining](/deck-staining-okc/) across the entire Oklahoma City Metro.

@@ -1,5 +1,5 @@
 ---
-title: "How To Chooose A Fence Stain Color | 2022 Color Guide"
+title: "How To Choose A Fence Stain Color | OKC Color Guide"
 description: "Fence stain comes in a wide variety of colors. How can you know the best option to choose for your home? We have created a handy guide to help you select the perfect shade."
 permalink: "/how-to-choose-a-fence-stain-color/"
 h1: "How to choose a fence stain color"
@@ -19,13 +19,13 @@ It is best to think of your fence like an extension to your home. It will look i
 
 Stained cedar beams, columns and accents are becoming very popular today. If you already have stain somewhere on your house the safest bet is to match it.
 
-Alternatively you could choose a color in the same family as what you already have but go a little darker or lighter. That way the colors should still compliment each other.
+Alternatively you could choose a color in the same family as what you already have but go a little darker or lighter. That way the colors should still complement each other.
 
 ![image 2](/uploads/2023/10/image-2.webp)
 
 ### Is your siding or brick a warm or cool color?
 
-If your brick or siding is a warm color like red or yellow, a warm stain will nicely compliment your home.
+If your brick or siding is a warm color like red or yellow, a warm stain will nicely complement your home.
 
 A warm stain will have warm undertones of red, yellow or orange. These undertones only have to be slight for the effect to work so don’t worry if you don’t want to have a “RED” fence.
 
@@ -44,7 +44,7 @@ To learn more about cool vs. warm colors read this [article by Benjamin Moore](h
 This is your home so the fence color should be a reflection of your personal style. Many stain colors lend themselves to a particular kind of style.
 
 - Rustic: tends toward the warm tones, especially with red undertones.
-- Sophsticated: Dark tones like chocolate browns or even the daring black.
+- Sophisticated: Dark tones like chocolate browns or even the daring black.
 - Contemporary: Grays or even colors like blue or green not normally seen in fence stains.
 
 If you’re not sure what you like, you can try browsing sites like Houzz or Pinterest and see what kinds of fences keep catching your eye.

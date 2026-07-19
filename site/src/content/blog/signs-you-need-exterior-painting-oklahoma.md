@@ -25,7 +25,7 @@ Once paint loses adhesion, moisture can slip in behind it, which leads to:
 - Cracking siding
 - Higher repaint costs later
 
-If you want to understand what’s actually causing those peeling and cracking issues, we break down the most common reasons Oklahoma homes see premature failure.
+If you want to understand what’s actually causing those peeling and cracking issues, we break down [the most common reasons Oklahoma homes see premature failure](/why-exterior-paint-fades-peels-cracks-oklahoma/).
 
 ## **2. Chalking or Powdery Residue**
 
@@ -104,7 +104,7 @@ Even if you’re staying put, a tired exterior can make the whole home feel olde
 
 ---
 
-![Picture of Jimmy Hughes, real estate broker in Okalahoma city](/uploads/2023/01/WEB-JimmyHughesHeadshot-e1673623254939.webp)
+![Picture of Jimmy Hughes, real estate broker in Oklahoma city](/uploads/2023/01/WEB-JimmyHughesHeadshot-e1673623254939.webp)
 
 > “Sellers often ask if their home should be repainted before listing. The basic rule of thumb I recommend is that you want to eliminate hassle for the buyer in every way possible. Repainting can often increase the attractiveness of the home you are selling, and can help you fetch a premium offer for your property.”
 >

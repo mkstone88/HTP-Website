@@ -33,7 +33,7 @@ We started by thoroughly washing the wood to prepare it. We applied a cleaner be
 
 ## Choosing the Best Stain the Cedar Siding
 
-We chose the use Wood Defender stain for the barn’s cedar siding. Wood Defender is a [high-quality stain](/what-is-the-best-outdoor-stain-for-okc/) that can stand up to harsh weather conditions as we experience in Oklahoma.
+We chose to use Wood Defender stain for the barn’s cedar siding. Wood Defender is a [high-quality stain](/what-is-the-best-outdoor-stain-for-okc/) that can stand up to harsh weather conditions as we experience in Oklahoma.
 
 The Express team chose to use the [Coffee Brown color](/okc-fence-stain-colors/). This modern, dark brown shade will provide the barns with protection for years to come.
 

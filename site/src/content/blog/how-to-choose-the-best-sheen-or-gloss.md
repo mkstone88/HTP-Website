@@ -1,6 +1,6 @@
 ---
 title: "How To Choose The Best Sheen Or Gloss"
-description: "Choosing the right finish for each type of paint in your home in an important step when planning a paint project. The many options available can seem"
+description: "Matte, eggshell, satin or semi-gloss? Our simple guide explains paint sheens and helps you choose the right finish for every surface and room in your home."
 permalink: "/how-to-choose-the-best-sheen-or-gloss/"
 h1: "How To Choose The Best Sheen Or Gloss"
 ogImage: "/uploads/2022/12/interior-woodwork-painted.jpg"
@@ -9,7 +9,7 @@ kind: "post"
 date: "2025-05-01"
 ---
 
-Choosing the right finish for each type of paint in your home in an important step when planning a paint project. The many options available can seem confusing though. Your painter might mention words like matte, eggshell or semi-gloss and you’re not sure what they really mean.
+Choosing the right finish for each type of paint in your home is an important step when planning a paint project. The many options available can seem confusing though. Your painter might mention words like matte, eggshell or semi-gloss and you’re not sure what they really mean.
 
 These terms refer to either the gloss or sheen that a paint has. Many painters will call this the “finish” of the paint. This simple guide will explain the basics so you can make an informed decision about which finishes to use in your home.
 
@@ -31,7 +31,7 @@ There are many descriptive words used to refer to different levels of sheen or g
 
 ![Chart showing the sheens available for Sherwin Williams paint](/uploads/2022/12/SW-Sheen-Guide.webp)
 
-Keep in mind that not all sheens will be available in every paint type. You can work with your painter to make sure that you choose paints that will give you the look you want. Also, at the bottom of this article, we will include a chart showing which sheens are available in common Sherwin Williams paints.
+Keep in mind that not all sheens will be available in every paint type. You can [work with your painter](/interior-painting-okc/) to make sure that you choose paints that will give you the look you want. Also, at the bottom of this article, we will include a chart showing which sheens are available in common Sherwin Williams paints.
 
 ## Choosing The Right Sheen For Each Room
 

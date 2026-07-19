@@ -19,7 +19,7 @@ Creating a relaxing home is not difficult once you understand the basics of what
 - Neutral Colors: The natural softness of neutral colors is easy on the eye. The lack of strong contrast, or much contrast at all, allows the eye to float smoothly around the space. Having a limited color palette gives each item a sense of belonging, which is calming.
 - Cool Tones: Cool colors are well known to bring a serenity to any space. Sky blue, ocean blues, Mint green, sea greens, are all relaxing colors which create visual calm for the eye.
 - Warm Tones: Warm color tones tend to be more stimulating and can detract from the peacefulness of a room. Perhaps you need to work around existing features that have a warm color base. If your design requires the use of warm colors, consider using muted warm tones. For example: instead of choosing a bright, very saturated bright yellow wall color choose a light, soft candlelight color. both are warm but the second choice is more calming.
-- Soft Surroundings: A soft cushy throw or overstuffed pillow will make your space relaxing. In the same way, using a soft color palette will help create serenity in your room. Bold invite excitement and drama which will clash with your goal of creating a peaceful space.
+- Soft Surroundings: A soft cushy throw or overstuffed pillow will make your space relaxing. In the same way, using a soft color palette will help create serenity in your room. Bold colors invite excitement and drama, which will clash with your goal of creating a peaceful space.
 
 ## Cool Tones Are More Relaxing
 
@@ -76,4 +76,6 @@ While it may be your desire to make your whole home relaxing, some may feel this
 
 ## Choose The Right Sheen For Your Paint
 
-Sheen refers to how much light a paint reflects. The glossier the sheen, the shiner the paint will look, and the more light it will reflect. Flat and Matte sheens with little shine will give the most relaxing look to a room. Consider choosing a satin finish for woodwork and trim and an eggshell finish for walls. For more information about sheen, read our [paint sheen guide](/how-to-choose-the-best-sheen-or-gloss/).
+Sheen refers to how much light a paint reflects. The glossier the sheen, the shinier the paint will look, and the more light it will reflect. Flat and Matte sheens with little shine will give the most relaxing look to a room. Consider choosing a satin finish for woodwork and trim and an eggshell finish for walls. For more information about sheen, read our [paint sheen guide](/how-to-choose-the-best-sheen-or-gloss/).
+
+Ready to bring a calmer palette into your home? Our [interior painting](/interior-painting-okc/) team can help you test colors and get a flawless finish.

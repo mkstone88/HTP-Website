@@ -36,7 +36,7 @@ Because of this, we look for paints and primers with:
 
 Sherwin-Williams and Benjamin Moore both make products that meet these needs and hold up well in our region.
 
-# **Sherwin-Williams Exterior Products We Trust**
+## **Sherwin-Williams Exterior Products We Trust**
 
 Sherwin-Williams is widely used by professional painters across the country, but here’s what actually matters for Oklahoma homes.
 
@@ -81,7 +81,7 @@ SuperPaint doesn’t match Emerald’s lifetime performance, but it remains one 
 
 ---
 
-# **Benjamin Moore Exterior Products We Recommend**
+## **Benjamin Moore Exterior Products We Recommend**
 
 Benjamin Moore products are known for their richness of color and extremely durable resins. When homeowners choose Benjamin Moore through us, it’s often for its finish quality and long-term performance.
 
@@ -112,7 +112,7 @@ A strong upgrade option that balances quality and price.
 
 It’s a solid all-around exterior product for many Oklahoma homes.
 
-# **Primers That Matter for Oklahoma Homes**
+## **Primers That Matter for Oklahoma Homes**
 
 While full priming of an entire home is usually not necessary, there are some situations where primer isn’t optional. We recommend using primer on:
 
@@ -122,9 +122,9 @@ While full priming of an entire home is usually not necessary, there are some si
 - Weather-damaged spots
 - Stained or tannin-rich surfaces
 
-Primer choice depends on what we uncover during preparation. A clean, stable surface allows both the primer and paint to do their jobs. Another reason your exterior should be [prepped thoroughly](/exterior-painting-prep-work-oklahoma-city/). If you’d like to see exactly what that involves, we break it down here: the products we pair with our prep process (insert your actual link).
+Primer choice depends on what we uncover during preparation. A clean, stable surface allows both the primer and paint to do their jobs. Another reason your exterior should be [prepped thoroughly](/exterior-painting-prep-work-oklahoma-city/). If you’d like to see exactly what that involves, we break down [our full prep process](/exterior-painting-prep-work-oklahoma-city/) step by step in a separate article.
 
-# **Which Paint Lasts the Longest in Oklahoma?**
+## **Which Paint Lasts the Longest in Oklahoma?**
 
 There’s no one-size-fits-all answer, but here’s the honest breakdown from years of painting local homes:
 
@@ -143,7 +143,7 @@ Longevity depends on:
 
 We help homeowners choose the right system based on how long they plan to stay in their home and what conditions their siding faces.
 
-# **Sherwin-Williams vs Benjamin Moore: Which Is Better?**
+## **Sherwin-Williams vs Benjamin Moore: Which Is Better?**
 
 Homeowners often ask us this, and we give the same honest answer every time:
 
@@ -159,12 +159,12 @@ Choosing between them often comes down to:
 
 We use both brands regularly and stand behind either one when paired with proper prep work and application.
 
-# **Why Product Quality Isn’t the Whole Story**
+## **Why Product Quality Isn’t the Whole Story**
 
-Even the best paint can fail early if the surface isn’t prepared properly. If you missed our breakdown of that process, here’s where we explain many peeling and flaking issues come from poor prep and what to look for in a quality job.
+Even the best paint can fail early if the surface isn’t prepared properly. If you missed our breakdown of that process, [here’s where we explain](/exterior-painting-prep-work-oklahoma-city/) how peeling and flaking issues come from poor prep and what to look for in a quality job.
 
 Paint quality matters, but **prep is what protects your investment.** One of the main benefits of hiring a professional painting company is that they will know how to prep the house right.
 
-# **Ready to Choose the Right Paint System for Your Home?**
+## **Ready to Choose the Right Paint System for Your Home?**
 
-If you’re planning an exterior repaint, we can help you choose the right combination of primer and topcoat for your home’s siding, exposure, and budget. We’ll walk you through options from Sherwin-Williams and Benjamin Moore and explain the pros and cons clearly so you can make a confident decision.
+If you’re planning an [exterior repaint](/exterior-painting-oklahoma-city/), we can help you choose the right combination of primer and topcoat for your home’s siding, exposure, and budget. We’ll walk you through options from Sherwin-Williams and Benjamin Moore and explain the pros and cons clearly so you can make a confident decision.

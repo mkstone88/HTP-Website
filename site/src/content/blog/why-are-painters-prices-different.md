@@ -21,8 +21,6 @@ It should be a red flag if the painter does not have any kind of measuring devic
 
 Some companies carry insurance and others do not. Some companies have sought out certification and ongoing training for their workers and others do not. There are not two painting companies that are identical. Having insurance or training programs improve the safety or quality of the work you receive but they also usually mean that the company has to charge more to cover their cost.
 
-It should be a red flag if the painter does not have any kind of measuring device with them when they come to give you their quote. A quick look at a project can be deceiving. It is much easier to quote a project poorly if you don’t have measurements and a system.
-
 ### Not all paint jobs are the same.
 
 Just because you showed the painters the same areas to paint doesn’t mean that they plan to do the same job. One painter may plan to use a primer before they paint while the other does not for just one example. The best solution is to get a detailed estimate from the painters. They should specify what preparation they plan to do and what products they plan to use.
@@ -32,8 +30,6 @@ Some of the ways a paint job can be different include:
 - Different qualities of paint can be used.
 - A different number of coats may be applied.
 - The Preparation may not be the same.
-
-It should be a red flag if the painter does not have any kind of measuring device with them when they come to give you their quote. A quick look at a project can be deceiving. It is much easier to quote a project poorly if you don’t have measurements and a system.
 
 ### Not all painters have the same estimating skill.
 
@@ -45,4 +41,4 @@ It is a bad thing from the homeowner’s perspective if the painter underestimat
 
 The simplest answer for why different painters don’t all charge the same price for the same job is that there is no identical job. No two painting companies are the same and no two painters will approach a job the exact same way.
 
-If you have more questions about painting in Oklahoma City or would like a second opinion about your painting project, you can call Hometown Painting LLC at (405) 400-1619. Or reach out on our [contact page](/contact-us/).
+For real numbers on what projects cost in the metro, see our [pricing guides](/pricing/). If you have more questions about painting in Oklahoma City or would like a second opinion about your painting project, you can call Hometown Painting LLC at (405) 400-1619. Or reach out on our [contact page](/contact-us/).

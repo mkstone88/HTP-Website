@@ -9,7 +9,7 @@ kind: "post"
 date: "2023-10-11"
 ---
 
-If you are planning to stain your fence, deck, or siding, you may wonder how long outdoor stain should last. Oklahoma City’s weather can be unforgiving on exterior wood structures. Even so, if you purchase a quality stain product and it is applied properly outdoor stain should last years before it needs to be reapplied.
+If you are planning to stain your fence, [deck](/deck-staining-okc/), or siding, you may wonder how long outdoor stain should last. Oklahoma City’s weather can be unforgiving on exterior wood structures. Even so, if you purchase a quality stain product and it is applied properly outdoor stain should last years before it needs to be reapplied.
 
 **Transparent and Semi-transparent stains: Restain every 2-4 years**
 
@@ -27,7 +27,7 @@ We look at staining exterior wood as a long-term investment in your home. There 
 
 ### The Age of the Wood
 
-The age of the wood will have an effect on how long the stain will last. Brand new wood will not be a porous as older wood. It takes times for these wood pores to open up. This means that new wood cannot absorb as much stain as lumber that is a couple of years old. Because more stain is absorbed, a stain job on aged wood will likely last longer than one on new boards.
+The age of the wood will have an effect on how long the stain will last. Brand new wood will not be as porous as older wood. It takes time for these wood pores to open up. This means that new wood cannot absorb as much stain as lumber that is a couple of years old. Because more stain is absorbed, a stain job on aged wood will likely last longer than one on new boards.
 
 This is more true for penetrating type stains. Surface stains won’t be affected as much by the age of the wood.
 
@@ -39,7 +39,7 @@ An older fence or deck will be able to absorb more stain but at some point the w
 
 UV rays from the sun are very damaging to outdoor wood. A quality stain will absorb these rays and protect the wood from damage. This means that the stain itself will degrade instead of your wooden structure. The more sun exposure a stain job gets the quicker it will fade and need to be recoated.
 
-This is why the siding on the south or west facing sides of a home need to be stained more regularly than the other sides. A deck that is completely shaded by a porch or trees can last year longer than one that is open to full sun.
+This is why the siding on the south or west facing sides of a home need to be stained more regularly than the other sides. A deck that is completely shaded by a porch or trees can last years longer than one that is open to full sun.
 
 ## Type of Stain Used
 
@@ -49,7 +49,7 @@ As mentioned above, solid stains tend to last a little longer than transparent o
 
 It may seem obvious to use a solid stain for increased longevity, but we still recommend using semi-transparent penetrating stains. Solid stains form a film on the surface and do not penetrate much into the wood. Semi-transparent penetrating stains on the other hand soak completely into the wood.
 
-The benefits of sem-transparent stains over solid stains are:
+The benefits of semi-transparent stains over solid stains are:
 
 - You can still see some of the wood grain. They enhance wood instead of covering it.
 - They are not as prone to peeling or flaking.

@@ -1,6 +1,6 @@
 ---
 title: "The Ultimate Guide To Fixing Water Stains On Walls And Trim | House Painters In The OKC Metro"
-description: "Water stains can be a nightmare for homeowners. These pesky stains can be unsightly and make a room feel unclean, even if it is spotless. Not to mention, if"
+description: "Water stains on walls and trim are ugly, and untreated leaks can lead to bigger damage. Learn how to fix the source, then prime and paint the stain away."
 permalink: "/the-ultimate-guide-to-fixing-water-stains-on-walls-and-trim/"
 h1: "The Ultimate Guide to Fixing Water Stains on Walls and Trim"
 ogImage: "/uploads/2022/12/interior-woodwork-painted.jpg"
@@ -17,7 +17,7 @@ Water stains can be a nightmare for homeowners. These pesky stains can be unsigh
 
 Water damage can come from various sources, including leaky pipes, roof leaks, flooding, and condensation. Even a [leaky dishwasher](https://www.appliancegeeked.com/why-dishwasher-leaks-water-when-not-use/) can cause water stains. It’s important to identify the source of the water damage to prevent it from happening again.
 
-Because of our often-extreme weather, roof leaks are one of the most common sources of water damage we encounter. It is important to make sure the source of the water is fixed before trying to repair the damage to your walls. Once you’ve fixed the source of the damage, it’s time to address the stains left behind.
+Because of our often-extreme weather, roof leaks are one of the most common sources of water damage we encounter. It is important to make sure the source of the water is fixed before trying to [repair the damage to your walls](/professional-drywall-repair-oklahoma-city-hometown-painting-okc/). Once you’ve fixed the source of the damage, it’s time to address the stains left behind.
 
 ## Fixing Water Stains with Primer and Paint
 

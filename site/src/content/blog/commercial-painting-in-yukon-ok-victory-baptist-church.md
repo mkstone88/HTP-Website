@@ -1,6 +1,6 @@
 ---
 title: "Commercial Painting In Yukon, OK: Victory Baptist Church | House Painters In The OKC Metro"
-description: "The exterior of a commercial building is the first impression people will have of the business or organization. Unfortunately, the exterior of the Victory"
+description: "See how our team repainted the weathered exterior of Victory Baptist Church in Yukon, OK, from careful prep work to a durable Sherwin Williams finish."
 permalink: "/commercial-painting-in-yukon-ok-victory-baptist-church/"
 h1: "Commercial Painting in Yukon, OK: Victory Baptist Church"
 ogImage: "/uploads/2023/04/IMG_0870.jpg"
@@ -37,4 +37,4 @@ When we were finished, the Victory Baptist Church looked brand new, with a fresh
 
 ![Yukon Church Paint](/uploads/2023/04/Yukon-Church-Paint.webp "exterior of Victory Baptist Church in Yukon, OK that has just been painted")
 
-There are many commercial buildings in Yukon, OK that need paint as part of their regular maintenance. Hometown Painting loves to partner with local Yukon businesses for their commercial painting needs.
+There are many commercial buildings in Yukon, OK that need paint as part of their regular maintenance. Hometown Painting loves to partner with local Yukon businesses for their [commercial painting](/commercial-painters-oklahoma-city/) needs.

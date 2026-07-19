@@ -1,6 +1,6 @@
 ---
 title: "Painting Metal Siding On An Oklahoma City Shop | House Painters In The OKC Metro"
-description: "Hi there! We at Hometown Painting LLC recently finished a project that we're really excited to share. It's about painting metal siding on a metal shop"
+description: "See how we painted the metal siding on an Oklahoma City shop, from scrubbing away chalky residue to applying BondPlex paint for a finish that lasts."
 permalink: "/painting-metal-siding-on-an-oklahoma-city-shop/"
 h1: "Painting Metal Siding on an Oklahoma City Shop"
 ogImage: "/uploads/2023/06/How-Often-Should-You-Paint1.jpg"
@@ -9,7 +9,7 @@ kind: "post"
 date: "2023-06-29"
 ---
 
-Hi there! We at Hometown Painting LLC recently finished a project that we’re really excited to share. It’s about painting metal siding on a metal shop building in the Oklahoma City Metro. Whether you have metal siding on your commercial building, shop, shed, or storage unit, there are options to update the look of our building’s exterior.
+Hi there! We at Hometown Painting LLC recently finished a project that we’re really excited to share. It’s about painting metal siding on a metal shop building in the Oklahoma City Metro. Whether you have metal siding on your [commercial building](/commercial-painters-oklahoma-city/), shop, shed, or storage unit, there are options to update the look of your building’s exterior.
 
 With that said, painting metal siding may not be as straightforward as you think.
 
@@ -29,7 +29,7 @@ The second step is to choose the right product – one that’s specifically des
 
 Enter [BondPlex](https://www.sherwin-williams.com/painting-contractors/products/bondplex-water-based-coating). This product from Sherwin Williams is a revelation for painting metal siding. It’s designed to stick well to the original finish, ensuring that the paint job lasts and keeps its vibrant look for a long time. It comes in two finishes, low gloss, and high gloss.
 
-One of its best properties is that it acts as a paint and primer in one. It is designed both to stick to the original metal finish and to act as it’s own topcoat. This eliminated the need to use another product after the primer.
+One of its best properties is that it acts as a paint and primer in one. It is designed both to stick to the original metal finish and to act as its own topcoat. This eliminated the need to use another product after the primer.
 
 ## **The Painting Process**
 
