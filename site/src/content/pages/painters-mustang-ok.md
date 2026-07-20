@@ -11,6 +11,8 @@ Top-rated house painters Mustang, OK homeowners trust — interior, exterior, an
 
 <a class="prose-cta" href="/contact-us/">Request a Free Estimate →</a>
 
+![Large gray craftsman-style home in Mustang, OK with stone accents and carriage garage doors, exterior painted by Hometown Painting](/uploads/2023/02/exterior-painters-mustang.webp)
+
 ## Our Mustang, OK Painting Services
 
 <div class="svc-cards">
