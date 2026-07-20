@@ -52,21 +52,15 @@ These are the final quality passes. Do them near the end so new pages/edits don'
       adjectives, hollow intros. New copy is already written em-dash-free; numeric ranges like
       $2,000–$4,000 keep the correct en dash. After humanizing, re-check that target keyphrases
       survived (humanizing can soften a page's focus keyword).
-- [ ] **3. Local SEO audit + fix.** Work through: title tags (≤60 char, keyword + city) and meta
-      descriptions per page; one unique keyword-rich H1 per page; NAP consistency (name, 13637 SE
-      114th St, 405-400-1619) identical across footer, contact page, and schema; HousePainter /
-      LocalBusiness JSON-LD completeness (geo coords, areaServed cities, hours, sameAs — add Google
-      Business Profile + other real profiles); city pages geo-targeted with unique local content;
-      image alt text present + descriptive; internal links to money pages; canonicals + trailing
-      slashes; sitemap/robots correct; validate all structured data (Rich Results Test); confirm no
-      orphan/thin pages remain. Fix everything basic that turns up. (Ask Matt for the GBP categories
-      + service-area list to align schema — see the section below.)
-- [ ] **4. Page-speed audit.** Run Lighthouse / PageSpeed Insights on the production (or preview)
-      URL, mobile + desktop. Check Core Web Vitals (LCP, CLS, INP); confirm hero images preload and
-      the LCP is fast; verify images ship resized/AVIF via the CF pipeline (no raw full-size); check
-      font loading, CSS size, and render-blocking JS; confirm the GHL form iframe and GTM aren't
-      tanking the score and the video facades make zero third-party requests until clicked. Fix
-      regressions; aim for green CWV on mobile.
+- [x] **3. Local SEO audit + fix (done 2026-07-20, re-verify at cutover).** 57 indexable pages came
+      back clean: no duplicate/missing titles, H1s, or descriptions; 1 H1 each; canonicals correct;
+      all images have alt text; NAP consistent. Fixed: 7 over-long titles (dropped redundant boilerplate),
+      4 long descriptions, and enriched HousePainter JSON-LD with hours + real Facebook/Google/BBB/Yelp/
+      Nextdoor sameAs. STILL OPEN (need Matt): **geo coordinates + GBP categories/URL** to finish the
+      schema; and a call on two money-page titles (exterior "BEST … In Town", commercial suffix).
+- [x] **4. Page-speed audit (done 2026-07-20).** Excellent: **0 KB JS**, **26 KB CSS**, key pages
+      **~85–100 KB total**, images served resized/AVIF via the CF pipeline. One optional win: **self-host
+      the two Google Fonts** to remove the last render-blocking third-party request (offered to Matt).
 
 ## 🎥 Video hosting decision (settled: stay on YouTube)
 
