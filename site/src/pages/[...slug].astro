@@ -4,6 +4,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import GHLForm from '../components/GHLForm.astro';
 import { business } from '../data/site';
 import { cfBg } from '../data/images.mjs';
+import { videos } from '../data/videos.mjs';
 
 export async function getStaticPaths() {
   const pages = await getCollection('pages', ({ data }) => !data.draft);
@@ -44,6 +45,58 @@ const breadcrumbSchema = {
     ...(c.item ? { item: c.item } : {}),
   })),
 };
+
+// FAQPage schema — auto-extracted from any <details class="faq-item"> blocks in
+// the page body, so pages with a visible FAQ become eligible for FAQ rich results.
+// Q/A text is stripped of HTML and entity-decoded for the schema.
+const stripHtml = (s: string) =>
+  s
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>')
+    .replace(/&#39;|&rsquo;|&#8217;/g, '’').replace(/&quot;/g, '"')
+    .replace(/&ndash;|&#8211;/g, '–').replace(/&rarr;/g, '→')
+    .replace(/&nbsp;/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+
+const faqPairs = [
+  ...entry.body.matchAll(
+    /<details class="faq-item">\s*<summary>([\s\S]*?)<\/summary>\s*<div>([\s\S]*?)<\/div>\s*<\/details>/g
+  ),
+].map((m) => ({ q: stripHtml(m[1]), a: stripHtml(m[2]) })).filter((p) => p.q && p.a);
+
+const faqSchema =
+  faqPairs.length >= 2
+    ? {
+        '@context': 'https://schema.org',
+        '@type': 'FAQPage',
+        mainEntity: faqPairs.map((p) => ({
+          '@type': 'Question',
+          name: p.q,
+          acceptedAnswer: { '@type': 'Answer', text: p.a },
+        })),
+      }
+    : undefined;
+
+// VideoObject schema for any embedded YouTube facades on the page (data-yt="id"),
+// restoring the rich-result eligibility the old WordPress site had on video pages.
+const videoIds = [...new Set([...entry.body.matchAll(/data-yt="([\w-]+)"/g)].map((m) => m[1]))];
+const videoSchemas = videoIds
+  .filter((id) => videos[id])
+  .map((id) => {
+    const v = videos[id];
+    return {
+      '@context': 'https://schema.org',
+      '@type': 'VideoObject',
+      name: v.title,
+      description: v.description,
+      thumbnailUrl: new URL(`/uploads/videos/${id}.jpg`, Astro.site).href,
+      uploadDate: v.uploadDate,
+      contentUrl: `https://www.youtube.com/watch?v=${id}`,
+      embedUrl: `https://www.youtube-nocookie.com/embed/${id}`,
+      publisher: { '@id': `${Astro.site}#business` },
+    };
+  });
 ---
 <BaseLayout
   title={d.title}
@@ -56,6 +109,8 @@ const breadcrumbSchema = {
   preloadHero={d.ogImage ? cfBg(d.ogImage) : undefined}
 >
   <script type="application/ld+json" is:inline set:html={JSON.stringify(breadcrumbSchema)} />
+  {faqSchema && <script type="application/ld+json" is:inline set:html={JSON.stringify(faqSchema)} />}
+  {videoSchemas.map((v) => <script type="application/ld+json" is:inline set:html={JSON.stringify(v)} />)}
   <section
     class:list={['page-hero', { 'page-hero--photo': d.ogImage }]}
     style={d.ogImage ? `background-image: linear-gradient(rgba(27,42,74,0.90), rgba(27,42,74,0.74)), url('${cfBg(d.ogImage)}');` : undefined}

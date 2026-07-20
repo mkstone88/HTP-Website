@@ -137,5 +137,27 @@ const postSchema =
       <slot />
     </main>
     <Footer />
+
+    <!-- YouTube facade loader: swap the poster for the real player only on click,
+         so no YouTube JS/cookies load until the visitor chooses to watch. -->
+    <script is:inline>
+      document.addEventListener('click', function (e) {
+        var btn = e.target.closest && e.target.closest('.yt-facade');
+        if (!btn) return;
+        var id = btn.getAttribute('data-yt');
+        if (!id) return;
+        var wrap = document.createElement('div');
+        wrap.className = 'yt-embed';
+        var iframe = document.createElement('iframe');
+        iframe.src =
+          'https://www.youtube-nocookie.com/embed/' + id + '?autoplay=1&rel=0';
+        iframe.title = btn.getAttribute('aria-label') || 'YouTube video';
+        iframe.allow =
+          'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share';
+        iframe.setAttribute('allowfullscreen', '');
+        wrap.appendChild(iframe);
+        btn.replaceWith(wrap);
+      });
+    </script>
   </body>
 </html>

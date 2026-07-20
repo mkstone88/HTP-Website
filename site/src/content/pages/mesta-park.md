@@ -17,6 +17,15 @@ Mesta Park's craftsman bungalows and prairie-style homes are some of the most di
 
 ![A historic Mesta Park home painted by Hometown Painting](/uploads/2023/11/20231006_074510.webp)
 
+
+<figure class="yt-figure">
+  <button type="button" class="yt-facade" data-yt="llBUrl-jlWo" aria-label="Play video: Historic Home Revitalized — Mesta Park Exterior Painting Testimonial"
+    style="background-image:url('/uploads/videos/llBUrl-jlWo.jpg')">
+    <span class="yt-play" aria-hidden="true"></span>
+  </button>
+  <figcaption>A Mesta Park homeowner on their historic-home exterior repaint.</figcaption>
+</figure>
+
 ## Historic Homes Require Extra Care
 
 <div class="mini-grid">

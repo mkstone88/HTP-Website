@@ -109,6 +109,15 @@ As local Oklahoma City homeowners ourselves, we understand those concerns. Our i
   </div>
 </div>
 
+
+<figure class="yt-figure">
+  <button type="button" class="yt-facade" data-yt="wGLtHPflKm8" aria-label="Play video: Interior Painting Testimonial from Yukon, OK"
+    style="background-image:url('/uploads/videos/wGLtHPflKm8.jpg')">
+    <span class="yt-play" aria-hidden="true"></span>
+  </button>
+  <figcaption>Hear from a Yukon homeowner about their interior repaint.</figcaption>
+</figure>
+
 ## Our Simple Process For a Perfect Paint Job
 
 <div class="process-phases">

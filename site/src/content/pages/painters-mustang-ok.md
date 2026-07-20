@@ -54,6 +54,15 @@ Severe weather really is more likely on the south side of the metro — the [sta
 
 ![A deck stained with sable brown](/uploads/2022/09/Sable-Brown-Deck.webp)
 
+
+<figure class="yt-figure">
+  <button type="button" class="yt-facade" data-yt="gWx6NIUBQWE" aria-label="Play video: Brick Painting Transformation — Mustang, OK"
+    style="background-image:url('/uploads/videos/gWx6NIUBQWE.jpg')">
+    <span class="yt-play" aria-hidden="true"></span>
+  </button>
+  <figcaption>A Mustang brick exterior taken from rustic to contemporary.</figcaption>
+</figure>
+
 ## Painters Mustang, OK — FAQ
 
 <details class="faq-item"><summary>Do you offer free estimates in Mustang, OK?</summary><div><p>Yes — we offer free estimates to all our Mustang, OK customers.</p></div></details>

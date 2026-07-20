@@ -29,11 +29,18 @@ ones as work progresses. (Detailed pre-launch audit: the launch-readiness report
 - [ ] Remove duplicate GA4 gtag **if** Matt confirms GTM fires GA4.
 - [ ] Place/optimize new photos as they come in.
 - [ ] Real logo SVG (reversed for the navy header) once approved.
-- [ ] **Post-launch backlog** (fine after go-live): FAQPage schema on pages that have FAQs;
-      re-embed the best videos (facade-lazy) that the old site had; embedded lead forms on the
-      top money pages + city pages + commercial (template already supports `formId`); decide
-      /painting-estimate/'s role (noindex vs integrate); gallery captions with neighborhoods;
-      blog category grouping.
+- [ ] **Post-launch backlog** (fine after go-live): embedded lead forms on the top money pages +
+      city pages + commercial (template already supports `formId`); decide /painting-estimate/'s
+      role (noindex vs integrate); gallery captions with neighborhoods; blog category grouping.
+
+## 🎥 Video hosting decision (settled: stay on YouTube)
+
+Re-embedded 7 of Hometown's own YouTube videos with a **click-to-load facade** (local poster
+thumbnail, zero third-party requests until the visitor hits play) + VideoObject schema. Recommendation
+was to **stay on YouTube, not move to Cloudflare Stream** — YouTube is free, already hosts the
+catalog, and adds discovery/SEO; the facade removes the only real downside (page-speed/cookies).
+Revisit Stream only if you ever want a fully branded, distraction-free player with no "more videos"
+suggestions. Registry of embedded videos: `site/src/data/videos.mjs`.
 
 ## ✅ Done (recent)
 

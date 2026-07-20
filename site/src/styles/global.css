@@ -1121,3 +1121,40 @@ body {
 .post-card-link { color: #C41230; font-weight: 600; font-size: 0.92rem; }
 @media (max-width: 900px) { .post-grid { grid-template-columns: repeat(2, 1fr); } }
 @media (max-width: 600px) { .post-grid { grid-template-columns: 1fr; } }
+
+/* ===========================================================
+   YouTube facade — click-to-load embed (no third-party JS/cookies
+   until the visitor hits play). See src/data/videos.mjs.
+   =========================================================== */
+.yt-figure { margin: 28px 0; }
+.yt-figure figcaption {
+  margin-top: 10px; font-size: 0.9rem; color: #6b6b6b; text-align: center; font-style: italic;
+}
+.yt-facade {
+  position: relative; display: block; width: 100%; aspect-ratio: 16 / 9;
+  border: 0; padding: 0; margin: 0; border-radius: 10px; cursor: pointer;
+  background-color: #1B2A4A; background-size: cover; background-position: center;
+  overflow: hidden; box-shadow: 0 6px 20px rgba(27,42,74,0.18);
+}
+.yt-facade::before {
+  content: ""; position: absolute; inset: 0;
+  background: linear-gradient(rgba(27,42,74,0.10), rgba(27,42,74,0.28));
+  transition: background 0.2s ease;
+}
+.yt-facade:hover::before, .yt-facade:focus-visible::before { background: rgba(27,42,74,0.12); }
+.yt-facade:focus-visible { outline: 3px solid #C41230; outline-offset: 3px; }
+.yt-play {
+  position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
+  width: 78px; height: 54px; border-radius: 12px; background: #C41230;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.35); transition: transform 0.15s ease, background 0.15s ease;
+}
+.yt-play::after {
+  content: ""; position: absolute; top: 50%; left: 52%; transform: translate(-50%, -50%);
+  border-style: solid; border-width: 12px 0 12px 20px; border-color: transparent transparent transparent #fff;
+}
+.yt-facade:hover .yt-play, .yt-facade:focus-visible .yt-play { transform: translate(-50%, -50%) scale(1.06); background: #a30f28; }
+.yt-embed { position: relative; width: 100%; aspect-ratio: 16 / 9; border-radius: 10px; overflow: hidden; }
+.yt-embed iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+@media (prefers-reduced-motion: reduce) {
+  .yt-facade::before, .yt-play { transition: none; }
+}

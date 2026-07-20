@@ -13,6 +13,15 @@ The Express Clydesdale Barn is a historic landmark in [Yukon, Oklahoma](https://
 
 The Express Ranch entrusted [Hometown Painting](/) with the task of restoring the barns. We made a plan to clean and stain the cedar siding so it could last for many more years to come. With many years of experience staining wood structures in the [Yukon OK](/painters-yukon-ok/) area along with the OKC metro, we were excited to have the opportunity to work on such a historic building.
 
+
+<figure class="yt-figure">
+  <button type="button" class="yt-facade" data-yt="_oMxmcrb5L8" aria-label="Play video: Exterior Siding Staining — Express Clydesdale Barns, Yukon OK"
+    style="background-image:url('/uploads/videos/_oMxmcrb5L8.jpg')">
+    <span class="yt-play" aria-hidden="true"></span>
+  </button>
+  <figcaption>Watch how we restored and stained the Clydesdale barn cedar siding.</figcaption>
+</figure>
+
 ## History of the Express Clydesdale Barns
 
 The barns are a historic feature in Yukon, OK. They were restored for the express purpose of housing the Clydesdale horses.

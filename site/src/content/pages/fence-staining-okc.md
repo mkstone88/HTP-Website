@@ -252,6 +252,15 @@ Semi-transparent stains are also great for covering more of the imperfections in
 
 ![Hometown graph 1 scaled](/uploads/2022/10/Hometown-graph-1-scaled.webp)
 
+
+<figure class="yt-figure">
+  <button type="button" class="yt-facade" data-yt="EKO65iJkJ2g" aria-label="Play video: Fence Restoration in OKC"
+    style="background-image:url('/uploads/videos/EKO65iJkJ2g.jpg')">
+    <span class="yt-play" aria-hidden="true"></span>
+  </button>
+  <figcaption>See a weathered OKC fence cleaned, restored, and stained.</figcaption>
+</figure>
+
 ## From Our Fence Staining Blog
 
 <div class="blog-cards">

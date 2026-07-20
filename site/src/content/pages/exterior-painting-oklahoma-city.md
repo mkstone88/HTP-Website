@@ -28,6 +28,15 @@ We handle every detail from careful prep and color consultation to clean, effici
   <div class="mini-card"><h4>Built for OKC Weather</h4><p>A long-lasting paint job designed for Oklahoma City’s tough climate.</p></div>
 </div>
 
+
+<figure class="yt-figure">
+  <button type="button" class="yt-facade" data-yt="HbXc8P45BRI" aria-label="Play video: Exterior Painting Testimonial — Mustang, OK"
+    style="background-image:url('/uploads/videos/HbXc8P45BRI.jpg')">
+    <span class="yt-play" aria-hidden="true"></span>
+  </button>
+  <figcaption>A Mustang homeowner on their Hometown Painting exterior project.</figcaption>
+</figure>
+
 ## Our Exterior Painting Services in Oklahoma City
 
 ![Freshly painted stone and brick home exterior in the OKC metro](/uploads/2023/09/608E.VictoriaTerrace-3.webp)
