@@ -29,15 +29,41 @@ ones as work progresses. (Detailed pre-launch audit: the launch-readiness report
 - [ ] Remove duplicate GA4 gtag **if** Matt confirms GTM fires GA4.
 - [ ] Place/optimize new photos as they come in.
 - [ ] Real logo SVG (reversed for the navy header) once approved.
-- [ ] **Final "humanizer" pass before cutover (do this LATE).** Run the humanizer skill across all
-      content to strip AI tells: em dashes used as sentence breaks (Matt's pet peeve), rule-of-three
-      phrasing, "not just X but Y," inflated adjectives, etc. Recommendation: do this as one of the
-      LAST steps before go-live, once pages/sections are stable, so new copy doesn't reintroduce
-      tells. (Going forward, new copy is written em-dash-free; numeric ranges like $2,000–$4,000 keep
-      the correct en dash.) Also worth a light SEO check that the humanized copy keeps target phrases.
 - [ ] **Post-launch backlog** (fine after go-live): embedded lead forms on the top money pages +
       city pages + commercial (template already supports `formId`); decide /painting-estimate/'s
       role (noindex vs integrate); gallery captions with neighborhoods; blog category grouping.
+
+## 🧪 Pre-launch QA gate (run LATE, once content is stable — do all four right before cutover)
+
+These are the final quality passes. Do them near the end so new pages/edits don't undo the work.
+
+- [ ] **1. Copy vs. brand + knowledge base.** Read every page against `brand/MESSAGING.md` and
+      `brand/source/`: customer = Hero / Hometown = Guide (never brand-as-hero); each page leads
+      with the homeowner's fear and resolves it with concrete proof (walk-through before final
+      payment, written warranty, owner involvement, 130+ reviews); the five root fears are answered
+      where relevant; copy targets the trust-driven ICP, not bargain hunters; testimonials use the
+      `First L., Role · City` convention and are real. Flag/rewrite any page that drifts generic or
+      makes us the hero. (Pairs naturally with the humanizer pass below.)
+- [ ] **2. Humanizer pass.** Run the humanizer skill across all content to strip AI tells: em dashes
+      as sentence breaks (Matt's pet peeve), rule-of-three phrasing, "not just X but Y," inflated
+      adjectives, hollow intros. New copy is already written em-dash-free; numeric ranges like
+      $2,000–$4,000 keep the correct en dash. After humanizing, re-check that target keyphrases
+      survived (humanizing can soften a page's focus keyword).
+- [ ] **3. Local SEO audit + fix.** Work through: title tags (≤60 char, keyword + city) and meta
+      descriptions per page; one unique keyword-rich H1 per page; NAP consistency (name, 13637 SE
+      114th St, 405-400-1619) identical across footer, contact page, and schema; HousePainter /
+      LocalBusiness JSON-LD completeness (geo coords, areaServed cities, hours, sameAs — add Google
+      Business Profile + other real profiles); city pages geo-targeted with unique local content;
+      image alt text present + descriptive; internal links to money pages; canonicals + trailing
+      slashes; sitemap/robots correct; validate all structured data (Rich Results Test); confirm no
+      orphan/thin pages remain. Fix everything basic that turns up. (Ask Matt for the GBP categories
+      + service-area list to align schema — see the section below.)
+- [ ] **4. Page-speed audit.** Run Lighthouse / PageSpeed Insights on the production (or preview)
+      URL, mobile + desktop. Check Core Web Vitals (LCP, CLS, INP); confirm hero images preload and
+      the LCP is fast; verify images ship resized/AVIF via the CF pipeline (no raw full-size); check
+      font loading, CSS size, and render-blocking JS; confirm the GHL form iframe and GTM aren't
+      tanking the score and the video facades make zero third-party requests until clicked. Fix
+      regressions; aim for green CWV on mobile.
 
 ## 🎥 Video hosting decision (settled: stay on YouTube)
 
@@ -73,7 +99,8 @@ logic. Airtable connector is now working, so future data pulls (job costing, sou
 1. (optional but recommended) tagged reviews in place for stronger city pages,
 2. GTM/GA4 double-count resolved,
 3. more photos,
-4. execute the **cutover checklist** (in the launch-readiness report): set Pages production
+4. **the Pre-launch QA gate above** (copy/brand review, humanizer, local SEO audit, page speed),
+5. execute the **cutover checklist** (in the launch-readiness report): set Pages production
    branch to `main`, drop `PUBLIC_NOINDEX`, point apex/www at Pages (keep WordPress warm for
    rollback), verify forms + image transforms live, submit `/sitemap-index.xml` to Search
    Console, watch 404s + rankings for ~2 weeks.
