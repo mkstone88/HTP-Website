@@ -11,10 +11,6 @@ ones as work progresses. (Detailed pre-launch audit: the launch-readiness report
       you remember (Unknown is fine for the rest), and set **Feature on site? = Yes** for the
       reviews worth quoting (aim 3–5 per city page, a few per service). → unlocks real
       city-matched testimonials sitewide.
-- [ ] **GTM double-fire check** (~60 sec). tagmanager.google.com → container **GTM-NS8LBWQQ**
-      → Tags. Is there a GA4 Configuration / Google tag using **G-96VQPY702N**? If yes, tell
-      Claude "GA4 is in GTM" and it'll remove the duplicate direct gtag so pageviews stop
-      counting twice. If no, current setup is correct.
 - [ ] **Upload more project photos** for the site (before/afters, city-specific jobs, cabinets,
       commercial). Drop them in and Claude will place + optimize them. Especially wanted:
       Bethany (city page has no local photos), commercial jobs, recent interiors.
@@ -26,7 +22,6 @@ ones as work progresses. (Detailed pre-launch audit: the launch-readiness report
 - [ ] **Wire verified testimonials into pages** once the tagged workbook is back — city pages
       (Edmond/Yukon/Mustang/Bethany/Mesta Park), service pages, and commercial page, using the
       `First L., Role · City` attribution convention. Bethany especially needs local proof.
-- [ ] Remove duplicate GA4 gtag **if** Matt confirms GTM fires GA4.
 - [ ] Place/optimize new photos as they come in.
 - [ ] Real logo SVG (reversed for the navy header) once approved.
 - [ ] **Post-launch backlog** (fine after go-live): embedded lead forms on the top money pages +
@@ -92,12 +87,15 @@ logic. Airtable connector is now working, so future data pulls (job costing, sou
   scope, repaint cadence, Bethany origin, privacy email).
 - All 132 Google reviews pulled + matched to GHL contacts (73 verified customers, 72 cities).
 - Blog sweep: typos, multiple-H1 fixes, silo/money links, price formatting.
+- City-specific pricing FAQs from 202 real projects; interior reframed as scope-driven.
+- FAQPage + VideoObject schema; 7 videos re-embedded (lazy facade). Brand/messaging knowledge base.
+- GTM/GA4 double-fire check (resolved: no double-fire).
 
 ## 🚀 Launch status
 
 **Not a blocker anymore — the site is in good shape.** The remaining gates before flipping DNS:
 1. (optional but recommended) tagged reviews in place for stronger city pages,
-2. GTM/GA4 double-count resolved,
+2. ✅ GTM/GA4 double-count checked — GTM has only a Conversion Linker, no GA4 tag, so no double-fire; nothing to change.
 3. more photos,
 4. **the Pre-launch QA gate above** (copy/brand review, humanizer, local SEO audit, page speed),
 5. execute the **cutover checklist** (in the launch-readiness report): set Pages production

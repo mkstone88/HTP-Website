@@ -11,6 +11,8 @@ Professional house painters Edmond, OK can trust — interior, exterior, and fen
 
 <a class="prose-cta" href="/contact-us/">Request a Free Estimate →</a>
 
+![Freshly repainted brick-and-stone home exterior on Romeo Drive in Edmond, OK, with crisp trim and a red front door](/uploads/2023/09/16112RomeoDr-Edmond.webp)
+
 ## Painting Services in Edmond, OK
 
 <div class="svc-cards">

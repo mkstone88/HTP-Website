@@ -36,7 +36,8 @@ Migrating **hometownpaintingokc.com** from WordPress to a static **Astro** site 
   drywall repair, pressure washing (house washing, driveways, decks, fences, pre-paint prep —
   **NOT** roof cleaning, gutter cleaning, or fleet washing). Military & first-responder discounts.
 - **Tracking:** GTM `GTM-NS8LBWQQ`, Google Ads `AW-16858477075`, GA4 `G-96VQPY702N`
-  (⚠️ open question: is GA4 double-firing via both gtag and GTM? see NEXT-STEPS).
+  (✅ resolved 2026-07-20: GTM container holds only a Conversion Linker, no GA4 tag, so GA4 fires
+  once via the direct gtag — no double-counting; no change needed).
 
 ## Verified reviews asset → use for ALL social proof
 
