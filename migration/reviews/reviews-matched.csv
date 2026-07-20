@@ -1,0 +1,133 @@
+date,reviewer,stars,city_from_ghl,confidence,verified_customer,match_status,ghl_tags,service_guess
+2026-07-16,Sally Rusco,5,Oklahoma City,HIGH,Yes,"1 contact(s), 1 customer-tagged","email newsletter, new lead, past customer, print newsletter, review link clicked, review requested, website form",Exterior Painting
+2026-07-06,Stephen Miller,5,Choctaw,HIGH,Yes,"1 contact(s), 1 customer-tagged","email newsletter, new lead, past customer, print newsletter, review link clicked, review requested, website form",Cabinet Painting
+2026-07-04,Larry Kettler,5,Tuttle,HIGH,Yes,"1 contact(s), 1 customer-tagged","email newsletter, past customer, print newsletter, review link clicked, review requested",
+2026-07-03,Stephanie,5,,,,skipped (single name),,
+2026-07-01,Sally Volk,5,Edmond,HIGH,Yes,"1 contact(s), 1 customer-tagged","email newsletter, past customer, print newsletter, review link clicked, review requested",Cabinet Painting
+2026-06-29,Kaci Aldridge,5,,,,no match,,Multiple
+2026-06-19,Allison Lawson,5,Oklahoma City,HIGH,Yes,"2 contact(s), 1 customer-tagged","email newsletter, new lead, past customer, print newsletter, review link clicked, review requested, website form",Multiple
+2026-06-17,Joseph Jarvis,5,Yukon,HIGH,Yes,"1 contact(s), 1 customer-tagged","email newsletter, past customer, print newsletter, review link clicked, review requested",Exterior Painting
+2026-05-12,Natalie Cooper,5,,,,no match,,
+2026-04-15,Allison McDonald,5,Mustang,HIGH,Yes,"1 contact(s), 1 customer-tagged","email newsletter, new lead, past customer, print newsletter, review link clicked, review requested, website form",
+2026-04-14,Delilah Crigger,5,,,,no match,,
+2026-04-13,Pamala Gilbert,5,Yukon,HIGH,Yes,"1 contact(s), 1 customer-tagged","email newsletter, new lead, past customer, print newsletter, review link clicked, review requested, website form",Interior Painting
+2026-04-08,Brandy King,5,,,,no match,,Commercial
+2026-03-31,Tom Delheimer,5,Norman,HIGH,Yes,"1 contact(s), 1 customer-tagged","email newsletter, past customer, print newsletter, review link clicked, review requested",
+2026-03-30,Renee Freyburger,5,Oklahoma City,HIGH,Yes,"1 contact(s), 1 customer-tagged","appointment-set, email newsletter, past customer, presell-video-sent, print newsletter, review link clicked, review requ",
+2026-03-27,Midnight_2027,5,,,,skipped (single name),,
+2026-03-25,Candace M. Cunningham,5,,"MEDIUM (fuzzy, no city)",Yes,fuzzy (nickname) -> Candace Cunningham,"bni, email newsletter, past customer, review requested",Multiple
+2026-03-18,Alisha Bright,5,Harrah,HIGH,Yes,"1 contact(s), 1 customer-tagged","email newsletter, new lead, past customer, print newsletter, review link clicked, review requested, website form",
+2026-03-08,Aubrey Poage,5,,LOW (not tagged customer),,"1 contact(s), 0 customer-tagged","bni, email newsletter",
+2026-02-27,Koree Vanzant,5,Moore,HIGH,Yes,"2 contact(s), 1 customer-tagged","email newsletter, past customer, print newsletter, review link clicked, review requested",Interior Painting
+2026-02-23,Shelly Brotherton,5,Oklahoma City,HIGH,Yes,"1 contact(s), 1 customer-tagged","email newsletter, past customer, print newsletter, review link clicked, review requested",Exterior Painting
+2026-02-18,Stuart Okboy,4,,,,no match,,
+2026-02-06,Phillip Jennings,5,Oklahoma City,HIGH,Yes,"1 contact(s), 1 customer-tagged","email newsletter, left review, past customer",Fence Staining
+2026-02-06,Michael Harris,5,,,,no match,,
+2026-02-05,David Kincannon,5,Edmond,HIGH,Yes,"1 contact(s), 1 customer-tagged","email newsletter, facebook, new lead, past customer, print newsletter, review link clicked, review requested",Interior Painting
+2026-01-17,Jane Webb,5,Edmond,HIGH,Yes,"1 contact(s), 1 customer-tagged","email newsletter, past customer, print newsletter, review link clicked, review requested, winter reactivation",
+2026-01-07,Robert Ikard,5,Oklahoma City,HIGH,Yes,"1 contact(s), 1 customer-tagged","new lead, past customer, print newsletter, review link clicked, review requested, website form, winter reactivation",
+2026-01-05,Austin R.,5,Edmond,MEDIUM (fuzzy name — verify),Yes,fuzzy (initial) -> Austin Rohrs,"email newsletter, new lead, past customer, print newsletter, review link clicked, review requested, website form",Exterior Painting
+2025-12-17,Adam,5,,,,skipped (single name),,
+2025-12-11,Pam Hill,5,Oklahoma City,HIGH,Yes,"1 contact(s), 1 customer-tagged","email newsletter, past customer, print newsletter, review link clicked, review requested",Interior Painting
+2025-12-07,Greg Erway,5,Oklahoma City,HIGH,Yes,"1 contact(s), 1 customer-tagged","email newsletter, past customer, print newsletter, review link clicked, review requested",
+2025-12-06,Sharon Selby,5,Yukon,HIGH,Yes,"1 contact(s), 1 customer-tagged","email newsletter, past customer, print newsletter, review link clicked, review requested",Interior Painting
+2025-11-26,Nathan Haywood,5,Oklahoma City,HIGH,Yes,"1 contact(s), 1 customer-tagged","email newsletter, past customer, print newsletter, review link clicked, review requested, winter reactivation",Commercial
+2025-11-18,Allan Fredrickson,5,,,,no match,,
+2025-11-11,Jeff,5,,,,skipped (single name),,
+2025-10-23,denise conover,5,Oklahoma City,HIGH,Yes,"1 contact(s), 1 customer-tagged","past customer, print newsletter, review link clicked, website form",
+2025-10-19,Christina Holcomb,5,Edmond,HIGH,Yes,"1 contact(s), 1 customer-tagged","new lead, past customer, print newsletter, review link clicked, review requested, website form, winter reactivation",
+2025-10-03,Joanie Chalifoux,5,,,,no match,,Cabinet Painting
+2025-10-01,Section8,5,,,,skipped (single name),,
+2025-09-29,Andrew Gilmore,5,Edmond,HIGH,Yes,"1 contact(s), 1 customer-tagged","past customer, print newsletter, review link clicked, review requested, winter reactivation",Multiple
+2025-09-28,Benjamin Miller,5,Oklahoma City,HIGH,Yes,"1 contact(s), 1 customer-tagged","past customer, print newsletter, review link clicked, review requested, winter reactivation",
+2025-09-21,Andrew Martens,5,Jones,HIGH,Yes,"1 contact(s), 1 customer-tagged","new lead, past customer, print newsletter, review link clicked, review requested, website form, winter reactivation",Exterior Painting
+2025-09-11,Jake Andrew,5,,,,no match,,
+2025-08-30,Sarah Biller,5,Oklahoma City,HIGH,Yes,"1 contact(s), 1 customer-tagged","past customer, print newsletter, review link clicked, review requested, winter reactivation",
+2025-08-19,Filiz Ponkilla,5,,LOW (not tagged customer),,"1 contact(s), 0 customer-tagged",,Multiple
+2025-08-18,Neal Kennedy,5,Yukon,HIGH,Yes,"1 contact(s), 1 customer-tagged","past customer, print newsletter, review link clicked, review requested, winter reactivation",Interior Painting
+2025-08-15,Robert Callan,4,Choctaw,HIGH,Yes,"1 contact(s), 1 customer-tagged","past customer, print newsletter, review link clicked, review requested, winter reactivation",
+2025-08-08,Sheri Bourland,4,Del City,HIGH,Yes,"1 contact(s), 1 customer-tagged","aged lead, facebook, past customer, print newsletter, winter reactivation",
+2025-06-25,chris w,5,,,,no match,,Exterior Painting
+2025-06-17,Jim Blalock,5,Oklahoma City,HIGH,Yes,"1 contact(s), 1 customer-tagged","past customer, print newsletter, winter reactivation",
+2025-06-14,Nancy Todd,5,,,,no match,,
+2025-06-05,Sean & Jill Lamb,5,El Reno,HIGH,Yes,"1 contact(s), 1 customer-tagged","past customer, print newsletter, review link clicked, review requested, winter reactivation",
+2025-05-30,Julie Brown,5,Oklahoma City,HIGH,Yes,"1 contact(s), 1 customer-tagged","past customer, print newsletter, winter reactivation",
+2025-05-20,Shane F,5,,,,no match,,
+2025-04-19,Arnold Frost,5,Mcloud,HIGH,Yes,"1 contact(s), 1 customer-tagged","facebook, new lead, past customer, print newsletter, winter reactivation",
+2025-04-17,Tom S,5,Yukon,MEDIUM (fuzzy name — verify),Yes,fuzzy (initial) -> Tom Schneider,"past customer, print newsletter, winter reactivation",Multiple
+2025-04-11,Jeff Vickers,5,Oklahoma City,HIGH,Yes,"1 contact(s), 1 customer-tagged","facebook, new lead, past customer, print newsletter, winter reactivation",
+2025-03-29,Alyson Coyle,5,,,,no match,,
+2025-02-26,lynn sims,5,,,,no match,,
+2025-01-11,Erin Baird,5,Oklahoma City,HIGH,Yes,"1 contact(s), 1 customer-tagged","facebook, past customer, print newsletter, spring reactivation 2025, winter reactivation",
+2024-12-20,Madison Gore,5,Oklahoma City,HIGH,Yes,"1 contact(s), 1 customer-tagged","past customer, print newsletter, winter reactivation",Interior Painting
+2024-12-18,Dolan McTiernan,5,,,,no match,,Exterior Painting
+2024-12-18,Katie Donelson,5,Oklahoma City,HIGH,Yes,"1 contact(s), 1 customer-tagged","past customer, print newsletter, spring reactivation 2025, website form, winter reactivation",
+2024-12-03,Sawyer Barnes,5,Yukon,HIGH,Yes,"1 contact(s), 1 customer-tagged","appointment-set, past customer, presell-video-sent, print newsletter, website form, winter reactivation",
+2024-11-21,Brad,5,,,,skipped (single name),,
+2024-11-06,Kequn Liang,5,Oklahoma City,HIGH,Yes,"1 contact(s), 1 customer-tagged","facebook, past customer, print newsletter, spring reactivation 2025",
+2024-10-28,Debra Dobrinski,5,,,,no match,,Exterior Painting
+2024-10-16,Angie Bynum,5,,,,no match,,Exterior Painting
+2024-10-09,Jan Hines,5,Yukon,HIGH,Yes,"1 contact(s), 1 customer-tagged","past customer, print newsletter, spring reactivation 2025, website form, winter reactivation",Multiple
+2024-09-20,James Meadors,5,,"MEDIUM (fuzzy, no city)",Yes,fuzzy (nickname) -> James Meadors,past customer,
+2024-09-12,Amanda Bamborough,5,,,,no match,,
+2024-08-30,Kristie Wallace,5,Yukon,HIGH,Yes,"1 contact(s), 1 customer-tagged","google ppc, past customer, print newsletter, spring reactivation 2025, winter reactivation",
+2024-08-29,ACE 99,5,,,,skipped (single name),,
+2024-08-19,Syd LaFleur,5,,,,no match,,
+2024-08-16,Cody Cox,5,Edmond,HIGH,Yes,"1 contact(s), 1 customer-tagged","appointment-set, past customer, print newsletter, spring reactivation 2025, website form, winter reactivation",Exterior Painting
+2024-08-07,Mitch,5,,,,skipped (single name),,Commercial
+2024-08-05,Doug Matney,5,Oklahoma City,HIGH,Yes,"1 contact(s), 1 customer-tagged","past customer, print newsletter, winter reactivation",Exterior Painting
+2024-06-25,Hunter Christian,5,Mustang,HIGH,Yes,"1 contact(s), 1 customer-tagged","appointment-set, past customer, print newsletter, spring reactivation 2025, winter reactivation",
+2024-06-07,Marvin Denny,5,Edmond,HIGH,Yes,"1 contact(s), 1 customer-tagged","appointment-set, facebook, new lead, past customer, print newsletter, winter reactivation",
+2024-05-28,Ashley Newton,5,Edmond,HIGH,Yes,"2 contact(s), 1 customer-tagged","appointment-set, facebook, new lead, past customer, print newsletter, winter reactivation",
+2024-05-11,Shane Guinn,5,Yukon,HIGH,Yes,"1 contact(s), 1 customer-tagged","appointment-set, past customer, print newsletter, spring reactivation 2025, winter reactivation",
+2024-04-22,Charles Burns,5,,,,no match,,Multiple
+2024-04-21,Rebecca Collins,4,,,,no match,,Interior Painting
+2024-03-15,Greg Prevost,5,Yukon,LOW (not tagged customer),,"1 contact(s), 0 customer-tagged",appointment-set,Interior Painting
+2023-12-06,Michael Lisenbery-Thomas,5,,,,no match,,
+2023-11-27,Anthony Sanders,5,Oklahoma City,HIGH,Yes,"1 contact(s), 1 customer-tagged","past customer, print newsletter, spring reactivation 2025, winter reactivation",
+2023-11-10,Collin Dixon,5,Mustang,LOW (not tagged customer),,"1 contact(s), 0 customer-tagged",,Exterior Painting
+2023-10-21,Stephoni Case,5,Yukon,HIGH,Yes,"2 contact(s), 1 customer-tagged","email newsletter, left review, past customer, print newsletter",Interior Painting
+2023-10-13,Tina Mast,5,,,,no match,,
+2023-10-10,Marlene Gilleland,5,,,,no match,,Fence Staining
+2023-10-06,Patrick Terry,5,Oklahoma City,HIGH,Yes,"1 contact(s), 1 customer-tagged","past customer, print newsletter, spring reactivation 2025, winter reactivation",
+2023-10-01,JT Wade,5,,,,no match,,
+2023-09-19,Deborah Knapp,5,Mustang,HIGH,Yes,"1 contact(s), 1 customer-tagged","past customer, print newsletter, spring reactivation 2025, winter reactivation",
+2023-06-07,TONYA WILKINS,5,,,,no match,,
+2023-06-02,Nichole Hampton,5,Mustang,LOW (not tagged customer),,"1 contact(s), 0 customer-tagged","appointment-set, new lead, presell-video-sent, website form",Multiple
+2023-04-25,Elizabeth Shough,5,,"MEDIUM (fuzzy, no city)",Yes,fuzzy (nickname) -> Elizabeth Shough,past customer,Interior Painting
+2023-04-18,jordan vanderbilt,5,Oklahoma City,HIGH,Yes,"1 contact(s), 1 customer-tagged","past customer, print newsletter, winter reactivation",Fence Staining
+2023-03-31,Matt Fraile,5,,,,no match,,Multiple
+2023-03-12,Jordan Parmer,5,,,,no match,,
+2023-03-09,Sarah,5,,,,skipped (single name),,
+2023-02-16,Jason Groves,5,,,,no match,,
+2023-02-02,Daniel Thompson,5,Yukon,MEDIUM (fuzzy name — verify),Yes,fuzzy (nickname) -> Dan Thompson,"past customer, print newsletter, winter reactivation",
+2022-11-15,Phillip Boyes,5,Mustang,HIGH,Yes,"1 contact(s), 1 customer-tagged","past customer, print newsletter, winter reactivation",
+2022-10-26,Tammy Cox,5,Bethany,HIGH,Yes,"1 contact(s), 1 customer-tagged","past customer, print newsletter, winter reactivation",
+2022-09-07,Robert Hamilton,5,Oklahoma City,HIGH,Yes,"1 contact(s), 1 customer-tagged","past customer, print newsletter, winter reactivation",Fence Staining
+2022-09-07,Robert Johnson,5,,,,no match,,
+2022-08-13,Randy Hallman,5,Yukon,HIGH,Yes,"1 contact(s), 1 customer-tagged","past customer, print newsletter, winter reactivation",Fence Staining
+2022-08-08,James Cobb,5,,,,no match,,
+2022-08-04,Casey Martin,5,Yukon,HIGH,Yes,"1 contact(s), 1 customer-tagged","past customer, print newsletter, winter reactivation",Fence Staining
+2022-07-29,Robyn Johnson,5,,,,no match,,Multiple
+2022-07-11,Jonni Fredrickson,5,,,,no match,,
+2022-06-30,Jerry McDonald,5,Oklahoma City,HIGH,Yes,"1 contact(s), 1 customer-tagged","past customer, print newsletter, winter reactivation",
+2022-06-20,Sally Atkinson,5,Edmond,HIGH,Yes,"1 contact(s), 1 customer-tagged","past customer, print newsletter, winter reactivation",Pergola Staining
+2022-06-08,Miichael Winston,5,,,,no match,,
+2022-02-25,Deirdre Barnes,5,,,,no match,,
+2022-02-18,Kennedy Hines,5,,,,no match,,Interior Painting
+2022-01-20,Benjamin Ramsey,5,,,,no match,,
+2021-12-08,ken carlton,5,,"MEDIUM (fuzzy, no city)",Yes,fuzzy (nickname) -> Ken Carlton,"past customer, print newsletter",
+2021-08-25,Kenny Blackwood,5,,,,no match,,
+2021-08-16,JOHN ODGERS,5,Oklahoma City,HIGH,Yes,"1 contact(s), 1 customer-tagged","appointment-set, new lead, past customer, presell-video-sent, print newsletter, website form, winter reactivation",
+2021-08-01,Brad Jones,5,Mustang,LOW (not tagged customer),,"1 contact(s), 0 customer-tagged",,Cabinet Painting
+2021-07-17,Sharon Clayton,5,Edmond,HIGH,Yes,"1 contact(s), 1 customer-tagged","past customer, print newsletter, winter reactivation",Fence Staining
+2021-07-10,Lynn Jones,5,,,,no match,,
+2021-06-29,Paula murphy,5,Warr Acres,HIGH,Yes,"1 contact(s), 1 customer-tagged","past customer, print newsletter",
+2021-04-24,Lynn Wheeler,5,Oklahoma City,HIGH,Yes,"1 contact(s), 1 customer-tagged","past customer, print newsletter, winter reactivation",
+2021-04-22,Lynn Jones,5,,,,no match,,Fence Staining
+2021-04-09,K Haigh,5,,,,no match,,Multiple
+2021-02-16,Helen McFadden,5,Bethany,HIGH,Yes,"1 contact(s), 1 customer-tagged","past customer, print newsletter, winter reactivation",Fence Staining
+2020-06-04,Lee Thompson,5,,,,no match,,Fence Staining
+2020-05-27,Tommy Webb,5,,,,no match,,Multiple
+2019-07-11,Mari Fagin,5,,"MEDIUM (fuzzy, no city)",Yes,fuzzy (nickname) -> Mari Fagin,past customer,Multiple
+2019-04-22,janice mccurdy,5,,,,no match,,
