@@ -11,9 +11,13 @@ ones as work progresses. (Detailed pre-launch audit: the launch-readiness report
       you remember (Unknown is fine for the rest), and set **Feature on site? = Yes** for the
       reviews worth quoting (aim 3–5 per city page, a few per service). → unlocks real
       city-matched testimonials sitewide.
-- [ ] **Upload more project photos** for the site (before/afters, city-specific jobs, cabinets,
-      commercial). Drop them in and Claude will place + optimize them. Especially wanted:
-      Bethany (city page has no local photos), commercial jobs, recent interiors.
+- [ ] **Project photos — in progress from the Drive folder (2026-07-20).** Placed real local hero
+      shots on the **Edmond** and **Mustang** city pages. Still to do / needs Matt:
+      (a) the **Interior** and **Commercial** folders came through **empty**, and there's **no Bethany
+      folder** — Bethany (no local photos) + interiors + commercial were the most-wanted, so please
+      re-check those uploaded; (b) the Drive connector's folder-listing was intermittently failing,
+      which blocked pulling the Yukon / Mesta Park / Nichols Hills city-subfolder shots — will retry;
+      (c) remaining loose exterior + fence/stain shots can refresh the gallery/homepage on request.
 - [ ] Decide on the **real logo** (SVG). Header/footer currently use a CSS text wordmark; the
       brush-H logo exists at `site/public/uploads/2022/08/edited.jpg` — OK to trace into an SVG?
 
