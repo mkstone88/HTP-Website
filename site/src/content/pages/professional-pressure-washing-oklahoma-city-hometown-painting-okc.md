@@ -1,5 +1,5 @@
 ---
-title: "Professional Pressure Washing Oklahoma City | Hometown Painting | House Painters In The OKC Metro"
+title: "Pressure Washing in Oklahoma City | Hometown Painting"
 description: "Professional pressure washing in Oklahoma City — siding, driveways, decks, and fences cleaned safely before painting or staining."
 permalink: "/professional-pressure-washing-oklahoma-city-hometown-painting-okc/"
 h1: "Professional Pressure Washing in Oklahoma City"

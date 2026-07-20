@@ -1,5 +1,5 @@
 ---
-title: "The Ultimate Guide To Fixing Water Stains On Walls And Trim | House Painters In The OKC Metro"
+title: "The Ultimate Guide to Fixing Water Stains on Walls & Trim"
 description: "Water stains on walls and trim are ugly, and untreated leaks can lead to bigger damage. Learn how to fix the source, then prime and paint the stain away."
 permalink: "/the-ultimate-guide-to-fixing-water-stains-on-walls-and-trim/"
 h1: "The Ultimate Guide to Fixing Water Stains on Walls and Trim"

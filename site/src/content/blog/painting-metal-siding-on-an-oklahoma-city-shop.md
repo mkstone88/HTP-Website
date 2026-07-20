@@ -1,5 +1,5 @@
 ---
-title: "Painting Metal Siding On An Oklahoma City Shop | House Painters In The OKC Metro"
+title: "Painting Metal Siding on an Oklahoma City Shop"
 description: "See how we painted the metal siding on an Oklahoma City shop, from scrubbing away chalky residue to applying BondPlex paint for a finish that lasts."
 permalink: "/painting-metal-siding-on-an-oklahoma-city-shop/"
 h1: "Painting Metal Siding on an Oklahoma City Shop"

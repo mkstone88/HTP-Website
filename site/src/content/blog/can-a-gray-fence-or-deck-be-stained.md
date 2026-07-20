@@ -1,5 +1,5 @@
 ---
-title: "Can A Gray Fence Or Deck Be Stained? | House Painters In The OKC Metro"
+title: "Can a Gray Fence or Deck Be Stained?"
 description: "Has your fence or deck turned gray? It's not too late to stain it. Learn the methods pros use to remove the gray layer and restore weathered wood."
 permalink: "/can-a-gray-fence-or-deck-be-stained/"
 h1: "Can a Gray Fence or Deck be Stained?"

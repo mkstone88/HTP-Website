@@ -2,7 +2,7 @@
 # Title/description restored from the primary legacy deck page (2026-07 audit) —
 # the consolidation had shipped the weaker nested duplicate's metadata.
 title: "Deck Staining OKC | Professional Deck Staining Services In Oklahoma City"
-description: "Professional deck staining services in Oklahoma City. Transform your weathered deck with premium stains, expert application, and lasting protection. Free consultation available."
+description: "Professional deck staining in Oklahoma City. Transform your weathered deck with premium stains, expert application, and lasting protection."
 permalink: "/deck-staining-okc/"
 h1: "Professional Deck Staining in Oklahoma City"
 ogImage: "/uploads/2022/08/IMG_0174-min-scaled.jpg"

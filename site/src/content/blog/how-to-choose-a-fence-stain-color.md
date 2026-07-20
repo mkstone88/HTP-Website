@@ -1,6 +1,6 @@
 ---
 title: "How To Choose A Fence Stain Color | OKC Color Guide"
-description: "Fence stain comes in a wide variety of colors. How can you know the best option to choose for your home? We have created a handy guide to help you select the perfect shade."
+description: "Fence stain comes in many colors. Our handy guide helps you choose the best shade for your home and the Oklahoma climate."
 permalink: "/how-to-choose-a-fence-stain-color/"
 h1: "How to choose a fence stain color"
 ogImage: "/uploads/2023/10/IMG_0907.jpg"

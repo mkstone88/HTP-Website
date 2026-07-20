@@ -18,6 +18,16 @@ export const business = {
   priceRange: '$$$',
   rating: { value: '4.9', count: '130' },
   social: { facebook: 'https://www.facebook.com/Hometownpaintingokc' },
+  // Real, confirmed profile URLs (from the reviews page) — emitted as schema sameAs.
+  sameAs: [
+    'https://www.facebook.com/Hometownpaintingokc',
+    'https://g.page/r/Ce4Ja9wvNPqfEB0',
+    'https://www.bbb.org/us/ok/bethany/profile/residential-painter/hometown-painting-llc-0995-90093805',
+    'https://www.yelp.com/biz/hometown-painting-bethany',
+    'https://nextdoor.com/pages/hometown-painting-bethany-ok/',
+  ],
+  // Office hours (from the contact page). Mon–Fri 8:00–5:00.
+  hours: { days: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'], opens: '08:00', closes: '17:00' },
   areas: [
     'Yukon', 'Mustang', 'Edmond', 'Nichols Hills', 'Deer Creek', 'The Village',
     'Bethany', 'Warr Acres', 'Piedmont', 'Mesta Park', 'Heritage Hills',

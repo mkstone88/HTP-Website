@@ -62,7 +62,13 @@ const businessSchema: Record<string, unknown> = {
     addressCountry: business.address.country,
   },
   areaServed: business.areas.map((a) => ({ '@type': 'City', name: a })),
-  sameAs: [business.social.facebook],
+  openingHoursSpecification: {
+    '@type': 'OpeningHoursSpecification',
+    dayOfWeek: business.hours.days,
+    opens: business.hours.opens,
+    closes: business.hours.closes,
+  },
+  sameAs: business.sameAs,
 };
 if (showRating) {
   businessSchema.aggregateRating = {

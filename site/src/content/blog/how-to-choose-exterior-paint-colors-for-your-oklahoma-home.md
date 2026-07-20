@@ -1,5 +1,5 @@
 ---
-title: "How To Choose Exterior Paint Colors For Your Oklahoma Home | House Painters In The OKC Metro"
+title: "How to Choose Exterior Paint Colors for Your Oklahoma Home"
 description: "Overwhelmed by exterior paint colors? Learn how to narrow your options using your roof, brick and home style, then test samples in real Oklahoma light."
 permalink: "/how-to-choose-exterior-paint-colors-for-your-oklahoma-home/"
 h1: "How to Choose Exterior Paint Colors for Your Oklahoma Home"

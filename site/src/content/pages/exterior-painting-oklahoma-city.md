@@ -1,6 +1,6 @@
 ---
 title: "BEST Exterior Painters In Town | Exterior Painting Oklahoma City"
-description: "We provide exterior painting Oklahoma City can trust. Exterior house painting is a must to protect your home from the OKC weather. 5 Year warranty on our exterior work!"
+description: "Exterior painting Oklahoma City homeowners trust. Full-prep repaints that protect your home from OKC weather, backed by our 5-year warranty."
 permalink: "/exterior-painting-oklahoma-city/"
 h1: "Exterior Painting Oklahoma City Homeowners can trust"
 ogImage: "/uploads/2023/09/608E.VictoriaTerrace-3.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "Professional Drywall Repair Oklahoma City | Hometown Painting | House Painters In The OKC Metro"
+title: "Drywall Repair in Oklahoma City | Hometown Painting"
 description: "Professional drywall repair in Oklahoma City — holes, cracks, water damage, and texture matching, finished with a seamless paint match."
 permalink: "/professional-drywall-repair-oklahoma-city-hometown-painting-okc/"
 h1: "Professional Drywall Repair in Oklahoma City"
