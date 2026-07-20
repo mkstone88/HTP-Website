@@ -12,12 +12,16 @@ ones as work progresses. (Detailed pre-launch audit: the launch-readiness report
       reviews worth quoting (aim 3–5 per city page, a few per service). → unlocks real
       city-matched testimonials sitewide.
 - [ ] **Project photos from the Drive folder (2026-07-20).** Added genuinely-new local hero shots to
-      **Edmond** (Romeo Dr), **Mustang**, and **Yukon** (500 War Eagle) city pages. KEY FINDING: most
-      of the drop was **already on the site** (the WordPress migration had pulled them) — Bethany already
-      had a full local photo set (its page was never actually photo-less), and the 9409 SW 32nd / 5613 NE
-      107th interior sets are already in use. Still available if wanted: a **new interior job (5616 NW 130th,
-      7 pro photos)** and a Yukon interior — could refresh the gallery / interior page. Commercial folder is
-      still empty (no commercial photos yet). Nichols Hills folder empty (and no NH page yet anyway).
+      **Edmond** (Romeo Dr), **Mustang**, **Yukon** (500 War Eagle) city pages, and built the **commercial
+      page** into a 3-project portfolio (Victory Baptist church + an office building w/ ADA ramp + the
+      Clydesdale barns). KEY FINDING: most of the drop was **already on the site** (Bethany's full set,
+      the 9409/5613 interior sets, Clydesdale + church — all already present). New/unused photos are now
+      **cataloged in `migration/photos/CATALOG.md`** with Drive IDs (incl. a full new interior job at 5616
+      NW 130th) — grab them when a page needs fresh content. Nichols Hills folder empty (no NH page anyway).
+- [ ] **Company Cam** — Matt added an API credential, but env vars added mid-session don't reach a running
+      session (it wasn't in this session's env). In a **fresh session** it should be available; Company Cam
+      photos carry customer addresses, so they can source **city-specific** shots when a city page is thin.
+      Confirm the exact env var name next session.
 - [ ] Decide on the **real logo** (SVG). Header/footer currently use a CSS text wordmark; the
       brush-H logo exists at `site/public/uploads/2022/08/edited.jpg` — OK to trace into an SVG?
 

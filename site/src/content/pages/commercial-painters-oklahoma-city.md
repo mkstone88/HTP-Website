@@ -53,11 +53,19 @@ Every commercial property is unique. Our process is designed to minimize disrupt
 
 <a class="prose-cta" href="/contact-us/">Get a Free Commercial Estimate →</a>
 
-## A Recent Commercial Project
+## Recent Commercial Projects
 
-We repainted the exterior of **Victory Baptist Church** in Yukon, OK — restoring a weathered building to a clean, protected finish. [Read the project story →](/commercial-painting-in-yukon-ok-victory-baptist-church/)
+**Victory Baptist Church, Yukon, OK.** We repainted the exterior of this weathered building, restoring it to a clean, protected finish. [Read the project story →](/commercial-painting-in-yukon-ok-victory-baptist-church/)
 
 ![Victory Baptist Church in Yukon, OK after a fresh exterior repaint by Hometown Painting](/uploads/2025/06/church-after.webp)
+
+**Office building exterior, OKC metro.** A full commercial exterior repaint with careful prep around entrances, windows, and the ADA ramp, scheduled to keep the business running throughout.
+
+![A freshly repainted commercial office building with an accessible entrance ramp in the OKC metro](/uploads/2025/10/commercial-office-repaint-okc.webp)
+
+**Express Clydesdale Barns, Yukon, OK.** We restored and stained the weathered cedar siding on this well-known Yukon landmark. [See the siding project →](/siding-staining-express-clydesdale-barns/)
+
+![The Express Clydesdale barns in Yukon, OK after cedar siding restoration and staining by Hometown Painting](/uploads/2023/02/yukon-barn-after-scaled.webp)
 
 ## About Us: The Hometown Painting Story
 
