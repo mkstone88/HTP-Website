@@ -42,6 +42,15 @@ catalog, and adds discovery/SEO; the facade removes the only real downside (page
 Revisit Stream only if you ever want a fully branded, distraction-free player with no "more videos"
 suggestions. Registry of embedded videos: `site/src/data/videos.mjs`.
 
+## 💲 City-specific pricing (done — review the numbers)
+
+Each city page's FAQ now carries a pricing range built from **202 real completed projects**
+(Airtable → Projects, amount + type by city). Edmond $5,000–$9,000 exterior (16 jobs, confirmed
+larger), Yukon $3,500–$7,000 ext / $4,500–$7,500 int, Mustang $4,000–$8,000, Bethany
+$3,000–$6,500, Mesta Park qualitative. Data + refresh steps: `brand/pricing-data.md`. **Matt: skim
+the bands and tell me any you'd adjust** — thin-sample cities (Mustang/Bethany) lean on home-profile
+logic. Airtable connector is now working, so future data pulls (job costing, sources, etc.) are on the table.
+
 ## ✅ Done (recent)
 
 - All 13 launch-blocking audit issues (404 page, favicon set, legacy-URL/wp-content/sitemap
