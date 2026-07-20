@@ -8,6 +8,12 @@ Migrating **hometownpaintingokc.com** from WordPress to a static **Astro** site 
 > to-do list (things waiting on Matt, things queued for Claude, launch status). When Matt
 > asks "what's on my to-do list," that file is the answer. Keep it updated as items close.
 
+> **Before writing or rewriting ANY copy/page/ad, read [`brand/MESSAGING.md`](brand/MESSAGING.md).**
+> It's the StoryBrand-based voice + ICP guide: customer = Hero, Hometown = Guide; the meta-fear is
+> *loss of control*; lead with the homeowner's fear and resolve it with concrete proof (walk-through
+> before final payment, written warranty, owner involvement, 130+ real reviews). Target the ideal
+> customer (trust-driven OKC homeowner 45–65), not bargain hunters. Source docs in `brand/source/`.
+
 > ⛔ **Never touch `quote.hometownpaintingokc.com`** (repo `mkstone88/htp-landing-pages`) —
 > it's the live, converting PPC funnel. Out of scope, separate project.
 
