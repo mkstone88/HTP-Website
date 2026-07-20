@@ -49,7 +49,7 @@ Hello — I’m Matt, the owner of Hometown Painting. We’re here to transform 
 
 <details class="faq-item"><summary>Do you do free estimates in Edmond, OK?</summary><div><p>Yes — we service the entire city of Edmond and our estimates are always free. Call us any time at (405) 400-1619 or request a free quote on our <a href="/contact-us/">contact page</a>.</p></div></details>
 <details class="faq-item"><summary>What services do you offer in Edmond?</summary><div><p>A full range of residential painting: interior walls and ceilings, cabinets, doors and trim; exterior siding, trim, shutters, doors, garage doors, and brick painting; plus outdoor staining including fences, pergolas, decks, and wood restoration.</p></div></details>
-<details class="faq-item"><summary>What does house painting cost in Edmond, OK?</summary><div><p>Our Edmond prices are in line with the rest of the metro. Exteriors average $4,000–$8,000 depending on size and scope. Interior jobs vary more since each is unique — request a <a href="/contact-us/">free estimate</a> to know your exact cost.</p></div></details>
+<details class="faq-item"><summary>What does house painting cost in Edmond, OK?</summary><div><p>Most <strong>exterior repaints in Edmond run $5,000–$9,000</strong>, and <strong>interior projects $2,500–$5,500</strong>. Edmond has some of the metro’s larger homes — more two-story brick-and-Hardie with extra siding, trim, and height to cover — so projects here tend to land toward the upper end of the metro range. Smaller homes come in below that. You'll get a firm, itemized number at your free estimate — never a surprise later.</p></div></details>
 
 ## Ready for a Free Estimate in Edmond?
 

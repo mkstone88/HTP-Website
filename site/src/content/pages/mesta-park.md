@@ -60,6 +60,11 @@ We’re proud to be a local, family-owned company. My wife, Rachel, has played a
 
 ![Matt and Rachel Stone, owners of Hometown Painting](/uploads/2022/08/paint-owners-cropped-scaled.webp)
 
+## Mesta Park Painting FAQ
+
+<details class="faq-item"><summary>Do you have experience with historic Mesta Park homes?</summary><div><p>Yes. Mesta Park’s early-1900s homes — original wood siding, ornamental trim, and decades of layered paint — need more careful prep than a modern build. We scope each home individually and protect the character that makes these houses special.</p></div></details>
+<details class="faq-item"><summary>What does it cost to paint a historic home in Mesta Park?</summary><div><p>Because every historic home is different — size, height, trim detail, and how much prep the old paint needs — Mesta Park projects are quoted individually rather than off a flat rate. Exterior repaints here generally start around $6,000 and rise with the home’s size and detail. You’ll get a firm, itemized number at your free estimate — never a surprise later.</p></div></details>
+
 ## Ready for a Free Estimate in Mesta Park?
 
 <a class="prose-cta" href="/contact-us/">Request a Free Estimate →</a>

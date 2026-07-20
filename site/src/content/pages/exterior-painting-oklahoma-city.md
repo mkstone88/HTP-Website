@@ -161,7 +161,7 @@ Or give us a call: (405) 400-1619
 <details class="faq-item">
   <summary>How much does it cost to paint a house exterior in OKC?</summary>
   <div>
-    <p>Typical range: $4,000–$10,000. Several factors affect the price:</p>
+    <p>Typical range: $4,000–$10,000 across the metro — smaller or older homes can come in below that, and larger custom homes above. Where you live matters too (larger Edmond homes trend higher; established Bethany homes a bit lower). Several factors affect the price:</p>
     <ul>
       <li>The size of the home</li>
       <li>The amount of surface to be painted</li>

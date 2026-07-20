@@ -38,7 +38,7 @@ We know Yukon is a place where tradition and family are valued. We’re proud to
 ## Yukon, OK Residential Painting FAQ
 
 <details class="faq-item"><summary>Do you offer free estimates in Yukon, OK?</summary><div><p>Yes — we offer free estimates in Yukon. Feel free to call us at (405) 400-1619 or visit our <a href="/contact-us/">Request an Estimate</a> page.</p></div></details>
-<details class="faq-item"><summary>How much does it cost to paint a home in Yukon?</summary><div><p>A lot of factors affect the price. Exterior painting usually ranges $3,500–$8,000 for a whole house, depending on condition, size, and products. Interior painting runs roughly $400–$800 for a bedroom and $600–$2,000 for a living room. See our <a href="/pricing/">pricing page</a> for more.</p></div></details>
+<details class="faq-item"><summary>How much does it cost to paint a home in Yukon?</summary><div><p>For a whole-house <strong>exterior repaint in Yukon, most homes run $3,500–$7,000</strong>; <strong>interior projects run about $4,500–$7,500</strong>. Yukon’s established brick-and-trim homes keep exteriors near the metro middle, while interior repaints — often walls, trim, and cabinets together — can run a little higher. You'll get a firm, itemized number at your free estimate — never a surprise later. See our <a href="/pricing/">pricing page</a> for the full metro breakdown.</p></div></details>
 
 ## Ready for a Free Estimate in Yukon?
 
