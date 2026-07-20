@@ -29,6 +29,12 @@ ones as work progresses. (Detailed pre-launch audit: the launch-readiness report
 - [ ] Remove duplicate GA4 gtag **if** Matt confirms GTM fires GA4.
 - [ ] Place/optimize new photos as they come in.
 - [ ] Real logo SVG (reversed for the navy header) once approved.
+- [ ] **Final "humanizer" pass before cutover (do this LATE).** Run the humanizer skill across all
+      content to strip AI tells: em dashes used as sentence breaks (Matt's pet peeve), rule-of-three
+      phrasing, "not just X but Y," inflated adjectives, etc. Recommendation: do this as one of the
+      LAST steps before go-live, once pages/sections are stable, so new copy doesn't reintroduce
+      tells. (Going forward, new copy is written em-dash-free; numeric ranges like $2,000–$4,000 keep
+      the correct en dash.) Also worth a light SEO check that the humanized copy keeps target phrases.
 - [ ] **Post-launch backlog** (fine after go-live): embedded lead forms on the top money pages +
       city pages + commercial (template already supports `formId`); decide /painting-estimate/'s
       role (noindex vs integrate); gallery captions with neighborhoods; blog category grouping.

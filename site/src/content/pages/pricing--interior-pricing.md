@@ -7,7 +7,7 @@ ogImage: "/uploads/2023/09/9409SW32ndTer-Edited-1.jpg"
 draft: false
 ---
 
-Every homeowner dreams of a stunning interior — a backdrop worthy of every life event and quiet moment. The idea of painting can feel daunting, especially with cost in mind, so we’re here to simplify it. Below is a clear, transparent look at what interior painting costs in the OKC metro.
+Every homeowner dreams of a stunning interior: a backdrop worthy of every life event and quiet moment. The idea of painting can feel daunting, especially with cost in mind, so we’re here to simplify it. Below is a clear, transparent look at what interior painting costs in the OKC metro.
 
 <a class="prose-cta" href="/contact-us/">Get a Free Estimate →</a>
 
@@ -31,6 +31,36 @@ We believe your price should be custom to your situation, so we take detailed me
 </div>
 
 **Cabinet pricing note:** cabinets have their own distinct pricing due to the unique prep and variability involved, so we quote them separately. See our [cabinet painting](/cabinet-painting-okc/) page for details.
+
+## “Walls Only” vs. “Walls, Trim &amp; Doors”
+
+Two identical rooms can price very differently depending on how much you have us paint:
+
+<div class="compare">
+  <div class="compare-card">
+    <h4>Walls &amp; Ceilings Only</h4>
+    <p>The quickest, most affordable option. A great fit when your trim, doors, and baseboards are still in good shape and you just want fresh wall color.</p>
+  </div>
+  <div class="compare-card">
+    <h4>Walls, Trim, Ceilings &amp; Doors</h4>
+    <p>A complete refresh of every surface in the room. It takes more prep and labor (extra cutting in, taping, and switching products), so it costs more, but the room looks brand new top to bottom.</p>
+  </div>
+</div>
+
+Most whole-home projects land somewhere in between, and we decide it room by room with you. We measure every surface and show you both options wherever it helps your budget.
+
+## Typical Room-by-Room Ranges
+
+Every home is different, so treat these as starting ranges for a standard 8-foot ceiling with light prep. Taller ceilings, heavy patching, accent walls, and adding trim or doors move you toward the higher end.
+
+<div class="mini-grid">
+  <div class="mini-card"><h4>Bedroom or Office</h4><p>$400–$800 for walls and ceiling. Adding trim and doors: about $600–$1,200.</p></div>
+  <div class="mini-card"><h4>Bathroom</h4><p>$300–$600 for a standard bath, more with heavy trim or moisture prep.</p></div>
+  <div class="mini-card"><h4>Living or Great Room</h4><p>$700–$2,000, depending on size and ceiling height.</p></div>
+  <div class="mini-card"><h4>Kitchen (Walls)</h4><p>$400–$900 for the wall surfaces. Cabinets are quoted separately.</p></div>
+  <div class="mini-card"><h4>Hallway &amp; Stairwell</h4><p>$400–$1,200. Tall stairwell walls need extra reach and safety setup.</p></div>
+  <div class="mini-card"><h4>Whole-Home Interior</h4><p>A few rooms often run $2,000–$5,000. A full repaint of every surface can reach $15,000–$20,000 or more on larger homes.</p></div>
+</div>
 
 ## Factors That Influence Interior Painting Costs
 
