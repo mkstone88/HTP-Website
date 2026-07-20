@@ -11,6 +11,8 @@ New paint makes your home fresh and inviting. Hometown Painting offers interior 
 
 <a class="prose-cta" href="/contact-us/">Request a Free Estimate →</a>
 
+![Stone-and-brick home on War Eagle Drive in Yukon, OK with a freshly painted exterior and manicured landscaping](/uploads/2023/10/yukon-500-war-eagle-exterior.webp)
+
 ## House Painting Services in Yukon, OK
 
 <div class="svc-cards">

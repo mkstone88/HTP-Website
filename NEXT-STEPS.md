@@ -11,13 +11,13 @@ ones as work progresses. (Detailed pre-launch audit: the launch-readiness report
       you remember (Unknown is fine for the rest), and set **Feature on site? = Yes** for the
       reviews worth quoting (aim 3–5 per city page, a few per service). → unlocks real
       city-matched testimonials sitewide.
-- [ ] **Project photos — in progress from the Drive folder (2026-07-20).** Placed real local hero
-      shots on the **Edmond** and **Mustang** city pages. Still to do / needs Matt:
-      (a) the **Interior** and **Commercial** folders came through **empty**, and there's **no Bethany
-      folder** — Bethany (no local photos) + interiors + commercial were the most-wanted, so please
-      re-check those uploaded; (b) the Drive connector's folder-listing was intermittently failing,
-      which blocked pulling the Yukon / Mesta Park / Nichols Hills city-subfolder shots — will retry;
-      (c) remaining loose exterior + fence/stain shots can refresh the gallery/homepage on request.
+- [ ] **Project photos from the Drive folder (2026-07-20).** Added genuinely-new local hero shots to
+      **Edmond** (Romeo Dr), **Mustang**, and **Yukon** (500 War Eagle) city pages. KEY FINDING: most
+      of the drop was **already on the site** (the WordPress migration had pulled them) — Bethany already
+      had a full local photo set (its page was never actually photo-less), and the 9409 SW 32nd / 5613 NE
+      107th interior sets are already in use. Still available if wanted: a **new interior job (5616 NW 130th,
+      7 pro photos)** and a Yukon interior — could refresh the gallery / interior page. Commercial folder is
+      still empty (no commercial photos yet). Nichols Hills folder empty (and no NH page yet anyway).
 - [ ] Decide on the **real logo** (SVG). Header/footer currently use a CSS text wordmark; the
       brush-H logo exists at `site/public/uploads/2022/08/edited.jpg` — OK to trace into an SVG?
 
