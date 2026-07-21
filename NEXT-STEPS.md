@@ -9,17 +9,11 @@ ones as work progresses. (Detailed pre-launch audit: the launch-readiness report
 - [x] **Review workbook returned (2026-07-20)** — Matt marked **42 reviews** Feature=Yes across
       83 tagged cities. Wired into pages (below). More can be featured anytime by marking more rows
       in `migration/reviews/HTP-Google-Reviews-Tagging-COMPLETED.xlsx` and re-running.
-      GAP — **Bethany + Mesta Park have no Feature=Yes review** (decision-ready, just say the word):
-      - **Bethany** has NO customer testimonial block at all right now (only Matt's "why we love Bethany"
-        quote). Two REAL, verified-customer, HIGH-confidence 5-star Bethany reviews are ready to wire in:
-        **Tammy Cox** (general repaint, quick turnaround to hit a home-sale appraisal deadline — broad
-        appeal, my pick for the primary) and **Helen McFadden** (fence staining + shed, notes tarps
-        protecting her flowerbeds — good fence/stain-specific second). Both sit in `reviews-matched.json`,
-        neither is used elsewhere. Reply "use Tammy" / "use both" and I'll place them. Or mark them
-        Feature=Yes in the workbook.
-      - **Mesta Park** is an OKC *neighborhood*, not a city, so no customer address will ever match it —
-        it will always return 0 city-matches. Its page already shows two neighborhood quotes (Pattrick T.,
-        Bill H.). To "feature" one, either bless those or pick any OKC Feature=Yes review to add.
+      RESOLVED (2026-07-21): **Bethany** now has a testimonial block — Tammy Cox + Helen McFadden (both
+      real verified Bethany customers; Matt OK'd using them). **Mesta Park** now leads with **Dolan
+      McTiernan** (Katie Donelson's husband; Matt had marked him Feature=Yes with the note "in mesta park";
+      detailed historic-home exterior review), keeping the two real legacy quotes below it. Note for future:
+      Mesta Park is an OKC *neighborhood*, so it never city-matches an address — pick its reviews by hand.
 - [ ] **Project photos from the Drive folder (2026-07-20).** Added genuinely-new local hero shots to
       **Edmond** (Romeo Dr), **Mustang**, **Yukon** (500 War Eagle) city pages, and built the **commercial
       page** into a 3-project portfolio (Victory Baptist church + an office building w/ ADA ramp + the
@@ -72,8 +66,10 @@ These are the final quality passes. Do them near the end so new pages/edits don'
       Nextdoor sameAs. STILL OPEN (need Matt): **geo coordinates + GBP categories/URL** to finish the
       schema; and a call on two money-page titles (exterior "BEST … In Town", commercial suffix).
 - [x] **4. Page-speed audit (done 2026-07-20).** Excellent: **0 KB JS**, **26 KB CSS**, key pages
-      **~85–100 KB total**, images served resized/AVIF via the CF pipeline. One optional win: **self-host
-      the two Google Fonts** to remove the last render-blocking third-party request (offered to Matt).
+      **~85–100 KB total**, images served resized/AVIF via the CF pipeline. DONE 2026-07-21: **all three
+      Google Fonts now self-hosted** (DM Sans, DM Serif Display, Montserrat → local woff2 in
+      `site/public/fonts/`), so there is zero render-blocking third-party font request; the two primary
+      faces (DM Sans 400, DM Serif Display 400) preload.
 
 ## 🎥 Video hosting decision (settled: stay on YouTube)
 
@@ -106,7 +102,35 @@ logic. Airtable connector is now working, so future data pulls (job costing, sou
 - FAQPage + VideoObject schema; 7 videos re-embedded (lazy facade). Brand/messaging knowledge base.
 - GTM/GA4 double-fire check (resolved: no double-fire).
 
+## 🔌 Keeping reviews + GBP data fresh (tooling — researched 2026-07-21)
+
+Goal: pull new Google reviews over time (site freshness) and read GBP categories/attributes, ideally
+pay-per-use not subscription. Findings + recommendation:
+- **Reviews — already solved, $0.** We pulled all 132 via the **GoHighLevel/LeadConnector reputation
+  API** (env `GHL_API_Token` + `GHL_Location_ID`). GHL syncs Google reviews, so re-running that pull is
+  the zero-cost way to catch new ones. Cadence idea: monthly, re-pull → tag new ones → wire any Matt
+  marks Feature=Yes. No new tool needed.
+- **Official Google Business Profile API** — free, can list/read reviews + categories/attributes, but
+  requires an **access-request approval** (Cloud project + org account + verified profile 60+ days);
+  approvals are slow/uncertain (3+ month waits reported). Worth applying only if we want full automation.
+- **Places API (New)** — just an API key, no approval gauntlet; returns rating, review count, categories,
+  hours + **only 5 "most relevant" reviews** (no pagination). Pay-as-you-go (the old $200/mo credit
+  expired Feb 2025), but at our volume it is pennies. Good for a lightweight "profile snapshot" read.
+- **Pay-as-you-go scrapers** (Outscraper / Apify / DataForSEO) — return ALL reviews with pagination,
+  credit-based, no subscription. Only needed if we ever stop using GHL.
+- **RECOMMENDATION:** lean on **GHL for reviews** (free, in hand). If Matt wants me to read the live GBP
+  (categories/hours) directly on demand, drop a **Google Maps Places API key** in env — pay-per-use, no
+  subscription. Skip the official GBP API approval hassle unless we later want hands-off automation.
+
 ## 🚀 Launch status
+
+**Strategy (decided 2026-07-21): launch NOW with the current page set, then expand.** Because this is a
+full WordPress→Astro overhaul, the priority is getting the new structure + redirects in front of Google
+so it can recrawl and re-settle. Ship the current (strong, audited) pages, give it 1–2 weeks to stabilize
+in the index, then systematically build out the silos (more city pages, more supporting/blog content) as
+purely additive URLs. Fresh content over time is a positive ranking signal, so post-launch expansion helps
+rather than hurts. Only the QA gate (humanizer + brand pass) must finish first, since it touches pages
+that are going live.
 
 **Not a blocker anymore — the site is in good shape.** The remaining gates before flipping DNS:
 1. (optional but recommended) tagged reviews in place for stronger city pages,
