@@ -9,8 +9,17 @@ ones as work progresses. (Detailed pre-launch audit: the launch-readiness report
 - [x] **Review workbook returned (2026-07-20)** — Matt marked **42 reviews** Feature=Yes across
       83 tagged cities. Wired into pages (below). More can be featured anytime by marking more rows
       in `migration/reviews/HTP-Google-Reviews-Tagging-COMPLETED.xlsx` and re-running.
-      GAP: **no featured review is tagged for Bethany or Mesta Park yet** — those two city pages still
-      show their prior quotes. Feature a Bethany/Mesta review (or tag more cities) to fill them.
+      GAP — **Bethany + Mesta Park have no Feature=Yes review** (decision-ready, just say the word):
+      - **Bethany** has NO customer testimonial block at all right now (only Matt's "why we love Bethany"
+        quote). Two REAL, verified-customer, HIGH-confidence 5-star Bethany reviews are ready to wire in:
+        **Tammy Cox** (general repaint, quick turnaround to hit a home-sale appraisal deadline — broad
+        appeal, my pick for the primary) and **Helen McFadden** (fence staining + shed, notes tarps
+        protecting her flowerbeds — good fence/stain-specific second). Both sit in `reviews-matched.json`,
+        neither is used elsewhere. Reply "use Tammy" / "use both" and I'll place them. Or mark them
+        Feature=Yes in the workbook.
+      - **Mesta Park** is an OKC *neighborhood*, not a city, so no customer address will ever match it —
+        it will always return 0 city-matches. Its page already shows two neighborhood quotes (Pattrick T.,
+        Bill H.). To "feature" one, either bless those or pick any OKC Feature=Yes review to add.
 - [ ] **Project photos from the Drive folder (2026-07-20).** Added genuinely-new local hero shots to
       **Edmond** (Romeo Dr), **Mustang**, **Yukon** (500 War Eagle) city pages, and built the **commercial
       page** into a 3-project portfolio (Victory Baptist church + an office building w/ ADA ramp + the
@@ -31,7 +40,9 @@ ones as work progresses. (Detailed pre-launch audit: the launch-readiness report
       (`First L., Role · City`) on Edmond (3), Yukon (3), Mustang (1), exterior (3), interior (3),
       cabinet (3), fence (1 added), commercial (1 new section), and refreshed the /reviews/ page with
       8. This corrected real errors (Yukon page had quoted an OKC customer; cabinet had Filiz tagged
-      OKC when she's Edmond). Still to fill: Bethany + Mesta Park (no featured review tagged for them).
+      OKC when she's Edmond). Still to fill: **Bethany** (two real verified candidates identified —
+      Tammy Cox / Helen McFadden — awaiting Matt's OK) and **Mesta Park** (neighborhood, never
+      city-matches; see the Waiting-on-Matt note above).
 - [ ] Place/optimize new photos as they come in.
 - [ ] Real logo SVG (reversed for the navy header) once approved.
 - [ ] **Post-launch backlog** (fine after go-live): embedded lead forms on the top money pages +
