@@ -88,6 +88,33 @@ const work = [
     </div>
   </section>
 
+  <!-- MEET YOUR PAINTER (moved up: personal, family-first, before the sales sections) -->
+  <section class="about">
+    <div class="container about-inner">
+      <div class="about-photo">
+        <Img
+          src="/uploads/2022/08/paint-owners-cropped-scaled.webp"
+          alt="Matt and Rachel Stone, owners of Hometown Painting"
+          width={600} height={720} sizes="(max-width: 768px) 100vw, 460px" />
+      </div>
+      <div class="about-copy">
+        <p class="about-eyebrow">Meet Your Painter</p>
+        <h2>A Family Business That Treats You Like Family</h2>
+        <p>
+          Hi, I'm Matt Stone. My grandpa Art was a painter his whole life, and he did it the
+          old-fashioned way: do good work and treat people right. He handed those values down to
+          me, along with his old paint sprayer, when I started Hometown Painting. That's still how
+          we work today. You get a real person as your direct contact, daily updates while we
+          paint, and a final walk-through with you before you pay the balance.
+        </p>
+        <div class="about-cta">
+          <a href={business.phoneHref} class="cta-phone">Call {business.phoneDisplay}</a>
+          <a href="/professional-painters-okc/" class="cta-secondary cta-secondary--dark">Learn More About Us →</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <!-- ESTIMATE -->
   <section class="estimate" id="estimate">
     <div class="container estimate-inner">
@@ -169,36 +196,7 @@ const work = [
     </div>
   </section>
 
-  <!-- MEET MATT -->
-  <section class="about">
-    <div class="container about-inner">
-      <div class="about-photo">
-        <Img
-          src="/uploads/2022/08/paint-owners-cropped-scaled.webp"
-          alt="Matt Stone, owner of Hometown Painting, with his wife"
-          width={600} height={720} sizes="(max-width: 768px) 100vw, 460px" />
-      </div>
-      <div class="about-copy">
-        <p class="about-eyebrow">Meet Your Painter</p>
-        <h2>A Family Business, Not a Middleman</h2>
-        <p>
-          Hi, I'm Matt Stone. I learned this trade from my grandfather Art, and that same care
-          and attention to detail goes into every home we touch. When you hire Hometown Painting,
-          you're not handing your house to a rotating crew of subcontractors. You're working
-          directly with me and a team that treats your home like our own.
-        </p>
-        <p>
-          We show up when we say we will, keep you updated every day, protect your furniture and
-          floors, and leave the place cleaner than we found it, all backed by our written
-          warranty: 5 years on painting.
-        </p>
-        <div class="about-cta">
-          <a href={business.phoneHref} class="cta-phone">Call {business.phoneDisplay}</a>
-          <a href="#estimate" class="cta-secondary cta-secondary--dark">Get Your Free Estimate →</a>
-        </div>
-      </div>
-    </div>
-  </section>
+  <!-- Owner intro moved up, just beneath the trust bar -->
 
   <!-- WHY HOMETOWN -->
   <section class="why">
