@@ -14,6 +14,13 @@ Migrating **hometownpaintingokc.com** from WordPress to a static **Astro** site 
 > before final payment, written warranty, owner involvement, 130+ real reviews). Target the ideal
 > customer (trust-driven OKC homeowner 45–65), not bargain hunters. Source docs in `brand/source/`.
 
+> **Adding NEW substantial content (new page, blog post, major rewrite)? Interview Matt FIRST.**
+> Matt wants our content to stand out from generic AI writing, so it has to lead with his firsthand
+> knowledge. Standard process, in priority order: **(1) interview Matt** for his stories, opinions,
+> specifics, and preferences; **(2) then mine our loaded context** (this file, `brand/`, `migration/`,
+> Airtable, the 132 real reviews) for relevant facts; **(3) only then fall back to general knowledge**
+> to fill the gaps. His voice first, the model's last. Do not draft substantial copy without step 1.
+
 > ⛔ **Never touch `quote.hometownpaintingokc.com`** (repo `mkstone88/htp-landing-pages`) —
 > it's the live, converting PPC funnel. Out of scope, separate project.
 
