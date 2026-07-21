@@ -1,6 +1,6 @@
 ---
 title: "Exterior Prep Work For Painting In Oklahoma City"
-description: "Learn what professional exterior prep work includes in Oklahoma City—washing, scraping, sanding, priming, caulking, and repairs for a long-lasting paint job."
+description: "Learn what professional exterior prep work includes in Oklahoma City: washing, scraping, sanding, priming, caulking, and repairs for a long-lasting paint job."
 permalink: "/exterior-painting-prep-work-oklahoma-city/"
 h1: "What’s Included in Professional Exterior Prep Work?"
 ogImage: "/uploads/2025/12/Feature-Image-Pre-Prep-Oklahoma.jpg"

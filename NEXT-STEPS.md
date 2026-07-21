@@ -47,18 +47,16 @@ ones as work progresses. (Detailed pre-launch audit: the launch-readiness report
 
 These are the final quality passes. Do them near the end so new pages/edits don't undo the work.
 
-- [ ] **1. Copy vs. brand + knowledge base.** Read every page against `brand/MESSAGING.md` and
-      `brand/source/`: customer = Hero / Hometown = Guide (never brand-as-hero); each page leads
-      with the homeowner's fear and resolves it with concrete proof (walk-through before final
-      payment, written warranty, owner involvement, 130+ reviews); the five root fears are answered
-      where relevant; copy targets the trust-driven ICP, not bargain hunters; testimonials use the
-      `First L., Role · City` convention and are real. Flag/rewrite any page that drifts generic or
-      makes us the hero. (Pairs naturally with the humanizer pass below.)
-- [ ] **2. Humanizer pass.** Run the humanizer skill across all content to strip AI tells: em dashes
-      as sentence breaks (Matt's pet peeve), rule-of-three phrasing, "not just X but Y," inflated
-      adjectives, hollow intros. New copy is already written em-dash-free; numeric ranges like
-      $2,000–$4,000 keep the correct en dash. After humanizing, re-check that target keyphrases
-      survived (humanizing can soften a page's focus keyword).
+- [x] **1 & 2. Humanizer + brand-voice pass (done 2026-07-21).** Swept all 61 content files plus the
+      home page, 404, and footer. Removed ~260 em dashes used as prose punctuation (process-step cards,
+      FAQ answers, intros, benefit cards, visible h1/meta), keeping numeric-range en dashes, real review
+      quotes, and their `— Name` attributions intact. Trimmed AI tells (filler like "when it comes to",
+      inflated "seamless"/"non-negotiable", a few "-ing" tails, rule-of-three, one "not only…but also"),
+      fixed a brand slip (drywall "competitive pricing" → "honest, upfront pricing", per the never-compete-
+      on-price rule), and corrected small typos (spraying "is the use"→"is to use"; "three vs four example
+      fences"; a missing-word heading). Build clean (62 pages). Checked against `brand/MESSAGING.md`:
+      pages lead with the homeowner's problem and resolve with proof; testimonials real + `First L., Role
+      · City`. THIN-PAGE + brand findings recorded below.
 - [x] **3. Local SEO audit + fix (done 2026-07-20, re-verify at cutover).** 57 indexable pages came
       back clean: no duplicate/missing titles, H1s, or descriptions; 1 H1 each; canonicals correct;
       all images have alt text; NAP consistent. Fixed: 7 over-long titles (dropped redundant boilerplate),
@@ -70,6 +68,40 @@ These are the final quality passes. Do them near the end so new pages/edits don'
       Google Fonts now self-hosted** (DM Sans, DM Serif Display, Montserrat → local woff2 in
       `site/public/fonts/`), so there is zero render-blocking third-party font request; the two primary
       faces (DM Sans 400, DM Serif Display 400) preload.
+
+## 📄 Thin-page + brand findings (from the 2026-07-21 humanizer pass)
+
+Flagged for Matt's call. None block launch; most are "make a strong page stronger." Nothing was
+expanded automatically (needs your judgment or a real review pick).
+
+**Thin / worth expanding:**
+- **`should-i-stain-my-fence.md`** (blog, shortest post ~350 words) — genuinely thin. Add OKC-specific
+  depth: staining a brand-new fence vs waiting, Wood Defender + the 2-year staining warranty, the
+  $2,000–$4,000 range, and a real local review.
+- **`professional-painters-okc--warranty.md`** (~390 words) — reads like a terms checklist. Add one
+  short brand line tying the warranty to the walk-through-before-final-payment and Matt personally
+  standing behind it, so it's a trust asset, not just terms.
+- **`okc-fence-stain-colors.md`** (~440 words) — mostly color cards, ~3 short paragraphs. Optional: one
+  line tying colors to the 2-year staining warranty / linking the fence-staining service.
+
+**Light social proof (add a 2nd real review when you can):**
+- **`commercial-painters-oklahoma-city.md`** — only 1 testimonial (Nathan H.). Pull a 2nd real commercial
+  review. Also the opener still leans slightly company-forward; a stronger StoryBrand reframe would open
+  on the business owner's fear (downtime, disruption, an unreliable contractor) before the company claim.
+- **`painters-mustang-ok.md`** — only 1 review (Hunter C.) vs 2-3 on sibling city pages. Add a 2nd if a
+  real Mustang review exists.
+
+**Brand-voice polish (optional, not thin):**
+- **`professional-painters-okc.md`** (About) — leans heritage/nostalgia; per MESSAGING it should be an
+  "Origin of Empathy" (Art as proof of care, homeowner as the hero being served). Homeowner is present
+  but secondary. Candidate for a future reframe.
+- **`painters-edmond-ok.md`** — mild promo clichés in Matt's note ("Your vision is our mission,"
+  "results that exceed your expectations").
+- **`how-to-choose-the-best-sheen-or-gloss.md`** — ends on a chart image with no closing paragraph/CTA;
+  a short close linking to interior/cabinet painting would help.
+
+Note: `house-painting-contractors…` and `wall-painting-okc.md` read thin but are `draft: true`
+(consolidated + 301-redirected), so not launch content. If ever un-drafted, they need a homeowner-first rewrite.
 
 ## 🎥 Video hosting decision (settled: stay on YouTube)
 

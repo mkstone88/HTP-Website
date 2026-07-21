@@ -9,7 +9,7 @@ kind: "post"
 date: "2025-05-01"
 ---
 
-Do you wonder if you’re paying too much to have your fence professionally stained in the OKC metro? We  will break down the average cost to stain a fence and the main factors that affect the price. Then we will show you three example fences and what they cost.
+Do you wonder if you’re paying too much to have your fence professionally stained in the OKC metro? We  will break down the average cost to stain a fence and the main factors that affect the price. Then we will show you four example fences and what they cost.
 
 ### OKC Average: $2,500
 
