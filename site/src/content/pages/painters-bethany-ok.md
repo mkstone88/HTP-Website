@@ -41,6 +41,13 @@ Local house painters Bethany, OK can trust — interior, exterior, and fence sta
 
 ![Fence staining in Bethany, OK](/uploads/2022/11/fence-staining-bethany-ok-scaled.webp)
 
+## Here’s What Our Bethany Customers Say
+
+<div class="prose-reviews">
+  <div class="p-review"><div class="p-stars">★★★★★</div><p>“I needed some painting done in a hurry to meet appraisal requirements on a house I was selling. Matt was able to fit in the job quickly. He and his crew arrived on time and were responsive to all my communication. His rates were comparable to the appraiser’s estimates, and he got the job done much faster than I could have myself…”</p><cite>— Tammy C., Homeowner · Bethany</cite></div>
+  <div class="p-review"><div class="p-stars">★★★★★</div><p>“Matt does very neat work and shows up when he said he would. He practically rebuilt our shed, which was probably something new and different for him, but it looks great. When he stained our fence he put down tarps to protect my flowerbeds and sidewalk.”</p><cite>— Helen M., Homeowner · Bethany</cite></div>
+</div>
+
 ## FAQ: Painters Bethany, OK
 
 <details class="faq-item"><summary>Is Hometown Painting insured in Bethany?</summary><div><p>Yes — we carry both workers’ compensation and liability insurance for your protection, covering all of our work in Bethany.</p></div></details>

@@ -46,6 +46,7 @@ Mesta Park's craftsman bungalows and prairie-style homes are some of the most di
 ## What Our Mesta Park Customers Say
 
 <div class="prose-reviews">
+  <div class="p-review"><div class="p-stars">★★★★★</div><p>“Hometown Painting helped us paint the entire exterior of our historic home. They did an exquisite job and we couldn’t have been happier with the results! The team was efficient and masterful. Matt, the owner, was kind and helpful. He met with us to go over our vision for the project and then made it happen. The whole process couldn’t have been easier. 10/10 would recommend!”</p><cite>— Dolan M. · Mesta Park, OKC</cite></div>
   <div class="p-review"><div class="p-stars">★★★★★</div><p>“Matt and his guys did a great job. They were prompt and got our porch painted quickly.”</p><cite>— Pattrick T. · Mesta Park, OKC</cite></div>
   <div class="p-review"><div class="p-stars">★★★★★</div><p>“Professionalism, punctuality, quality, responsiveness, and value — all excellent.”</p><cite>— Bill H. · Mesta Park, OKC</cite></div>
 </div>
