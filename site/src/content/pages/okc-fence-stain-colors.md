@@ -12,9 +12,17 @@ Picking the right fence stain color can make your backyard feel luxurious. We of
 
 <a class="prose-cta" href="/contact-us/">Get a Free Estimate →</a>
 
+## Start With Two Decisions
+
+Before you fall for a color, two questions narrow the field fast.
+
+**Transparent or semi-transparent?** Transparent stain lasts about 2 to 3 years and lets the natural richness of the wood show through, which makes it our favorite for newer cedar. Semi-transparent lasts about 3 to 4 years and covers more of the wood, so it’s the better pick for older fences, restains, or hiding imperfections. If longevity matters to you more than showing off the grain, lean semi-transparent.
+
+**Warm or cool?** Most fence stains lean warm, with reddish-brown undertones that suit a lot of Oklahoma homes. But if your house colors are cool (grays, cool whites, blues), a warm fence can clash. For a cool-toned home, a neutral brown usually plays nicer, and a gray or black is worth considering if you want a color that really fits.
+
 ## Transparent Fence Stain Colors
 
-Transparent stains are lightly pigmented and show off the most of the underlying wood. We usually recommend them for newer fences.
+Transparent stains are lightly pigmented and show off the most of the underlying wood. They last about 2 to 3 years and are our usual pick for newer fences.
 
 - Great for new wood
 - Highlights the wood grain
@@ -57,7 +65,7 @@ Transparent stains are lightly pigmented and show off the most of the underlying
 
 ## Semi-Transparent Fence Stain Colors
 
-Semi-transparent stains use stronger pigments: they cover more of the wood underneath and give a bolder color. Especially useful for older fences or imperfections you want to hide.
+Semi-transparent stains use stronger pigments: they cover more of the wood and give a bolder color that holds about 3 to 4 years. Especially useful for older fences or imperfections you want to hide.
 
 - Great for older fences or restains
 - Stronger pigments for a bolder color
@@ -92,6 +100,6 @@ Semi-transparent stains use stronger pigments: they cover more of the wood under
 
 ## Want to See Your Favorite Color on Your Fence?
 
-If you need help choosing, visit our [fence stain color selection guide](/how-to-choose-a-fence-stain-color/), or [schedule a free quote](/contact-us/) and we’ll help you pick. To see the full range, visit the [Wood Defender](https://wooddefender.com/buy-online/) website.
+Once you’ve picked a color, we’ll handle the rest. See how we work on our [fence staining service page](/fence-staining-okc/), or [schedule a free quote](/contact-us/) and we’ll help you choose. Still deciding? Our [fence stain color selection guide](/how-to-choose-a-fence-stain-color/) walks through it, and you can see the full range on the [Wood Defender](https://wooddefender.com/buy-online/) website.
 
 <a class="prose-cta" href="/contact-us/">Get a Free Estimate →</a>
