@@ -43,6 +43,8 @@ Severe weather really is more likely on the south side of the metro. The [stats]
 
 <div class="prose-reviews">
   <div class="p-review"><div class="p-stars">★★★★★</div><p>“Giving 5 stars for multiple reasons. For starters Matt was extremely transparent and professional during the initial consultation and continuously checked in with us throughout the job with updates and what to expect next, beyond that we were…”</p><cite>— Hunter C., Homeowner · Mustang</cite></div>
+  <div class="p-review"><div class="p-stars">★★★★★</div><p>“The guys at Hometown Painting did an amazing job from start to finish on our exterior painting of our trim, doors, and columns. They were so thorough in their prep work, painting, and touch ups. We had a very rough week trying to work around the constant rain but they made sure the job was done and done right. Matt was in constant contact throughout…”</p><cite>— Nichole H., Homeowner · Mustang</cite></div>
+  <div class="p-review"><div class="p-stars">★★★★★</div><p>“Matt and his crew did a great job on my house. It really helped with the curb appeal. They were easy to work with and I would recommend them to everyone!”</p><cite>— Collin D., Homeowner · Mustang</cite></div>
 </div>
 
 ## Our Paint Work for Your Mustang Neighbors

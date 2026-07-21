@@ -71,6 +71,8 @@ Every commercial property is unique. Our process is designed to minimize disrupt
 
 <div class="prose-reviews">
   <div class="p-review"><div class="p-stars">★★★★★</div><p>“Matt with Hometown Painting is great to work with. Used him on multiple jobs and he is very professional. Great work everytime. Will be using him for all my future residential and commercial paint jobs”</p><cite>— Nathan H., Commercial Client · Oklahoma City</cite></div>
+  <div class="p-review"><div class="p-stars">★★★★★</div><p>“We're extremely pleased with Matt &amp; Hometown Painting. We had 4 metal commercial buildings painted and completed within a week's time and it looks great… Already recommended him to my brother and will hire him again for future projects.”</p><cite>— Mitch, Commercial Client</cite></div>
+  <div class="p-review"><div class="p-stars">★★★★★</div><p>“Matt and his team reached out immediately and were eager to help with our project. Matt was very professional and the interior painting was done in 2 days, very clean, and exactly what we imagined! Would definitely use again. Great and hassle free experience.”</p><cite>— Kennedy H., Office Manager</cite></div>
 </div>
 
 ## About Us: The Hometown Painting Story
