@@ -63,7 +63,7 @@ The longer bare spots stay exposed, the bigger the repair bill becomes.
 ## **6. Hairline Cracks in the Paint Film**
 
 Tiny cracks may seem harmless, but they’re early indicators that your paint is getting brittle.
-Once paint reaches this stage, it begins to fail more quickly—especially after Oklahoma’s freeze/thaw cycles.
+Once paint reaches this stage, it begins to fail more quickly, especially after Oklahoma’s freeze/thaw cycles.
 
 ## **7. Mildew, Mold, or Dark Stains**
 

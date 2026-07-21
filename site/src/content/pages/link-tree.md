@@ -9,7 +9,7 @@ draft: false
 
 <div class="linktree-logo"><a href="/"><img src="/uploads/2022/08/edited.webp" alt="Hometown Painting LLC logo"></a></div>
 
-Welcome to our client resources — explore and learn more about Hometown Painting!
+Welcome to our client resources. Explore and learn more about Hometown Painting!
 
 <div class="linktree">
   <a href="/">Our Website</a>

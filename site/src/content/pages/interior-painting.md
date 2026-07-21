@@ -1,6 +1,6 @@
 ---
 title: "Interior Painting OKC Metro | Free Estimates | Hometown Painting"
-description: "Professional interior painters serving the OKC metro. Walls, ceilings, trim, and cabinets — free on-the-spot estimates and a 5-year warranty."
+description: "Professional interior painters serving the OKC metro. Walls, ceilings, trim, and cabinets. Free on-the-spot estimates and a 5-year warranty."
 permalink: "/interior-painting/"
 h1: "Professional Interior Painters in the OKC Metro"
 ogImage: "/uploads/2025/05/5613NE107thSt-Interior-8.jpg"
@@ -29,8 +29,8 @@ Here’s exactly what to expect when you request your free, no-pressure estimate
 <div class="mini-grid">
   <div class="mini-card"><h4>Easy Scheduling</h4><p>Schedule online or by phone in minutes.</p></div>
   <div class="mini-card"><h4>Friendly Visit</h4><p>A professional, no-pressure visit to see your project.</p></div>
-  <div class="mini-card"><h4>Detailed Proposal</h4><p>Know exactly what to expect — with a transparent price and no hidden fees.</p></div>
-  <div class="mini-card"><h4>On-the-Spot Quote</h4><p>Your quote is delivered on the spot — no waiting around.</p></div>
+  <div class="mini-card"><h4>Detailed Proposal</h4><p>Know exactly what to expect, with a transparent price and no hidden fees.</p></div>
+  <div class="mini-card"><h4>On-the-Spot Quote</h4><p>Your quote is delivered on the spot, no waiting around.</p></div>
 </div>
 
 ## See Our Work
@@ -45,7 +45,7 @@ Here’s exactly what to expect when you request your free, no-pressure estimate
 
 ## Why OKC Metro Neighbors Choose Hometown Painting
 
-Hometown Painting offers expert interior painting, exterior painting, and fence staining across the entire OKC metro — residential and commercial. Whether you’re updating a historic home or refreshing your fence, our skilled painters deliver clean, beautiful results. **We care because we’re your neighbors.**
+Hometown Painting offers expert interior painting, exterior painting, and fence staining across the entire OKC metro, residential and commercial. Whether you’re updating a historic home or refreshing your fence, our skilled painters deliver clean, beautiful results. **We care because we’re your neighbors.**
 
 <div class="mini-grid">
   <div class="mini-card"><h4>No Waiting for Estimates</h4><p>We provide detailed quotes on the spot during our visit.</p></div>

@@ -35,7 +35,7 @@ Want to personalize your space and make it your own? Painting your interior wall
 
 ![Interior wall painting inspiration in an OKC home](/uploads/2023/10/image.webp)
 
-We want to make updating your home as easy as possible. We treat your free estimate as a consultation — we want to hear what you’re looking for and make a plan to get you there. We’re happy to suggest colors, sheens, and finishes. Have a Pinterest board or an Instagram pic that inspires you? Let’s look at it together and make your dream home a reality.
+We want to make updating your home as easy as possible. We treat your free estimate as a consultation. We want to hear what you’re looking for and make a plan to get you there. We’re happy to suggest colors, sheens, and finishes. Have a Pinterest board or an Instagram pic that inspires you? Let’s look at it together and make your dream home a reality.
 
 <a class="prose-cta" href="/contact-us/">Request a Free Estimate →</a>
 

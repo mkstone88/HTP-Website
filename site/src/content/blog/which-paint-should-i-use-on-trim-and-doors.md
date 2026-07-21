@@ -49,7 +49,7 @@ Trim enamels are also given additives that increase their durability. This makes
 
 ![emerald urethane trim enamel paint can](/uploads/2022/08/Emerald-Urethane-Can.webp)
 
-Hometown Painting partners with Sherwin Williams to provide quality paint products to our customers. When it comes to trim paint, one of the best on the market is Sherwin Williams [Emerald Urethane Trim Enamel](https://www.sherwin-williams.com/homeowners/products/emerald-urethane-trim-enamel).
+Hometown Painting partners with Sherwin Williams to provide quality paint products to our customers. For trim paint, one of the best on the market is Sherwin Williams [Emerald Urethane Trim Enamel](https://www.sherwin-williams.com/homeowners/products/emerald-urethane-trim-enamel).
 
 The benefits of Emerald Urethane Paint include:
 

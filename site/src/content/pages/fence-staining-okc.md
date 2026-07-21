@@ -24,7 +24,7 @@ warranty: "2-Year Warranty"
   <div class="pillar-card">
     <div class="pillar-icon">🏡</div>
     <h3>Boost Property Value</h3>
-    <p>Outdoor living gets more popular every year. OKC buyers and owners want outdoor spaces they’ll love — a freshly stained fence delivers.</p>
+    <p>Outdoor living gets more popular every year. OKC buyers and owners want outdoor spaces they’ll love, and a freshly stained fence delivers.</p>
   </div>
 </div>
 
@@ -112,7 +112,7 @@ Contact us today to speak to experienced, local,  professional painters in the 
 <details class="faq-item">
   <summary>How long will the fence stain last?</summary>
   <div>
-    <p>Wood Defender recommends staining every 2–4 years — that means restaining before you see major fading or graying. Semi-transparent stains often last a year or more longer than transparent stains.</p>
+    <p>Wood Defender recommends staining every 2–4 years. That means restaining before you see major fading or graying. Semi-transparent stains often last a year or more longer than transparent stains.</p>
   </div>
 </details>
 
@@ -285,7 +285,7 @@ Semi-transparent stains are also great for covering more of the imperfections in
     <img src="/uploads/2023/02/DSC05338-2.webp" alt="What Is the Best Outdoor Stain for OKC?">
     <div class="blog-card-body">
       <h4><a href="/what-is-the-best-outdoor-stain-for-okc/">What Is the Best Outdoor Stain for OKC?</a></h4>
-      <p>We&rsquo;ve tried many fence and deck stains across the metro &mdash; here&rsquo;s what holds up.</p>
+      <p>We&rsquo;ve tried many fence and deck stains across the metro. Here&rsquo;s what holds up.</p>
       <a class="blog-more" href="/what-is-the-best-outdoor-stain-for-okc/">Read more &rarr;</a>
     </div>
   </div>
@@ -293,7 +293,7 @@ Semi-transparent stains are also great for covering more of the imperfections in
     <img src="/uploads/2023/01/Before-Vs.-After.webp" alt="Can a Gray Fence or Deck Be Stained?">
     <div class="blog-card-body">
       <h4><a href="/can-a-gray-fence-or-deck-be-stained/">Can a Gray Fence or Deck Be Stained?</a></h4>
-      <p>Yes &mdash; older gray wood can be restored and transformed with the right process.</p>
+      <p>Yes. Older gray wood can be restored and transformed with the right process.</p>
       <a class="blog-more" href="/can-a-gray-fence-or-deck-be-stained/">Read more &rarr;</a>
     </div>
   </div>

@@ -8,7 +8,7 @@ draft: false
 warranty: "2-Year Warranty"
 ---
 
-Picking the right fence stain color can make your backyard feel luxurious. We offer multiple Wood Defender fence stain colors to match your style and your home’s architecture. Because stain highlights the wood’s natural grain, color varies a bit across different woods — browse our most popular in-stock colors below.
+Picking the right fence stain color can make your backyard feel luxurious. We offer multiple Wood Defender fence stain colors to match your style and your home’s architecture. Because stain highlights the wood’s natural grain, color varies a bit across different woods. Browse our most popular in-stock colors below.
 
 <a class="prose-cta" href="/contact-us/">Get a Free Estimate →</a>
 
@@ -57,7 +57,7 @@ Transparent stains are lightly pigmented and show off the most of the underlying
 
 ## Semi-Transparent Fence Stain Colors
 
-Semi-transparent stains use stronger pigments — they cover more of the wood underneath and give a bolder color. Especially useful for older fences or imperfections you want to hide.
+Semi-transparent stains use stronger pigments: they cover more of the wood underneath and give a bolder color. Especially useful for older fences or imperfections you want to hide.
 
 - Great for older fences or restains
 - Stronger pigments for a bolder color

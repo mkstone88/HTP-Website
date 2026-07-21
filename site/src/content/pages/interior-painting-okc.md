@@ -36,7 +36,7 @@ As local Oklahoma City homeowners ourselves, we understand those concerns. Our i
     <h3>Protect Your Home</h3>
     <ul>
       <li>We cover or move anything in the areas being painted before we start.</li>
-      <li>We keep an orderly job site and clean up when we’re done — fresh paint should be the only trace we were there.</li>
+      <li>We keep an orderly job site and clean up when we’re done. Fresh paint should be the only trace we were there.</li>
     </ul>
   </div>
   <div class="pillar-card">
@@ -62,7 +62,7 @@ As local Oklahoma City homeowners ourselves, we understand those concerns. Our i
   </div>
   <div class="benefit-card">
     <h4>Protect your investment</h4>
-    <p>Quality paint protects walls, trim, and cabinets from everyday wear, scuffs, moisture, and aging — helping you avoid bigger repairs down the road.</p>
+    <p>Quality paint protects walls, trim, and cabinets from everyday wear, scuffs, moisture, and aging, helping you avoid bigger repairs down the road.</p>
   </div>
   <div class="benefit-card">
     <h4>A clear, simple process</h4>
@@ -70,16 +70,16 @@ As local Oklahoma City homeowners ourselves, we understand those concerns. Our i
   </div>
   <div class="benefit-card">
     <h4>Transparent pricing</h4>
-    <p>Most interior projects run <strong>$5–$10 per sq. ft.</strong>, depending on room size, prep, and colors. We walk you through every line item — no surprises.</p>
+    <p>Most interior projects run <strong>$5–$10 per sq. ft.</strong>, depending on room size, prep, and colors. We walk you through every line item, no surprises.</p>
   </div>
 </div>
 
 ### What We Paint Inside Your Home
 
 <div class="mini-grid">
-  <div class="mini-card"><h4>Walls &amp; Ceilings</h4><p>Smooth, even coats for clean, updated spaces — perfect for refreshing tired rooms or changing a home’s whole mood.</p></div>
+  <div class="mini-card"><h4>Walls &amp; Ceilings</h4><p>Smooth, even coats for clean, updated spaces, perfect for refreshing tired rooms or changing a home’s whole mood.</p></div>
   <div class="mini-card"><h4>Trim, Baseboards &amp; Doors</h4><p>These details make a huge difference. Crisp, clean trim and smooth doors elevate the entire room.</p></div>
-  <div class="mini-card"><h4>Cabinet Painting</h4><p>Smooth finishes with proper prep, sanding, priming, and durable enamel — great for kitchens, baths, and laundry rooms.</p></div>
+  <div class="mini-card"><h4>Cabinet Painting</h4><p>Smooth finishes with proper prep, sanding, priming, and durable enamel. Great for kitchens, baths, and laundry rooms.</p></div>
   <div class="mini-card"><h4>Drywall Repair &amp; Texture</h4><p>Dents, cracks, nail pops, and patchwork repaired before paint goes on, for a flawless final look.</p></div>
   <div class="mini-card"><h4>Popcorn Ceiling Removal</h4><p>Safely removed or repaired for a more updated, modern interior.</p></div>
   <div class="mini-card"><h4>Accent Walls</h4><p>A pop of color that reflects your style without overwhelming the space.</p></div>
@@ -112,23 +112,23 @@ As local Oklahoma City homeowners ourselves, we understand those concerns. Our i
   <div class="phase">
     <div class="phase-num">1</div>
     <h3>Schedule Your Estimate</h3>
-    <p><strong>First Conversation</strong> — We’ll talk through what you’re looking for, answer questions, and schedule a visit that works for you.</p>
-    <p><strong>In-Home Visit</strong> — Your consultant looks at the areas, discusses options, and gives a detailed estimate right then — no waiting.</p>
-    <p><strong>Color Help</strong> — Overwhelmed by choices? We offer a custom color consultation and samples.</p>
+    <p><strong>First Conversation</strong>. We’ll talk through what you’re looking for, answer questions, and schedule a visit that works for you.</p>
+    <p><strong>In-Home Visit</strong>. Your consultant looks at the areas, discusses options, and gives a detailed estimate right then, no waiting.</p>
+    <p><strong>Color Help</strong>. Overwhelmed by choices? We offer a custom color consultation and samples.</p>
   </div>
   <div class="phase">
     <div class="phase-num">2</div>
     <h3>During Your Project</h3>
-    <p><strong>Clear Preparation</strong> — We cover floors, remove switchplates, fill nail holes, and handle any prep needed for a great result.</p>
-    <p><strong>Careful Painting</strong> — Our team works efficiently, pays attention to the details, and keeps you updated throughout.</p>
-    <p><strong>Final Walkthrough</strong> — Together we check every painted area to make sure you’re completely happy.</p>
+    <p><strong>Clear Preparation</strong>. We cover floors, remove switchplates, fill nail holes, and handle any prep needed for a great result.</p>
+    <p><strong>Careful Painting</strong>. Our team works efficiently, pays attention to the details, and keeps you updated throughout.</p>
+    <p><strong>Final Walkthrough</strong>. Together we check every painted area to make sure you’re completely happy.</p>
   </div>
   <div class="phase">
     <div class="phase-num">3</div>
     <h3>After Your Project</h3>
-    <p><strong>Enjoy Your Home</strong> — Relax knowing your home is protected and looks great.</p>
-    <p><strong>Warranty</strong> — We stand by our work and are happy to address any issues that come up.</p>
-    <p><strong>Ongoing Support</strong> — We want to be your painter for life. Reach out anytime about future projects.</p>
+    <p><strong>Enjoy Your Home</strong>. Relax knowing your home is protected and looks great.</p>
+    <p><strong>Warranty</strong>. We stand by our work and are happy to address any issues that come up.</p>
+    <p><strong>Ongoing Support</strong>. We want to be your painter for life. Reach out anytime about future projects.</p>
   </div>
 </div>
 

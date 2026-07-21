@@ -7,15 +7,15 @@ ogImage: "/uploads/2022/08/IMG_0174-min-scaled.jpg"
 draft: false
 ---
 
-To take care of our customers to the best of our ability, Hometown Painting offers a warranty on our painting work. We do our best to get it right every time — but if we ever miss something, we encourage you to call us any time with a question or concern.
+To take care of our customers to the best of our ability, Hometown Painting offers a warranty on our painting work. We do our best to get it right every time, but if we ever miss something, we encourage you to call us any time with a question or concern.
 
 ## What Our Warranty Covers
 
 Every Hometown Painting project comes with a written warranty:
 
-- **Interior & exterior painting — 5-year written warranty** on walls, trim, and exterior surfaces.
-- **Kitchen cabinet painting — 2-year written warranty.**
-- **Fence, deck, pergola & other exterior staining — 2-year written warranty.**
+- **Interior and exterior painting: 5-year written warranty** on walls, trim, and exterior surfaces.
+- **Kitchen cabinet painting: 2-year written warranty.**
+- **Fence, deck, pergola and other exterior staining: 2-year written warranty.**
 
 Your warranty begins on the date the contract is signed, and your contract states your project's exact terms. It covers paint that cracks, chips, or peels during the warranty period, as well as stain that peels or develops mildew during the period.
 
@@ -37,11 +37,11 @@ Your warranty begins on the date the contract is signed, and your contract state
 - Any work where Hometown Painting did not supply the paint materials.
 - Any horizontal surface where water can pool.
 - Moisture damage from improper drainage, gutters, or sprinklers.
-- Paint applied to rotten or unsuitable wood. We’ll point out any rotten wood during the estimate or job — if you choose not to replace it, we can’t warranty paint on that surface.
+- Paint applied to rotten or unsuitable wood. We’ll point out any rotten wood during the estimate or job. If you choose not to replace it, we can’t warranty paint on that surface.
 
 ## Have a Warranty Question?
 
-We’re always happy to help — reach out any time.
+We’re always happy to help. Reach out any time.
 
 <a class="prose-cta" href="/contact-us/">Contact Us →</a>
 

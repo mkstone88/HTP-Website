@@ -33,7 +33,7 @@ The color chosen was a beautiful shade of white with dark trim that complemented
 
 One of the biggest challenges of the project was the tall steeple on top of the church. Hometown Painting LLC wondered how they would paint it without risking their safety. However, they were pleasantly surprised to find that the fiberglass steeple only needed a power wash to look brand new. This saved time and ensured that the steeple was properly cleaned without any safety risks.
 
-When we were finished, the Victory Baptist Church looked brand new, with a fresh coat of paint that highlighted its traditional architecture. The new paint was not only aesthetically pleasing, but it also protected the building from further damage, ensuring that it would last for many years to come.
+When we were finished, the Victory Baptist Church looked brand new, with a fresh coat of paint that highlighted its traditional architecture. The new paint looked great and also protected the building from further damage, so it would last for many years to come.
 
 ![Yukon Church Paint](/uploads/2023/04/Yukon-Church-Paint.webp "exterior of Victory Baptist Church in Yukon, OK that has just been painted")
 

@@ -51,4 +51,4 @@ These are the key steps for painting stained cabinets.
 
 ## Conclusion
 
-Even though there are pros and cons to painting your kitchen cabinets, it is often a great choice. It can dramatically improve the look of your kitchen without having to pay for replacing your existing cabinets. By taking the time to find a knowledgeable painter — like our [cabinet painting](/cabinet-painting-okc/) team — you can ensure that you will have a durable and beautiful finish on your cabinets that will last for years to come.
+Even though there are pros and cons to painting your kitchen cabinets, it is often a great choice. It can dramatically improve the look of your kitchen without having to pay for replacing your existing cabinets. By taking the time to find a knowledgeable painter (like our [cabinet painting](/cabinet-painting-okc/) team) you can ensure that you will have a durable and beautiful finish on your cabinets that will last for years to come.

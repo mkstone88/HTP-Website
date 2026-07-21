@@ -18,9 +18,9 @@ Your deck is one of the most valuable outdoor investments in your home. Whether 
 
 ## Why Professional Deck Staining Matters
 
-Your deck faces constant UV rays, moisture, temperature swings, and foot traffic. Without protection, wood deteriorates fast — leading to costly repairs or full replacement.
+Your deck faces constant UV rays, moisture, temperature swings, and foot traffic. Without protection, wood deteriorates fast, leading to costly repairs or full replacement.
 
-A quality stain penetrates the grain and acts as a protective barrier, preventing the water penetration that causes rot, mold, and mildew. Unlike paint, which sits on the surface and peels, stain lets the wood breathe while providing deep, lasting protection — which is why the pros recommend it for most decks.
+A quality stain penetrates the grain and acts as a protective barrier, preventing the water penetration that causes rot, mold, and mildew. Unlike paint, which sits on the surface and peels, stain lets the wood breathe while providing deep, lasting protection, which is why the pros recommend it for most decks.
 
 ## The Benefits of Professional Deck Staining
 
@@ -41,21 +41,21 @@ We follow a meticulous, multi-step process built on years of experience with Okl
   <div class="phase">
     <div class="phase-num">1</div>
     <h3>Inspect &amp; Prepare</h3>
-    <p><strong>Inspection</strong> — We assess the wood’s integrity and flag any damage, rot, or structural issues before we begin.</p>
-    <p><strong>Cleaning</strong> — Professional-grade washing removes dirt, algae, mold, and old stain so the new finish adheres.</p>
-    <p><strong>Sanding</strong> — We sand away weathered fibers for a smooth surface and even stain penetration.</p>
+    <p><strong>Inspection</strong>. We assess the wood’s integrity and flag any damage, rot, or structural issues before we begin.</p>
+    <p><strong>Cleaning</strong>. Professional-grade washing removes dirt, algae, mold, and old stain so the new finish adheres.</p>
+    <p><strong>Sanding</strong>. We sand away weathered fibers for a smooth surface and even stain penetration.</p>
   </div>
   <div class="phase">
     <div class="phase-num">2</div>
     <h3>Repair &amp; Stain</h3>
-    <p><strong>Repairs</strong> — Damaged boards and loose fasteners are fixed so your deck is safe and sound.</p>
-    <p><strong>Stain Application</strong> — Premium stain applied evenly in optimal weather, in multiple coats for depth and durability.</p>
+    <p><strong>Repairs</strong>. Damaged boards and loose fasteners are fixed so your deck is safe and sound.</p>
+    <p><strong>Stain Application</strong>. Premium stain applied evenly in optimal weather, in multiple coats for depth and durability.</p>
   </div>
   <div class="phase">
     <div class="phase-num">3</div>
     <h3>Seal &amp; Finish</h3>
-    <p><strong>Sealing</strong> — A protective sealant adds water and UV resistance for long-lasting protection.</p>
-    <p><strong>Final Walkthrough</strong> — We inspect every detail, clean up completely, and leave your deck ready to enjoy.</p>
+    <p><strong>Sealing</strong>. A protective sealant adds water and UV resistance for long-lasting protection.</p>
+    <p><strong>Final Walkthrough</strong>. We inspect every detail, clean up completely, and leave your deck ready to enjoy.</p>
   </div>
 </div>
 
@@ -66,7 +66,7 @@ We follow a meticulous, multi-step process built on years of experience with Okl
   <div class="mini-card"><h4>Experienced Team</h4><p>Hundreds of completed staining projects throughout the OKC metro.</p></div>
   <div class="mini-card"><h4>Premium Materials</h4><p>Only high-quality, professional-grade stains and sealers.</p></div>
   <div class="mini-card"><h4>Attention to Detail</h4><p>A meticulous approach on every project for flawless results.</p></div>
-  <div class="mini-card"><h4>Transparent Pricing</h4><p>Honest, upfront estimates — no hidden fees or surprises.</p></div>
+  <div class="mini-card"><h4>Transparent Pricing</h4><p>Honest, upfront estimates. No hidden fees or surprises.</p></div>
   <div class="mini-card"><h4>Backed by Warranty</h4><p>Your satisfaction is our priority, and we stand behind our work.</p></div>
 </div>
 
@@ -75,7 +75,7 @@ We follow a meticulous, multi-step process built on years of experience with Okl
 <details class="faq-item"><summary>How often should I stain my deck?</summary><div><p>Most OKC decks should be stained every 2–3 years, depending on weather exposure, foot traffic, and the previous stain. High-traffic areas may need it more often.</p></div></details>
 <details class="faq-item"><summary>What’s the difference between stain and paint for decks?</summary><div><p>Stain penetrates the wood grain and lets it breathe; paint sits on top and can peel or chip. For decks, stain is superior because it lets moisture escape, preventing rot and extending the deck’s life.</p></div></details>
 <details class="faq-item"><summary>How long does the deck staining process take?</summary><div><p>Most residential projects take 2–4 days depending on deck size, condition, and weather. Drying time between coats is essential for the best results.</p></div></details>
-<details class="faq-item"><summary>Can you stain a deck in any weather?</summary><div><p>No — ideal conditions are 50–85°F, low humidity, and no rain for at least 48 hours after application. We watch the weather carefully for optimal curing.</p></div></details>
+<details class="faq-item"><summary>Can you stain a deck in any weather?</summary><div><p>No. Ideal conditions are 50–85°F, low humidity, and no rain for at least 48 hours after application. We watch the weather carefully for optimal curing.</p></div></details>
 <details class="faq-item"><summary>What stain colors are available?</summary><div><p>Everything from natural wood tones to rich, dark finishes. We’ll show you samples and help you pick a color that complements your home.</p></div></details>
 <details class="faq-item"><summary>Is deck sealing necessary after staining?</summary><div><p>It’s not strictly required, but sealing adds protection against water and UV. For maximum longevity we recommend it as part of your service.</p></div></details>
 <details class="faq-item"><summary>How do I maintain my deck after staining?</summary><div><p>Sweep debris, clean spills promptly, and use gentle cleaning with a soft brush and mild soap. Avoid pressure washing for at least a year after staining.</p></div></details>
@@ -89,7 +89,7 @@ We follow a meticulous, multi-step process built on years of experience with Okl
 
 ## More Staining Resources
 
-We stain more than decks — see our [fence staining service](/fence-staining-okc/) and [pergola staining](/pergola-staining-okc/) too. Planning ahead? These guides answer the most common questions:
+We stain more than decks. See our [fence staining service](/fence-staining-okc/) and [pergola staining](/pergola-staining-okc/) too. Planning ahead? These guides answer the most common questions:
 
 - [What is the best outdoor stain for OKC?](/what-is-the-best-outdoor-stain-for-okc/)
 - [How long does outdoor stain last in OKC?](/how-long-does-outdoor-stain-last/)

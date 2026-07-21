@@ -25,13 +25,13 @@ Because of our often-extreme weather, roof leaks are one of the most common sour
 
 If you’ve ever tried to paint over a water stain without addressing it first, you know that the stain will bleed through the paint, ruining your hard work. That’s where primer comes in. Primer is designed to seal in stains and create a smooth surface for the paint to adhere to. Without primer, your paint job will look patchy and uneven.
 
-When it comes to choosing a primer, it’s important to select one that is specifically designed to block stains. Shellac based primers are some of the most effective at sealing even the toughest stains. These primers also tend to dry very quickly which means you can paint over them sooner. The major downside to shellac is its strong odor.
+When choosing a primer, it’s important to select one that is specifically designed to block stains. Shellac based primers are some of the most effective at sealing even the toughest stains. These primers also tend to dry very quickly which means you can paint over them sooner. The major downside to shellac is its strong odor.
 
 If you would prefer a low odor option or are sensitive to smells you can opt for a water-based primer. Make sure that the primer says “stain blocking” or something equivalent on the can. If the stain is really strong it may take a couple of coats to keep the stain from bleeding through. Read more about different primers [here](https://eicoatings.com/wood-primer/latex-vs-oil-vs-shellac-primer/).
 
 Once you’ve applied the primer and it has dried, it’s time to apply the paint. When selecting paint, it’s important to choose a quality brand that is designed for the type of surface you’re painting. For example, if you’re painting a bathroom, you’ll want to choose a paint that is specifically designed to resist moisture and mildew. If you’re painting a high-traffic area, such as a hallway or living room, you’ll want to choose a paint that is durable and easy to clean.
 
-When it comes to painting over water stains, it’s important to use a paint roller rather than a paintbrush. A roller will create a smooth, even finish and help to blend the new paint with the old paint. Be sure to use long, even strokes and avoid going back over areas that have already been painted. Painting some of the area around the stain will help blend the paint with the surrounding wall or ceiling as well.
+When painting over water stains, it’s important to use a paint roller rather than a paintbrush. A roller will create a smooth, even finish and help to blend the new paint with the old paint. Be sure to use long, even strokes and avoid going back over areas that have already been painted. Painting some of the area around the stain will help blend the paint with the surrounding wall or ceiling as well.
 
 ### Trim and Baseboards
 

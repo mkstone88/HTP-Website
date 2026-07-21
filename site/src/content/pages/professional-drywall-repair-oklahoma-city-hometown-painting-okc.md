@@ -1,6 +1,6 @@
 ---
 title: "Drywall Repair in Oklahoma City | Hometown Painting"
-description: "Professional drywall repair in Oklahoma City — holes, cracks, water damage, and texture matching, finished with a seamless paint match."
+description: "Professional drywall repair in Oklahoma City: holes, cracks, water damage, and texture matching, finished with a seamless paint match."
 permalink: "/professional-drywall-repair-oklahoma-city-hometown-painting-okc/"
 h1: "Professional Drywall Repair in Oklahoma City"
 ogImage: "/uploads/2022/08/IMG_0174-min-scaled.jpg"
@@ -9,7 +9,7 @@ draft: false
 
 At Hometown Painting, we know damaged drywall can drag down the whole look of a room. Whether it’s holes from furniture moves, cracks from settling, or water damage from a leak, our experienced team provides comprehensive drywall repair throughout Oklahoma City and the surrounding metro.
 
-As OKC’s trusted painting professionals, we combine years of painting experience with specialized drywall repair techniques to deliver seamless results — then finish the job with a beautiful, color-matched paint finish.
+As OKC’s trusted painting professionals, we combine years of painting experience with specialized drywall repair techniques so repairs disappear, then finish the job with a beautiful, color-matched paint finish.
 
 <a class="prose-cta" href="/contact-us/">Get a Free Estimate →</a>
 
@@ -21,27 +21,27 @@ As OKC’s trusted painting professionals, we combine years of painting experien
   <div class="phase">
     <div class="phase-num">1</div>
     <h3>Assess &amp; Prep</h3>
-    <p><strong>Assessment</strong> — A detailed inspection of the damage and its underlying cause, with your furniture and floors protected.</p>
-    <p><strong>Damage Removal</strong> — Loose or damaged material is removed and clean edges created; larger holes get backing or mesh support.</p>
+    <p><strong>Assessment</strong>. A detailed inspection of the damage and its underlying cause, with your furniture and floors protected.</p>
+    <p><strong>Damage Removal</strong>. Loose or damaged material is removed and clean edges created; larger holes get backing or mesh support.</p>
   </div>
   <div class="phase">
     <div class="phase-num">2</div>
     <h3>Patch &amp; Smooth</h3>
-    <p><strong>Compound Application</strong> — Multiple thin coats of premium joint compound, feathered and blended into the surrounding wall.</p>
-    <p><strong>Precision Sanding</strong> — Progressively finer grits until the repair is perfectly flush and smooth.</p>
+    <p><strong>Compound Application</strong>. Multiple thin coats of premium joint compound, feathered and blended into the surrounding wall.</p>
+    <p><strong>Precision Sanding</strong>. Progressively finer grits until the repair is perfectly flush and smooth.</p>
   </div>
   <div class="phase">
     <div class="phase-num">3</div>
     <h3>Texture &amp; Paint</h3>
-    <p><strong>Texture Matching</strong> — We replicate smooth, knockdown, orange peel, and other textures so the repair disappears.</p>
-    <p><strong>Prime &amp; Paint</strong> — We match your existing color and sheen for a completely invisible finish.</p>
+    <p><strong>Texture Matching</strong>. We replicate smooth, knockdown, orange peel, and other textures so the repair disappears.</p>
+    <p><strong>Prime &amp; Paint</strong>. We match your existing color and sheen for a completely invisible finish.</p>
   </div>
 </div>
 
 ## Types of Drywall Damage We Repair
 
 <div class="mini-grid">
-  <div class="mini-card"><h4>Hole Repairs</h4><p>From small nail holes to large openings from doorknobs or accidents — every size, handled with care.</p></div>
+  <div class="mini-card"><h4>Hole Repairs</h4><p>From small nail holes to large openings from doorknobs or accidents. Every size, handled with care.</p></div>
   <div class="mini-card"><h4>Crack Repair</h4><p>Settlement cracks, stress fractures, and joint separation repaired with flexible compounds that resist future cracking.</p></div>
   <div class="mini-card"><h4>Water Damage</h4><p>Affected sections removed, treated for mold prevention, and rebuilt with new material as needed.</p></div>
   <div class="mini-card"><h4>Texture Damage</h4><p>Scraped or gouged textured surfaces restored to match the original pattern.</p></div>
@@ -61,14 +61,14 @@ As OKC’s trusted painting professionals, we combine years of painting experien
 ## Frequently Asked Questions
 
 <details class="faq-item"><summary>How long does drywall repair take?</summary><div><p>Most small to medium repairs are done in 1–2 days including drying time. Larger projects may take 3–5 days depending on the damage and number of coats.</p></div></details>
-<details class="faq-item"><summary>Can you match my existing wall texture?</summary><div><p>Yes — we replicate virtually any texture, including smooth, knockdown, orange peel, skip trowel, and popcorn.</p></div></details>
+<details class="faq-item"><summary>Can you match my existing wall texture?</summary><div><p>Yes. We replicate virtually any texture, including smooth, knockdown, orange peel, skip trowel, and popcorn.</p></div></details>
 <details class="faq-item"><summary>Do you handle water damage repairs?</summary><div><p>Absolutely. We assess for mold growth, remove affected materials, treat the area, and install new drywall with proper moisture barriers when needed.</p></div></details>
-<details class="faq-item"><summary>Will the repair be visible after painting?</summary><div><p>When done by our pros, repairs are completely invisible once primed and painted — we take great care to blend seamlessly with existing surfaces.</p></div></details>
-<details class="faq-item"><summary>Do you provide free estimates?</summary><div><p>Yes — free, no-obligation estimates for all drywall repair projects in the OKC metro. Contact us to schedule your consultation.</p></div></details>
+<details class="faq-item"><summary>Will the repair be visible after painting?</summary><div><p>When done by our pros, repairs are completely invisible once primed and painted. We take great care to blend with the existing surface.</p></div></details>
+<details class="faq-item"><summary>Do you provide free estimates?</summary><div><p>Yes. Free, no-obligation estimates for all drywall repair projects in the OKC metro. Contact us to schedule your consultation.</p></div></details>
 
 ## Ready to Restore Your Walls?
 
-Contact Hometown Painting today for expert drywall repair that combines quality craftsmanship with competitive pricing.
+Contact Hometown Painting today for expert drywall repair that combines quality craftsmanship with honest, upfront pricing.
 
 <a class="prose-cta" href="/contact-us/">Get a Free Estimate →</a>
 

@@ -26,7 +26,7 @@ The more sun, heat, and storms a home takes, the shorter its paint cycle will be
 **North- and east-facing walls** tend to last the longest because they take less direct sun.
 **South- and west-facing walls** fade and fail sooner.
 
-Storm exposure also matters—wind-driven rain and hail can weaken paint over time, especially on older trim.
+Storm exposure also matters: wind-driven rain and hail can weaken paint over time, especially on older trim.
 
 ### **2. Type of Siding or Building Material**
 
@@ -37,7 +37,7 @@ Some materials naturally hold paint better:
 - **Fiber cement (Hardie):** Usually lasts 8–12 years with proper prep.
 - **Stucco:** Typically 7–10 years, depending on cracks and previous coatings.
 
-If your siding has existing issues—rot, swelling, cracking—it will shorten the cycle significantly.
+If your siding has existing issues (rot, swelling, cracking), it will shorten the cycle significantly.
 
 ### **3. Quality of Previous Prep and Paint**
 

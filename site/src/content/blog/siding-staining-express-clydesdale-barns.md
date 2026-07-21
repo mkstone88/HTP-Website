@@ -40,7 +40,7 @@ We started by thoroughly washing the wood to prepare it. We applied a cleaner be
 
 ![a man spraying bleach on the wood siding to prepare it for stain.](/uploads/2023/02/Bleach-siding.webp)
 
-## Choosing the Best Stain the Cedar Siding
+## Choosing the Best Stain for the Cedar Siding
 
 We chose to use Wood Defender stain for the barn’s cedar siding. Wood Defender is a [high-quality stain](/what-is-the-best-outdoor-stain-for-okc/) that can stand up to harsh weather conditions as we experience in Oklahoma.
 

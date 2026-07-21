@@ -36,7 +36,7 @@ With so many ways to adjust the thickness when spraying, the paint’s thickness
 
 The thickness of a coat of paint is measured in “mils.” Each paint manufacturer will recommend how thick their paint should be applied. This will be the same whether it is sprayed or rolled.  Applying paint with a much thicker coat than is recommended will often lead to sags or runs in the paint.
 
-The better approach to achieve a thicker overall paint job is the use more coats.
+The better approach to achieve a thicker overall paint job is to use more coats.
 
 ## Are There Other Pros/Cons to Spraying
 

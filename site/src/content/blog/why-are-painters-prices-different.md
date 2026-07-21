@@ -35,7 +35,7 @@ Some of the ways a paint job can be different include:
 
 Estimating how long a project will take and how much product will be used is a skill that must be learned. Some painters will be better at this than others. One price may be cheaper than the other because that painter simply underestimated what the job would take. The opposite could be true on the higher-priced quote.
 
-It is a bad thing from the homeowner’s perspective if the painter underestimates the job? In that case, you will simply wind up paying less and the painter learns a hard lesson. While it might be tempting to think that this situation works to your advantage, this may not be the case. The painter will have to resist the urge to hurry the project or use faster but less effective techniques. It is always better for the project to be estimated correctly before it begins.
+Is it a bad thing from the homeowner’s perspective if the painter underestimates the job? In that case, you will simply wind up paying less and the painter learns a hard lesson. While it might be tempting to think that this situation works to your advantage, this may not be the case. The painter will have to resist the urge to hurry the project or use faster but less effective techniques. It is always better for the project to be estimated correctly before it begins.
 
 ### Conclusion
 

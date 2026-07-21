@@ -27,7 +27,7 @@ The second step is to choose the right product – one that’s specifically des
 
 ## **Bondplex: A Game Changer for Painting Metal Siding**
 
-Enter [BondPlex](https://www.sherwin-williams.com/painting-contractors/products/bondplex-water-based-coating). This product from Sherwin Williams is a revelation for painting metal siding. It’s designed to stick well to the original finish, ensuring that the paint job lasts and keeps its vibrant look for a long time. It comes in two finishes, low gloss, and high gloss.
+Enter [BondPlex](https://www.sherwin-williams.com/painting-contractors/products/bondplex-water-based-coating). This product from Sherwin Williams is a revelation for painting metal siding. It’s designed to stick well to the original finish, so the paint job lasts and keeps its color for a long time. It comes in two finishes, low gloss, and high gloss.
 
 One of its best properties is that it acts as a paint and primer in one. It is designed both to stick to the original metal finish and to act as its own topcoat. This eliminated the need to use another product after the primer.
 
@@ -43,6 +43,6 @@ Our client couldn’t have been happier. The once plain metal building was now l
 
 ![A metal shop building in Oklahoma City that has just been painted with Sherwin Williams Bondplex paint.](/uploads/2023/06/IMG_1764.webp)
 
-Painting metal siding doesn’t have to be a headache. With the right products and the team at Hometown Painting, it is possible to have a great-looking shop, shed, or other metal structure.  We’re not just about changing colors, we’re about transforming spaces, and we look forward to doing that for your property.
+Painting metal siding doesn’t have to be a headache. With the right products and the team at Hometown Painting, it is possible to have a great-looking shop, shed, or other metal structure.  We look forward to doing that for your property.
 
 If you would like help with painting your metal building feel free to [request a free estimate](/contact-us/).

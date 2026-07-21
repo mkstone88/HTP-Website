@@ -47,11 +47,11 @@ Keep this in perspective. You’re choosing colors you’ll live with comfortabl
 
 Different architectural styles tend to look best with certain color palettes.
 
-Traditional homes—brick ranches, Colonials, classic two-stories—usually look sharp in understated colors. Soft whites, warm grays, muted beiges, and classic tans age well and don’t fight the home’s structure.
+Traditional homes (brick ranches, Colonials, classic two-stories) usually look sharp in understated colors. Soft whites, warm grays, muted beiges, and classic tans age well and don’t fight the home’s structure.
 
 Craftsman-style homes can handle richer, earthier tones. Mossy greens, deep grays, warm browns, and strong trim contrasts suit the style.
 
-Modern or contemporary homes often work with bolder choices—crisp bright whites, dramatic darks, or unexpected accent colors that highlight clean lines.
+Modern or contemporary homes often work with bolder choices: crisp bright whites, dramatic darks, or unexpected accent colors that highlight clean lines.
 
 One thing to remember for Oklahoma specifically: our sun is strong. Darker colors fade faster here than they might in cloudier climates. If you love a deep charcoal or navy, just know it may need attention sooner than a lighter shade.
 

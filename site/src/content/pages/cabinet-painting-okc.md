@@ -8,7 +8,7 @@ draft: false
 warranty: "2-Year Warranty"
 ---
 
-Refresh your kitchen without the cost and hassle of a full remodel. **Cabinet painting in OKC** is a smart, cost-effective way to transform your space, boost your home’s value, and enjoy a like-new look for your cabinets. At Hometown Painting, our professional cabinet painters deliver a factory finish that rivals new cabinetry — at a fraction of the price.
+Refresh your kitchen without the cost and hassle of a full remodel. **Cabinet painting in OKC** is a smart, cost-effective way to transform your space, boost your home’s value, and enjoy a like-new look for your cabinets. At Hometown Painting, our professional cabinet painters deliver a factory finish that rivals new cabinetry, at a fraction of the price.
 
 <a class="prose-cta" href="/contact-us/">Get a Free Estimate →</a>
 
@@ -20,7 +20,7 @@ Replacing cabinets is expensive, time-consuming, and disruptive. Refinishing you
 
 <div class="benefit-grid">
   <div class="benefit-card"><h4>Save thousands</h4><p>Painting typically costs 50–70% less than a full cabinet replacement.</p></div>
-  <div class="benefit-card"><h4>Faster &amp; less mess</h4><p>Most kitchens are done in days — no demolition, no weeks-long remodel.</p></div>
+  <div class="benefit-card"><h4>Faster &amp; less mess</h4><p>Most kitchens are done in days: no demolition, no weeks-long remodel.</p></div>
   <div class="benefit-card"><h4>A custom, modern look</h4><p>Any color or finish you like, matched to your style and décor.</p></div>
   <div class="benefit-card"><h4>Eco-friendly</h4><p>Reusing your existing cabinetry keeps usable materials out of the landfill.</p></div>
 </div>
@@ -31,7 +31,7 @@ Replacing cabinets is expensive, time-consuming, and disruptive. Refinishing you
   <div class="compare-card compare-card--win">
     <h4>Cabinet Painting</h4>
     <div class="compare-price">$5,000–$10,000</div>
-    <p>A factory-smooth, custom finish on your existing cabinets — done in days, not weeks.</p>
+    <p>A factory-smooth, custom finish on your existing cabinets, done in days, not weeks.</p>
   </div>
   <div class="compare-card">
     <h4>New Cabinets</h4>
@@ -50,29 +50,29 @@ We follow a proven, step-by-step process for a flawless, durable finish:
   <div class="phase">
     <div class="phase-num">1</div>
     <h3>Prep &amp; Plan</h3>
-    <p><strong>Consultation &amp; Color</strong> — We help you choose from a wide range of colors to match your style.</p>
-    <p><strong>Preparation</strong> — We remove doors and hardware and protect your counters and floors.</p>
-    <p><strong>Cleaning</strong> — Every surface is degreased so the finish bonds properly.</p>
+    <p><strong>Consultation &amp; Color</strong>. We help you choose from a wide range of colors to match your style.</p>
+    <p><strong>Preparation</strong>. We remove doors and hardware and protect your counters and floors.</p>
+    <p><strong>Cleaning</strong>. Every surface is degreased so the finish bonds properly.</p>
   </div>
   <div class="phase">
     <div class="phase-num">2</div>
     <h3>Sand, Prime &amp; Paint</h3>
-    <p><strong>Sanding</strong> — We sand all surfaces to create a smooth base for the primer.</p>
-    <p><strong>Priming</strong> — A high-quality primer blocks stains and creates a solid foundation.</p>
-    <p><strong>Painting</strong> — Multiple coats of professional-grade product for a smooth, factory finish.</p>
+    <p><strong>Sanding</strong>. We sand all surfaces to create a smooth base for the primer.</p>
+    <p><strong>Priming</strong>. A high-quality primer blocks stains and creates a solid foundation.</p>
+    <p><strong>Painting</strong>. Multiple coats of professional-grade product for a smooth, factory finish.</p>
   </div>
   <div class="phase">
     <div class="phase-num">3</div>
     <h3>Reinstall &amp; Inspect</h3>
-    <p><strong>Finishing Touches</strong> — We reinstall doors and hardware and inspect every detail.</p>
-    <p><strong>Clean Up</strong> — We leave your kitchen cleaner than we found it.</p>
-    <p><strong>Walkthrough</strong> — Together we make sure you love the result.</p>
+    <p><strong>Finishing Touches</strong>. We reinstall doors and hardware and inspect every detail.</p>
+    <p><strong>Clean Up</strong>. We leave your kitchen cleaner than we found it.</p>
+    <p><strong>Walkthrough</strong>. Together we make sure you love the result.</p>
   </div>
 </div>
 
 ## Our Cabinet Paint Warranty
 
-We stand behind our work with a written **2-year cabinet paint warranty** covering peeling, cracking, and fading. If anything comes up, our team will make it right — guaranteed.
+We stand behind our work with a written **2-year cabinet paint warranty** covering peeling, cracking, and fading. If anything comes up, our team will make it right, guaranteed.
 
 ## Frequently Asked Questions
 
@@ -88,7 +88,7 @@ We stand behind our work with a written **2-year cabinet paint warranty** coveri
 
 <details class="faq-item">
   <summary>Is cabinet painting cheaper than replacing cabinets?</summary>
-  <div><p>Yes — painting typically costs 50–70% less than full replacement.</p></div>
+  <div><p>Yes. Painting typically costs 50–70% less than full replacement.</p></div>
 </details>
 
 <details class="faq-item">

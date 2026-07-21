@@ -17,7 +17,7 @@ Below is a clear, homeowner-friendly look at what professional exterior preparat
 
 ## **Why Prep Work Matters in Oklahoma’s Climate**
 
-Oklahoma weather is hard on paint—sun, wind, dust, humidity, and storms all take a toll. Good prep creates a clean, stable, sealed surface that allows paint to bond properly and last longer. A rushed or skipped prep process almost always leads to premature failure, especially in areas with strong UV exposure or wind-driven rain.
+Oklahoma weather is hard on paint: sun, wind, dust, humidity, and storms all take a toll. Good prep creates a clean, stable, sealed surface that allows paint to bond properly and last longer. A rushed or skipped prep process almost always leads to premature failure, especially in areas with strong UV exposure or wind-driven rain.
 
 Professional prep work is about giving the coating the best possible starting point.
 
@@ -32,7 +32,7 @@ Before anything else, the entire exterior needs to be washed to remove:
 - Loose debris
 - Pollutants and airborne grime
 
-In Oklahoma, dust storms and wind make this especially important. Paint cannot bond to a dirty or chalky surface. Washing also helps uncover hidden problems—soft spots in wood, peeling areas, or damaged caulk that wasn’t noticeable before.
+In Oklahoma, dust storms and wind make this especially important. Paint cannot bond to a dirty or chalky surface. Washing also helps uncover hidden problems: soft spots in wood, peeling areas, or damaged caulk that wasn’t noticeable before.
 
 Professionals choose pressure or soft washing depending on the siding type. For example, delicate surfaces often gets a gentler wash to avoid damage, while woodwork, brick or composite siding can handle more pressure.
 
@@ -76,7 +76,7 @@ High-quality, paintable exterior caulk expands and contracts with the weather. W
 
 ## **5. Priming Bare Wood and Problem Areas**
 
-Primer is just as important as paint—sometimes more. Its job is to seal, stabilize, and prepare surfaces so the topcoat can bond tightly.
+Primer is just as important as paint, sometimes more. Its job is to seal, stabilize, and prepare surfaces so the topcoat can bond tightly.
 
 Professionals prime:
 
@@ -100,7 +100,7 @@ Surface preparation often reveals underlying issues, especially in older homes. 
 - Damaged fascia
 - Holes from insects or past repairs
 
-Good painters will either repair the damage or recommend replacement before painting. Painting over damaged wood doesn’t solve anything—it just hides the problem temporarily.
+Good painters will either repair the damage or recommend replacement before painting. Painting over damaged wood doesn’t solve anything. It just hides the problem temporarily.
 
 Trim replacements also ensure that the finished project looks clean and updated.
 
@@ -115,7 +115,7 @@ Professional prep includes careful masking to keep your home and landscaping cle
 - Covering shrubs or plants
 - Moving outdoor furniture
 
-Good masking helps keep lines crisp and prevents overspray or drips. It’s not just about the finished look—it’s part of respecting your home and property.
+Good masking helps keep lines crisp and prevents overspray or drips. It’s not just about the finished look. It’s part of respecting your home and property.
 
 ## **8. Setting the Stage for a Smooth Painting Process**
 
@@ -141,7 +141,7 @@ Good prep work takes time, but it saves you money long term by preventing premat
 
 ## **Why Good Prep Makes Such a Big Difference**
 
-A professional coat of paint is only as good as the surface underneath it. Skipping steps might save a few hours up front, but it almost always shortens the lifespan of the paint job—sometimes by several years.
+A professional coat of paint is only as good as the surface underneath it. Skipping steps might save a few hours up front, but it almost always shortens the lifespan of the paint job, sometimes by several years.
 
 When you invest in proper prep work, you’re protecting:
 

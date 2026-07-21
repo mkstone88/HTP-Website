@@ -20,11 +20,11 @@ We handle every detail from careful prep and color consultation to clean, effici
 ## Why Choose Hometown Painting?
 
 <div class="mini-grid">
-  <div class="mini-card"><h4>Local &amp; Family-Owned</h4><p>We’re your Oklahoma City neighbors — not a franchise.</p></div>
+  <div class="mini-card"><h4>Local &amp; Family-Owned</h4><p>We’re your Oklahoma City neighbors, not a franchise.</p></div>
   <div class="mini-card"><h4>Professional Craftsmanship</h4><p>Experienced crews who take pride in every detail.</p></div>
   <div class="mini-card"><h4>5-Year Warranty</h4><p>Every project includes a written warranty for peace of mind.</p></div>
   <div class="mini-card"><h4>Hassle-Free Process</h4><p>Clear estimates, on-time scheduling, and constant communication.</p></div>
-  <div class="mini-card"><h4>Premium Materials</h4><p>We use premium Sherwin-Williams products — with Benjamin Moore available on request.</p></div>
+  <div class="mini-card"><h4>Premium Materials</h4><p>We use premium Sherwin-Williams products, with Benjamin Moore available on request.</p></div>
   <div class="mini-card"><h4>Built for OKC Weather</h4><p>A long-lasting paint job designed for Oklahoma City’s tough climate.</p></div>
 </div>
 
@@ -41,7 +41,7 @@ We handle every detail from careful prep and color consultation to clean, effici
 
 ![Freshly painted stone and brick home exterior in the OKC metro](/uploads/2023/09/608E.VictoriaTerrace-3.webp)
 
-A quality exterior paint job protects your home from sun, rain, and wind while boosting curb appeal. Our OKC exterior painters deliver durable results with careful preparation and top-grade Sherwin-Williams paint. We paint siding, brick, trim, shutters, doors, and outdoor structures — and can even fix minor wood rot.
+A quality exterior paint job protects your home from sun, rain, and wind while boosting curb appeal. Our OKC exterior painters deliver durable results with careful preparation and top-grade Sherwin-Williams paint. We paint siding, brick, trim, shutters, doors, and outdoor structures. We can even fix minor wood rot.
 
 ### Why Our Exterior Painting Stands Out
 
@@ -52,7 +52,7 @@ A quality exterior paint job protects your home from sun, rain, and wind while b
   <div class="benefit-card"><h4>Peace of mind</h4><p>We’re fully insured, offer written warranties, and only hire vetted painters.</p></div>
 </div>
 
-<p><strong>Transparent pricing:</strong> a complete exterior repaint usually runs $4,000–$10,000, depending on size and complexity — and we walk you through every line item.</p>
+<p><strong>Transparent pricing:</strong> a complete exterior repaint usually runs $4,000–$10,000, depending on size and complexity, and we walk you through every line item.</p>
 
 ### Our Exterior Services Include
 
@@ -82,23 +82,23 @@ A quality exterior paint job protects your home from sun, rain, and wind while b
   <div class="phase">
     <div class="phase-num">1</div>
     <h3>Schedule Your Estimate</h3>
-    <p><strong>First Conversation</strong> — We’ll talk through what you’re looking for, answer questions, and schedule a visit that works for you.</p>
-    <p><strong>In-Home Visit</strong> — Your consultant looks at the areas, discusses options, and gives a detailed estimate on the spot.</p>
-    <p><strong>Preparing</strong> — Once the details and budget are set, we help you get the home ready and lock in scheduling and colors.</p>
+    <p><strong>First Conversation</strong>. We’ll talk through what you’re looking for, answer questions, and schedule a visit that works for you.</p>
+    <p><strong>In-Home Visit</strong>. Your consultant looks at the areas, discusses options, and gives a detailed estimate on the spot.</p>
+    <p><strong>Preparing</strong>. Once the details and budget are set, we help you get the home ready and lock in scheduling and colors.</p>
   </div>
   <div class="phase">
     <div class="phase-num">2</div>
     <h3>During Your Project</h3>
-    <p><strong>Clear Preparation</strong> — We explain what to expect, then properly prepare every surface before painting begins.</p>
-    <p><strong>Careful Painting</strong> — Our team works efficiently, pays attention to the details, and keeps you updated throughout.</p>
-    <p><strong>Final Walkthrough</strong> — Together we check every area and take care of any touch-ups quickly.</p>
+    <p><strong>Clear Preparation</strong>. We explain what to expect, then properly prepare every surface before painting begins.</p>
+    <p><strong>Careful Painting</strong>. Our team works efficiently, pays attention to the details, and keeps you updated throughout.</p>
+    <p><strong>Final Walkthrough</strong>. Together we check every area and take care of any touch-ups quickly.</p>
   </div>
   <div class="phase">
     <div class="phase-num">3</div>
     <h3>After Your Project</h3>
-    <p><strong>Enjoy Your Home</strong> — Relax knowing your home is protected and looks great.</p>
-    <p><strong>Warranty</strong> — We stand by our work and are happy to address any issues that come up.</p>
-    <p><strong>Ongoing Support</strong> — We want to be your painter for life. Reach out anytime about future projects.</p>
+    <p><strong>Enjoy Your Home</strong>. Relax knowing your home is protected and looks great.</p>
+    <p><strong>Warranty</strong>. We stand by our work and are happy to address any issues that come up.</p>
+    <p><strong>Ongoing Support</strong>. We want to be your painter for life. Reach out anytime about future projects.</p>
   </div>
 </div>
 
@@ -149,7 +149,7 @@ Or give us a call: (405) 400-1619
 <details class="faq-item">
   <summary>How much does it cost to paint a house exterior in OKC?</summary>
   <div>
-    <p>Typical range: $4,000–$10,000 across the metro — smaller or older homes can come in below that, and larger custom homes above. Where you live matters too (larger Edmond homes trend higher; established Bethany homes a bit lower). Several factors affect the price:</p>
+    <p>Typical range: $4,000–$10,000 across the metro. Smaller or older homes can come in below that, and larger custom homes above. Where you live matters too (larger Edmond homes trend higher; established Bethany homes a bit lower). Several factors affect the price:</p>
     <ul>
       <li>The size of the home</li>
       <li>The amount of surface to be painted</li>
@@ -182,7 +182,7 @@ Or give us a call: (405) 400-1619
 <details class="faq-item">
   <summary>How long does it take to paint the exterior of a house?</summary>
   <div>
-    <p>Anywhere from one day to a week depending on size and scope — most of our exterior projects wrap in 2–4 days. We take the time to do proper prep so your paint job lasts, while working efficiently so you can enjoy your home sooner.</p>
+    <p>Anywhere from one day to a week depending on size and scope. Most of our exterior projects wrap in 2–4 days. We take the time to do proper prep so your paint job lasts, while working efficiently so you can enjoy your home sooner.</p>
   </div>
 </details>
 
@@ -216,7 +216,7 @@ Or give us a call: (405) 400-1619
     <img src="/uploads/2023/09/9409SW32ndTer-Edited-1.webp" alt="What's included in professional exterior prep work">
     <div class="blog-card-body">
       <h4><a href="/exterior-painting-prep-work-oklahoma-city/">What Professional Prep Work Includes</a></h4>
-      <p>Washing, scraping, sanding, priming, and caulking — the steps that make it last.</p>
+      <p>Washing, scraping, sanding, priming, and caulking: the steps that make it last.</p>
       <a class="blog-more" href="/exterior-painting-prep-work-oklahoma-city/">Read more &rarr;</a>
     </div>
   </div>
@@ -224,7 +224,7 @@ Or give us a call: (405) 400-1619
     <img src="/uploads/2025/05/13521StonedaleDr-3-scaled.webp" alt="Why exterior paint fades, peels, and cracks in Oklahoma">
     <div class="blog-card-body">
       <h4><a href="/why-exterior-paint-fades-peels-cracks-oklahoma/">Why Paint Fades, Peels &amp; Cracks Here</a></h4>
-      <p>What Oklahoma heat, sun, wind, and storms do to a paint job — and how to beat it.</p>
+      <p>What Oklahoma heat, sun, wind, and storms do to a paint job, and how to beat it.</p>
       <a class="blog-more" href="/why-exterior-paint-fades-peels-cracks-oklahoma/">Read more &rarr;</a>
     </div>
   </div>

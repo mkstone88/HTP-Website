@@ -11,7 +11,7 @@ date: "2024-07-17"
 
 When Ashley moved into her charming Edmond home, she was captivated by the secluded neighborhood and its sense of community. However, she envisioned something more. She wanted to modernize its exterior while preserving the cozy, inviting atmosphere that made it feel like home. Inspired by the timeless appeal of lime-washed exteriors, Ashley set out to transform her house to showcase its rustic elegance.
 
-Lime wash on exterior brick is a way to quickly transform the look and feel of any home. It infuses the exterior with a rustic charm that perfectly complements the aesthetic of other homes in Edmond. The result is a blend of old-world beauty and contemporary appeal, creating an exterior that stands out while fitting in harmoniously with its surroundings.
+Lime wash on exterior brick is a way to quickly transform the look and feel of any home. It infuses the exterior with a rustic charm that perfectly complements the aesthetic of other homes in Edmond. The result is a blend of old-world beauty and contemporary appeal, so the home stands out while still fitting in with its surroundings.
 
 To achieve this vision, she decided to add a solid lime wash to all of the exterior brick and stone on her home.
 
@@ -42,11 +42,11 @@ The lime wash process began with some simple steps to make sure the look was exa
 
 ![20240521 090220](/uploads/2024/07/20240521_090220.webp)
 
-We made sure to use the best lime wash product available in our area. After thorough research, we chose Romabio, a true crushed limestone product imported from Italy. Romabio is renowned for its superior quality and authenticity, bringing a touch of Italian craftsmanship to our projects. This all-natural product is designed to stand the test of time, ensuring that Ashley’s house will maintain its beautiful appearance for decades to come.
+We made sure to use the best lime wash product available in our area. After thorough research, we chose Romabio, a true crushed limestone product imported from Italy. Romabio is known for its quality and authenticity, with a real touch of Italian craftsmanship. This all-natural product is built to last, so Ashley’s house will keep its beautiful appearance for decades to come.
 
-Romabio lime wash is made from the finest Italian limestone, finely crushed to create a smooth and consistent finish. What sets Romabio apart is its incredible durability and breathability, which allows the walls to breathe while protecting them from moisture and decay. This means that the lime wash will age gracefully, developing a charming patina that enhances the character of the home over the years.
+Romabio lime wash is made from the finest Italian limestone, finely crushed to create a smooth and consistent finish. What sets Romabio apart is its incredible durability and breathability, which allows the walls to breathe while protecting them from moisture and decay. This means the lime wash will age gracefully and develop a charming patina that adds character to the home over the years.
 
-In addition to its practical benefits, Romabio lime wash offers great aesthetic appeal. Its soft, natural color palette adds a timeless elegance to any home. Whether you’re aiming for a rustic, weathered look or a more polished, refined finish, Romabio delivers stunning results that elevate the look of your home.
+In addition to its practical benefits, Romabio lime wash offers great aesthetic appeal. Its soft, natural color palette adds a timeless elegance to any home. Whether you’re aiming for a rustic, weathered look or a more polished, refined finish, Romabio delivers beautiful results that refresh the look of your home.
 
 ## Final Results!
 

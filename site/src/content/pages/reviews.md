@@ -1,6 +1,6 @@
 ---
 title: "Reviews | House Painters In The OKC Metro"
-description: "See what OKC homeowners say about Hometown Painting — 4.9 stars across 130+ Google reviews — and share your own experience."
+description: "See what OKC homeowners say about Hometown Painting: 4.9 stars across 130+ Google reviews. Share your own experience."
 permalink: "/reviews/"
 h1: "What OKC Homeowners Say About Hometown Painting"
 ogImage: "/uploads/2022/08/paint-owners-cropped-scaled.jpg"

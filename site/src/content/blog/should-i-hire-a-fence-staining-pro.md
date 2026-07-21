@@ -30,7 +30,7 @@ As a pro fence stainer, I come across fences like the one above all the time and
 
 There are many different stain products on the market today. There are water-based or oil-based stains. Also, stains vary in opacity from clear all the way to a solid color resembling paint. Some stains form a film as they dry and some do not. Some stains never actually dry.
 
-There is no one-size-fits-all approach when it comes to fence staining. Each product is useful in different situations. A pro can recommend the best product to use for your fence.
+There is no one-size-fits-all approach to fence staining. Each product is useful in different situations. A pro can recommend the best product to use for your fence.
 
 This is especially true in situations where the fence is older and hasn’t been maintained. When making a plan to stain an older fence there are important questions that should be answered.
 

@@ -7,7 +7,7 @@ ogImage: "/uploads/2023/11/20231006_074510.jpg"
 draft: false
 ---
 
-Keeping Mesta Park beautiful — thoughtful interior and exterior painting for the historic homes of one of OKC’s most charming neighborhoods.
+Keeping Mesta Park beautiful: thoughtful interior and exterior painting for the historic homes of one of OKC’s most charming neighborhoods.
 
 <a class="prose-cta" href="/contact-us/">Request a Free Estimate →</a>
 
@@ -53,7 +53,7 @@ Mesta Park's craftsman bungalows and prairie-style homes are some of the most di
 
 ## About Hometown Painting
 
-When I started my career in painting, my grandfather gave me his old paint sprayer. It wasn’t much to look at, but it helped me paint a lot of houses — the perfect symbol of him passing the torch to me. I admire the craftsmanship and integrity of his generation of painters, and I want to continue that tradition. That kindred spirit with the past is why Hometown Painting fits so well with a neighborhood like Mesta Park, which has so much history.
+When I started my career in painting, my grandfather gave me his old paint sprayer. It wasn’t much to look at, but it helped me paint a lot of houses, the perfect symbol of him passing the torch to me. I admire the craftsmanship and integrity of his generation of painters, and I want to continue that tradition. That kindred spirit with the past is why Hometown Painting fits so well with a neighborhood like Mesta Park, which has so much history.
 
 We’re proud to be a local, family-owned company. My wife, Rachel, has played a vital role in making Hometown Painting what it is today. [Learn more about us here](/professional-painters-okc/).
 
@@ -63,8 +63,8 @@ We’re proud to be a local, family-owned company. My wife, Rachel, has played a
 
 ## Mesta Park Painting FAQ
 
-<details class="faq-item"><summary>Do you have experience with historic Mesta Park homes?</summary><div><p>Yes. Mesta Park’s early-1900s homes — original wood siding, ornamental trim, and decades of layered paint — need more careful prep than a modern build. We scope each home individually and protect the character that makes these houses special.</p></div></details>
-<details class="faq-item"><summary>What does it cost to paint a historic home in Mesta Park?</summary><div><p>Because every historic home is different — size, height, trim detail, and how much prep the old paint needs — Mesta Park projects are quoted individually rather than off a flat rate. Exterior repaints here generally start around $6,000 and rise with the home’s size and detail. You’ll get a firm, itemized number at your free estimate — never a surprise later.</p></div></details>
+<details class="faq-item"><summary>Do you have experience with historic Mesta Park homes?</summary><div><p>Yes. Mesta Park’s early-1900s homes (original wood siding, ornamental trim, and decades of layered paint) need more careful prep than a modern build. We scope each home individually and protect the character that makes these houses special.</p></div></details>
+<details class="faq-item"><summary>What does it cost to paint a historic home in Mesta Park?</summary><div><p>Because every historic home is different (size, height, trim detail, and how much prep the old paint needs), Mesta Park projects are quoted individually rather than off a flat rate. Exterior repaints here generally start around $6,000 and rise with the home’s size and detail. You’ll get a firm, itemized number at your free estimate, never a surprise later.</p></div></details>
 
 ## Ready for a Free Estimate in Mesta Park?
 

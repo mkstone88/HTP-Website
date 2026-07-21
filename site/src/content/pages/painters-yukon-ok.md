@@ -7,7 +7,7 @@ ogImage: "/uploads/2023/09/608E.VictoriaTerrace-1-1.jpg"
 draft: false
 ---
 
-New paint makes your home fresh and inviting. Hometown Painting offers interior painting, exterior painting, and fence staining in Yukon, OK — with free estimates and military and first-responder discounts.
+New paint makes your home fresh and inviting. Hometown Painting offers interior painting, exterior painting, and fence staining in Yukon, OK, with free estimates and military and first-responder discounts.
 
 <a class="prose-cta" href="/contact-us/">Request a Free Estimate →</a>
 
@@ -23,7 +23,7 @@ New paint makes your home fresh and inviting. Hometown Painting offers interior 
 
 ## Yukon, OK Painters
 
-We know Yukon is a place where tradition and family are valued. We’re proud to be a family-owned and operated company — my grandfather was a painter and passed his skills and inspiration to me. I even started out using his old paint sprayer. Take some time to [learn about us here](/professional-painters-okc/).
+We know Yukon is a place where tradition and family are valued. We’re proud to be a family-owned and operated company. My grandfather was a painter and passed his skills and inspiration to me. I even started out using his old paint sprayer. Take some time to [learn about us here](/professional-painters-okc/).
 
 *— Matt Stone, Owner*
 
@@ -39,7 +39,7 @@ We know Yukon is a place where tradition and family are valued. We’re proud to
 
 ## Yukon, OK Residential Painting FAQ
 
-<details class="faq-item"><summary>Do you offer free estimates in Yukon, OK?</summary><div><p>Yes — we offer free estimates in Yukon. Feel free to call us at (405) 400-1619 or visit our <a href="/contact-us/">Request an Estimate</a> page.</p></div></details>
+<details class="faq-item"><summary>Do you offer free estimates in Yukon, OK?</summary><div><p>Yes. We offer free estimates in Yukon. Feel free to call us at (405) 400-1619 or visit our <a href="/contact-us/">Request an Estimate</a> page.</p></div></details>
 <details class="faq-item"><summary>How much does it cost to paint a home in Yukon?</summary><div><p>For a whole-house <strong>exterior repaint in Yukon, most homes run $3,500–$7,000</strong>. Yukon’s established brick-and-trim homes keep exteriors near the metro middle.</p><p><strong>Interior pricing depends on scope</strong>: how many rooms, and which surfaces (just the walls, or walls, trim, ceilings, and doors). A couple of rooms might run $2,500–$4,500, while a full-home repaint runs $8,000–$12,000 or more. Yukon interiors often bundle walls, trim, and cabinets together, so they trend a bit above the metro average. See our <a href="/pricing/interior-pricing/">interior painting pricing guide</a> for room-by-room ranges. You’ll get a firm, itemized number at your free estimate, never a surprise later.</p></div></details>
 
 ## Ready for a Free Estimate in Yukon?

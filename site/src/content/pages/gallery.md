@@ -60,8 +60,8 @@ Here’s exactly what to expect when you request your free, no-pressure estimate
 <div class="mini-grid">
   <div class="mini-card"><h4>Easy Scheduling</h4><p>Schedule online or by phone in minutes.</p></div>
   <div class="mini-card"><h4>Friendly Visit</h4><p>A professional, no-pressure visit to see your project.</p></div>
-  <div class="mini-card"><h4>Detailed Proposal</h4><p>Know exactly what to expect — transparent pricing, no hidden fees.</p></div>
-  <div class="mini-card"><h4>On-the-Spot Quote</h4><p>Your quote is delivered on the spot — no waiting around.</p></div>
+  <div class="mini-card"><h4>Detailed Proposal</h4><p>Know exactly what to expect: transparent pricing, no hidden fees.</p></div>
+  <div class="mini-card"><h4>On-the-Spot Quote</h4><p>Your quote is delivered on the spot, no waiting around.</p></div>
 </div>
 
 <a class="prose-cta" href="/contact-us/">Get a Free Estimate →</a>

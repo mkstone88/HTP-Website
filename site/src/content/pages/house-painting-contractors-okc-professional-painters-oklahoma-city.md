@@ -9,7 +9,7 @@ ogImage: "/uploads/2022/08/IMG_0174-min-scaled.jpg"
 draft: true
 ---
 
-Welcome to Hometown Painting OKC — your trusted house painting contractors in Oklahoma City. With years of dedicated service to the OKC community, our team of experienced, insured professionals is committed to superior workmanship, attention to detail, and outstanding customer service on every project.
+Welcome to Hometown Painting OKC, your trusted house painting contractors in Oklahoma City. With years of dedicated service to the OKC community, our team of experienced, insured professionals is committed to superior workmanship, attention to detail, and outstanding customer service on every project.
 
 <a class="prose-cta" href="/contact-us/">Get a Free Estimate →</a>
 
@@ -20,7 +20,7 @@ Welcome to Hometown Painting OKC — your trusted house painting contractors in 
 <div class="mini-grid">
   <div class="mini-card"><h4>Fully Insured</h4><p>Our painters are fully insured, so your home is always in capable hands.</p></div>
   <div class="mini-card"><h4>Premium Materials</h4><p>We use only top-quality paints and professional techniques for lasting results.</p></div>
-  <div class="mini-card"><h4>Local Knowledge</h4><p>We know OKC’s climate — from summer heat to severe weather — and choose products to match.</p></div>
+  <div class="mini-card"><h4>Local Knowledge</h4><p>We know OKC’s climate, from summer heat to severe weather, and choose products to match.</p></div>
   <div class="mini-card"><h4>Community Focus</h4><p>We treat every home as if it were our own, because this is our community too.</p></div>
 </div>
 
@@ -31,7 +31,7 @@ Welcome to Hometown Painting OKC — your trusted house painting contractors in 
   <div class="mini-card"><h4>Exterior Painting</h4><p>Protect and beautify your home with durable, weather-resistant finishes.</p></div>
   <div class="mini-card"><h4>Whole-Home Projects</h4><p>Complete residential solutions, from a single room to your entire home.</p></div>
   <div class="mini-card"><h4>Color Consultation</h4><p>Our experts help you pick colors that complement your home and your style.</p></div>
-  <div class="mini-card"><h4>Prep &amp; Repair</h4><p>Proper preparation is crucial — we handle all the prep work and surface repairs.</p></div>
+  <div class="mini-card"><h4>Prep &amp; Repair</h4><p>Proper preparation is crucial. We handle all the prep work and surface repairs.</p></div>
   <div class="mini-card"><h4>Trusted Materials</h4><p>Top-quality paints and materials from manufacturers we trust.</p></div>
 </div>
 
@@ -41,20 +41,20 @@ Welcome to Hometown Painting OKC — your trusted house painting contractors in 
   <div class="phase">
     <div class="phase-num">1</div>
     <h3>Consult &amp; Plan</h3>
-    <p><strong>Consultation &amp; Assessment</strong> — We understand your vision, assess your home’s condition, and discuss your needs.</p>
-    <p><strong>Detailed Estimate</strong> — You receive a comprehensive, transparent estimate with a clear timeline and plan.</p>
+    <p><strong>Consultation &amp; Assessment</strong>. We understand your vision, assess your home’s condition, and discuss your needs.</p>
+    <p><strong>Detailed Estimate</strong>. You receive a comprehensive, transparent estimate with a clear timeline and plan.</p>
   </div>
   <div class="phase">
     <div class="phase-num">2</div>
     <h3>Prep &amp; Paint</h3>
-    <p><strong>Surface Preparation</strong> — Cleaning, sanding, patching, and protecting your furniture and fixtures.</p>
-    <p><strong>Professional Application</strong> — Skilled painters and pro techniques for flawless coverage and finish.</p>
+    <p><strong>Surface Preparation</strong>. Cleaning, sanding, patching, and protecting your furniture and fixtures.</p>
+    <p><strong>Professional Application</strong>. Skilled painters and pro techniques for flawless coverage and finish.</p>
   </div>
   <div class="phase">
     <div class="phase-num">3</div>
     <h3>Inspect &amp; Finish</h3>
-    <p><strong>Quality Inspection &amp; Cleanup</strong> — Thorough inspections and complete cleanup before we finish.</p>
-    <p><strong>Final Walkthrough</strong> — We walk the completed project with you to ensure you’re fully satisfied.</p>
+    <p><strong>Quality Inspection &amp; Cleanup</strong>. Thorough inspections and complete cleanup before we finish.</p>
+    <p><strong>Final Walkthrough</strong>. We walk the completed project with you to ensure you’re fully satisfied.</p>
   </div>
 </div>
 
@@ -83,11 +83,11 @@ We proudly serve OKC and the surrounding communities:
 ## Frequently Asked Questions
 
 <details class="faq-item"><summary>How do I choose the right house painting contractors in OKC?</summary><div><p>Look for contractors who are insured with positive reviews. Ask about experience with projects like yours, request references, and make sure they provide detailed written estimates and are happy to explain their process.</p></div></details>
-<details class="faq-item"><summary>What should I expect during the house painting process?</summary><div><p>Thorough surface prep (cleaning and repairs), protection of your furniture and fixtures, priming where needed, and professional paint application — followed by quality inspections and a full cleanup.</p></div></details>
+<details class="faq-item"><summary>What should I expect during the house painting process?</summary><div><p>Thorough surface prep (cleaning and repairs), protection of your furniture and fixtures, priming where needed, and professional paint application, followed by quality inspections and a full cleanup.</p></div></details>
 <details class="faq-item"><summary>How long do house painting projects typically take?</summary><div><p>It depends on scope, surface condition, and weather. A typical room might take 2–3 days; exterior or larger projects take longer. We provide a realistic timeline with your estimate.</p></div></details>
 <details class="faq-item"><summary>What factors affect the cost of house painting?</summary><div><p>Square footage, surface condition, number of coats, paint quality, and project complexity. Our detailed estimates break down these factors so you understand the investment.</p></div></details>
 <details class="faq-item"><summary>What preparation is required from homeowners?</summary><div><p>We handle most prep. You may want to remove items from walls, clear furniture from work areas, and secure valuables. We’ll give you specific instructions before we begin.</p></div></details>
-<details class="faq-item"><summary>How can I get help selecting colors and finishes?</summary><div><p>We offer color consultation — bring samples and inspiration photos and we’ll recommend colors that complement your home’s architecture and lighting, plus the right finish for each area.</p></div></details>
+<details class="faq-item"><summary>How can I get help selecting colors and finishes?</summary><div><p>We offer color consultation. Bring samples and inspiration photos and we’ll recommend colors that complement your home’s architecture and lighting, plus the right finish for each area.</p></div></details>
 
 ## Ready to Transform Your Home?
 

@@ -24,7 +24,7 @@ Our sunlight is intense, especially on south- and west-facing walls. UV rays bre
 - “Chalking” (a powdery residue on your hand)
 - Dark colors turning uneven or dull
 
-Certain pigments fade faster than others, especially cheaper exterior paints. That’s one reason we use higher-quality coatings from Sherwin-Williams and Benjamin Moore—they have stronger UV resistance and better color retention over time.
+Certain pigments fade faster than others, especially cheaper exterior paints. That’s one reason we use higher-quality coatings from Sherwin-Williams and Benjamin Moore. They have stronger UV resistance and better color retention over time.
 
 If fading is showing up across your home, it may also be a sign the paint is reaching the end of its lifespan.
 
@@ -52,7 +52,7 @@ Freeze-thaw cycles also push moisture deeper into siding and trim, forcing the c
 
 ## **3. Cracking: Heat, Wind, and Old Paint Working Against You**
 
-Cracking usually starts small—tiny hairline fractures in the paint film. Most homeowners don’t notice them until the cracks widen and paint begins to split or curl.
+Cracking usually starts small: tiny hairline fractures in the paint film. Most homeowners don’t notice them until the cracks widen and paint begins to split or curl.
 
 Cracking can come from:
 
@@ -133,10 +133,10 @@ If you’re seeing several of these, it may be time to take a closer look.
 
 When you understand why paint fails, you can avoid the frustration and expense of frequent repainting. Choosing the right products, allowing enough time for proper prep, and working with a team that understands Oklahoma weather goes a long way toward protecting your home.
 
-And when the job is done right, you should expect your paint to last—not fail early.
+And when the job is done right, you should expect your paint to last, not fail early.
 
 ## **Ready for a Long-Lasting Exterior Paint Job?**
 
-If your home is showing signs of fading, peeling, or cracking, we’re happy to take a look and give you a clear, detailed estimate. Our team walks you through what your home needs—and why—so you feel confident in every step.
+If your home is showing signs of fading, peeling, or cracking, we’re happy to take a look and give you a clear, detailed estimate. Our team walks you through what your home needs, and why, so you feel confident in every step.
 
 [Visit our main page for exterior painting in Oklahoma City](/exterior-painting-oklahoma-city/) to schedule your estimate.

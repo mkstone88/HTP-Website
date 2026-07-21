@@ -11,7 +11,7 @@ date: "2025-12-29"
 
 Homeowners often ask which paint products hold up best in our unpredictable weather. Between the heat, sun, wind, dust, and severe storms, Oklahoma is tough on exterior coatings. Using the right products, and pairing them with good prep work, makes all the difference in how long your home looks sharp and stays protected.
 
-At Hometown Painting, we primarily use **[Sherwin-Williams](https://www.sherwin-williams.com/)** — with **[Benjamin Moore](https://www.benjaminmoore.com/)**, two companies known for durable, long-lasting exterior systems. Below is a down-to-earth look at what actually matters when choosing exterior paint and primer for Oklahoma homes.
+At Hometown Painting, we primarily use **[Sherwin-Williams](https://www.sherwin-williams.com/)**, along with **[Benjamin Moore](https://www.benjaminmoore.com/)**, two companies known for durable, long-lasting exterior systems. Below is a down-to-earth look at what actually matters when choosing exterior paint and primer for Oklahoma homes.
 
 If you’ve ever dealt with fading, peeling, or cracking, you’ve already seen what happens when a coating can’t stand up to the climate, or when the surface wasn’t prepared correctly. In fact, many peeling and flaking issues come from poor prep, so the products you choose should always work hand-in-hand with a strong prep process.
 

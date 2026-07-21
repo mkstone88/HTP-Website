@@ -7,14 +7,14 @@ ogImage: "/uploads/2023/09/2933LakeshireRidgeRd-2.jpg"
 draft: false
 ---
 
-We want you to be as well-informed as possible about your next paint job — including what it might cost. Here’s what you’ll find on this page:
+We want you to be as well-informed as possible about your next paint job, including what it might cost. Here’s what you’ll find on this page:
 
 <div class="mini-grid">
   <div class="mini-card"><h4>Transparency</h4><p>Clear, honest information about the potential cost of your project.</p></div>
   <div class="mini-card"><h4>Local Rates</h4><p>Figures tailored specifically to the Oklahoma City metro.</p></div>
   <div class="mini-card"><h4>Estimated Costs</h4><p>Ballpark ranges so you can budget before we ever visit.</p></div>
   <div class="mini-card"><h4>Cost Factors</h4><p>What can raise or lower the price of your next paint job.</p></div>
-  <div class="mini-card"><h4>Savings Tips</h4><p>Ways to save on your project — including our discounts.</p></div>
+  <div class="mini-card"><h4>Savings Tips</h4><p>Ways to save on your project, including our discounts.</p></div>
 </div>
 
 ## Ballpark Pricing by Service
@@ -47,7 +47,7 @@ We want you to be as well-informed as possible about your next paint job — inc
 <div class="mini-grid">
   <div class="mini-card"><h4>Size of the Area</h4><p>Larger areas and high ceilings need more paint and labor.</p></div>
   <div class="mini-card"><h4>Paint Quality</h4><p>Premium paints cost more up front but cover better and last longer.</p></div>
-  <div class="mini-card"><h4>Surface Prep</h4><p>Patching, sanding, and removing old paint add time — well-kept surfaces cost less.</p></div>
+  <div class="mini-card"><h4>Surface Prep</h4><p>Patching, sanding, and removing old paint add time. Well-kept surfaces cost less.</p></div>
   <div class="mini-card"><h4>Architectural Detail</h4><p>Intricate moldings and unique features take careful hand-painting.</p></div>
   <div class="mini-card"><h4>Accessibility</h4><p>Hard-to-reach and multi-story areas may need special equipment and time.</p></div>
 </div>
@@ -55,7 +55,7 @@ We want you to be as well-informed as possible about your next paint job — inc
 ## Ways to Save With Hometown Painting
 
 <div class="mini-grid">
-  <div class="mini-card"><h4>Military Discount</h4><p>Active duty, veteran, or reservist — let us know and we’ll honor your service with savings.</p></div>
+  <div class="mini-card"><h4>Military Discount</h4><p>Active duty, veteran, or reservist: let us know and we’ll honor your service with savings.</p></div>
   <div class="mini-card"><h4>First Responder Discount</h4><p>Dedicated discounts for firefighters, police, paramedics, and other first responders.</p></div>
   <div class="mini-card"><h4>Same-Day Signing</h4><p>Sign your contract the same day as your estimate and save on your project.</p></div>
 </div>

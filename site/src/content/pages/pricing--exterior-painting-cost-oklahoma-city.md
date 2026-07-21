@@ -26,7 +26,7 @@ As local exterior painters, we’ve completed hundreds of projects across Edmond
   <div class="compare-card compare-card--win">
     <h4>Medium Home</h4>
     <div class="price-tag">$5,500–$9,000</div>
-    <p>1,600–2,500 sq ft. Most OKC suburban homes — prep and trim details drive the range.</p>
+    <p>1,600–2,500 sq ft. Most OKC suburban homes. Prep and trim details drive the range.</p>
   </div>
   <div class="compare-card">
     <h4>Large Home</h4>
@@ -51,7 +51,7 @@ Prep is the backbone of a good paint job. Homes with peeling paint, chalking, lo
 - Repairing damaged trim
 - Re-caulking seams and joints
 
-If your exterior hasn’t been painted in 8–12 years or more, expect more prep — and a higher cost. That’s why [painting early and often](/signs-you-need-exterior-painting-oklahoma/) is the best way to keep costs low.
+If your exterior hasn’t been painted in 8–12 years or more, expect more prep, and a higher cost. That’s why [painting early and often](/signs-you-need-exterior-painting-oklahoma/) is the best way to keep costs low.
 
 ### 2. The Size and Complexity of Your Home
 
@@ -69,7 +69,7 @@ Different surfaces need different prep and materials:
 
 ### 4. Paint Quality and Number of Coats
 
-Oklahoma is hard on paint — UV, humidity, heat, and wind all take a toll. Upgrading to higher-quality paint extends lifespan and resists fading, chalking, and peeling. Most homes need two coats for even coverage, which also raises material costs.
+Oklahoma is hard on paint: UV, humidity, heat, and wind all take a toll. Upgrading to higher-quality paint extends lifespan and resists fading, chalking, and peeling. Most homes need two coats for even coverage, which also raises material costs.
 
 ### 5. Accessibility and Safety
 
@@ -92,7 +92,7 @@ Anything that slows production affects cost: steep roofs, upper stories, tight s
 
 ## Is Exterior Painting Worth the Investment?
 
-For most Oklahoma homes, yes. Regular repainting protects against water intrusion, sun damage, and early deterioration — a well-painted home looks better, lasts longer, and costs far less to maintain over time. As a rule of thumb, painting is cheaper than replacing siding or trim.
+For most Oklahoma homes, yes. Regular repainting protects against water intrusion, sun damage, and early deterioration. A well-painted home looks better, lasts longer, and costs far less to maintain over time. As a rule of thumb, painting is cheaper than replacing siding or trim.
 
 ## Ready for a Detailed Estimate?
 
