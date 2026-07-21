@@ -7,7 +7,7 @@ ogImage: "/uploads/2022/08/paint-owners-cropped-scaled.jpg"
 draft: false
 ---
 
-After years of experience in the construction trades, Rachel and I founded Hometown Painting LLC to help Oklahoma City homeowners with professional painting services. We strive to give you:
+Hiring a painter shouldn’t feel like a gamble. Most folks who call us have put the project off for a year or two, dreading the part where they hand their home and their money to a stranger. Rachel and I started Hometown Painting to be the company that takes that worry off your plate. Here’s what we promise you:
 
 - Clear, consistent communication throughout your project
 - A hassle-free painting process
@@ -19,19 +19,27 @@ After years of experience in the construction trades, Rachel and I founded Homet
 
 <a class="prose-cta" href="/contact-us/">Request a Free Quote →</a>
 
-## Starting a Professional Painting Tradition
+## Where We Learned to Do It Right
 
 ![Matt’s grandfather Art started his career as a professional painter](/uploads/2022/08/50s-Young-Painter.webp)
 
-Matt’s grandfather, Art, worked as a professional painter most of his life. As a young man he apprenticed to support his family, working mostly in commercial painting. Later in life he started his own company, no easy decision with three children to help raise.
+My grandpa Art painted his whole life. He started as a young man, apprenticing to support his family, and later ran his own company, no small thing with three kids to help raise. What I admired most about him wasn’t his brushwork, though. It was the way he took care of people.
 
-Through hard work and determination, Grandpa built a reputation for professionalism and quality. He painted many homes and businesses over the years, and he’ll still tell you stories about the difficult jobs he conquered. We strive to continue the legacy of honest hard work he modeled.
+Grandpa built relationships that lasted decades, and he did it with two simple things: he did good work, and he treated people right. One man he’d painted for over the years came and built a front porch on Grandpa’s house after he had a stroke, just to make it easier for him to get in and out. That’s the kind of trust he earned. People taking care of people. It can feel like that world has mostly vanished, and I believe the folks who hire us deserve to have it back.
 
-## A New Generation of Professional Painters
+When I started Hometown Painting, Grandpa gave me his old paint sprayer to get going. It had sat in his garage for years and took some work to bring back to life, but I used it to get the company off the ground. I wore it out ages ago. I’ll never get rid of it.
 
-So often you hear people say, “They don’t make things like they used to.” In the painting world it can feel true that no one cares about the old-time craftsmanship and pride painters used to have.
+## A Family Business, and We Aim to Keep It That Way
 
-At Hometown Painting, we bring that quality craftsmanship to a new generation of Oklahoma City homeowners. It’s not about being stuck in the past: we pair the work ethic and pride of painters like my grandpa with today’s best paint technology. **That is how we define a professional painting company.**
+A big franchise will promise you professionalism and quality. We deliver it, and honestly, we think we do it better. But we’re also still a family-run company, which means you’re never just a ticket number. We stay small enough to keep it personal: a direct line to the person running your project, honest daily updates, and a final walk-through with you before you pay the balance. Often that person is me.
+
+And we’d like to still be your painter ten years from now, so we treat every job as the start of a long relationship, the way Grandpa did.
+
+## A Warranty We Actually Stand Behind
+
+A lot of painters write a warranty designed to get them out of it. We wrote ours to stand behind. It covers 5 years on interior and exterior painting, longer than almost any painter in the metro, plus 2 years on cabinets and staining.
+
+The bigger difference is how we handle it. We recently went back to touch up a few flaking spots on a client’s painted brick. While we were there she pointed out some other marks, and it turned out her lawn crew had been running the mower against the house. That one wasn’t our fault, but we fixed it anyway. That’s the deal: if you’re our client and something isn’t right, we take care of it. We’re not looking for a reason to say no. (Yes, there’s a written warranty with the usual terms, mostly so nobody can take advantage of it. We just don’t go hunting through it to dodge you.)
 
 ## What Professional Painters Do
 
