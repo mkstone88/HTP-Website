@@ -1,8 +1,16 @@
 # Hometown Painting — website project
 
 Migrating **hometownpaintingokc.com** from WordPress to a static **Astro** site on
-**Cloudflare Pages**. App lives in the **`site/`** subdirectory. Active branch:
-`claude/website-launch-readiness-3qrs79`.
+**Cloudflare Pages**. App lives in the **`site/`** subdirectory.
+
+## Branching & deploy — read this first
+
+**`main` is the canonical production branch, and Cloudflare Pages auto-deploys it** to
+`test.hometownpaintingokc.com` (staging now; the live site after DNS cutover). Each session gets
+its own working branch (e.g. `claude/...`) — do your work there, then **merge into `main`** so it
+deploys; a session branch never deploys on its own. `main` is the GitHub default branch, so new
+sessions branch from it. **Indexing is safe-by-default:** every build stays noindexed unless
+`PUBLIC_NOINDEX=false` is set, which only the real production site does, at cutover (`src/data/seo.ts`).
 
 > **Start each session by reading [`NEXT-STEPS.md`](NEXT-STEPS.md)** — it's the living
 > to-do list (things waiting on Matt, things queued for Claude, launch status). When Matt
@@ -71,8 +79,8 @@ Re-pull reviews or contacts anytime via the LeadConnector API using env vars
 - **Astro 4 static** → `site/dist`. Content: `site/src/content/pages/*.md` + `blog/*.md`
   (frontmatter: title, description, permalink, h1, ogImage, formId?, noindex?, showRating?, warranty?).
 - `trailingSlash: 'always'`. Canonicals/sitemap from `SITE` in `astro.config.mjs`.
-- **Staging noindex** is automatic: only `CF_PAGES_BRANCH=main` builds are indexable
-  (`src/data/seo.ts`); `PUBLIC_NOINDEX=true/false` overrides. Per-page `noindex: true`
+- **Staging noindex is safe-by-default:** every build is noindexed unless `PUBLIC_NOINDEX=false`
+  is set (`src/data/seo.ts`). Only the real production site sets `PUBLIC_NOINDEX=false`, at cutover. Per-page `noindex: true`
   frontmatter also drops the page from the sitemap (keep `NOINDEX_PATHS` in `astro.config.mjs` in sync).
 - **Images:** Cloudflare transforms are ON (`src/data/images.mjs`, `/cdn-cgi/image/...`). Local
   markdown images auto-get lazy-load + responsive srcset via `src/lib/rehype-cf-images.mjs`.

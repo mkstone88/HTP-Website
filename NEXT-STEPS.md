@@ -177,8 +177,8 @@ that are going live.
 4. ✅ **Pre-launch QA gate done** (copy/brand review, humanizer, local SEO audit, page speed).
 5. ⏳ **Matt's final pass on the test subdomain** (`test.hometownpaintingokc.com`, noindexed): walk the
    live site, build a punch-list of any tweaks, Claude fixes them.
-6. ⏳ execute the **cutover checklist** (in the launch-readiness report): set Pages production
-   branch to `main`, drop `PUBLIC_NOINDEX`, point apex/www at Pages (keep WordPress warm for
+6. ⏳ execute the **cutover checklist** (in the launch-readiness report): set **`PUBLIC_NOINDEX=false`**
+   on the Pages project to make it indexable (production branch is already `main`), point apex/www at Pages (keep WordPress warm for
    rollback), verify forms + image transforms live, submit `/sitemap-index.xml` to Search
    Console, watch 404s + rankings for ~2 weeks.
 
