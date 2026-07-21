@@ -133,6 +133,12 @@ logic. Airtable connector is now working, so future data pulls (job costing, sou
 - City-specific pricing FAQs from 202 real projects; interior reframed as scope-driven.
 - FAQPage + VideoObject schema; 7 videos re-embedded (lazy facade). Brand/messaging knowledge base.
 - GTM/GA4 double-fire check (resolved: no double-fire).
+- **2026-07-21 content pass:** humanizer + brand-voice sweep across all 61 files + home/404/footer;
+  self-hosted the 3 web fonts; wired real reviews for Bethany (Tammy C., Helen M.), Mesta Park
+  (Dolan M.), Mustang (Nichole H., Collin D.), and commercial (Mitch; Kennedy H., Office Manager);
+  moved + rewrote the home owner intro; StoryBrand commercial intro; rewrote the About page as an
+  Origin of Empathy (Art's story + the warranty-we-stand-behind section); expanded both fence pages.
+  Saved the interview-first content process to CLAUDE.md.
 
 ## 🔌 Keeping reviews + GBP data fresh (tooling — researched 2026-07-21)
 
@@ -164,12 +170,14 @@ purely additive URLs. Fresh content over time is a positive ranking signal, so p
 rather than hurts. Only the QA gate (humanizer + brand pass) must finish first, since it touches pages
 that are going live.
 
-**Not a blocker anymore — the site is in good shape.** The remaining gates before flipping DNS:
-1. (optional but recommended) tagged reviews in place for stronger city pages,
+**Content is complete — the site is launch-ready.** Status of the gates before flipping DNS:
+1. ✅ Tagged/real reviews wired across city, service, and commercial pages (all five city pages + commercial now covered).
 2. ✅ GTM/GA4 double-count checked — GTM has only a Conversion Linker, no GA4 tag, so no double-fire; nothing to change.
-3. more photos,
-4. **the Pre-launch QA gate above** (copy/brand review, humanizer, local SEO audit, page speed),
-5. execute the **cutover checklist** (in the launch-readiness report): set Pages production
+3. ✅ Project photos placed + cataloged.
+4. ✅ **Pre-launch QA gate done** (copy/brand review, humanizer, local SEO audit, page speed).
+5. ⏳ **Matt's final pass on the test subdomain** (`test.hometownpaintingokc.com`, noindexed): walk the
+   live site, build a punch-list of any tweaks, Claude fixes them.
+6. ⏳ execute the **cutover checklist** (in the launch-readiness report): set Pages production
    branch to `main`, drop `PUBLIC_NOINDEX`, point apex/www at Pages (keep WordPress warm for
    rollback), verify forms + image transforms live, submit `/sitemap-index.xml` to Search
    Console, watch 404s + rankings for ~2 weeks.
