@@ -32,9 +32,9 @@ Hello — I’m Matt, the owner of Hometown Painting. We’re here to transform 
 ## Here’s What Our Edmond Customers Say
 
 <div class="prose-reviews">
-  <div class="p-review"><div class="p-stars">★★★★★</div><p>“Matt and his team did an incredible job staining the wood trim on our two-story house. The whole process was easy and smooth — from the initial visit and picking stain options to scheduling. His team was timely, professional, and thorough. It transformed the look of the house, and it’s great knowing the wood is better protected now!”</p><cite>— Elizabeth S. · Edmond, OK</cite></div>
-  <div class="p-review"><div class="p-stars">★★★★★</div><p>“The crew did a thorough, conscientious job taping and painting our exterior, and even sanded, stained, and clear-coated our front door. Matt was always available to answer questions, and we did a thorough walkthrough before payment. My wife is totally delighted — which makes for a happy husband! We’ve already referred them to a neighbor.”</p><cite>— K.H. · Edmond, OK</cite></div>
-  <div class="p-review"><div class="p-stars">★★★★★</div><p>“Great job staining our fence and pavilion. I would highly recommend. Always on time, with great communication on when they’d be here to get the job started and done.”</p><cite>— Matt F. · Edmond, OK</cite></div>
+  <div class="p-review"><div class="p-stars">★★★★★</div><p>“I cannot give Matt and his crew at Hometown Painting enough stars. They completely surpassed my expectations in every way, from the initial estimate to the final product. They were efficient, friendly, clean, professional, and reasonably priced…”</p><cite>— Ashley N., Homeowner · Edmond</cite></div>
+  <div class="p-review"><div class="p-stars">★★★★★</div><p>“Hometown is professional, efficient and a pleasure to work with. Matt leads you through the entire process, and his crew was talented and tidy! They did a great job, and the paint match exceeded my hopes. A great experience; highly recommend!”</p><cite>— Jane W., Homeowner · Edmond</cite></div>
+  <div class="p-review"><div class="p-stars">★★★★★</div><p>“We had Hometown Painting paint our kitchen cabinets and a wall in our dining room during our remodel. Matt gave us a very detailed quote which outlined everything to be done with a timeline. The crew showed up on time and were very polite and…”</p><cite>— Sally V., Homeowner · Edmond</cite></div>
 </div>
 
 ## House Painting Edmond: Our Portfolio

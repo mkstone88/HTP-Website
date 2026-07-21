@@ -6,11 +6,11 @@ ones as work progresses. (Detailed pre-launch audit: the launch-readiness report
 
 ## ⏳ Waiting on Matt (quick wins when you're at your computer)
 
-- [ ] **Return the tagged review workbook** (`HTP-Google-Reviews-Tagging.xlsx`). 72/132 cities
-      are pre-filled from your GHL customer records — just fix the blue ones, fill yellow ones
-      you remember (Unknown is fine for the rest), and set **Feature on site? = Yes** for the
-      reviews worth quoting (aim 3–5 per city page, a few per service). → unlocks real
-      city-matched testimonials sitewide.
+- [x] **Review workbook returned (2026-07-20)** — Matt marked **42 reviews** Feature=Yes across
+      83 tagged cities. Wired into pages (below). More can be featured anytime by marking more rows
+      in `migration/reviews/HTP-Google-Reviews-Tagging-COMPLETED.xlsx` and re-running.
+      GAP: **no featured review is tagged for Bethany or Mesta Park yet** — those two city pages still
+      show their prior quotes. Feature a Bethany/Mesta review (or tag more cities) to fill them.
 - [ ] **Project photos from the Drive folder (2026-07-20).** Added genuinely-new local hero shots to
       **Edmond** (Romeo Dr), **Mustang**, **Yukon** (500 War Eagle) city pages, and built the **commercial
       page** into a 3-project portfolio (Victory Baptist church + an office building w/ ADA ramp + the
@@ -27,9 +27,11 @@ ones as work progresses. (Detailed pre-launch audit: the launch-readiness report
 
 ## 🔧 Queued for Claude (some need the items above first)
 
-- [ ] **Wire verified testimonials into pages** once the tagged workbook is back — city pages
-      (Edmond/Yukon/Mustang/Bethany/Mesta Park), service pages, and commercial page, using the
-      `First L., Role · City` attribution convention. Bethany especially needs local proof.
+- [x] **Verified testimonials wired in (2026-07-20).** Placed Matt's featured, city-matched reviews
+      (`First L., Role · City`) on Edmond (3), Yukon (3), Mustang (1), exterior (3), interior (3),
+      cabinet (3), fence (1 added), commercial (1 new section), and refreshed the /reviews/ page with
+      8. This corrected real errors (Yukon page had quoted an OKC customer; cabinet had Filiz tagged
+      OKC when she's Edmond). Still to fill: Bethany + Mesta Park (no featured review tagged for them).
 - [ ] Place/optimize new photos as they come in.
 - [ ] Real logo SVG (reversed for the navy header) once approved.
 - [ ] **Post-launch backlog** (fine after go-live): embedded lead forms on the top money pages +

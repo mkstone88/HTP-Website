@@ -35,6 +35,7 @@ warranty: "2-Year Warranty"
 For a fresh new look, see why homeowners across the OKC metro recommend us for fence staining.
 
 <div class="prose-reviews">
+  <div class="p-review"><div class="p-stars">★★★★★</div><p>“If you are looking for an excellent experience and a professional paint and stain job on your fence, look no further than Hometown Painting. Matt and his team of phenomenal painters and Stainers, specifically Ivan, provided excellent communication…”</p><cite>— Phillip J., Homeowner · Oklahoma City</cite></div>
   <div class="p-review">
     <div class="p-stars">★★★★★</div>
     <p>“I cannot say enough about how much I appreciate Matt and his team for sealing our new fence. Matt listens to what you want, advises when needed, and holds himself and his team to a high standard. I’ll definitely be using Hometown Painting again!”</p>

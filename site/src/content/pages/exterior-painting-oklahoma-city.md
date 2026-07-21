@@ -67,21 +67,9 @@ A quality exterior paint job protects your home from sun, rain, and wind while b
 ## Here’s What Our OKC Customers Say
 
 <div class="prose-reviews">
-  <div class="p-review">
-    <div class="p-stars">★★★★★</div>
-    <p>“Showed up when they said they would, did the job they quoted, and always let me know if they found issues before adding any cost. Matthew came by a couple of times to be sure things were going well. Two walkthroughs with Matthew and the painters. Very impressed with the work and reliability.”</p>
-    <cite>— Denise Conover · Oklahoma City</cite>
-  </div>
-  <div class="p-review">
-    <div class="p-stars">★★★★★</div>
-    <p>“Hometown Painting has done several jobs for me. Their work is always clean and punctual. They give useful advice and follow through on time. Matt went out of his way to get this job done quickly. The colors are just what I wanted and all work is done professionally.”</p>
-    <cite>— Allen Fredrickson · Oklahoma City</cite>
-  </div>
-  <div class="p-review">
-    <div class="p-stars">★★★★★</div>
-    <p>“I was very pleased with the job they did. Matt is personable and communicated well throughout. They even came back to repaint an area after we had a change of heart on the color. Middle-range quote, top-notch service. I’d use them again or recommend them to anyone.”</p>
-    <cite>— Jeff MacEntire · Oklahoma City</cite>
-  </div>
+  <div class="p-review"><div class="p-stars">★★★★★</div><p>“Matt and his team were amazing! I really appreciated the communication and clarity for my project on the exterior of our home. I’m so pleased with the final result. The painting crew was respectful of the property, worked efficiently, and cleaned up…”</p><cite>— Sally R., Homeowner · Oklahoma City</cite></div>
+  <div class="p-review"><div class="p-stars">★★★★★</div><p>“We had such a great experience with Hometown Painting from start to finish. They were professional, dependable, detail-oriented, and the final result completely transformed our home. The crew was respectful, hardworking, and kept everything clean…”</p><cite>— Natalie C., Homeowner · Yukon</cite></div>
+  <div class="p-review"><div class="p-stars">★★★★★</div><p>“Hometown painting did a terrific job painting the exterior of our house. They came out and gave me a quote within a day and it was fair priced. The day of the painting they showed up on time and finished on time as well. After they had painted I…”</p><cite>— Cody C., Homeowner · Edmond</cite></div>
 </div>
 
 ![Five-star customer review screenshot for Hometown Painting](/uploads/2025/11/Biller-Review.webp)

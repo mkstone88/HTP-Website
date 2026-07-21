@@ -92,21 +92,9 @@ As local Oklahoma City homeowners ourselves, we understand those concerns. Our i
 ## Here’s What Our OKC Customers Say
 
 <div class="prose-reviews">
-  <div class="p-review">
-    <div class="p-stars">★★★★★</div>
-    <p>“I can’t stop saying enough great things about Matt and his team. We had them paint our old kitchen cabinets, coffee bar cabinets and walls. They refinished all the wood, painted twice with primer and twice with color. Professional and meticulous. They did a beautiful job and we love the room. I show before and after pictures to everyone.”</p>
-    <cite>— Feliz Ponkilla · Oklahoma City</cite>
-  </div>
-  <div class="p-review">
-    <div class="p-stars">★★★★★</div>
-    <p>“Hometown Painting and Matt did an outstanding job repainting my entire house! I had to leave town for work and they handled everything professionally. When I returned, the house looked amazing — better than I could have hoped for. Two small areas needed a touch-up and Matt came right out to fix them. Reliable, professional, and great to work with — highly recommend!”</p>
-    <cite>— Erin Baird · Oklahoma City</cite>
-  </div>
-  <div class="p-review">
-    <div class="p-stars">★★★★★</div>
-    <p>“From my first call to the last, Hometown Painting answered my questions and were very accommodating with color options when we were undecided. The painters were efficient and detailed from start to finish. The whole thing took only 3 days and we love our new color!”</p>
-    <cite>— Rebecca C. · Oklahoma City</cite>
-  </div>
+  <div class="p-review"><div class="p-stars">★★★★★</div><p>“Hometown Painting and Matt did an outstanding job repainting my entire house! I had to leave town for work during the project, and they handled everything professionally and with great attention to detail. When I returned, the house looked…”</p><cite>— Erin B., Homeowner · Oklahoma City</cite></div>
+  <div class="p-review"><div class="p-stars">★★★★★</div><p>“Hometown Painting did a great job removing our wallpaper, texturing, then painting our bathroom walls. Matt was great to work with - he came to our house before the job to discuss our preferences and expectations and to see the project in-person…”</p><cite>— Madison G., Homeowner · Oklahoma City</cite></div>
+  <div class="p-review"><div class="p-stars">★★★★★</div><p>“Very pleased with Hometown painting. Everybody was very friendly, showed up on time. They use a very good quality paint. There was absolutely no overspray or any painting issues. The painting looks fabulous. Really enhanced the look of my home.”</p><cite>— Christina H., Homeowner · Edmond</cite></div>
 </div>
 
 

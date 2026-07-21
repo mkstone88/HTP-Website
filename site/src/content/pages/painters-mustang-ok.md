@@ -42,8 +42,7 @@ Severe weather really is more likely on the south side of the metro — the [sta
 ## What Mustang Homeowners Say
 
 <div class="prose-reviews">
-  <div class="p-review"><div class="p-stars">★★★★★</div><p>“Everyone is super friendly and did an amazing job! Our fence turned out great — exactly what we wanted. I’ll definitely recommend them to family and friends!”</p><cite>— Casey M. · Mustang, OK</cite></div>
-  <div class="p-review"><div class="p-stars">★★★★★</div><p>“Great service, very professional and knowledgeable. Here when they said they would be, done when they said they would be, and cleaned up after — no mess left behind. The estimate was the best and we got no surprise up-charges.”</p><cite>— Jonni · Mustang, OK</cite></div>
+  <div class="p-review"><div class="p-stars">★★★★★</div><p>“Giving 5 stars for multiple reasons. For starters Matt was extremely transparent and professional during the initial consultation and continuously checked in with us throughout the job with updates and what to expect next, beyond that we were…”</p><cite>— Hunter C., Homeowner · Mustang</cite></div>
 </div>
 
 ## Our Paint Work for Your Mustang Neighbors

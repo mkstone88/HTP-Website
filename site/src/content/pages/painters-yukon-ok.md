@@ -32,9 +32,9 @@ We know Yukon is a place where tradition and family are valued. We’re proud to
 ## Here’s What Our Yukon Customers Say
 
 <div class="prose-reviews">
-  <div class="p-review"><div class="p-stars">★★★★★</div><p>“I cannot say enough about how much I appreciate Matt and his team for sealing our new fence. Matt listens to what you want, advises when needed, and holds himself and his team to a high standard. I’ll definitely be using Hometown Painting again!”</p><cite>— Jordan V. · Oklahoma City</cite></div>
-  <div class="p-review"><div class="p-stars">★★★★★</div><p>“We had a fantastic experience! Matt came out quickly and gave me an estimate on the spot. Prices were fair and affordable, and he explained in detail what was included. The finished product is gorgeous! I’d highly recommend them for your painting projects.”</p><cite>— Robyn · Yukon, OK</cite></div>
-  <div class="p-review"><div class="p-stars">★★★★★</div><p>“Everyone is super friendly and did an amazing job! Our fence turned out great — exactly what we wanted. I’ll definitely recommend them to family and friends!”</p><cite>— Casey M. · OKC</cite></div>
+  <div class="p-review"><div class="p-stars">★★★★★</div><p>“We recently hired Hometown Painting to paint the exterior of our home, and the experience was outstanding from start to finish. Their team was professional, punctual, and paid close attention to detail throughout the project. The quality of the…”</p><cite>— Joseph J., Homeowner · Yukon</cite></div>
+  <div class="p-review"><div class="p-stars">★★★★★</div><p>“Hometown did a great job on my painting project! The project involved most of my house including woodwork, doors, ceilings and walls and they finished in 3 days. They did a good job of cleaning up and I was pleased with the whole job. Also, Matt…”</p><cite>— Sharon S., Homeowner · Yukon</cite></div>
+  <div class="p-review"><div class="p-stars">★★★★★</div><p>“Hometown Painting was awesome. Matt and his crew were very responsive and informative and helped us understand the process as a whole for our project. They were respectful of our property and took good care of everything. We are happy with the end…”</p><cite>— Sawyer B., Homeowner · Yukon</cite></div>
 </div>
 
 ## Yukon, OK Residential Painting FAQ

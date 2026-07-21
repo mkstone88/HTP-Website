@@ -67,6 +67,12 @@ Every commercial property is unique. Our process is designed to minimize disrupt
 
 ![The Express Clydesdale barns in Yukon, OK after cedar siding restoration and staining by Hometown Painting](/uploads/2023/02/yukon-barn-after-scaled.webp)
 
+## What Our Commercial Clients Say
+
+<div class="prose-reviews">
+  <div class="p-review"><div class="p-stars">★★★★★</div><p>“Matt with Hometown Painting is great to work with. Used him on multiple jobs and he is very professional. Great work everytime. Will be using him for all my future residential and commercial paint jobs”</p><cite>— Nathan H., Commercial Client · Oklahoma City</cite></div>
+</div>
+
 ## About Us: The Hometown Painting Story
 
 When I started my career in painting, my grandfather gave me his old paint sprayer. It wasn’t much to look at, but it was a hard-working machine that helped me do great work — the perfect symbol of him passing the torch to me.

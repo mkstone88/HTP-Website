@@ -99,7 +99,9 @@ We stand behind our work with a written **2-year cabinet paint warranty** coveri
 ## What Our Cabinet Customers Say
 
 <div class="prose-reviews">
-  <div class="p-review"><div class="p-stars">★★★★★</div><p>“I can’t stop saying enough great things about Matt and his team. We had them paint our old kitchen cabinets, coffee bar cabinets and walls. They refinished all the wood, painted twice with primer and twice with color. Professional and meticulous. They did a beautiful job and we love the room. I show before and after pictures to everyone.”</p><cite>— Feliz Ponkilla · Oklahoma City</cite></div>
+  <div class="p-review"><div class="p-stars">★★★★★</div><p>“We had Hometown Painting paint our kitchen cabinets and a wall in our dining room during our remodel. Matt gave us a very detailed quote which outlined everything to be done with a timeline. The crew showed up on time and were very polite and…”</p><cite>— Sally V., Homeowner · Edmond</cite></div>
+  <div class="p-review"><div class="p-stars">★★★★★</div><p>“I can't stop saying enough great things about Matt and his team. We had Matt's company paint our old kitchen cabinets, coffee bar cabinets and walls. They had to refinish all the wood, paint twice with primer, twice with the color. Matt and his team…”</p><cite>— Filiz P., Homeowner · Edmond</cite></div>
+  <div class="p-review"><div class="p-stars">★★★★★</div><p>“Meticulously custom painted our kitchen cabinets. Matt helped us envision what the final look would be. Fantastic customer service.”</p><cite>— Stephen M., Homeowner · Choctaw</cite></div>
 </div>
 
 ## Thinking It Over?
