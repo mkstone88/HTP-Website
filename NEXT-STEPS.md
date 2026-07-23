@@ -182,9 +182,13 @@ that are going live.
    from differentiator bullets to a small no-obligation note under the hero CTAs (hero bullet → final
    walk-through; estimate bullet → 25% deposit), and swapped the cabinet service card to the pro 5616
    NW 130th kitchen shot (also fixes its duplication with the Recent Work strip — **Matt: confirm that
-   kitchen's cabinets are our work**). OPEN with Matt: headline options, de-duplicating the three bullet
-   zones (hero / estimate / Why Hometown) into distinct jobs, and beefing up homepage content
-   (~590 words today) targeting **"painters OKC"**.
+   kitchen's cabinets are our work**). **Round 2 (same day, per Matt's picks):** kept the H1, new fear-naming
+   hero subhead; estimate section rebuilt as "what happens when you reach out" (on-the-spot quote,
+   written price, 25% deposit); "Why Hometown" rebuilt as **"The Four Worries We Hear at Every
+   Estimate"** (fear → proof cards); trustbar de-duped (owner on every job / family-owned instead of
+   repeating warranty+insured). Now ~720 words. STILL OPEN: Matt confirm the 5616 NW 130th kitchen
+   cabinets are our work; optional content beef-up to ~1,000 words (3-step process strip + short FAQ)
+   for **"painters OKC"**; merge branch → `main` when Matt approves.
 6. ⏳ execute the **cutover checklist** (in the launch-readiness report): set **`PUBLIC_NOINDEX=false`**
    on the Pages project to make it indexable (production branch is already `main`), point apex/www at Pages (keep WordPress warm for
    rollback), verify forms + image transforms live, submit `/sitemap-index.xml` to Search

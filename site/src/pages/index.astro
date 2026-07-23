@@ -28,11 +28,13 @@ const reviews = [
   { text: 'The crew was efficient, professional, and respectful of our home — minimal mess and a thorough cleanup when they finished. Pricing was very fair for the work involved.', cite: 'Candace M. · Google Review' },
 ];
 
+// Each card opens with a real worry we hear at estimates, then answers it with
+// concrete proof (see brand/MESSAGING.md: lead with the fear, resolve with proof).
 const why = [
-  { icon: '🛡️', title: '5-Year Warranty, Interior & Exterior', body: 'If it peels, blisters, or fails under normal conditions, we fix it at no cost. No arguing, no fine print.' },
-  { icon: '🎨', title: 'Premium Sherwin-Williams Paints', body: 'Duration, Emerald, and Cashmere: the products that hold up and look great long after the job is done.' },
-  { icon: '💬', title: 'Clear, Daily Communication', body: "Matt keeps you updated throughout the project. You always know what's happening and when. No ghosting, no surprises." },
-  { icon: '📋', title: 'Fully Insured, Every Job', body: "Full liability and workers' comp on every project. You're protected from the first day to the last." },
+  { icon: '📅', title: 'Will they actually show up?', body: "Yes, and you'll never have to wonder. Clear scheduling up front and daily updates from Matt while we work. No ghosting, no radio silence." },
+  { icon: '🛡️', title: 'What if my home gets damaged?', body: "Floors covered, furniture protected, and a careful crew. We carry full liability and workers' comp insurance on every job." },
+  { icon: '👥', title: "Who's going to be in my house?", body: 'The same long-tenured crew we trust year after year, not a rotating cast of subcontractors. And Matt personally checks the work.' },
+  { icon: '📝', title: 'What if the paint fails?', body: 'Then we fix it, free. Premium Sherwin-Williams products backed by a written 5-year warranty on interior and exterior painting.' },
 ];
 
 // Recent Work strip — a curated mix of exterior, interior, cabinet, and staining
@@ -59,8 +61,10 @@ const work = [
       <div class="hero-copy">
         <h1>Professional Painters OKC Homeowners Trust</h1>
         <p class="hero-sub">
-          Interior, exterior, cabinets, fences, and more. We respond fast, treat your home with
-          respect, and back every job with a written warranty: 5 years on painting.
+          No-shows, surprise bills, paint that fails in two summers &mdash; you've heard the
+          stories. Hiring a painter shouldn't feel like a gamble. From the first estimate to the
+          final walk-through, we keep you informed and in control: interior, exterior, cabinets,
+          and staining across the OKC metro.
         </p>
         <ul class="trust-signals">
           <li>✓ {business.rating.value} Stars · {business.rating.count}+ Google Reviews</li>
@@ -83,9 +87,9 @@ const work = [
       <span class="trustbar-stars">★★★★★</span>
       <span class="trustbar-text"><strong>{business.rating.value} out of 5</strong> · {business.rating.count}+ Google Reviews</span>
       <span class="trustbar-sep" aria-hidden="true"></span>
-      <span class="trustbar-item">5-Year Painting Warranty</span>
+      <span class="trustbar-item">Owner on Every Job</span>
       <span class="trustbar-sep" aria-hidden="true"></span>
-      <span class="trustbar-item">Fully Insured &amp; Locally Owned</span>
+      <span class="trustbar-item">Family-Owned &amp; OKC Local</span>
     </div>
   </section>
 
@@ -126,10 +130,9 @@ const work = [
           no obligation.
         </p>
         <ul class="estimate-points">
+          <li>✓ Matt walks your project with you and quotes it on the spot</li>
+          <li>✓ A clear written price and warranty before any work starts</li>
           <li>✓ 25% deposit only, balance after your final walk-through</li>
-          <li>✓ 5-year written warranty, interior &amp; exterior</li>
-          <li>✓ Fully insured, respectful crew</li>
-          <li>✓ Premium Sherwin-Williams paints</li>
         </ul>
         <p class="estimate-or">Prefer to talk now? <a href={business.phoneHref}>Call {business.phoneDisplay}</a></p>
       </div>
@@ -202,7 +205,8 @@ const work = [
   <!-- WHY HOMETOWN -->
   <section class="why">
     <div class="container">
-      <h2>Why Hometown Painting</h2>
+      <h2>The Four Worries We Hear at Every Estimate</h2>
+      <p class="section-sub">If you're thinking them too, that's normal. Here's how we take each one off your plate.</p>
       <div class="why-grid">
         {why.map((w) => (
           <div class="why-item">
