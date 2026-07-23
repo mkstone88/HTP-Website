@@ -177,6 +177,14 @@ that are going live.
 4. ✅ **Pre-launch QA gate done** (copy/brand review, humanizer, local SEO audit, page speed).
 5. ⏳ **Matt's final pass on the test subdomain** (`test.hometownpaintingokc.com`, noindexed): walk the
    live site, build a punch-list of any tweaks, Claude fixes them.
+   **IN PROGRESS (2026-07-23) — homepage review round 1** (branch `claude/homepage-review-optimization-hzs80s`):
+   fixed the stretched owners photo (a forced `height` attr; now a 4:3 crop), demoted "free estimates"
+   from differentiator bullets to a small no-obligation note under the hero CTAs (hero bullet → final
+   walk-through; estimate bullet → 25% deposit), and swapped the cabinet service card to the pro 5616
+   NW 130th kitchen shot (also fixes its duplication with the Recent Work strip — **Matt: confirm that
+   kitchen's cabinets are our work**). OPEN with Matt: headline options, de-duplicating the three bullet
+   zones (hero / estimate / Why Hometown) into distinct jobs, and beefing up homepage content
+   (~590 words today) targeting **"painters OKC"**.
 6. ⏳ execute the **cutover checklist** (in the launch-readiness report): set **`PUBLIC_NOINDEX=false`**
    on the Pages project to make it indexable (production branch is already `main`), point apex/www at Pages (keep WordPress warm for
    rollback), verify forms + image transforms live, submit `/sitemap-index.xml` to Search

@@ -186,6 +186,7 @@ body {
 .cta-phone:hover { background: #a01020; }
 .hero .hero-copy { max-width: 640px; }
 .hero-ctas { display: flex; flex-wrap: wrap; gap: 14px; align-items: center; }
+.cta-note { margin-top: 12px; font-size: 0.9rem; color: #F5F0EB; opacity: 0.75; }
 .cta-secondary {
   display: inline-block;
   background: rgba(255, 255, 255, 0.12);
@@ -303,9 +304,12 @@ body {
 }
 .about-photo img {
   width: 100%;
+  height: auto;
+  aspect-ratio: 4 / 3;
   border-radius: 10px;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
   object-fit: cover;
+  object-position: 50% 20%;
 }
 .about-eyebrow {
   text-transform: uppercase;

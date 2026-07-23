@@ -18,7 +18,7 @@ const description =
 const services = [
   { img: '/uploads/2023/09/608E.VictoriaTerrace-1-1.webp', title: 'Exterior Painting', body: 'Oklahoma weather is hard on paint. We do full prep (scrape, sand, caulk, prime) before any color goes on. Premium Sherwin-Williams. 5-year warranty.', href: '/exterior-painting-oklahoma-city/' },
   { img: '/uploads/2024/03/Interior-Painting-OKC5.webp', title: 'Interior Painting', body: 'Furniture protected, floors covered, walls patched and prepped. We leave your home cleaner than we found it. 5-year warranty.', href: '/interior-painting-okc/' },
-  { img: '/uploads/2025/05/5613NE107thSt-Interior-25.webp', title: 'Cabinet Painting', body: 'Full disassembly, deglossing, and spray application for a factory-smooth finish that holds up to daily kitchen use. 2-year warranty.', href: '/cabinet-painting-okc/' },
+  { img: '/uploads/2026/01/5616NW130thSt-Interior-9.webp', title: 'Cabinet Painting', body: 'Full disassembly, deglossing, and spray application for a factory-smooth finish that holds up to daily kitchen use. 2-year warranty.', href: '/cabinet-painting-okc/' },
   { img: '/uploads/2023/04/Fence-Staining-OKC.webp', title: 'Fence & Deck Staining', body: 'Proper cleaning and prep first, then premium stain to protect and restore your wood. 2-year warranty on stain work.', href: '/fence-staining-okc/' },
 ];
 
@@ -66,12 +66,13 @@ const work = [
           <li>✓ {business.rating.value} Stars · {business.rating.count}+ Google Reviews</li>
           <li>✓ 5-Year Warranty, Interior &amp; Exterior</li>
           <li>✓ Fully Insured</li>
-          <li>✓ Free, On-the-Spot Estimates</li>
+          <li>✓ Final Walk-Through Before You Pay the Balance</li>
         </ul>
         <div class="hero-ctas">
           <a href={business.phoneHref} class="cta-phone">Call {business.phoneDisplay}</a>
           <a href="#estimate" class="cta-secondary">Get Your Free Estimate →</a>
         </div>
+        <p class="cta-note">Estimates are always free, with no obligation.</p>
       </div>
     </div>
   </section>
@@ -95,7 +96,7 @@ const work = [
         <Img
           src="/uploads/2022/08/paint-owners-cropped-scaled.webp"
           alt="Matt and Rachel Stone, owners of Hometown Painting"
-          width={600} height={720} sizes="(max-width: 768px) 100vw, 460px" />
+          width={600} height={450} sizes="(max-width: 768px) 100vw, 460px" />
       </div>
       <div class="about-copy">
         <p class="about-eyebrow">Meet Your Painter</p>
@@ -125,7 +126,7 @@ const work = [
           no obligation.
         </p>
         <ul class="estimate-points">
-          <li>✓ Free, on-the-spot estimates</li>
+          <li>✓ 25% deposit only, balance after your final walk-through</li>
           <li>✓ 5-year written warranty, interior &amp; exterior</li>
           <li>✓ Fully insured, respectful crew</li>
           <li>✓ Premium Sherwin-Williams paints</li>
