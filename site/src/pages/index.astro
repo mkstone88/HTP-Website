@@ -31,9 +31,9 @@ const reviews = [
 // Each card opens with a real worry we hear at estimates, then answers it with
 // concrete proof (see brand/MESSAGING.md: lead with the fear, resolve with proof).
 const why = [
-  { icon: '📅', title: 'Will they actually show up?', body: "Yes, and you'll never have to wonder. Clear scheduling up front and daily updates from Matt while we work. No ghosting, no radio silence." },
+  { icon: '📅', title: 'Will they actually show up?', body: "Yes, and you'll never have to wonder. Clear scheduling up front and daily updates while we work. No ghosting, no radio silence." },
   { icon: '🛡️', title: 'What if my home gets damaged?', body: "Floors covered, furniture protected, and a careful crew. We carry full liability and workers' comp insurance on every job." },
-  { icon: '👥', title: "Who's going to be in my house?", body: 'The same long-tenured crew we trust year after year, not a rotating cast of subcontractors. And Matt personally checks the work.' },
+  { icon: '👥', title: "Who's going to be in my house?", body: 'The same long-tenured crew we trust year after year, not a rotating cast of subcontractors. And every job is checked against our quality standard before we call it done.' },
   { icon: '📝', title: 'What if the paint fails?', body: 'Then we fix it, free. Premium Sherwin-Williams products backed by a written 5-year warranty on interior and exterior painting.' },
 ];
 
@@ -87,7 +87,7 @@ const work = [
       <span class="trustbar-stars">★★★★★</span>
       <span class="trustbar-text"><strong>{business.rating.value} out of 5</strong> · {business.rating.count}+ Google Reviews</span>
       <span class="trustbar-sep" aria-hidden="true"></span>
-      <span class="trustbar-item">Owner on Every Job</span>
+      <span class="trustbar-item">Premium Sherwin-Williams Products</span>
       <span class="trustbar-sep" aria-hidden="true"></span>
       <span class="trustbar-item">Family-Owned &amp; OKC Local</span>
     </div>
@@ -130,7 +130,7 @@ const work = [
           no obligation.
         </p>
         <ul class="estimate-points">
-          <li>✓ Matt walks your project with you and quotes it on the spot</li>
+          <li>✓ A real walk-through and an on-the-spot quote, not a phone guess</li>
           <li>✓ A clear written price and warranty before any work starts</li>
           <li>✓ 25% deposit only, balance after your final walk-through</li>
         </ul>
@@ -196,6 +196,31 @@ const work = [
             <cite>— {r.cite}</cite>
           </div>
         ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- HOW IT WORKS -->
+  <section class="process">
+    <div class="container">
+      <h2>How It Works</h2>
+      <p class="section-sub">Three steps, no surprises, and you stay in control at every one.</p>
+      <div class="process-grid">
+        <div class="process-step">
+          <div class="process-num">1</div>
+          <h3>Get Your Number</h3>
+          <p>Call or send the form and we'll respond within the hour. We walk the project with you and hand you a written estimate on the spot. Free, no obligation.</p>
+        </div>
+        <div class="process-step">
+          <div class="process-num">2</div>
+          <h3>We Prep and Paint</h3>
+          <p>Floors covered, furniture protected, and full prep before any color goes on. You get daily updates the whole way, so you always know what's next.</p>
+        </div>
+        <div class="process-step">
+          <div class="process-num">3</div>
+          <h3>Walk It With Us</h3>
+          <p>You inspect the finished job with us and pay the balance only when it's right. Then it's backed in writing: 5 years on interior and exterior painting.</p>
+        </div>
       </div>
     </div>
   </section>

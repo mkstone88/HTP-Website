@@ -67,6 +67,13 @@ the mirror image of each. We don't name competitors; we just be the opposite.
 Note: price appears in good reviews only as "fair"/"reasonable," never "cheap." Don't compete on
 cheap — compete on trust and peace of mind.
 
+> **Scaling caveat on owner involvement (Matt, 2026-07-23):** owner involvement is a real proof
+> point in reviews, but do **not** write site copy that promises Matt is *physically present on
+> every job* ("owner on every job," "Matt personally checks the work"). It's true today; Matt
+> doesn't want the site to depend on it as the company grows. Keep the owner in the *story*
+> (family business, Matt as a real, reachable person, the walk-through process) without
+> committing his presence to every job site.
+
 ## 4. Voice & StoryBrand mechanics
 
 - **Guide energy = empathy + authority.** Empathy: "We know how it feels to have watched the paint
