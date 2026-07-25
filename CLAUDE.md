@@ -45,6 +45,11 @@ sessions branch from it. **Indexing is safe-by-default:** every build stays noin
 - **Pricing (one truth — every page must agree):** exterior repaint **$4,000–$10,000**;
   interior **$5–$10/sq ft**; fence staining **$2,000–$4,000**; cabinets **$5,000–$10,000**.
 - **Repaint cadence:** standard line is **every 7–10 years**.
+- **Owner presence (Matt, 2026-07-23):** do **NOT** promise on the site that the owner is
+  personally on/at every job ("owner on every job," "Matt personally checks the work," "Matt
+  walks every project"). True today, but Matt doesn't want it baked in as the company grows.
+  OK instead: family-owned, owner-led, "a real person as your direct contact," daily updates,
+  "every job is checked against our quality standard."
 - **Paint:** **Sherwin-Williams primary** (Duration, Emerald, Cashmere); *Benjamin Moore
   available on request* only where already mentioned. Fence/deck stain: **Wood Defender**.
 - **Services offered:** interior, exterior, cabinets, fence/deck/pergola staining, commercial,

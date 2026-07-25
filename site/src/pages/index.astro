@@ -18,7 +18,7 @@ const description =
 const services = [
   { img: '/uploads/2023/09/608E.VictoriaTerrace-1-1.webp', title: 'Exterior Painting', body: 'Oklahoma weather is hard on paint. We do full prep (scrape, sand, caulk, prime) before any color goes on. Premium Sherwin-Williams. 5-year warranty.', href: '/exterior-painting-oklahoma-city/' },
   { img: '/uploads/2024/03/Interior-Painting-OKC5.webp', title: 'Interior Painting', body: 'Furniture protected, floors covered, walls patched and prepped. We leave your home cleaner than we found it. 5-year warranty.', href: '/interior-painting-okc/' },
-  { img: '/uploads/2025/05/5613NE107thSt-Interior-25.webp', title: 'Cabinet Painting', body: 'Full disassembly, deglossing, and spray application for a factory-smooth finish that holds up to daily kitchen use. 2-year warranty.', href: '/cabinet-painting-okc/' },
+  { img: '/uploads/2026/01/5616NW130thSt-Interior-9.webp', title: 'Cabinet Painting', body: 'Full disassembly, deglossing, and spray application for a factory-smooth finish that holds up to daily kitchen use. 2-year warranty.', href: '/cabinet-painting-okc/' },
   { img: '/uploads/2023/04/Fence-Staining-OKC.webp', title: 'Fence & Deck Staining', body: 'Proper cleaning and prep first, then premium stain to protect and restore your wood. 2-year warranty on stain work.', href: '/fence-staining-okc/' },
 ];
 
@@ -28,11 +28,13 @@ const reviews = [
   { text: 'The crew was efficient, professional, and respectful of our home — minimal mess and a thorough cleanup when they finished. Pricing was very fair for the work involved.', cite: 'Candace M. · Google Review' },
 ];
 
+// Each card opens with a real worry we hear at estimates, then answers it with
+// concrete proof (see brand/MESSAGING.md: lead with the fear, resolve with proof).
 const why = [
-  { icon: '🛡️', title: '5-Year Warranty, Interior & Exterior', body: 'If it peels, blisters, or fails under normal conditions, we fix it at no cost. No arguing, no fine print.' },
-  { icon: '🎨', title: 'Premium Sherwin-Williams Paints', body: 'Duration, Emerald, and Cashmere: the products that hold up and look great long after the job is done.' },
-  { icon: '💬', title: 'Clear, Daily Communication', body: "Matt keeps you updated throughout the project. You always know what's happening and when. No ghosting, no surprises." },
-  { icon: '📋', title: 'Fully Insured, Every Job', body: "Full liability and workers' comp on every project. You're protected from the first day to the last." },
+  { icon: '📅', title: 'Will they actually show up?', body: "Yes, and you'll never have to wonder. Clear scheduling up front and daily updates while we work. No ghosting, no radio silence." },
+  { icon: '🛡️', title: 'What if my home gets damaged?', body: "Floors covered, furniture protected, and a careful crew. We carry full liability and workers' comp insurance on every job." },
+  { icon: '👥', title: "Who's going to be in my house?", body: 'The same long-tenured crew we trust year after year, not a rotating cast of subcontractors. And every job is checked against our quality standard before we call it done.' },
+  { icon: '📝', title: 'What if the paint fails?', body: 'Then we fix it, free. Premium Sherwin-Williams products backed by a written 5-year warranty on interior and exterior painting.' },
 ];
 
 // Recent Work strip — a curated mix of exterior, interior, cabinet, and staining
@@ -59,19 +61,22 @@ const work = [
       <div class="hero-copy">
         <h1>Professional Painters OKC Homeowners Trust</h1>
         <p class="hero-sub">
-          Interior, exterior, cabinets, fences, and more. We respond fast, treat your home with
-          respect, and back every job with a written warranty: 5 years on painting.
+          No-shows, surprise bills, paint that fails in two summers &mdash; you've heard the
+          stories. Hiring a painter shouldn't feel like a gamble. From the first estimate to the
+          final walk-through, we keep you informed and in control: interior, exterior, cabinets,
+          and staining across the OKC metro.
         </p>
         <ul class="trust-signals">
           <li>✓ {business.rating.value} Stars · {business.rating.count}+ Google Reviews</li>
           <li>✓ 5-Year Warranty, Interior &amp; Exterior</li>
           <li>✓ Fully Insured</li>
-          <li>✓ Free, On-the-Spot Estimates</li>
+          <li>✓ Final Walk-Through Before You Pay the Balance</li>
         </ul>
         <div class="hero-ctas">
           <a href={business.phoneHref} class="cta-phone">Call {business.phoneDisplay}</a>
           <a href="#estimate" class="cta-secondary">Get Your Free Estimate →</a>
         </div>
+        <p class="cta-note">Estimates are always free, with no obligation.</p>
       </div>
     </div>
   </section>
@@ -82,9 +87,9 @@ const work = [
       <span class="trustbar-stars">★★★★★</span>
       <span class="trustbar-text"><strong>{business.rating.value} out of 5</strong> · {business.rating.count}+ Google Reviews</span>
       <span class="trustbar-sep" aria-hidden="true"></span>
-      <span class="trustbar-item">5-Year Painting Warranty</span>
+      <span class="trustbar-item">Premium Sherwin-Williams Products</span>
       <span class="trustbar-sep" aria-hidden="true"></span>
-      <span class="trustbar-item">Fully Insured &amp; Locally Owned</span>
+      <span class="trustbar-item">Family-Owned &amp; OKC Local</span>
     </div>
   </section>
 
@@ -95,7 +100,7 @@ const work = [
         <Img
           src="/uploads/2022/08/paint-owners-cropped-scaled.webp"
           alt="Matt and Rachel Stone, owners of Hometown Painting"
-          width={600} height={720} sizes="(max-width: 768px) 100vw, 460px" />
+          width={600} height={450} sizes="(max-width: 768px) 100vw, 460px" />
       </div>
       <div class="about-copy">
         <p class="about-eyebrow">Meet Your Painter</p>
@@ -125,10 +130,9 @@ const work = [
           no obligation.
         </p>
         <ul class="estimate-points">
-          <li>✓ Free, on-the-spot estimates</li>
-          <li>✓ 5-year written warranty, interior &amp; exterior</li>
-          <li>✓ Fully insured, respectful crew</li>
-          <li>✓ Premium Sherwin-Williams paints</li>
+          <li>✓ A real walk-through and an on-the-spot quote, not a phone guess</li>
+          <li>✓ A clear written price and warranty before any work starts</li>
+          <li>✓ 25% deposit only, balance after your final walk-through</li>
         </ul>
         <p class="estimate-or">Prefer to talk now? <a href={business.phoneHref}>Call {business.phoneDisplay}</a></p>
       </div>
@@ -196,12 +200,38 @@ const work = [
     </div>
   </section>
 
+  <!-- HOW IT WORKS -->
+  <section class="process">
+    <div class="container">
+      <h2>How It Works</h2>
+      <p class="section-sub">Three steps, no surprises, and you stay in control at every one.</p>
+      <div class="process-grid">
+        <div class="process-step">
+          <div class="process-num">1</div>
+          <h3>Get Your Number</h3>
+          <p>Call or send the form and we'll respond within the hour. We walk the project with you and hand you a written estimate on the spot. Free, no obligation.</p>
+        </div>
+        <div class="process-step">
+          <div class="process-num">2</div>
+          <h3>We Prep and Paint</h3>
+          <p>Floors covered, furniture protected, and full prep before any color goes on. You get daily updates the whole way, so you always know what's next.</p>
+        </div>
+        <div class="process-step">
+          <div class="process-num">3</div>
+          <h3>Walk It With Us</h3>
+          <p>You inspect the finished job with us and pay the balance only when it's right. Then it's backed in writing: 5 years on interior and exterior painting.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <!-- Owner intro moved up, just beneath the trust bar -->
 
   <!-- WHY HOMETOWN -->
   <section class="why">
     <div class="container">
-      <h2>Why Hometown Painting</h2>
+      <h2>The Four Worries We Hear at Every Estimate</h2>
+      <p class="section-sub">If you're thinking them too, that's normal. Here's how we take each one off your plate.</p>
       <div class="why-grid">
         {why.map((w) => (
           <div class="why-item">
