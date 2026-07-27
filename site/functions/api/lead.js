@@ -57,7 +57,12 @@ export async function onRequestPost({ request, env }) {
     if (!verify.success) return bad(403, 'Spam check failed — please call us instead');
   }
 
-  if (!env.GHL_WEBHOOK_URL) return bad(500, 'Form is not configured yet');
+  // GHL inbound-webhook workflow ("Website Form", provided by Matt 2026-07-23).
+  // A GHL_WEBHOOK_URL env var on the Pages project overrides this if we ever
+  // need to rotate it without a deploy.
+  const webhookUrl =
+    env.GHL_WEBHOOK_URL ||
+    'https://services.leadconnectorhq.com/hooks/ch2x7nFXHf3H6JiDzmas/webhook-trigger/4c690199-c0e6-4f05-b0cd-dd5097a75f31';
 
   const payload = {
     name,
@@ -74,7 +79,7 @@ export async function onRequestPost({ request, env }) {
     page_url: String(data.page_url || '').slice(0, 500),
   };
 
-  const res = await fetch(env.GHL_WEBHOOK_URL, {
+  const res = await fetch(webhookUrl, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify(payload),
