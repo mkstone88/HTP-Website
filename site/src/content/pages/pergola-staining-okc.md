@@ -3,6 +3,7 @@ title: "Pergola Staining OKC | 2-Year Warranty | Hometown Painting"
 description: "Pergola staining OKC homeowners trust. Wood Defender stains applied by a trained crew, backed by a written 2-year warranty on all stain work."
 permalink: "/pergola-staining-okc/"
 h1: "Pergola Staining OKC Homeowners Can Trust"
+heroSub: "Keep your outdoor space beautiful with Wood Defender stain, applied by a factory-trained crew and backed in writing for 2 years."
 ogImage: "/uploads/2024/03/3588-2.jpg"
 draft: false
 warranty: "2-Year Warranty"

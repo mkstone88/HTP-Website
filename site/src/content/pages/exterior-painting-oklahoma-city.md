@@ -3,6 +3,7 @@ title: "Exterior Painting Oklahoma City | 5-Year Warranty | Hometown Painting"
 description: "Exterior painting Oklahoma City homeowners trust. Full-prep repaints that protect your home from OKC weather, backed by our 5-year warranty."
 permalink: "/exterior-painting-oklahoma-city/"
 h1: "Exterior Painting Oklahoma City Homeowners Can Trust"
+heroSub: "Oklahoma sun, wind, and storms are hard on a paint job. We repaint the right way: full prep, premium Sherwin-Williams products, and a written 5-year warranty."
 ogImage: "/uploads/2023/09/608E.VictoriaTerrace-3.jpg"
 formId: "Gi6MfAF8VO97YgxZIwzu"
 draft: false
@@ -64,10 +65,6 @@ A quality exterior paint job protects your home from sun, rain, and wind while b
   <div class="p-review"><div class="p-stars">★★★★★</div><p>“Hometown painting did a terrific job painting the exterior of our house. They came out and gave me a quote within a day and it was fair priced. The day of the painting they showed up on time and finished on time as well. After they had painted I…”</p><cite>— Cody C., Homeowner · Edmond</cite></div>
 </div>
 
-![Five-star customer review screenshot for Hometown Painting](/uploads/2025/11/Biller-Review.webp)
-
-![Five-star customer review screenshot for Hometown Painting](/uploads/2025/11/Blalock-Review.webp)
-
 ## Our Simple Painting Process For the Best Results
 
 <div class="process-phases">
@@ -98,37 +95,32 @@ A quality exterior paint job protects your home from sun, rain, and wind while b
 
 ## Our Exterior Paint Work
 
-![Before and after of a modern OKC home with its wood siding restained a rich brown](/uploads/2024/03/Untitled-design1.webp)
-
-![Before and after picture of a home in the Oklahoma City area that had the exterior painted.](/uploads/2024/03/Exterior-Painting-Before-and-After.webp)
-
-![Before and after of a brick ranch home painted white with a restained patio cover](/uploads/2024/03/Exterior-Before-and-After2.webp)
-
-![Before and after of a historic two-story home repainted blush pink with crisp white trim](/uploads/2024/03/Exterior-Before-and-After1.webp)
-
-![Before and after picture of a front door on the exterior of a house that has been painted pink](/uploads/2024/03/Exterior-Before-and-After3.webp)
-
-![Freshly painted white brick and stone home exterior in the OKC metro](/uploads/2024/07/7113LostForestDr-14.webp)
+<div class="photo-grid">
+  <img src="/uploads/2024/03/Untitled-design1.webp" alt="Before and after of a modern OKC home with its wood siding restained a rich brown">
+  <img src="/uploads/2024/03/Exterior-Painting-Before-and-After.webp" alt="Before and after picture of a home in the Oklahoma City area that had the exterior painted">
+  <img src="/uploads/2024/03/Exterior-Before-and-After2.webp" alt="Before and after of a brick ranch home painted white with a restained patio cover">
+  <img src="/uploads/2024/03/Exterior-Before-and-After1.webp" alt="Before and after of a historic two-story home repainted blush pink with crisp white trim">
+  <img src="/uploads/2024/03/Exterior-Before-and-After3.webp" alt="Before and after picture of a front door on the exterior of a house that has been painted pink">
+  <img src="/uploads/2024/07/7113LostForestDr-14.webp" alt="Freshly painted white brick and stone home exterior in the OKC metro">
+</div>
 
 [See More](/gallery/)
 
 ## Work with us: The Hometown Painting Story
 
-When I started my career in painting, my grandfather gave me his old paint sprayer. It wasn’t much to look at, but it was a hard working machine that helped me do great work. To me, it was the perfect symbol of my grandfather passing the torch to me.
-
-I admire the craftsmanship and integrity of my grandfather’s generation of painters. I want to continue this tradition with Hometown Painting.
-
-**The mission of Hometown Painting** is to provide the Oklahoma City Metro with painting services that combine the craftsmanship and integrity of past generations of painters with the best paint technology of today.
-
-We’re proud to be a family owned and operated company. My wife, Rachel, has played a vital role in making Hometown Painting what it is today.
-
-Please take some more time to learn [about us here](/professional-painters-okc/).
-
-– *Matt Stone*
-
-![the owners of Hometown Painting LLC, Professional painters](/uploads/2022/08/paint-owners-cropped-scaled.webp)
-
-Matt and Rachel Stone
+<div class="story-grid">
+  <div class="story-copy">
+    <p>When I started my career in painting, my grandfather gave me his old paint sprayer. It wasn’t much to look at, but it was a hard working machine that helped me do great work. To me, it was the perfect symbol of my grandfather passing the torch to me.</p>
+    <p>I admire the craftsmanship and integrity of my grandfather’s generation of painters. I want to continue this tradition with Hometown Painting.</p>
+    <p><strong>The mission of Hometown Painting</strong> is to combine the craftsmanship and integrity of past generations of painters with the best paint technology of today.</p>
+    <p>We’re proud to be a family owned and operated company. My wife, Rachel, has played a vital role in making Hometown Painting what it is today. Take some more time to learn <a href="/professional-painters-okc/">about us here</a>.</p>
+    <p>– <em>Matt Stone</em></p>
+  </div>
+  <div class="story-media">
+    <img src="/uploads/2022/08/paint-owners-cropped-scaled.webp" alt="Matt and Rachel Stone, owners of Hometown Painting">
+    <p class="story-caption">Matt and Rachel Stone</p>
+  </div>
+</div>
 
 ## Let’s Talk About Your Painting Project
 

@@ -127,7 +127,7 @@ const videoSchemas = videoIds
         </p>
       ) : (
         <>
-          {d.description && <p class="page-hero-sub">{d.description}</p>}
+          {(d.heroSub ?? d.description) && <p class="page-hero-sub">{d.heroSub ?? d.description}</p>}
           <ul class="page-hero-trust">
             <li><span class="phts-stars">★★★★★</span> {business.rating.value} · {business.rating.count}+ Reviews</li>
             <li>{d.warranty ?? '5-Year Warranty'}</li>
