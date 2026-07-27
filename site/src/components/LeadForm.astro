@@ -1,0 +1,111 @@
+---
+// Custom lead form → POST /api/lead (Cloudflare Pages Function) → GHL inbound
+// webhook. Pilot replacement for the embedded GHL iframe (see GHLForm.astro).
+// UTM/gclid attribution is captured sitewide in BaseLayout (sessionStorage)
+// and attached to the submission here.
+interface Props {
+  /** Where this form lives, for labeling in GHL (e.g. "Homepage") */
+  context?: string;
+}
+const { context = 'Website' } = Astro.props;
+
+const services = [
+  'Exterior Painting',
+  'Interior Painting',
+  'Cabinet Painting',
+  'Fence / Deck / Pergola Staining',
+  'Commercial',
+  'Something Else',
+];
+---
+<form class="lead-form" method="post" action="/api/lead" data-context={context}>
+  <div class="lf-row">
+    <label>
+      Name*
+      <input type="text" name="name" autocomplete="name" required maxlength="200" />
+    </label>
+    <label>
+      Phone*
+      <input type="tel" name="phone" autocomplete="tel" required maxlength="40" />
+    </label>
+  </div>
+  <label>
+    Email
+    <input type="email" name="email" autocomplete="email" maxlength="200" />
+  </label>
+  <label>
+    What do you need painted or stained?
+    <select name="service">
+      <option value="">Choose a service (optional)</option>
+      {services.map((s) => <option value={s}>{s}</option>)}
+    </select>
+  </label>
+  <label>
+    Tell us about your project
+    <textarea name="message" rows="3" maxlength="2000"></textarea>
+  </label>
+  <!-- Honeypot: hidden from real visitors; bots that fill it are dropped. -->
+  <label class="lf-hp" aria-hidden="true">
+    Company
+    <input type="text" name="company" tabindex="-1" autocomplete="off" />
+  </label>
+  <button type="submit" class="cta-phone lf-submit">Get My Free Estimate</button>
+  <p class="lf-note">Free, no-obligation estimate. We'll only use this to reach you about your project.</p>
+  <p class="lf-error" hidden></p>
+</form>
+
+<script is:inline>
+  document.querySelectorAll('.lead-form').forEach(function (form) {
+    form.addEventListener('submit', async function (e) {
+      e.preventDefault();
+      var btn = form.querySelector('.lf-submit');
+      var err = form.querySelector('.lf-error');
+      err.hidden = true;
+      btn.disabled = true;
+      btn.textContent = 'Sending…';
+
+      var attrib = {};
+      try { attrib = JSON.parse(sessionStorage.getItem('htp_attrib') || '{}'); } catch (_) {}
+
+      var fd = new FormData(form);
+      var body = {
+        name: fd.get('name'),
+        phone: fd.get('phone'),
+        email: fd.get('email'),
+        service: fd.get('service'),
+        message: fd.get('message'),
+        company: fd.get('company'),
+        utm_source: attrib.utm_source || '',
+        utm_medium: attrib.utm_medium || '',
+        utm_campaign: attrib.utm_campaign || '',
+        utm_content: attrib.utm_content || '',
+        gclid: attrib.gclid || '',
+        page_url: location.href,
+      };
+
+      try {
+        var res = await fetch('/api/lead', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(body),
+        });
+        var out = await res.json().catch(function () { return {}; });
+        if (res.ok && out.ok) {
+          if (typeof gtag === 'function') {
+            gtag('event', 'generate_lead', { form_context: form.dataset.context || 'Website' });
+          }
+          location.href = '/thank-you/';
+          return;
+        }
+        throw new Error(out.error || 'Something went wrong');
+      } catch (ex) {
+        err.textContent =
+          (ex && ex.message ? ex.message : 'Something went wrong') +
+          ' — or call us at 405-400-1619 and we’ll take care of you.';
+        err.hidden = false;
+        btn.disabled = false;
+        btn.textContent = 'Get My Free Estimate';
+      }
+    });
+  });
+</script>

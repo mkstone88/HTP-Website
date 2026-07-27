@@ -199,6 +199,17 @@ that are going live.
    claim). PENDING Matt review on test site. FLAG for Matt: the walk-through-before-final-payment
    hero bullet now shows on the commercial page too — confirm those payment terms apply to
    commercial jobs, or we'll override that page's bullet.
+   **Custom lead form pilot (2026-07-23, on branch, NOT merged):** homepage estimate form
+   replaced with a first-party form (`LeadForm.astro`) → Cloudflare Pages Function
+   (`site/functions/api/lead.js`) → GHL inbound webhook. Payload mirrors the PPC funnel's
+   webhook schema (name/phone/email/service/message/source/utm_*/gclid/page_url); UTMs+gclid
+   captured sitewide in sessionStorage (BaseLayout); honeypot now, Turnstile-ready
+   (TURNSTILE_SECRET env). Verified end-to-end locally. ⛔ Do NOT merge until: (1) Matt creates
+   a GHL workflow with an Inbound Webhook trigger and provides the URL, (2) `GHL_WEBHOOK_URL`
+   env var is set in the Cloudflare Pages project (Production), (3) after merge, send a test
+   submission so GHL can map fields, Matt attaches contact-create + notification actions and
+   publishes, then a real end-to-end test. Service pages still use the GHL iframe until the
+   pilot is proven.
 6. ⏳ execute the **cutover checklist** (in the launch-readiness report): set **`PUBLIC_NOINDEX=false`**
    on the Pages project to make it indexable (production branch is already `main`), point apex/www at Pages (keep WordPress warm for
    rollback), verify forms + image transforms live, submit `/sitemap-index.xml` to Search
