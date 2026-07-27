@@ -131,13 +131,14 @@ const videoSchemas = videoIds
           <ul class="page-hero-trust">
             <li><span class="phts-stars">★★★★★</span> {business.rating.value} · {business.rating.count}+ Reviews</li>
             <li>{d.warranty ?? '5-Year Warranty'}</li>
-            <li>Free Estimates</li>
+            <li>Walk-Through Before Final Payment</li>
             <li>Fully Insured</li>
           </ul>
           <div class="page-hero-cta">
             <a href={business.phoneHref} class="cta-phone">Call {business.phoneDisplay}</a>
             <a href="/contact-us/" class="cta-secondary">Get a Free Estimate →</a>
           </div>
+          <p class="cta-note">Estimates are always free, with no obligation.</p>
         </>
       )}
     </div>
@@ -150,7 +151,7 @@ const videoSchemas = videoIds
   </article>
 
   {d.formId && (
-    <section class="form-section">
+    <section class="form-section" id="estimate">
       <div class="container form-narrow">
         <h2>Request Your Free Estimate</h2>
         <GHLForm formId={d.formId} title={d.title} height={620} />
