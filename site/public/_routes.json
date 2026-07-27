@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "description": "Route only the lead-form API through _worker.js; everything else stays on the static pipeline so public/_redirects keeps applying.",
+  "include": ["/api/*"],
+  "exclude": []
+}
