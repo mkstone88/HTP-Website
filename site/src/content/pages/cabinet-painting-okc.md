@@ -1,20 +1,21 @@
 ---
-title: "Cabinet Painting OKC | House Painters In The OKC Metro"
-description: "Professional cabinet painters in OKC. Hometown Painting transforms kitchens with expert finishes and lasting quality. Get a free quote today."
+title: "Cabinet Painting OKC | 2-Year Warranty | Hometown Painting"
+description: "Professional cabinet painters in OKC. A factory-smooth sprayed finish on your existing cabinets, backed by a written 2-year warranty. Free estimates."
 permalink: "/cabinet-painting-okc/"
 h1: "Cabinet Painting OKC"
-ogImage: "/uploads/2025/05/5613NE107thSt-Interior-25.jpg"
+ogImage: "/uploads/2026/01/5616NW130thSt-Interior-9.jpg"
 draft: false
 warranty: "2-Year Warranty"
+formId: "Gi6MfAF8VO97YgxZIwzu"
 ---
 
 Refresh your kitchen without the cost and hassle of a full remodel. **Cabinet painting in OKC** is a smart, cost-effective way to transform your space, boost your home’s value, and enjoy a like-new look for your cabinets. At Hometown Painting, our professional cabinet painters deliver a factory finish that rivals new cabinetry, at a fraction of the price.
 
-<a class="prose-cta" href="/contact-us/">Get a Free Estimate →</a>
+<a class="prose-cta" href="#estimate">Get a Free Estimate →</a>
 
 ## Why Paint Your Cabinets Instead of Replacing Them?
 
-![Kitchen cabinets in an OKC home freshly painted by Hometown Painting](/uploads/2025/05/5613NE107thSt-Interior-25.webp)
+![Kitchen island and vent hood painted sage green by Hometown Painting in an OKC home](/uploads/2026/01/5616NW130thSt-Interior-9.webp)
 
 Replacing cabinets is expensive, time-consuming, and disruptive. Refinishing your existing cabinets gives you a modern, custom look without the mess and expense of demolition.
 
@@ -66,7 +67,7 @@ We follow a proven, step-by-step process for a flawless, durable finish:
     <h3>Reinstall &amp; Inspect</h3>
     <p><strong>Finishing Touches</strong>. We reinstall doors and hardware and inspect every detail.</p>
     <p><strong>Clean Up</strong>. We leave your kitchen cleaner than we found it.</p>
-    <p><strong>Walkthrough</strong>. Together we make sure you love the result.</p>
+    <p><strong>Walkthrough</strong>. Together we make sure you love the result, and you pay the balance only when it’s right.</p>
   </div>
 </div>
 
@@ -112,6 +113,6 @@ Not sure whether painting your cabinets is the right call? Read our guide: [Shou
 
 Contact Hometown Painting for a free estimate on cabinet painting in OKC. Our friendly team is here to answer your questions and help you fall in love with your kitchen again.
 
-<a class="prose-cta" href="/contact-us/">Get a Free Estimate →</a>
+<a class="prose-cta" href="#estimate">Get a Free Estimate →</a>
 
 Or give us a call: (405) 400-1619

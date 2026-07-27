@@ -1,11 +1,12 @@
 ---
-title: "#1 Fence Staining OKC- Free Estimates In Oklahoma City"
-description: "Hometown Painting LLC offers fence staining in the OKC metro area. Fence staining OKC is the best way to make your fence look beautiful and last longer."
+title: "Fence Staining OKC | 2-Year Warranty | Hometown Painting"
+description: "Fence staining OKC homeowners trust. Wood Defender oil-based stains applied by a trained crew, backed by a written 2-year warranty on all stain work."
 permalink: "/fence-staining-okc/"
-h1: "Fence Staining OKC can Trust."
+h1: "Fence Staining OKC Homeowners Can Trust"
 ogImage: "/uploads/2023/04/Fence-Staining-OKC.jpg"
 draft: false
 warranty: "2-Year Warranty"
+formId: "Gi6MfAF8VO97YgxZIwzu"
 ---
 
 ## Benefits of Fence Staining in OKC
@@ -39,27 +40,27 @@ For a fresh new look, see why homeowners across the OKC metro recommend us for f
   <div class="p-review">
     <div class="p-stars">★★★★★</div>
     <p>“I cannot say enough about how much I appreciate Matt and his team for sealing our new fence. Matt listens to what you want, advises when needed, and holds himself and his team to a high standard. I’ll definitely be using Hometown Painting again!”</p>
-    <cite>— Jordan V. · Yukon, OK</cite>
+    <cite>— Jordan V., Homeowner · Yukon</cite>
   </div>
   <div class="p-review">
     <div class="p-stars">★★★★★</div>
     <p>“They did an awesome job! The staff worked hard the whole time they were here. They stained our wood fence and it looks like new!”</p>
-    <cite>— Marlene · Tuttle, OK</cite>
+    <cite>— Marlene, Homeowner · Tuttle</cite>
   </div>
   <div class="p-review">
     <div class="p-stars">★★★★★</div>
     <p>“Great job staining our fence and pavilion. I would highly recommend. Always on time, with great communication on when they’d be here to get the job started and done.”</p>
-    <cite>— Matt F. · Edmond, OK</cite>
+    <cite>— Matt F., Homeowner · Edmond</cite>
   </div>
 </div>
 
-<a class="prose-cta" href="/contact-us/">Request a Free Estimate →</a>
+<a class="prose-cta" href="#estimate">Request a Free Estimate →</a>
 
 ## Hometown Painting is OKC’s Fence Stain Pro
 
 ### Customer Service
 
-Our Goal is to make your fence staining process as easy and stress-free as possible. We will give you a free on-the-spot quote. We will also keep you informed throughout the process with calls and texts. You won’t need to worry about whether you will get a call back or have to wait for your estimate for days.
+Our Goal is to make your fence staining process as easy and stress-free as possible. We will give you a free on-the-spot quote. We will also keep you informed throughout the process with calls and texts. You won’t need to worry about whether you will get a call back or have to wait for your estimate for days. And every stain job is backed by a written 2-year warranty — you don’t pay the balance until you’ve walked the finished fence with us.
 
 ### Expertise
 
@@ -77,11 +78,11 @@ We have received training directly from the Wood Defender team on the best ways 
 
 ![fence stained with red stain in okc](/uploads/2023/02/DSC05338-2.webp)
 
-## Ready to Paint? Just have questions?
+## Ready to Stain? Just Have Questions?
 
 Contact us today to speak to experienced, local,  professional painters in the OKC metro.
 
-<a class="prose-cta" href="/contact-us/">Contact Us →</a>
+<a class="prose-cta" href="#estimate">Contact Us →</a>
 
 ## We Offer More Than Just Fence Staining
 
@@ -172,31 +173,31 @@ Oil-based stains protect against:
   <li>Graying</li>
 </ul>
 
-![IMG 0728 scaled](/uploads/2022/11/IMG_0728-scaled.webp)
+![Wood fence protected with penetrating oil-based stain in the OKC metro](/uploads/2022/11/IMG_0728-scaled.webp)
 
 We test many stain brands to find the best ones to use on your fence.
 
 ## Our Wood Defender Stain Work in the OKC Metro
 
-![oxford brown fence in okc](/uploads/2023/02/oxford-brown-fence-in-okc.webp)
+![Privacy fence stained Oxford Brown in OKC](/uploads/2023/02/oxford-brown-fence-in-okc.webp)
 
-![Deck Stain OKC](/uploads/2023/02/Deck-Stain-OKC.webp)
+![Freshly stained backyard deck in Oklahoma City](/uploads/2023/02/Deck-Stain-OKC.webp)
 
-![IMG 7435](/uploads/2023/02/IMG_7435.webp)
+![Cedar siding staining at the Express Clydesdale barns in Yukon](/uploads/2023/02/IMG_7435.webp)
 
-![IMG 0875](/uploads/2023/02/IMG_0875.webp)
+![Stained wood fence project in the OKC metro](/uploads/2023/02/IMG_0875.webp)
 
 ![A fence in Edmond, OK that has just been stained with Wood Defender](/uploads/2022/11/fence-staining-in-edmond-ok.webp)
 
-![fence stain in edmond okc](/uploads/2022/11/Horizontal-fence-stain-edmond-ok.webp)
+![Horizontal wood fence stained in Edmond, OK](/uploads/2022/11/Horizontal-fence-stain-edmond-ok.webp)
 
-![yukon barn after](/uploads/2023/02/yukon-barn-after.webp)
+![Restored and stained barn siding in Yukon, OK](/uploads/2023/02/yukon-barn-after.webp)
 
-![608E.VictoriaTerrace 6](/uploads/2023/09/608E.VictoriaTerrace-6.webp)
+![Stained backyard fence at a Victoria Terrace home in OKC](/uploads/2023/09/608E.VictoriaTerrace-6.webp)
 
-![clear glow fence 1](/uploads/2024/03/clear-glow-fence-1.webp)
+![Fence finished with Wood Defender Clear Glow stain in OKC](/uploads/2024/03/clear-glow-fence-1.webp)
 
-![20231003 081752](/uploads/2024/03/20231003_081752.webp)
+![Completed fence staining project in the OKC metro](/uploads/2024/03/20231003_081752.webp)
 
 ## Our Fence Staining Process
 
@@ -227,7 +228,7 @@ We have received specialized training from Wood Defender, one of the leading sta
 10. **Clean Up**
     We make sure that your property is as clean when we leave as it was when we arrived.
 
-<a class="prose-cta" href="/contact-us/">Get a Free Estimate →</a>
+<a class="prose-cta" href="#estimate">Get a Free Estimate →</a>
 
 ## Best Fence Stain For Oklahoma City
 
@@ -237,7 +238,7 @@ The oil repels moisture, the leading cause of wood rot and warping. We have two 
 
 ### Transparent Fence Stain
 
-![fence staining bethany ok scaled](/uploads/2022/11/fence-staining-bethany-ok-scaled.webp)
+![Cedar fence with transparent stain in Bethany, OK](/uploads/2022/11/fence-staining-bethany-ok-scaled.webp)
 
 Transparent stains highlight the natural beauty of the wood. They are especially attractive on cedar fences, or pergolas.
 
@@ -251,7 +252,7 @@ Semi-transparent stains have a stronger pigment than the transparent. The color 
 
 Semi-transparent stains are also great for covering more of the imperfections in the underlying wood. This makes them a great choice for older fences or pergolas.
 
-![Hometown graph 1 scaled](/uploads/2022/10/Hometown-graph-1-scaled.webp)
+![Hometown Painting graphic comparing fence stain options](/uploads/2022/10/Hometown-graph-1-scaled.webp)
 
 
 <figure class="yt-figure">

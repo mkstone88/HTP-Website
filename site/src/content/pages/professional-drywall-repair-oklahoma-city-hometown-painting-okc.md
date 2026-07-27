@@ -3,7 +3,9 @@ title: "Drywall Repair in Oklahoma City | Hometown Painting"
 description: "Professional drywall repair in Oklahoma City: holes, cracks, water damage, and texture matching, finished with a seamless paint match."
 permalink: "/professional-drywall-repair-oklahoma-city-hometown-painting-okc/"
 h1: "Professional Drywall Repair in Oklahoma City"
-ogImage: "/uploads/2022/08/IMG_0174-min-scaled.jpg"
+ogImage: "/uploads/2024/03/Interior-Painting-OKC5.jpg"
+warranty: "Written Warranty"
+formId: "Gi6MfAF8VO97YgxZIwzu"
 draft: false
 ---
 
@@ -11,7 +13,7 @@ At Hometown Painting, we know damaged drywall can drag down the whole look of a 
 
 As OKC’s trusted painting professionals, we combine years of painting experience with specialized drywall repair techniques so repairs disappear, then finish the job with a beautiful, color-matched paint finish.
 
-<a class="prose-cta" href="/contact-us/">Get a Free Estimate →</a>
+<a class="prose-cta" href="#estimate">Get a Free Estimate →</a>
 
 ![A smooth, freshly painted interior wall in an Oklahoma City home](/uploads/2024/03/Interior-Painting-OKC5.webp)
 
@@ -70,6 +72,6 @@ As OKC’s trusted painting professionals, we combine years of painting experien
 
 Contact Hometown Painting today for expert drywall repair that combines quality craftsmanship with honest, upfront pricing.
 
-<a class="prose-cta" href="/contact-us/">Get a Free Estimate →</a>
+<a class="prose-cta" href="#estimate">Get a Free Estimate →</a>
 
 Or give us a call: (405) 400-1619

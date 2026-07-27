@@ -1117,7 +1117,14 @@ body {
 
 /* Post meta + embedded GHL form section */
 .post-meta { font-size: 0.85rem; opacity: 0.8; margin-top: 6px; }
-.form-section { background: #F5F0EB; padding: 56px 0; }
+.form-section { background: #F5F0EB; padding: 56px 0; scroll-margin-top: 80px; }
+/* Owners photo in prose pages: same 4:3 crop as the homepage about section. */
+.prose img[src*='paint-owners'] {
+  aspect-ratio: 4 / 3;
+  height: auto;
+  object-fit: cover;
+  object-position: 50% 20%;
+}
 .form-narrow { max-width: 640px; }
 .form-section h2 {
   font-family: 'DM Serif Display', serif;

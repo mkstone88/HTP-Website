@@ -1,9 +1,10 @@
 ---
-title: "BEST Exterior Painters In Town | Exterior Painting Oklahoma City"
+title: "Exterior Painting Oklahoma City | 5-Year Warranty | Hometown Painting"
 description: "Exterior painting Oklahoma City homeowners trust. Full-prep repaints that protect your home from OKC weather, backed by our 5-year warranty."
 permalink: "/exterior-painting-oklahoma-city/"
-h1: "Exterior Painting Oklahoma City Homeowners can trust"
+h1: "Exterior Painting Oklahoma City Homeowners Can Trust"
 ogImage: "/uploads/2023/09/608E.VictoriaTerrace-3.jpg"
+formId: "Gi6MfAF8VO97YgxZIwzu"
 draft: false
 ---
 
@@ -15,17 +16,17 @@ Imagine instead pulling up to a freshly painted home with crisp trim, smooth sid
 
 We handle every detail from careful prep and color consultation to clean, efficient painting so you can enjoy a fresh start without the hassle. Let us handle the painting so you can enjoy your life.
 
-<a class="prose-cta" href="/contact-us/">Get a Free Estimate →</a>
+<a class="prose-cta" href="#estimate">Get a Free Estimate →</a>
 
-## Why Choose Hometown Painting?
+## The Worries We Hear Before Every Exterior Job
 
-<div class="mini-grid">
-  <div class="mini-card"><h4>Local &amp; Family-Owned</h4><p>We’re your Oklahoma City neighbors, not a franchise.</p></div>
-  <div class="mini-card"><h4>Professional Craftsmanship</h4><p>Experienced crews who take pride in every detail.</p></div>
-  <div class="mini-card"><h4>5-Year Warranty</h4><p>Every project includes a written warranty for peace of mind.</p></div>
-  <div class="mini-card"><h4>Hassle-Free Process</h4><p>Clear estimates, on-time scheduling, and constant communication.</p></div>
-  <div class="mini-card"><h4>Premium Materials</h4><p>We use premium Sherwin-Williams products, with Benjamin Moore available on request.</p></div>
-  <div class="mini-card"><h4>Built for OKC Weather</h4><p>A long-lasting paint job designed for Oklahoma City’s tough climate.</p></div>
+If you're thinking them too, that's normal. Here's how we take each one off your plate.
+
+<div class="benefit-grid">
+  <div class="benefit-card"><h4>Will it stand up to Oklahoma weather?</h4><p>That’s what real prep is for: scrape, sand, caulk, and prime before any color goes on, with Sherwin-Williams Duration and Emerald built for this climate. If it peels or blisters under normal conditions, our written 5-year warranty means we fix it free.</p></div>
+  <div class="benefit-card"><h4>Will they show up and actually finish?</h4><p>Clear scheduling up front, daily updates while we work, and most exterior repaints wrap in 2–4 days. No ghosting, no half-finished job sitting for weeks.</p></div>
+  <div class="benefit-card"><h4>What if my property gets damaged?</h4><p>We protect your landscaping, brick, windows, and roof lines before a drop of paint goes on, and we carry full liability and workers’ comp insurance on every job.</p></div>
+  <div class="benefit-card"><h4>What’s this really going to cost me?</h4><p>You get a detailed, line-item quote on the spot, so there’s no mystery math. 25% deposit only, and the balance isn’t due until you’ve walked the finished job with us.</p></div>
 </div>
 
 
@@ -41,16 +42,7 @@ We handle every detail from careful prep and color consultation to clean, effici
 
 ![Freshly painted stone and brick home exterior in the OKC metro](/uploads/2023/09/608E.VictoriaTerrace-3.webp)
 
-A quality exterior paint job protects your home from sun, rain, and wind while boosting curb appeal. Our OKC exterior painters deliver durable results with careful preparation and top-grade Sherwin-Williams paint. We paint siding, brick, trim, shutters, doors, and outdoor structures. We can even fix minor wood rot.
-
-### Why Our Exterior Painting Stands Out
-
-<div class="benefit-grid">
-  <div class="benefit-card"><h4>Save money</h4><p>Protect your home from severe Oklahoma weather and avoid costly repairs down the road.</p></div>
-  <div class="benefit-card"><h4>Boost style &amp; value</h4><p>Exterior paint highlights your architecture and elevates your home’s market appeal.</p></div>
-  <div class="benefit-card"><h4>Transparent process</h4><p>We respond quickly, give a detailed on-site quote, and keep you updated throughout the job.</p></div>
-  <div class="benefit-card"><h4>Peace of mind</h4><p>We’re fully insured, offer written warranties, and only hire vetted painters.</p></div>
-</div>
+A quality exterior paint job protects your home from sun, rain, and wind while boosting curb appeal. Our OKC exterior painters deliver durable results with careful preparation and top-grade Sherwin-Williams paint. We paint siding, brick, trim, shutters, doors, and outdoor structures. We can even fix minor wood rot. Done right, a repaint is more than curb appeal: it heads off the far more expensive siding and trim repairs that failing paint lets in.
 
 <p><strong>Transparent pricing:</strong> a complete exterior repaint usually runs $4,000–$10,000, depending on size and complexity, and we walk you through every line item.</p>
 
@@ -83,7 +75,7 @@ A quality exterior paint job protects your home from sun, rain, and wind while b
     <div class="phase-num">1</div>
     <h3>Schedule Your Estimate</h3>
     <p><strong>First Conversation</strong>. We’ll talk through what you’re looking for, answer questions, and schedule a visit that works for you.</p>
-    <p><strong>In-Home Visit</strong>. Your consultant looks at the areas, discusses options, and gives a detailed estimate on the spot.</p>
+    <p><strong>In-Home Visit</strong>. We walk the exterior with you, talk through options, and hand you a detailed estimate on the spot.</p>
     <p><strong>Preparing</strong>. Once the details and budget are set, we help you get the home ready and lock in scheduling and colors.</p>
   </div>
   <div class="phase">
@@ -91,30 +83,32 @@ A quality exterior paint job protects your home from sun, rain, and wind while b
     <h3>During Your Project</h3>
     <p><strong>Clear Preparation</strong>. We explain what to expect, then properly prepare every surface before painting begins.</p>
     <p><strong>Careful Painting</strong>. Our team works efficiently, pays attention to the details, and keeps you updated throughout.</p>
-    <p><strong>Final Walkthrough</strong>. Together we check every area and take care of any touch-ups quickly.</p>
+    <p><strong>Final Walkthrough</strong>. Together we check every area and take care of any touch-ups. You pay the balance only when it’s right.</p>
   </div>
   <div class="phase">
     <div class="phase-num">3</div>
     <h3>After Your Project</h3>
     <p><strong>Enjoy Your Home</strong>. Relax knowing your home is protected and looks great.</p>
-    <p><strong>Warranty</strong>. We stand by our work and are happy to address any issues that come up.</p>
+    <p><strong>Warranty</strong>. Your exterior is covered in writing for 5 years. If the paint fails under normal conditions, we fix it at no cost.</p>
     <p><strong>Ongoing Support</strong>. We want to be your painter for life. Reach out anytime about future projects.</p>
   </div>
 </div>
 
+<a class="prose-cta" href="#estimate">Schedule Your Free Estimate →</a>
+
 ## Our Exterior Paint Work
 
-![Untitled design1](/uploads/2024/03/Untitled-design1.webp)
+![Before and after of a modern OKC home with its wood siding restained a rich brown](/uploads/2024/03/Untitled-design1.webp)
 
 ![Before and after picture of a home in the Oklahoma City area that had the exterior painted.](/uploads/2024/03/Exterior-Painting-Before-and-After.webp)
 
-![Exterior Before and After2](/uploads/2024/03/Exterior-Before-and-After2.webp)
+![Before and after of a brick ranch home painted white with a restained patio cover](/uploads/2024/03/Exterior-Before-and-After2.webp)
 
-![Exterior Before and After1](/uploads/2024/03/Exterior-Before-and-After1.webp)
+![Before and after of a historic two-story home repainted blush pink with crisp white trim](/uploads/2024/03/Exterior-Before-and-After1.webp)
 
 ![Before and after picture of a front door on the exterior of a house that has been painted pink](/uploads/2024/03/Exterior-Before-and-After3.webp)
 
-![7113LostForestDr 14](/uploads/2024/07/7113LostForestDr-14.webp)
+![Freshly painted white brick and stone home exterior in the OKC metro](/uploads/2024/07/7113LostForestDr-14.webp)
 
 [See More](/gallery/)
 
@@ -140,7 +134,7 @@ Matt and Rachel Stone
 
 Whether you need a single room refreshed or your home’s entire exterior painted, we’re here to make it simple and stress-free.
 
-<a class="prose-cta" href="/contact-us/">Request a Free Quote →</a>
+<a class="prose-cta" href="#estimate">Request a Free Quote →</a>
 
 Or give us a call: (405) 400-1619
 

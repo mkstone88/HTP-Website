@@ -186,9 +186,19 @@ that are going live.
    hero subhead; estimate section rebuilt as "what happens when you reach out" (on-the-spot quote,
    written price, 25% deposit); "Why Hometown" rebuilt as **"The Four Worries We Hear at Every
    Estimate"** (fear → proof cards); trustbar de-duped (owner on every job / family-owned instead of
-   repeating warranty+insured). Now ~720 words. STILL OPEN: Matt confirm the 5616 NW 130th kitchen
-   cabinets are our work; optional content beef-up to ~1,000 words (3-step process strip + short FAQ)
-   for **"painters OKC"**; merge branch → `main` when Matt approves.
+   repeating warranty+insured). Now ~720 words. **Round 3:** "How It Works" strip added (homepage ~835
+   words); owner-presence promises scrubbed sitewide and the rule documented in CLAUDE.md +
+   brand/MESSAGING.md; Matt confirmed the 5616 NW 130th kitchen is our work. Merged to `main`.
+   **Service-page sweep (2026-07-23, same branch):** all 8 service pages (exterior, interior,
+   cabinets, fence, deck, pergola, commercial, drywall, pressure washing) got the same polish —
+   hype titles standardized to "keyword | warranty | brand", hero 'Free Estimates' bullet →
+   walk-through + no-obligation note (template-wide), estimate form embedded on every service page
+   (formId + #estimate anchors), exterior got a fear→proof worries section, payment/warranty beats
+   added to process sections, review attributions standardized, alt text fixed, cabinet page hero →
+   new 5616 kitchen photo, commercial/drywall/pressure hero badges corrected (no false 5-year
+   claim). PENDING Matt review on test site. FLAG for Matt: the walk-through-before-final-payment
+   hero bullet now shows on the commercial page too — confirm those payment terms apply to
+   commercial jobs, or we'll override that page's bullet.
 6. ⏳ execute the **cutover checklist** (in the launch-readiness report): set **`PUBLIC_NOINDEX=false`**
    on the Pages project to make it indexable (production branch is already `main`), point apex/www at Pages (keep WordPress warm for
    rollback), verify forms + image transforms live, submit `/sitemap-index.xml` to Search

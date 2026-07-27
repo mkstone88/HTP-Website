@@ -1,11 +1,12 @@
 ---
-title: "Top Pergola Staining In OKC | Protect Your Pergola Today"
-description: "For a fresh, new look, discover why we're the choice for pergola staining Oklahoma City residents recommend."
+title: "Pergola Staining OKC | 2-Year Warranty | Hometown Painting"
+description: "Pergola staining OKC homeowners trust. Wood Defender stains applied by a trained crew, backed by a written 2-year warranty on all stain work."
 permalink: "/pergola-staining-okc/"
 h1: "Pergola Staining OKC Homeowners Can Trust"
 ogImage: "/uploads/2024/03/3588-2.jpg"
 draft: false
 warranty: "2-Year Warranty"
+formId: "Gi6MfAF8VO97YgxZIwzu"
 ---
 
 ## Benefits of Pergola Staining in OKC
@@ -21,18 +22,18 @@ warranty: "2-Year Warranty"
 ## Here’s What Some of Our OKC Customers Say
 
 <div class="prose-reviews">
-  <div class="p-review"><div class="p-stars">★★★★★</div><p>“I cannot say enough about how much I appreciate Matt and his team for sealing our new fence. Matt listens to what you want, advises when needed, and holds himself and his team to a high standard. I’ll definitely be using Hometown Painting again!”</p><cite>— Jordan V. · Yukon, OK</cite></div>
-  <div class="p-review"><div class="p-stars">★★★★★</div><p>“They did an awesome job! The staff worked hard the whole time they were here. They stained our wood fence and it looks like new!”</p><cite>— Marlene · Tuttle, OK</cite></div>
-  <div class="p-review"><div class="p-stars">★★★★★</div><p>“Great job staining our fence and pavilion. I would highly recommend. Always on time, with great communication on when they’d be here to get the job started and done.”</p><cite>— Matt F. · Edmond, OK</cite></div>
+  <div class="p-review"><div class="p-stars">★★★★★</div><p>“I cannot say enough about how much I appreciate Matt and his team for sealing our new fence. Matt listens to what you want, advises when needed, and holds himself and his team to a high standard. I’ll definitely be using Hometown Painting again!”</p><cite>— Jordan V., Homeowner · Yukon</cite></div>
+  <div class="p-review"><div class="p-stars">★★★★★</div><p>“They did an awesome job! The staff worked hard the whole time they were here. They stained our wood fence and it looks like new!”</p><cite>— Marlene, Homeowner · Tuttle</cite></div>
+  <div class="p-review"><div class="p-stars">★★★★★</div><p>“Great job staining our fence and pavilion. I would highly recommend. Always on time, with great communication on when they’d be here to get the job started and done.”</p><cite>— Matt F., Homeowner · Edmond</cite></div>
 </div>
 
-<a class="prose-cta" href="/contact-us/">Request a Free Estimate →</a>
+<a class="prose-cta" href="#estimate">Request a Free Estimate →</a>
 
 ## Hometown Painting is OKC’s Pergola Staining Pro
 
 ### Customer Service
 
-Our goal is to make your pergola staining process as easy and stress-free as possible. We give you a free on-the-spot quote and keep you informed throughout with calls and texts. No waiting days to hear back.
+Our goal is to make your pergola staining process as easy and stress-free as possible. We give you a free on-the-spot quote and keep you informed throughout with calls and texts. No waiting days to hear back. And every stain job is backed by a written 2-year warranty — you don’t pay the balance until you’ve walked the finished pergola with us.
 
 ### Expertise
 
@@ -108,4 +109,4 @@ Oklahoma City’s weather can be hard on a pergola, deck, or fence. To make sure
 9. **Touch Up.** We check the whole pergola to make sure no spots were missed.
 10. **Clean Up.** We leave your property as clean as we found it.
 
-<a class="prose-cta" href="/contact-us/">Request a Free Estimate →</a>
+<a class="prose-cta" href="#estimate">Request a Free Estimate →</a>

@@ -1,18 +1,19 @@
 ---
-# Title/description restored from the primary legacy deck page (2026-07 audit) —
-# the consolidation had shipped the weaker nested duplicate's metadata.
-title: "Deck Staining OKC | Professional Deck Staining Services In Oklahoma City"
+# Title standardized 2026-07 service-page polish: keyword | warranty | brand
+# (replaces the legacy WP title restored in the 2026-07 audit).
+title: "Deck Staining OKC | 2-Year Warranty | Hometown Painting"
 description: "Professional deck staining in Oklahoma City. Transform your weathered deck with premium stains, expert application, and lasting protection."
 permalink: "/deck-staining-okc/"
 h1: "Professional Deck Staining in Oklahoma City"
 ogImage: "/uploads/2022/08/IMG_0174-min-scaled.jpg"
 draft: false
 warranty: "2-Year Warranty"
+formId: "Gi6MfAF8VO97YgxZIwzu"
 ---
 
 Your deck is one of the most valuable outdoor investments in your home. Whether you’re restoring a weathered deck or protecting a newly built one, professional deck staining in Oklahoma City keeps it beautiful, structurally sound, and protected against Oklahoma’s harsh weather. At Hometown Painting, we transform tired, gray decks into stunning outdoor living spaces.
 
-<a class="prose-cta" href="/contact-us/">Get a Free Estimate →</a>
+<a class="prose-cta" href="#estimate">Get a Free Estimate →</a>
 
 ![A freshly stained deck in Oklahoma City](/uploads/2023/02/Deck-Stain-OKC-2.webp)
 
@@ -55,7 +56,7 @@ We follow a meticulous, multi-step process built on years of experience with Okl
     <div class="phase-num">3</div>
     <h3>Seal &amp; Finish</h3>
     <p><strong>Sealing</strong>. A protective sealant adds water and UV resistance for long-lasting protection.</p>
-    <p><strong>Final Walkthrough</strong>. We inspect every detail, clean up completely, and leave your deck ready to enjoy.</p>
+    <p><strong>Final Walkthrough</strong>. We inspect every detail with you, clean up completely, and you pay the balance only when it’s right.</p>
   </div>
 </div>
 
@@ -67,7 +68,7 @@ We follow a meticulous, multi-step process built on years of experience with Okl
   <div class="mini-card"><h4>Premium Materials</h4><p>Only high-quality, professional-grade stains and sealers.</p></div>
   <div class="mini-card"><h4>Attention to Detail</h4><p>A meticulous approach on every project for flawless results.</p></div>
   <div class="mini-card"><h4>Transparent Pricing</h4><p>Honest, upfront estimates. No hidden fees or surprises.</p></div>
-  <div class="mini-card"><h4>Backed by Warranty</h4><p>Your satisfaction is our priority, and we stand behind our work.</p></div>
+  <div class="mini-card"><h4>2-Year Written Warranty</h4><p>All our stain work is covered in writing. If the finish fails under normal conditions, we make it right.</p></div>
 </div>
 
 ## Frequently Asked Questions About Deck Staining
@@ -99,6 +100,6 @@ We stain more than decks. See our [fence staining service](/fence-staining-okc/)
 
 Your deck deserves professional care from a team that understands Oklahoma City’s climate. Whether it’s deck restoration, staining, or sealing, we deliver results built to last.
 
-<a class="prose-cta" href="/contact-us/">Get a Free Estimate →</a>
+<a class="prose-cta" href="#estimate">Get a Free Estimate →</a>
 
 Or give us a call: (405) 400-1619
