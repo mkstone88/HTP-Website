@@ -204,12 +204,16 @@ that are going live.
    (`site/functions/api/lead.js`) → GHL inbound webhook. Payload mirrors the PPC funnel's
    webhook schema (name/phone/email/service/message/source/utm_*/gclid/page_url); UTMs+gclid
    captured sitewide in sessionStorage (BaseLayout); honeypot now, Turnstile-ready
-   (TURNSTILE_SECRET env). Verified end-to-end locally. ⛔ Do NOT merge until: (1) Matt creates
-   a GHL workflow with an Inbound Webhook trigger and provides the URL, (2) `GHL_WEBHOOK_URL`
-   env var is set in the Cloudflare Pages project (Production), (3) after merge, send a test
-   submission so GHL can map fields, Matt attaches contact-create + notification actions and
-   publishes, then a real end-to-end test. Service pages still use the GHL iframe until the
-   pilot is proven.
+   (TURNSTILE_SECRET env). Verified end-to-end locally. ✅ MERGED & LIVE on test (2026-07-23): Matt provided the
+   inbound-webhook URL; relay runs as `public/_worker.js` (advanced mode) because Pages doesn't
+   pick up `functions/` with a root-directory setup; `_routes.json` scopes it to `/api/*` so the
+   legacy 301s in `_redirects` still apply (verified live: POST /api/lead 200, /fence-staining/
+   301, honeypot fake-success). Two sample payloads sent to the GHL workflow trigger (test
+   contacts 405-555-0123/-0124, safe to delete). REMAINING: Matt maps fields in the GHL workflow,
+   adds contact-create + notification/auto-reply actions, PUBLISHES it, then one final live test
+   to confirm the phone notification. After a few good days, swap the 8 service pages off the
+   GHL iframe onto LeadForm. Optional hardening: `GHL_WEBHOOK_URL` env var (rotation) and
+   Turnstile keys (spam) on the Pages project.
 6. ⏳ execute the **cutover checklist** (in the launch-readiness report): set **`PUBLIC_NOINDEX=false`**
    on the Pages project to make it indexable (production branch is already `main`), point apex/www at Pages (keep WordPress warm for
    rollback), verify forms + image transforms live, submit `/sitemap-index.xml` to Search
