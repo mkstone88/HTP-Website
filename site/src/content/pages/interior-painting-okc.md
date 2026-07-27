@@ -3,6 +3,7 @@ title: "Interior Painting Oklahoma City | 5-Year Warranty | Hometown Painting"
 description: "Interior painting Oklahoma City homeowners trust. Furniture protected, floors covered, careful prep, and a written 5-year warranty on every repaint."
 permalink: "/interior-painting-okc/"
 h1: "Interior Painting Oklahoma City Homeowners Can Trust"
+heroSub: "Fresh paint should be the only trace we were there: furniture protected, floors covered, careful prep, and a written 5-year warranty behind every room."
 ogImage: "/uploads/2024/03/Interior-Painting-OKC5.jpg"
 formId: "Gi6MfAF8VO97YgxZIwzu"
 draft: false
@@ -135,37 +136,32 @@ As local Oklahoma City homeowners ourselves, we understand those concerns. Our i
 
 ## Our Interior Painting Work
 
-![Freshly painted interior walls in an Oklahoma City home](/uploads/2025/11/interior-paint-oklahoma-city.webp)
-
-![Interior repaint with crisp trim in an OKC home](/uploads/2025/11/interior-painting-okc-2.webp)
-
-![Interior painting project completed in Oklahoma City](/uploads/2025/11/interior-painting-okc.webp)
-
-![Laundry room repainted in an Oklahoma City home](/uploads/2025/11/laundry-room-painting-oklahoma-city.webp)
-
-![Living room with fresh interior paint in an OKC home](/uploads/2025/11/living-room-paint-okc.webp)
-
-![Wall painting in progress in an Oklahoma City home](/uploads/2025/11/painting-walls-in-okc.webp)
+<div class="photo-grid">
+  <img src="/uploads/2025/11/interior-paint-oklahoma-city.webp" alt="Freshly painted interior walls in an Oklahoma City home">
+  <img src="/uploads/2025/11/interior-painting-okc-2.webp" alt="Interior repaint with crisp trim in an OKC home">
+  <img src="/uploads/2025/11/interior-painting-okc.webp" alt="Interior painting project completed in Oklahoma City">
+  <img src="/uploads/2025/11/laundry-room-painting-oklahoma-city.webp" alt="Laundry room repainted in an Oklahoma City home">
+  <img src="/uploads/2025/11/living-room-paint-okc.webp" alt="Living room with fresh interior paint in an OKC home">
+  <img src="/uploads/2025/11/painting-walls-in-okc.webp" alt="Wall painting in progress in an Oklahoma City home">
+</div>
 
 [See More](/gallery/)
 
 ## About us: The Hometown Painting Story
 
-When I started my career in painting, my grandfather gave me his old paint sprayer. It wasn’t much to look at, but it was a hard working machine that helped me do great work. To me, it was the perfect symbol of my grandfather passing the torch to me.
-
-I admire the craftsmanship and integrity of my grandfather’s generation of painters. I want to continue this tradition with Hometown Painting.
-
-**The mission of Hometown Painting** is to provide the Oklahoma City Metro with painting services that combine the craftsmanship and integrity of past generations of painters with the best paint technology of today.
-
-We’re proud to be a family owned and operated company. My wife, Rachel, has played a vital role in making Hometown Painting what it is today. See what sets us apart from other painting contractors.
-
-Please take some more time to learn [about us here](/professional-painters-okc/).
-
-– *Matt Stone*
-
-![the owners of Hometown Painting LLC, Professional painters](/uploads/2022/08/paint-owners-cropped-scaled.webp)
-
-Matt and Rachel Stone
+<div class="story-grid">
+  <div class="story-copy">
+    <p>When I started my career in painting, my grandfather gave me his old paint sprayer. It wasn’t much to look at, but it was a hard working machine that helped me do great work. To me, it was the perfect symbol of my grandfather passing the torch to me.</p>
+    <p>I admire the craftsmanship and integrity of my grandfather’s generation of painters. I want to continue this tradition with Hometown Painting.</p>
+    <p><strong>The mission of Hometown Painting</strong> is to combine the craftsmanship and integrity of past generations of painters with the best paint technology of today.</p>
+    <p>We’re proud to be a family owned and operated company. My wife, Rachel, has played a vital role in making Hometown Painting what it is today. Take some more time to learn <a href="/professional-painters-okc/">about us here</a>.</p>
+    <p>– <em>Matt Stone</em></p>
+  </div>
+  <div class="story-media">
+    <img src="/uploads/2022/08/paint-owners-cropped-scaled.webp" alt="Matt and Rachel Stone, owners of Hometown Painting">
+    <p class="story-caption">Matt and Rachel Stone</p>
+  </div>
+</div>
 
 ## Let’s Start with a Free Estimate!
 

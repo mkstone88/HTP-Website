@@ -3,6 +3,7 @@ title: "Fence Staining OKC | 2-Year Warranty | Hometown Painting"
 description: "Fence staining OKC homeowners trust. Wood Defender oil-based stains applied by a trained crew, backed by a written 2-year warranty on all stain work."
 permalink: "/fence-staining-okc/"
 h1: "Fence Staining OKC Homeowners Can Trust"
+heroSub: "Protect your fence from Oklahoma weather with Wood Defender oil-based stain, applied by a factory-trained crew and backed in writing for 2 years."
 ogImage: "/uploads/2023/04/Fence-Staining-OKC.jpg"
 draft: false
 warranty: "2-Year Warranty"

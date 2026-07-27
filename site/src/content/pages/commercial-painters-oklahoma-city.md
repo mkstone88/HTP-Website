@@ -81,15 +81,18 @@ Every commercial property is unique. Our process is designed to minimize disrupt
 
 ## About Us: The Hometown Painting Story
 
-When I started my career in painting, my grandfather gave me his old paint sprayer. It wasn’t much to look at, but it was a hard-working machine that helped me do great work, the perfect symbol of him passing the torch to me.
-
-I admire the craftsmanship and integrity of my grandfather’s generation of painters, and I want to continue that tradition with Hometown Painting. Our mission is to combine that old-school craftsmanship with the best technology of today.
-
-We’re proud to be a family-owned and operated company. My wife, Rachel, has played a vital role in making Hometown Painting what it is today. [Learn more about us here](/professional-painters-okc/).
-
-– *Matt Stone*
-
-![Matt and Rachel Stone, owners of Hometown Painting](/uploads/2022/08/paint-owners-cropped-scaled.webp)
+<div class="story-grid">
+  <div class="story-copy">
+    <p>When I started my career in painting, my grandfather gave me his old paint sprayer. It wasn’t much to look at, but it was a hard-working machine that helped me do great work, the perfect symbol of him passing the torch to me.</p>
+    <p>I admire the craftsmanship and integrity of my grandfather’s generation of painters, and I want to continue that tradition with Hometown Painting. Our mission is to combine that old-school craftsmanship with the best technology of today.</p>
+    <p>We’re proud to be a family-owned and operated company. My wife, Rachel, has played a vital role in making Hometown Painting what it is today. <a href="/professional-painters-okc/">Learn more about us here</a>.</p>
+    <p>– <em>Matt Stone</em></p>
+  </div>
+  <div class="story-media">
+    <img src="/uploads/2022/08/paint-owners-cropped-scaled.webp" alt="Matt and Rachel Stone, owners of Hometown Painting">
+    <p class="story-caption">Matt and Rachel Stone</p>
+  </div>
+</div>
 
 ## Frequently Asked Questions
 

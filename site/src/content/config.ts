@@ -7,6 +7,9 @@ const pages = defineCollection({
     description: z.string(),
     permalink: z.string(),
     h1: z.string().optional(),
+    // Hero subheading shown under the H1. Falls back to `description` when unset —
+    // set this when the meta description would visually repeat the H1.
+    heroSub: z.string().optional(),
     ogImage: z.string().optional(),
     draft: z.boolean().default(false),
     // GHL form id to embed on this page (contact / estimate pages).
