@@ -1,15 +1,17 @@
 ---
-title: "Commercial Painters Oklahoma City | House Painters In The OKC Metro"
-description: "A Local, Professional Painting Company in OKC"
+title: "Commercial Painters Oklahoma City | Hometown Painting"
+description: "Commercial painting across the OKC metro: offices, retail, churches, and multi-unit properties. Dedicated project management, scheduling built around your hours."
 permalink: "/commercial-painters-oklahoma-city/"
 h1: "Oklahoma City’s Trusted Commercial Painters"
 ogImage: "/uploads/2025/06/CT-After-2.jpg"
+warranty: "Written Warranty"
+formId: "Gi6MfAF8VO97YgxZIwzu"
 draft: false
 ---
 
 Serving businesses and property managers across OKC, Edmond, Yukon, Mustang, and the surrounding metro.
 
-<a class="prose-cta" href="/contact-us/">Get a Free Estimate →</a>
+<a class="prose-cta" href="#estimate">Get a Free Estimate →</a>
 
 For a business owner or property manager, a paint job is a risk. The wrong contractor means downtime, disruption for your tenants or customers, and a crew that disappears when there’s a problem. You need work that happens on schedule, stays out of the way, and holds up.
 
@@ -50,10 +52,10 @@ Every commercial property is unique. Our process is designed to minimize disrupt
   <div class="mini-card"><h4>Dedicated Management</h4><p>One point of contact managing the project from start to finish.</p></div>
   <div class="mini-card"><h4>Interior &amp; Exterior</h4><p>All types of commercial properties, inside and out.</p></div>
   <div class="mini-card"><h4>Quality &amp; Warranty</h4><p>Quality assurance with warranty options available.</p></div>
-  <div class="mini-card"><h4>Free Estimates</h4><p>Honest, no-obligation estimates with transparent pricing.</p></div>
+  <div class="mini-card"><h4>Scheduling Around Your Hours</h4><p>Work planned to keep your business, tenants, and customers running throughout.</p></div>
 </div>
 
-<a class="prose-cta" href="/contact-us/">Get a Free Commercial Estimate →</a>
+<a class="prose-cta" href="#estimate">Get a Free Commercial Estimate →</a>
 
 ## Recent Commercial Projects
 
@@ -99,6 +101,6 @@ We’re proud to be a family-owned and operated company. My wife, Rachel, has pl
 
 Contact Hometown Painting today for a free estimate and discover why we’re Oklahoma City’s trusted commercial painting contractor.
 
-<a class="prose-cta" href="/contact-us/">Get a Free Estimate →</a>
+<a class="prose-cta" href="#estimate">Get a Free Estimate →</a>
 
 Or give us a call: (405) 400-1619

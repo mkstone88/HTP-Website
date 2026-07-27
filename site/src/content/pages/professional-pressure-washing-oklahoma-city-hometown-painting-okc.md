@@ -4,12 +4,14 @@ description: "Professional pressure washing in Oklahoma City: siding, driveways,
 permalink: "/professional-pressure-washing-oklahoma-city-hometown-painting-okc/"
 h1: "Professional Pressure Washing in Oklahoma City"
 ogImage: "/uploads/2022/08/IMG_0174-min-scaled.jpg"
+warranty: "Family-Owned & Local"
+formId: "Gi6MfAF8VO97YgxZIwzu"
 draft: false
 ---
 
 Keeping your home or business exterior clean in Oklahoma City can feel like a losing battle against the elements. Professional pressure washing takes the grime back off. At Hometown Painting, our pressure washing complements our painting services: restoring curb appeal, prepping surfaces for paint, and keeping your property clean.
 
-<a class="prose-cta" href="/contact-us/">Get a Free Estimate →</a>
+<a class="prose-cta" href="#estimate">Get a Free Estimate →</a>
 
 ![A clean, freshly washed home exterior in the OKC metro](/uploads/2023/09/608E.VictoriaTerrace-3.webp)
 
@@ -79,6 +81,6 @@ Pressure washing and painting work hand in hand. Many clients have their surface
 
 Ready to transform your Oklahoma City property? Contact Hometown Painting today for a free, no-obligation estimate (pressure washing alone or combined with our painting services).
 
-<a class="prose-cta" href="/contact-us/">Get a Free Estimate →</a>
+<a class="prose-cta" href="#estimate">Get a Free Estimate →</a>
 
 Or give us a call: (405) 400-1619
