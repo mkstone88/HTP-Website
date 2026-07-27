@@ -140,6 +140,25 @@ const postSchema =
     </main>
     <Footer />
 
+    <!-- Lead attribution: remember UTM params / gclid from the landing URL for
+         the session, so the lead form can pass them to GHL even after the
+         visitor navigates to another page. -->
+    <script is:inline>
+      (function () {
+        try {
+          var q = new URLSearchParams(location.search);
+          var keys = ['utm_source', 'utm_medium', 'utm_campaign', 'utm_content', 'gclid'];
+          var found = {};
+          var any = false;
+          keys.forEach(function (k) {
+            var v = q.get(k);
+            if (v) { found[k] = v; any = true; }
+          });
+          if (any) sessionStorage.setItem('htp_attrib', JSON.stringify(found));
+        } catch (_) {}
+      })();
+    </script>
+
     <!-- YouTube facade loader: swap the poster for the real player only on click,
          so no YouTube JS/cookies load until the visitor chooses to watch. -->
     <script is:inline>

@@ -1,8 +1,8 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import GHLForm from '../components/GHLForm.astro';
+import LeadForm from '../components/LeadForm.astro';
 import Img from '../components/Img.astro';
-import { business, forms } from '../data/site';
+import { business } from '../data/site';
 import { cfBg } from '../data/images.mjs';
 
 const heroImg = '/uploads/2024/07/7113LostForestDr-14.webp';
@@ -137,7 +137,7 @@ const work = [
         <p class="estimate-or">Prefer to talk now? <a href={business.phoneHref}>Call {business.phoneDisplay}</a></p>
       </div>
       <div class="estimate-form">
-        <GHLForm formId={forms.homepage} title="Website Form - Homepage" height={560} />
+        <LeadForm context="Homepage" />
       </div>
     </div>
   </section>
