@@ -209,9 +209,12 @@ that are going live.
    pick up `functions/` with a root-directory setup; `_routes.json` scopes it to `/api/*` so the
    legacy 301s in `_redirects` still apply (verified live: POST /api/lead 200, /fence-staining/
    301, honeypot fake-success). Two sample payloads sent to the GHL workflow trigger (test
-   contacts 405-555-0123/-0124, safe to delete). REMAINING: Matt maps fields in the GHL workflow,
-   adds contact-create + notification/auto-reply actions, PUBLISHES it, then one final live test
-   to confirm the phone notification. After a few good days, swap the 8 service pages off the
+   contacts 405-555-0123/-0124, safe to delete). ⏸️ ON HOLD (Matt, 2026-07-27) — resume when Matt
+   has time at a computer: he maps fields in the GHL workflow (two sample payloads are already in
+   the trigger), adds contact-create + notification/auto-reply actions, PUBLISHES it, then we run
+   one final live test to confirm the phone notification (test contacts 405-555-0123/-0124 to
+   delete after). The homepage pilot form is live and safely relaying to the unpublished
+   workflow in the meantime — no leads are lost pre-launch since the site is noindexed staging. After a few good days, swap the 8 service pages off the
    GHL iframe onto LeadForm. Optional hardening: `GHL_WEBHOOK_URL` env var (rotation) and
    Turnstile keys (spam) on the Pages project.
 6. ⏳ execute the **cutover checklist** (in the launch-readiness report): set **`PUBLIC_NOINDEX=false`**

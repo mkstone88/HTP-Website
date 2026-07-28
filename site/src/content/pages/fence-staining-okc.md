@@ -10,6 +10,10 @@ warranty: "2-Year Warranty"
 formId: "Gi6MfAF8VO97YgxZIwzu"
 ---
 
+Oklahoma sun and rain turn a cedar fence gray in just a couple of summers — and once the graying starts, rot and warping aren't far behind. Caught in time, a professional stain job stops the damage and makes the fence look new again. We've stained fences all across the OKC metro, and we make it easy: a free on-the-spot quote, most fences done in a day, and a written 2-year warranty behind the work.
+
+<a class="prose-cta" href="#estimate">Get a Free Estimate →</a>
+
 ## Benefits of Fence Staining in OKC
 
 <div class="pillars">
@@ -31,6 +35,17 @@ formId: "Gi6MfAF8VO97YgxZIwzu"
 </div>
 
 ![A cedar wood fence stained with oil-based stain in OKC](/uploads/2023/04/Fence-Staining-OKC-scaled.webp)
+
+## The Worries We Hear Before Every Fence Job
+
+If you're thinking them too, that's normal. Here's how we take each one off your plate.
+
+<div class="benefit-grid">
+  <div class="benefit-card"><h4>Will it come out blotchy or uneven?</h4><p>Stain only looks good if the wood is ready for it. We measure the wood’s moisture with a meter before we start, mix every batch thoroughly, and our crew has been trained directly by Wood Defender on the right way to apply their product.</p></div>
+  <div class="benefit-card"><h4>Will stain end up on my house or patio?</h4><p>Oklahoma wind is real, and we plan for it. We check the wind before we spray, mask everything near the fence — plants, patios, furniture — and hand-brush the areas next to your home and other structures.</p></div>
+  <div class="benefit-card"><h4>What’s it going to cost?</h4><p>About $1 per square foot of fence; most full backyards run $2,000–$4,000. You get a free on-the-spot quote, and the balance isn’t due until you’ve walked the finished fence with us.</p></div>
+  <div class="benefit-card"><h4>How long will it actually last?</h4><p>A quality penetrating oil stain protects for years — most homeowners restain every 2–4 years, before any graying starts. And every stain job is backed by our written 2-year warranty.</p></div>
+</div>
 
 ## Here’s What Some of Our OKC Customers Say
 
@@ -55,52 +70,62 @@ For a fresh new look, see why homeowners across the OKC metro recommend us for f
   </div>
 </div>
 
+
+<figure class="yt-figure">
+  <button type="button" class="yt-facade" data-yt="EKO65iJkJ2g" aria-label="Play video: Fence Restoration in OKC"
+    style="background-image:url('/uploads/videos/EKO65iJkJ2g.jpg')">
+    <span class="yt-play" aria-hidden="true"></span>
+  </button>
+  <figcaption>See a weathered OKC fence cleaned, restored, and stained.</figcaption>
+</figure>
+
 <a class="prose-cta" href="#estimate">Request a Free Estimate →</a>
 
-## Hometown Painting is OKC’s Fence Stain Pro
+## Our Wood Defender Stain Work in the OKC Metro
 
-### Customer Service
-
-Our Goal is to make your fence staining process as easy and stress-free as possible. We will give you a free on-the-spot quote. We will also keep you informed throughout the process with calls and texts. You won’t need to worry about whether you will get a call back or have to wait for your estimate for days. And every stain job is backed by a written 2-year warranty — you don’t pay the balance until you’ve walked the finished fence with us.
-
-### Expertise
-
-We work with you to create a game plan based on your fence’s condition and the results you are looking for. Whether your fence is brand new, has an old fading finish, or has never been stained, we have options to suit your needs.
-
-We can recommend the best product from a range of options on the market. From oil-based transparent stains to water-based solid stains, we can recommend the best product for your situation.
-
-We have received training directly from the Wood Defender team on the best ways to apply their product.
-
-#### Our fence stain process ensures:
-
-- Consistent results: We know how to achieve the best look.
-- Protecting your property: This is one of our top priorities on the job site.
-- Efficient work: Get back to enjoying your yard sooner.
-
-![fence stained with red stain in okc](/uploads/2023/02/DSC05338-2.webp)
-
-## Ready to Stain? Just Have Questions?
-
-Contact us today to speak to experienced, local,  professional painters in the OKC metro.
-
-<a class="prose-cta" href="#estimate">Contact Us →</a>
-
-## We Offer More Than Just Fence Staining
-
-<div class="svc-cards">
-  <a class="svc-card" href="/deck-staining-okc/">
-    <img src="/uploads/2023/02/Deck-Stain-OKC-2.webp" alt="A new deck with fresh stain in Oklahoma City">
-    <h4>Deck Staining</h4>
-  </a>
-  <a class="svc-card" href="/pergola-staining-okc/">
-    <img src="/uploads/2022/09/cedar-tone-wood-defender-stain.webp" alt="Cedar-tone Wood Defender stain on a pergola">
-    <h4>Pergola Staining</h4>
-  </a>
-  <div class="svc-card">
-    <img src="/uploads/2023/10/IMG_1513-scaled.webp" alt="Red oil-based stain on cedar siding in OKC">
-    <h4>Siding Staining</h4>
-  </div>
+<div class="photo-grid">
+  <img src="/uploads/2023/02/oxford-brown-fence-in-okc.webp" alt="Privacy fence stained Oxford Brown in OKC">
+  <img src="/uploads/2023/02/Deck-Stain-OKC.webp" alt="Freshly stained backyard deck in Oklahoma City">
+  <img src="/uploads/2023/02/IMG_7435.webp" alt="Cedar siding staining at the Express Clydesdale barns in Yukon">
+  <img src="/uploads/2023/02/IMG_0875.webp" alt="Stained wood fence project in the OKC metro">
+  <img src="/uploads/2022/11/fence-staining-in-edmond-ok.webp" alt="A fence in Edmond, OK that has just been stained with Wood Defender">
+  <img src="/uploads/2022/11/Horizontal-fence-stain-edmond-ok.webp" alt="Horizontal wood fence stained in Edmond, OK">
+  <img src="/uploads/2023/02/yukon-barn-after.webp" alt="Restored and stained barn siding in Yukon, OK">
+  <img src="/uploads/2023/09/608E.VictoriaTerrace-6.webp" alt="Stained backyard fence at a Victoria Terrace home in OKC">
+  <img src="/uploads/2024/03/clear-glow-fence-1.webp" alt="Fence finished with Wood Defender Clear Glow stain in OKC">
+  <img src="/uploads/2024/03/20231003_081752.webp" alt="Completed fence staining project in the OKC metro">
 </div>
+
+## Our Fence Staining Process
+
+### To ensure beautiful, lasting results every time.
+
+Oklahoma City’s weather can be hard on a fence, pergola or deck. To ensure that our OKC homeowners get the best stain work possible we follow a proven process outlined below.
+
+We have received specialized training from Wood Defender, one of the leading stain manufacturers in America. From this training, we developed our process for creating lasting stain work for all our Oklahoma City customers.
+
+1. **Initial consultation**
+   We start by listening to you. What would you like your fence stain to look like? What questions do you have and how can we help you protect your outdoor space.
+2. **Moisture Check**
+   Dry wood is critical to the success of any stain work. We use a moisture meter to measure the actual moisture content of your fence.
+3. **Wind Check**
+   Strong winds are always a concern in the Oklahoma City area. We take precautions for where the wind may blow the stain as we apply it.
+4. **Wood Prep**
+   We use a brush to remove any dirt or dry grass that may have stuck to the bottom of the fence.
+5. **Mix Stain**
+   One of the keys to creating an even, uniform stain is to thoroughly mix the stain before applying.
+6. **Mask Surrounding Areas**
+    Protecting your personal property is very important to us. We make sure to cover any plants, patios, or furniture that is in the area we are staining.
+7. **Stain Application**
+   We apply stain with an airless sprayer which allows us to get stain into all the nooks in the wood. We apply stain thick enough to saturate the wood so that it is thoroughly protected.
+8. **Cut In**
+   To protect your house, all areas next to it or any structure are stained by hand.
+9. **Touch Up**
+   We make sure to walk the entire fence after the stain is applied to make sure there are no areas that have been missed.
+10. **Clean Up**
+    We make sure that your property is as clean when we leave as it was when we arrived.
+
+<a class="prose-cta" href="#estimate">Get a Free Estimate →</a>
 
 ## Frequently Asked Questions: Fence Staining OKC
 
@@ -160,11 +185,11 @@ Contact us today to speak to experienced, local,  professional painters in the 
   </div>
 </details>
 
-## Quality Fence Staining Products
+## Best Fence Stain For Oklahoma City
 
-We most often use high quality [Wood Defender](http://wooddefender.com) penetrating oil-based stain. Wood Defender both stains and seals the wood in one step. We apply the stain according to the manufacturer’s guidelines.
+We most often use high-quality [Wood Defender](http://wooddefender.com) penetrating oil-based stain. Wood Defender both stains and seals the wood in one step, and we apply it according to the manufacturer’s guidelines.
 
-Oil-based stains protect against:
+Unlike stains that stay on the surface of the wood, penetrating stains soak down into the wood fibers. The oil repels moisture, the leading cause of wood rot and warping. Oil-based stains protect against:
 
 <ul class="tag-list">
   <li>Premature rotting</li>
@@ -176,66 +201,7 @@ Oil-based stains protect against:
 
 ![Wood fence protected with penetrating oil-based stain in the OKC metro](/uploads/2022/11/IMG_0728-scaled.webp)
 
-We test many stain brands to find the best ones to use on your fence.
-
-## Our Wood Defender Stain Work in the OKC Metro
-
-![Privacy fence stained Oxford Brown in OKC](/uploads/2023/02/oxford-brown-fence-in-okc.webp)
-
-![Freshly stained backyard deck in Oklahoma City](/uploads/2023/02/Deck-Stain-OKC.webp)
-
-![Cedar siding staining at the Express Clydesdale barns in Yukon](/uploads/2023/02/IMG_7435.webp)
-
-![Stained wood fence project in the OKC metro](/uploads/2023/02/IMG_0875.webp)
-
-![A fence in Edmond, OK that has just been stained with Wood Defender](/uploads/2022/11/fence-staining-in-edmond-ok.webp)
-
-![Horizontal wood fence stained in Edmond, OK](/uploads/2022/11/Horizontal-fence-stain-edmond-ok.webp)
-
-![Restored and stained barn siding in Yukon, OK](/uploads/2023/02/yukon-barn-after.webp)
-
-![Stained backyard fence at a Victoria Terrace home in OKC](/uploads/2023/09/608E.VictoriaTerrace-6.webp)
-
-![Fence finished with Wood Defender Clear Glow stain in OKC](/uploads/2024/03/clear-glow-fence-1.webp)
-
-![Completed fence staining project in the OKC metro](/uploads/2024/03/20231003_081752.webp)
-
-## Our Fence Staining Process
-
-### To ensure beautiful, lasting results every time.
-
-Oklahoma City’s weather can be hard on a fence, pergola or deck. To ensure that our OKC homeowners get the best stain work possible we follow a proven process outlined below.
-
-We have received specialized training from Wood Defender, one of the leading stain manufacturers in America. From this training, we developed our process for creating lasting stain work for all our Oklahoma City customers.
-
-1. **Initial consultation**
-   We start by listening to you. What would you like your fence stain to look like? What questions do you have and how can we help you protect your outdoor space.
-2. **Moisture Check**
-   Dry wood is critical to the success of any stain work. We use a moisture meter to measure the actual moisture content of your fence.
-3. **Wind Check**
-   Strong winds are always a concern in the Oklahoma City area. We take precautions for where the wind may blow the stain as we apply it.
-4. **Wood Prep**
-   We use a brush to remove any dirt or dry grass that may have stuck to the bottom of the fence.
-5. **Mix Stain**
-   One of the keys to creating an even, uniform stain is to thoroughly mix the stain before applying.
-6. **Mask Surrounding Areas**
-    Protecting your personal property is very important to us. We make sure to cover any plants, patios, or furniture that is in the area we are staining.
-7. **Stain Application**
-   We apply stain with an airless sprayer which allows us to get stain into all the nooks in the wood. We apply stain thick enough to saturate the wood so that it is thoroughly protected.
-8. **Cut In**
-   To protect your house, all areas next to it or any structure are stained by hand.
-9. **Touch Up**
-   We make sure to walk the entire fence after the stain is applied to make sure there are no areas that have been missed.
-10. **Clean Up**
-    We make sure that your property is as clean when we leave as it was when we arrived.
-
-<a class="prose-cta" href="#estimate">Get a Free Estimate →</a>
-
-## Best Fence Stain For Oklahoma City
-
-We recommend using a quality oil based penetrating stain to protect your wood fence, deck or pergola. Unlike stains that stay on the surface of the wood, penetrating stains soak down into the wood fibers.
-
-The oil repels moisture, the leading cause of wood rot and warping. We have two types of oil based stain so we can take care of any situation. Browse our most popular shades on the [Wood Defender fence stain colors](/okc-fence-stain-colors/) page.
+We test many stain brands to find the best ones to use on your fence. We carry two types of oil-based stain so we can take care of any situation. Browse our most popular shades on the [Wood Defender fence stain colors](/okc-fence-stain-colors/) page.
 
 ### Transparent Fence Stain
 
@@ -255,14 +221,28 @@ Semi-transparent stains are also great for covering more of the imperfections in
 
 ![Hometown Painting graphic comparing fence stain options](/uploads/2022/10/Hometown-graph-1-scaled.webp)
 
+## Ready to Stain? Just Have Questions?
 
-<figure class="yt-figure">
-  <button type="button" class="yt-facade" data-yt="EKO65iJkJ2g" aria-label="Play video: Fence Restoration in OKC"
-    style="background-image:url('/uploads/videos/EKO65iJkJ2g.jpg')">
-    <span class="yt-play" aria-hidden="true"></span>
-  </button>
-  <figcaption>See a weathered OKC fence cleaned, restored, and stained.</figcaption>
-</figure>
+Contact us today to speak to experienced, local professionals who stain fences, decks, and pergolas across the OKC metro.
+
+<a class="prose-cta" href="#estimate">Contact Us →</a>
+
+## We Offer More Than Just Fence Staining
+
+<div class="svc-cards">
+  <a class="svc-card" href="/deck-staining-okc/">
+    <img src="/uploads/2023/02/Deck-Stain-OKC-2.webp" alt="A new deck with fresh stain in Oklahoma City">
+    <h4>Deck Staining</h4>
+  </a>
+  <a class="svc-card" href="/pergola-staining-okc/">
+    <img src="/uploads/2022/09/cedar-tone-wood-defender-stain.webp" alt="Cedar-tone Wood Defender stain on a pergola">
+    <h4>Pergola Staining</h4>
+  </a>
+  <div class="svc-card">
+    <img src="/uploads/2023/10/IMG_1513-scaled.webp" alt="Red oil-based stain on cedar siding in OKC">
+    <h4>Siding Staining</h4>
+  </div>
+</div>
 
 ## From Our Fence Staining Blog
 
