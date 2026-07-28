@@ -217,6 +217,17 @@ that are going live.
    workflow in the meantime — no leads are lost pre-launch since the site is noindexed staging. After a few good days, swap the 8 service pages off the
    GHL iframe onto LeadForm. Optional hardening: `GHL_WEBHOOK_URL` env var (rotation) and
    Turnstile keys (spam) on the Pages project.
+   **City-page rebuilds (mini-homepage model, started 2026-07-28):** ✅ **Yukon done** — the
+   template for the rest: distinct heroSub, problem-first intro (builder-grade paint angle from
+   Matt), 6-service grid with REAL city photos (4 new Yukon shots from Matt's Drive + the
+   cataloged Yukon interior entry), "A Family Tie to Yukon" note (first son born there, per
+   Matt), Clydesdale barns feature block linking the project story, city gallery (photo-grid),
+   How It Works strip, on-page form, builder-grade + discounts FAQs. TO DO same treatment:
+   **Edmond** (need Matt: real local note to replace "your vision is our mission" clichés +
+   neighborhoods), **Mustang** (photo honesty: cross-city images labeled as Mustang),
+   **Bethany** (fix "We live in Bethany" → "got our start in Bethany" per business facts!),
+   **Mesta Park** (lightest: cites, form, title). Company Cam credential available for
+   city-tagged photo sourcing.
 6. ⏳ execute the **cutover checklist** (in the launch-readiness report): set **`PUBLIC_NOINDEX=false`**
    on the Pages project to make it indexable (production branch is already `main`), point apex/www at Pages (keep WordPress warm for
    rollback), verify forms + image transforms live, submit `/sitemap-index.xml` to Search
