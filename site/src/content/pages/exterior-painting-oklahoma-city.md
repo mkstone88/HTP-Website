@@ -43,7 +43,7 @@ If you're thinking them too, that's normal. Here's how we take each one off your
 
 ![Freshly painted stone and brick home exterior in the OKC metro](/uploads/2023/09/608E.VictoriaTerrace-3.webp)
 
-A quality exterior paint job protects your home from sun, rain, and wind while boosting curb appeal. Our OKC exterior painters deliver durable results with careful preparation and top-grade Sherwin-Williams paint. We paint siding, brick, trim, shutters, doors, and outdoor structures. We can even fix minor wood rot. Done right, a repaint is more than curb appeal: it heads off the far more expensive siding and trim repairs that failing paint lets in.
+A quality exterior paint job protects your home from sun, rain, and wind while boosting curb appeal. Our OKC exterior painters deliver durable results with careful preparation and top-grade Sherwin-Williams paint. We paint siding, [brick](/brick-painting-okc/), trim, shutters, doors, and outdoor structures. We can even fix minor wood rot. Done right, a repaint is more than curb appeal: it heads off the far more expensive siding and trim repairs that failing paint lets in.
 
 <p><strong>Transparent pricing:</strong> a complete exterior repaint usually runs $4,000–$10,000, depending on size and complexity, and we walk you through every line item.</p>
 
