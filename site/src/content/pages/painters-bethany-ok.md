@@ -3,13 +3,13 @@ title: "House Painters Bethany OK | 5-Year Warranty | Hometown Painting"
 description: "House painters Bethany, OK homeowners trust: interior, exterior, cabinets, and staining. The town where Hometown Painting got its start. 5-year written warranty."
 permalink: "/painters-bethany-ok/"
 h1: "House Painters in Bethany, OK: Inside and Out"
-heroSub: "Bethany is where Hometown Painting got its start, and we still take care of our neighbors here — interior, exterior, and staining, backed by a written warranty."
+heroSub: "Bethany is where Hometown Painting got its start, and we still take care of our neighbors here: interior, exterior, and staining, backed by a written warranty."
 ogImage: "/uploads/2022/11/exterior-painting-bethany-ok-scaled.jpg"
 formId: "Gi6MfAF8VO97YgxZIwzu"
 draft: false
 ---
 
-Bethany is an established town, and that shows up in its houses: solid mid-century brick homes with wood trim, eaves, and fascia that have been through more Oklahoma summers than the last paint job was ever rated for. Those homes are worth doing right. They usually don't need a big custom-home budget — they need honest prep work, quality paint, and someone who won't cut corners on the parts you can't see from the driveway. That's the work we've been doing in Bethany since the day we started.
+Bethany is an established town, and that shows up in its houses: solid mid-century brick homes with wood trim, eaves, and fascia that have been through more Oklahoma summers than the last paint job was ever rated for. Those homes are worth doing right. They usually don't need a big custom-home budget. They need honest prep work, quality paint, and someone who won't cut corners on the parts you can't see from the driveway. That's the work we've been doing in Bethany since the day we started.
 
 <a class="prose-cta" href="#estimate">Request a Free Estimate →</a>
 
@@ -17,7 +17,7 @@ Bethany is an established town, and that shows up in its houses: solid mid-centu
 
 ## Bethany, OK Painting Services
 
-Whatever brought you here — tired trim, a dated interior, a graying fence — we handle it, and every job is backed by our written warranty.
+Tired trim, a dated interior, a graying fence: whatever brought you here, we handle it, and every job is backed by our written warranty.
 
 <div class="svc-cards">
   <a class="svc-card" href="/exterior-painting-oklahoma-city/"><img src="/uploads/2022/11/shutters-painted-in-bethany-ok-scaled.webp" alt="Brick ranch home in Bethany, OK with freshly painted black shutters"><h4>Exterior Painting</h4></a>
@@ -30,11 +30,16 @@ Whatever brought you here — tired trim, a dated interior, a graying fence — 
 
 ## Why We Love Painting in Bethany, OK
 
-“Bethany is where Hometown Painting got its start, so this town will always be home base for us. We love doing paint jobs here because these are the neighbors who gave us our first shot. From the downtown antique stores to the trails around Lake Overholser, we're glad to still be part of this community and to help keep its homes looking their best.”
-
-*— Matt Stone, Owner, Hometown Painting LLC*
-
-![A brick home in Bethany, OK with newly painted shutters](/uploads/2022/11/shutters-painted-in-bethany-ok-1.webp)
+<div class="story-grid">
+  <div class="story-copy">
+    <p>“Bethany is where Hometown Painting got its start, so this town will always be home base for us. We love doing paint jobs here because these are the neighbors who gave us our first shot. From the downtown antique stores to the trails around Lake Overholser, we're glad to still be part of this community and to help keep its homes looking their best.”</p>
+    <p>— <em>Matt Stone, Owner, Hometown Painting LLC</em></p>
+  </div>
+  <div class="story-media">
+    <img src="/uploads/2022/11/shutters-painted-in-bethany-ok-1.webp" alt="A brick home in Bethany, OK with newly painted shutters">
+    <p class="story-caption">Newly painted shutters on a Bethany brick home</p>
+  </div>
+</div>
 
 ## Here’s What Our Bethany Customers Say
 

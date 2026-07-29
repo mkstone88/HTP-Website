@@ -10,7 +10,7 @@ warranty: "2-Year Warranty"
 formId: "Gi6MfAF8VO97YgxZIwzu"
 ---
 
-Oklahoma sun and rain turn a cedar fence gray in just a couple of summers — and once the graying starts, rot and warping aren't far behind. Caught in time, a professional stain job stops the damage and makes the fence look new again. We've stained fences all across the OKC metro, and we make it easy: a free on-the-spot quote, most fences done in a day, and a written 2-year warranty behind the work.
+Oklahoma sun and rain turn a cedar fence gray in just a couple of summers, and once the graying starts, rot and warping aren't far behind. Caught in time, a professional stain job stops the damage and makes the fence look new again. We've stained fences all across the OKC metro, and we make it easy: a free on-the-spot quote, most fences done in a day, and a written 2-year warranty behind the work.
 
 <a class="prose-cta" href="#estimate">Get a Free Estimate →</a>
 
@@ -42,9 +42,9 @@ If you're thinking them too, that's normal. Here's how we take each one off your
 
 <div class="benefit-grid">
   <div class="benefit-card"><h4>Will it come out blotchy or uneven?</h4><p>Stain only looks good if the wood is ready for it. We measure the wood’s moisture with a meter before we start, mix every batch thoroughly, and our crew has been trained directly by Wood Defender on the right way to apply their product.</p></div>
-  <div class="benefit-card"><h4>Will stain end up on my house or patio?</h4><p>Oklahoma wind is real, and we plan for it. We check the wind before we spray, mask everything near the fence — plants, patios, furniture — and hand-brush the areas next to your home and other structures.</p></div>
+  <div class="benefit-card"><h4>Will stain end up on my house or patio?</h4><p>Oklahoma wind is real, and we plan for it. We check the wind before we spray, mask everything near the fence (plants, patios, furniture) and hand-brush the areas next to your home and other structures.</p></div>
   <div class="benefit-card"><h4>What’s it going to cost?</h4><p>About $1 per square foot of fence; most full backyards run $2,000–$4,000. You get a free on-the-spot quote, and the balance isn’t due until you’ve walked the finished fence with us.</p></div>
-  <div class="benefit-card"><h4>How long will it actually last?</h4><p>A quality penetrating oil stain protects for years — most homeowners restain every 2–4 years, before any graying starts. And every stain job is backed by our written 2-year warranty.</p></div>
+  <div class="benefit-card"><h4>How long will it actually last?</h4><p>A quality penetrating oil stain protects for years. Most homeowners restain every 2–4 years, before any graying starts. And every stain job is backed by our written 2-year warranty.</p></div>
 </div>
 
 ## Here’s What Some of Our OKC Customers Say
