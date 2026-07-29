@@ -22,7 +22,7 @@ Whatever brought you here — a faded exterior, a dated kitchen, a gray fence �
 <div class="svc-cards">
   <a class="svc-card" href="/exterior-painting-oklahoma-city/"><img src="/uploads/2026/01/yukon-500-war-eagle-front.webp" alt="Exterior repaint of a brick and stone home on War Eagle Drive in Yukon, OK"><h4>Exterior Painting</h4></a>
   <a class="svc-card" href="/interior-painting-okc/"><img src="/uploads/2026/01/yukon-interior-entryway.webp" alt="Entryway painted light blue with white trim in a Yukon, OK home"><h4>Interior Painting</h4></a>
-  <a class="svc-card" href="/cabinet-painting-okc/"><img src="/uploads/2026/01/5616NW130thSt-Interior-9.webp" alt="Kitchen island and vent hood painted sage green by Hometown Painting"><h4>Cabinet Painting</h4></a>
+  <a class="svc-card" href="/cabinet-painting-okc/"><img src="/uploads/2026/01/yukon-bathroom-vanity-painted.webp" alt="Double bathroom vanity painted white in a Yukon, OK home"><h4>Cabinet Painting</h4></a>
   <a class="svc-card" href="/fence-staining-okc/"><img src="/uploads/2023/02/oxford-brown-fence-in-okc-scaled.webp" alt="Privacy fence stained Oxford Brown by Hometown Painting"><h4>Fence &amp; Deck Staining</h4></a>
   <a class="svc-card" href="/professional-drywall-repair-oklahoma-city-hometown-painting-okc/"><img src="/uploads/2024/03/Interior-Painting-OKC5.webp" alt="Smooth repaired and repainted interior walls"><h4>Drywall Repair</h4></a>
   <a class="svc-card" href="/professional-pressure-washing-oklahoma-city-hometown-painting-okc/"><img src="/uploads/2023/09/608E.VictoriaTerrace-3-scaled.webp" alt="Clean, freshly washed home exterior"><h4>Pressure Washing</h4></a>
@@ -59,6 +59,7 @@ Yukon's most famous barns — home of the world-champion Express Clydesdales —
   <img src="/uploads/2026/01/yukon-500-war-eagle-porch.webp" alt="Front porch and entry of a Yukon home after a full exterior repaint">
   <img src="/uploads/2026/01/yukon-brick-two-story-exterior.webp" alt="Two-story brick and stone Yukon home with a freshly painted exterior">
   <img src="/uploads/2026/01/yukon-timber-porch-repaint.webp" alt="Craftsman brick home in Yukon with restained timber porch beams, repaint in progress">
+  <img src="/uploads/2026/01/yukon-bathroom-vanity-painted.webp" alt="Bathroom vanity cabinets painted white against sage walls in a Yukon, OK home">
   <img src="/uploads/2023/02/yukon-barn-after.webp" alt="The Express Clydesdale barn in Yukon after siding restoration and staining">
   <img src="/uploads/2023/02/IMG_7435.webp" alt="Restored and stained cedar siding at the Express Clydesdale barns in Yukon">
 </div>
