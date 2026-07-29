@@ -41,18 +41,31 @@ Read our full comparison: [Painted Brick vs. Limewash for Your OKC Home →](/pa
 
 ## A Favorite: Off-White Brick, Black Trim, Total Transformation
 
-One of our favorite brick jobs was for the Newton family in Edmond. Their home had the classic brick look you see all over the metro — nothing wrong with it, it just was never really *them*. She'd always wanted something different, so we painted the brick an off-white and the woodwork black, and they love the contrast. Same house, completely new home.
+One of our favorite brick jobs was for the Newton family in Edmond. Their home had the classic brick look you see all over the metro — nothing wrong with it, it just was never really *them*. Ashley had always wanted something different, so we painted the brick an off-white and the woodwork black, and they love the contrast. Same house, completely new home.
 
 
 <figure class="yt-figure">
-  <button type="button" class="yt-facade" data-yt="hXBGA4UpKdU" aria-label="Play video: Exterior Brick Painting Testimonial — Oklahoma City"
+  <button type="button" class="yt-facade" data-yt="nrJplw7BH9E" aria-label="Play video: Exterior Brick Painting in Edmond, OK — Ashley Newton's Testimonial"
+    style="background-image:url('/uploads/videos/nrJplw7BH9E.jpg')">
+    <span class="yt-play" aria-hidden="true"></span>
+  </button>
+  <figcaption>Ashley Newton on their Edmond brick transformation.</figcaption>
+</figure>
+
+## When You've Done the Research and Want a Specialist
+
+Some homeowners come to us already knowing exactly what they want. Kassy Kneely had bought a new house and done her homework: she knew she wanted Romabio on her brick, specifically. Her builder's painter didn't work with the product — so she went looking for someone who specialized in it and had real experience applying it, and that search led her to us. If you've been deep in the research rabbit hole too, you'll be in good company.
+
+
+<figure class="yt-figure">
+  <button type="button" class="yt-facade" data-yt="hXBGA4UpKdU" aria-label="Play video: Exterior Brick Painting Testimonial — Oklahoma City, Kassy Kneely"
     style="background-image:url('/uploads/videos/hXBGA4UpKdU.jpg')">
     <span class="yt-play" aria-hidden="true"></span>
   </button>
-  <figcaption>Hear from the Newtons about their Edmond brick transformation.</figcaption>
+  <figcaption>Kassy Kneely on finding a painter who specializes in Romabio.</figcaption>
 </figure>
 
-Want to see another one? Watch a [Mustang brick exterior go from rustic to contemporary](/painters-mustang-ok/) on our Mustang page.
+Want to see one more? Watch a [Mustang brick exterior go from rustic to contemporary](/painters-mustang-ok/) on our Mustang page.
 
 ## Our Painted Brick Work in the OKC Metro
 
