@@ -8,6 +8,10 @@
 // in BaseLayout) so a YouTube iframe/player is only fetched when the visitor
 // actually clicks play — zero third-party JS or cookies on initial page load.
 
+// TODO: add 'hXBGA4UpKdU' (HometownPainting Testimonial ~ Exterior Brick Painting
+// Oklahoma City — the Newton family video, embedded on /brick-painting-okc/) once its
+// real upload date is confirmed from YouTube Studio; until then the embed works but
+// emits no VideoObject schema. Same for the brick short 'nrJplw7BH9E' if we use it.
 export const videos = {
   'llBUrl-jlWo': {
     title: 'Historic Home Revitalized — Mesta Park Exterior Painting Testimonial',

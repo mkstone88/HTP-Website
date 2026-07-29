@@ -258,7 +258,7 @@ that are going live.
    webp alone; needs eyeballing or comparing against Drive originals).
    Company Cam credential available for future city-tagged photo sourcing.
 
-### 🧱 Brick painting silo (tagged 2026-07-28, future session — Matt wants more of this work)
+### 🧱 Brick painting silo — ✅ BUILT 2026-07-29 (details below; original plan kept for reference)
    We have a blog post (`blog/brick-painting-okc.md`) but **no dedicated brick service page** —
    brick is only mentioned inside the exterior page. Plan: build a full brick-painting service
    page on the current pattern (hero, worries, gallery, pricing, FAQ, form), then support it with
@@ -270,6 +270,21 @@ that are going live.
    brick-painting FAQ on the Edmond page to link from. **Interview Matt
    first** (why he likes brick work, what homeowners get wrong about painting brick, prep/product
    specifics, durability + warranty) per the CLAUDE.md content process.
+   **DONE 2026-07-29 after interviewing Matt:** `/brick-painting-okc/` promoted from blog post to
+   full service page (same URL, no redirect needed): transformation-first intro (Matt: most
+   complete exterior change without a remodel, ~1/3 the cost, ~3 days), brick-specific worries
+   section (permanence → THE SAMPLE WALL differentiator; wrong-paint danger → breathable Romabio;
+   $6–12k pricing from Matt; honest 20-yr manufacturer vs 5-yr workmanship warranty framing),
+   painted-vs-limewash section, Newton family story + their real video testimonial (hXBGA4UpKdU,
+   Matt provided; poster mirrored locally; ⚠️ upload date unknown so it's NOT in videos.mjs yet —
+   no VideoObject schema until confirmed, TODO comment left there; brick short nrJplw7BH9E also
+   available unused), 6-photo painted-brick gallery (5 new photos from Matt's brick folder),
+   3-step brick process (wash/prep → sample wall → spray+back-brush), BIA breathability citation
+   kept, 6 FAQs, on-page form. Supporting posts: `/painted-brick-vs-limewash-okc/` and
+   `/cost-to-paint-brick-home-okc/` (both dated 2026-07-29), interlinked with the service page +
+   exterior page; inbound links added from the exterior page prose and the Edmond brick FAQ.
+   REMAINING (small): confirm the two videos' upload dates from YouTube Studio → add to
+   videos.mjs for schema; consider a true before shot of a brick job if Matt has one.
 
 ### 📺 Client pre-appointment "welcome" page (tagged 2026-07-28, future session — Matt's idea)
    Replace the bare YouTube-short link Matt texts before estimates with a real page: a noindexed
