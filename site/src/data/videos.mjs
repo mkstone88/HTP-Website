@@ -8,10 +8,11 @@
 // in BaseLayout) so a YouTube iframe/player is only fetched when the visitor
 // actually clicks play — zero third-party JS or cookies on initial page load.
 
-// TODO: add 'hXBGA4UpKdU' (HometownPainting Testimonial ~ Exterior Brick Painting
-// Oklahoma City — the Newton family video, embedded on /brick-painting-okc/) once its
-// real upload date is confirmed from YouTube Studio; until then the embed works but
-// emits no VideoObject schema. Same for the brick short 'nrJplw7BH9E' if we use it.
+// TODO: add the two /brick-painting-okc/ testimonials once their real upload dates
+// are confirmed from YouTube Studio — until then the embeds work but emit no
+// VideoObject schema. Attribution confirmed by Matt (2026-07-29):
+//   'nrJplw7BH9E' = Ashley Newton, Edmond brick transformation (short)
+//   'hXBGA4UpKdU' = Kassy Kneely, new-build Romabio brick job (long form)
 export const videos = {
   'llBUrl-jlWo': {
     title: 'Historic Home Revitalized — Mesta Park Exterior Painting Testimonial',
