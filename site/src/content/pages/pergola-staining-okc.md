@@ -34,7 +34,7 @@ formId: "Gi6MfAF8VO97YgxZIwzu"
 
 ### Customer Service
 
-Our goal is to make your pergola staining process as easy and stress-free as possible. We give you a free on-the-spot quote and keep you informed throughout with calls and texts. No waiting days to hear back. And every stain job is backed by a written 2-year warranty — you don’t pay the balance until you’ve walked the finished pergola with us.
+Our goal is to make your pergola staining process as easy and stress-free as possible. We give you a free on-the-spot quote and keep you informed throughout with calls and texts. No waiting days to hear back. Every stain job is backed by a written 2-year warranty, and you don’t pay the balance until you’ve walked the finished pergola with us.
 
 ### Expertise
 

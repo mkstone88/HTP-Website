@@ -9,7 +9,7 @@ formId: "Gi6MfAF8VO97YgxZIwzu"
 draft: false
 ---
 
-Edmond homes are big: two stories of brick and Hardie, tall entryways, deep eaves, and a lot of trim. That's more surface, more height, and more places for Oklahoma weather to get in. It also means the cost of hiring wrong is higher here — a rushed crew that skips prep on a house this size doesn't save you money, it just moves the repaint from year twelve to year five. We scope every Edmond home individually, prep it properly, use premium Sherwin-Williams, and back the work with a written 5-year warranty.
+Edmond homes are big: two stories of brick and Hardie, tall entryways, deep eaves, and a lot of trim. That's more surface, more height, and more places for Oklahoma weather to get in. It also means the cost of hiring wrong is higher here. A rushed crew that skips prep on a house this size doesn't save you money; it just moves the repaint from year twelve to year five. We scope every Edmond home individually, prep it properly, use premium Sherwin-Williams, and back the work with a written 5-year warranty.
 
 <a class="prose-cta" href="#estimate">Request a Free Estimate →</a>
 
@@ -17,7 +17,7 @@ Edmond homes are big: two stories of brick and Hardie, tall entryways, deep eave
 
 ## Painting Services in Edmond, OK
 
-Whatever brought you here — a faded exterior, dated cabinets, a graying fence — we handle it, and every job is backed by our written warranty.
+A faded exterior, dated cabinets, a graying fence: whatever brought you here, we handle it, and every job is backed by our written warranty.
 
 <div class="svc-cards">
   <a class="svc-card" href="/exterior-painting-oklahoma-city/"><img src="/uploads/2026/01/edmond-timberdale-painted-brick.webp" alt="Painted white brick ranch home on Timberdale Drive in Edmond, OK"><h4>Exterior Painting</h4></a>
@@ -30,11 +30,16 @@ Whatever brought you here — a faded exterior, dated cabinets, a graying fence 
 
 ## A Note From Matt
 
-Hello, I’m Matt, the owner of Hometown Painting. On a house the size of most Edmond homes, the paint job is won or lost before the first coat goes on: washing, scraping, sanding, caulking, and priming the spots nobody sees from the street. That's the part we won't rush. You'll get a detailed written estimate on the spot, daily updates while we work, and a final walk-through before you pay the balance. Reach out any time for a free [estimate](#estimate) or with any questions.
-
-*— Matt Stone, Owner of Hometown Painting*
-
-![Matt Stone, a painter serving Edmond, OK](/uploads/2023/08/20230509_2013151-scaled.webp)
+<div class="story-grid">
+  <div class="story-copy">
+    <p>Hello, I’m Matt, the owner of Hometown Painting. On a house the size of most Edmond homes, the paint job is won or lost before the first coat goes on: washing, scraping, sanding, caulking, and priming the spots nobody sees from the street. That's the part we won't rush. You'll get a detailed written estimate on the spot, daily updates while we work, and a final walk-through before you pay the balance. Reach out any time for a free <a href="#estimate">estimate</a> or with any questions.</p>
+    <p>— <em>Matt Stone, Owner of Hometown Painting</em></p>
+  </div>
+  <div class="story-media">
+    <img src="/uploads/2023/08/20230509_2013151-scaled.webp" alt="Matt Stone, a painter serving Edmond, OK">
+    <p class="story-caption">Matt Stone</p>
+  </div>
+</div>
 
 ## Before &amp; After: Romeo Drive, Edmond
 

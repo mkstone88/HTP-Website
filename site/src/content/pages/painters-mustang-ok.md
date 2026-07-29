@@ -9,7 +9,7 @@ formId: "Gi6MfAF8VO97YgxZIwzu"
 draft: false
 ---
 
-Severe weather really is more likely on the south side of the metro, and the [statistics](https://www.weather.gov/oun/tornadodata-okc) back that up. Wind-driven rain, hail, and relentless sun find every gap in a paint job out here, and once moisture gets behind the coating, you're not looking at a paint problem anymore — you're looking at wood rot and trim replacement. That's why we don't rush prep in Mustang. We scrape, sand, caulk, and prime first, then use Sherwin-Williams Duration for its extra-thick, fade- and peel-resistant coat.
+Severe weather really is more likely on the south side of the metro, and the [statistics](https://www.weather.gov/oun/tornadodata-okc) back that up. Wind-driven rain, hail, and relentless sun find every gap in a paint job out here, and once moisture gets behind the coating, you're not looking at a paint problem anymore. You're looking at wood rot and trim replacement. That's why we don't rush prep in Mustang. We scrape, sand, caulk, and prime first, then use Sherwin-Williams Duration for its extra-thick, fade- and peel-resistant coat.
 
 <a class="prose-cta" href="#estimate">Request a Free Estimate →</a>
 
@@ -17,7 +17,7 @@ Severe weather really is more likely on the south side of the metro, and the [st
 
 ## Our Mustang, OK Painting Services
 
-Whatever brought you here — a weather-beaten exterior, dated cabinets, a graying fence — we handle it, and every job is backed by our written warranty.
+A weather-beaten exterior, dated cabinets, a graying fence: whatever brought you here, we handle it, and every job is backed by our written warranty.
 
 <div class="svc-cards">
   <a class="svc-card" href="/exterior-painting-oklahoma-city/"><img src="/uploads/2023/02/exterior-painters-mustang.webp" alt="Gray craftsman-style home in Mustang, OK painted by Hometown Painting"><h4>Exterior Painting</h4></a>
@@ -38,11 +38,16 @@ Whatever brought you here — a weather-beaten exterior, dated cabinets, a grayi
 
 ## Why We Love Mustang, OK
 
-“I love the vibe in [Mustang, OK](https://www.cityofmustang.org/): hard-working folks who love their families and their country. We’ve had the privilege of helping many of our Mustang neighbors paint their homes and enjoyed every project. We even spend the 4th of July with friends in Mustang, because their fireworks are the best!”
-
-*— Matt, Owner, Hometown Painting LLC*
-
-![Matt Stone, painter serving Mustang, OK](/uploads/2023/08/20230509_2013151.webp)
+<div class="story-grid">
+  <div class="story-copy">
+    <p>“I love the vibe in <a href="https://www.cityofmustang.org/">Mustang, OK</a>: hard-working folks who love their families and their country. We’ve had the privilege of helping many of our Mustang neighbors paint their homes and enjoyed every project. We even spend the 4th of July with friends in Mustang, because their fireworks are the best!”</p>
+    <p>— <em>Matt, Owner, Hometown Painting LLC</em></p>
+  </div>
+  <div class="story-media">
+    <img src="/uploads/2023/08/20230509_2013151.webp" alt="Matt Stone, painter serving Mustang, OK">
+    <p class="story-caption">Matt Stone</p>
+  </div>
+</div>
 
 ## What Mustang Homeowners Say
 
@@ -97,7 +102,7 @@ Whatever brought you here — a weather-beaten exterior, dated cabinets, a grayi
 <details class="faq-item"><summary>How much does it cost to paint a home in Mustang, OK?</summary><div><p>Most <strong>exterior repaints in Mustang run $4,000–$8,000</strong>. Mustang’s newer suburban homes range from single-story to larger two-story builds, so your exterior price tracks your home’s size and how much prep the Oklahoma weather has made necessary.</p><p><strong>Interior pricing depends on scope</strong>: how many rooms, and which surfaces (just the walls, or walls, trim, ceilings, and doors). A couple of rooms might run $2,000–$4,000, while a full-home repaint of every surface runs $8,000–$12,000 or more. See our <a href="/pricing/interior-pricing/">interior painting pricing guide</a> for room-by-room ranges. You’ll get a firm, itemized number at your free estimate, never a surprise later.</p></div></details>
 <details class="faq-item"><summary>How often will I need to repaint out here?</summary><div><p>The standard is every 7–10 years, and south-metro weather pushes some homes toward the shorter end. The biggest factors are how much sun a wall takes and how good the prep was last time. If you're seeing chalking, cracked caulk, or peeling, it's time.</p></div></details>
 <details class="faq-item"><summary>Are you insured?</summary><div><p>Yes, we carry both liability and workers’ comp insurance on every job.</p></div></details>
-<details class="faq-item"><summary>Do you offer discounts in Mustang?</summary><div><p>Yes. We offer discounts for military members and first responders — just mention it at your free estimate.</p></div></details>
+<details class="faq-item"><summary>Do you offer discounts in Mustang?</summary><div><p>Yes. We offer discounts for military members and first responders. Just mention it at your free estimate.</p></div></details>
 
 ## Ready for a Free Estimate in Mustang?
 

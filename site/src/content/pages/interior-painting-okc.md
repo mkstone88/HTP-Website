@@ -17,7 +17,7 @@ Fresh interior paint changes how a room *feels*: brighter, cleaner, and more wel
 - Will the finish look professional?
 - Will they communicate well?
 
-As local Oklahoma City homeowners ourselves, we understand those concerns. Our interior painting process keeps things simple, respectful, and hassle-free — and you don't pay the balance until you've walked the finished job with us.
+As local Oklahoma City homeowners ourselves, we understand those concerns. Our interior painting process keeps things simple, respectful, and hassle-free, and you don't pay the balance until you've walked the finished job with us.
 
 <a class="prose-cta" href="#estimate">Get a Free Estimate →</a>
 
