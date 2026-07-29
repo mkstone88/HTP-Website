@@ -229,9 +229,17 @@ that are going live.
    from Matt's Drive: a repaired/painted backyard shed — which pairs with Helen M.'s review about
    her shed — and a bronze-painted garage door), How It Works, on-page form. Yukon also gained a
    real Yukon painted bathroom vanity (Matt, 2026-07-28) on its cabinet card + gallery, replacing
-   a non-Yukon kitchen photo. TO DO same treatment: **Edmond** (⏳ WAITING ON MATT: photos in a
-   Drive folder + a real local note to replace the "your vision is our mission" clichés; then
-   it's ready to roll), **Mustang** (photo honesty: cross-city images currently labeled as
+   a non-Yukon kitchen photo. ✅ **Edmond done (2026-07-29)** — Matt sent a Drive
+   folder; 10 real Edmond photos optimized (Lakeshire Ridge hero, Lost Forest, two Timberdale
+   painted-brick shots, Romeo Dr BEFORE/AFTER pair — the before even shows the crew pressure
+   washing — painted built-ins, living room, stone detail/entry). Problem-first intro on Edmond's
+   large brick-and-Hardie homes where skipped prep moves the repaint from year 12 to year 5;
+   6-service grid on genuine Edmond photos; new Romeo Dr before/after block; portfolio in the
+   photo-grid; How It Works; on-page form; added brick-painting and timeline FAQs. ⚠️ **Matt: the
+   "A Note From Matt" section was de-clichéd but I did NOT invent a personal Edmond story — it
+   now says only true things (prep on big homes, written estimate, daily updates, walk-through).
+   Send one real line of Edmond color (like the Mustang fireworks line) and I'll swap it in.**
+   TO DO same treatment: **Mustang** (photo honesty: cross-city images currently labeled as
    Mustang), **Mesta Park** (lightest: cites, form, title). Company Cam credential available for
    city-tagged photo sourcing.
 
@@ -240,8 +248,11 @@ that are going live.
    brick is only mentioned inside the exterior page. Plan: build a full brick-painting service
    page on the current pattern (hero, worries, gallery, pricing, FAQ, form), then support it with
    2–3 posts (painted brick vs limewash, cost to paint a brick home in OKC, before/afters) and
-   internal links from exterior + city pages. Assets on hand: the Mustang brick-transformation
-   video (`gWx6NIUBQWE`) and a "Brick Painting" subfolder in the Drive drop. **Interview Matt
+   internal links from exterior + city pages. Assets on hand: **Matt's brick photo folder
+   `1BfLrNW_Rd4o8OhGKJ1VMeeXtodetGqsC` (sent 2026-07-29)**, the Mustang brick-transformation
+   video (`gWx6NIUBQWE`), a "Brick Painting" subfolder in the earlier Drive drop, plus two
+   painted-brick Edmond homes now on the site (Timberdale Dr, Lost Forest Dr) and a new
+   brick-painting FAQ on the Edmond page to link from. **Interview Matt
    first** (why he likes brick work, what homeowners get wrong about painting brick, prep/product
    specifics, durability + warranty) per the CLAUDE.md content process.
 
