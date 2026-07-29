@@ -222,12 +222,40 @@ that are going live.
    Matt), 6-service grid with REAL city photos (4 new Yukon shots from Matt's Drive + the
    cataloged Yukon interior entry), "A Family Tie to Yukon" note (first son born there, per
    Matt), Clydesdale barns feature block linking the project story, city gallery (photo-grid),
-   How It Works strip, on-page form, builder-grade + discounts FAQs. TO DO same treatment:
-   **Edmond** (need Matt: real local note to replace "your vision is our mission" clichés +
-   neighborhoods), **Mustang** (photo honesty: cross-city images labeled as Mustang),
-   **Bethany** (fix "We live in Bethany" → "got our start in Bethany" per business facts!),
-   **Mesta Park** (lightest: cites, form, title). Company Cam credential available for
+   How It Works strip, on-page form, builder-grade + discounts FAQs. ✅ **Bethany done (2026-07-28)** — same model;
+   corrected the false "We live in Bethany" claim to the true and stronger origin story ("Bethany
+   is where Hometown Painting got its start"), problem-first intro on Bethany's older mid-century
+   homes needing real prep, 6-service grid + gallery using only genuine Bethany photos (2 NEW
+   from Matt's Drive: a repaired/painted backyard shed — which pairs with Helen M.'s review about
+   her shed — and a bronze-painted garage door), How It Works, on-page form. Yukon also gained a
+   real Yukon painted bathroom vanity (Matt, 2026-07-28) on its cabinet card + gallery, replacing
+   a non-Yukon kitchen photo. TO DO same treatment: **Edmond** (⏳ WAITING ON MATT: photos in a
+   Drive folder + a real local note to replace the "your vision is our mission" clichés; then
+   it's ready to roll), **Mustang** (photo honesty: cross-city images currently labeled as
+   Mustang), **Mesta Park** (lightest: cites, form, title). Company Cam credential available for
    city-tagged photo sourcing.
+
+### 🧱 Brick painting silo (tagged 2026-07-28, future session — Matt wants more of this work)
+   We have a blog post (`blog/brick-painting-okc.md`) but **no dedicated brick service page** —
+   brick is only mentioned inside the exterior page. Plan: build a full brick-painting service
+   page on the current pattern (hero, worries, gallery, pricing, FAQ, form), then support it with
+   2–3 posts (painted brick vs limewash, cost to paint a brick home in OKC, before/afters) and
+   internal links from exterior + city pages. Assets on hand: the Mustang brick-transformation
+   video (`gWx6NIUBQWE`) and a "Brick Painting" subfolder in the Drive drop. **Interview Matt
+   first** (why he likes brick work, what homeowners get wrong about painting brick, prep/product
+   specifics, durability + warranty) per the CLAUDE.md content process.
+
+### 📺 Client pre-appointment "welcome" page (tagged 2026-07-28, future session — Matt's idea)
+   Replace the bare YouTube-short link Matt texts before estimates with a real page: a noindexed
+   `/welcome/` page (keep out of the sitemap + NOINDEX_PATHS) with his intro video at top, then
+   what-to-expect, worries/FAQ, real reviews, and the walk-through/25%-deposit promise.
+   **Personalization via URL parameters** (verified feasible): a small inline script reads
+   `?name=&date=&time=` (+ optional `?svc=`) and fills a greeting and an appointment card,
+   falling back to a clean generic version when params are absent — one template, no per-customer
+   pages, no server. GHL merge fields generate the link per contact in the appointment-booked SMS
+   workflow. Caveats: params are user-visible/editable so keep addresses and anything sensitive
+   out; use short param names or a GHL trigger link to keep the SMS tidy. **Needs from Matt:** the
+   YouTube URL of the intro short (and the GHL SMS template edit, same flavor as the webhook task).
 6. ⏳ execute the **cutover checklist** (in the launch-readiness report): set **`PUBLIC_NOINDEX=false`**
    on the Pages project to make it indexable (production branch is already `main`), point apex/www at Pages (keep WordPress warm for
    rollback), verify forms + image transforms live, submit `/sitemap-index.xml` to Search
