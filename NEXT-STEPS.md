@@ -239,9 +239,24 @@ that are going live.
    "A Note From Matt" section was de-clichéd but I did NOT invent a personal Edmond story — it
    now says only true things (prep on big homes, written estimate, daily updates, walk-through).
    Send one real line of Edmond color (like the Mustang fireworks line) and I'll swap it in.**
-   TO DO same treatment: **Mustang** (photo honesty: cross-city images currently labeled as
-   Mustang), **Mesta Park** (lightest: cites, form, title). Company Cam credential available for
-   city-tagged photo sourcing.
+   ✅ **Mustang + Mesta Park done (2026-07-29)** — ALL FIVE
+   CITY PAGES now rebuilt on the mini-homepage model. Mustang: fixed the photo-honesty problem
+   (cross-city images labeled as Mustang are gone), 4 new real Mustang photos from Matt's Drive
+   (painted brick + timber patio, stained fence run, Victoria Terrace exterior — Matt filed
+   Victoria Terrace under Mustang, so it's confirmed a Mustang job — and the backyard pavilion),
+   weather-first intro, 6-service grid, photo-grid gallery, How It Works, on-page form, repaint-
+   cadence + discount FAQs. Mesta Park: TWO real before/after pairs from Matt's Drive (front
+   porch, back deck), historic-prep-first intro, 6-service grid, How It Works, story-grid owner
+   note, on-page form, colors + timeline FAQs, review cites standardized.
+   🐛 **BUG FIXED:** the Mesta Park hero (`/uploads/2023/11/20231006_074510.{webp,jpg}`) was
+   displaying **sideways** on the live site — the WordPress→webp conversion dropped the photo's
+   EXIF orientation tag (=6). Both derivatives regenerated upright. **Audited all 28 source
+   photos used this session: only that one and one other Mesta Park shot carried a rotation tag,
+   both now handled; every image added this session is correct.** All new image processing now
+   applies `ImageOps.exif_transpose`. ⚠️ Worth a wider sweep sometime: other WordPress-era
+   uploads from phone photos could have the same dropped-EXIF problem (hard to detect from the
+   webp alone; needs eyeballing or comparing against Drive originals).
+   Company Cam credential available for future city-tagged photo sourcing.
 
 ### 🧱 Brick painting silo (tagged 2026-07-28, future session — Matt wants more of this work)
    We have a blog post (`blog/brick-painting-okc.md`) but **no dedicated brick service page** —
