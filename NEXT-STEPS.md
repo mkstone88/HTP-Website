@@ -209,7 +209,7 @@ that are going live.
    pick up `functions/` with a root-directory setup; `_routes.json` scopes it to `/api/*` so the
    legacy 301s in `_redirects` still apply (verified live: POST /api/lead 200, /fence-staining/
    301, honeypot fake-success). Two sample payloads sent to the GHL workflow trigger (test
-   contacts 405-555-0123/-0124, safe to delete). ⏸️ ON HOLD (Matt, 2026-07-27) — resume when Matt
+   contacts 405-555-0123/-0124, safe to delete). ✅ COMPLETE (2026-08-06): Matt recreated the workflow (trigger …8f303b2e; relay repointed + redeployed), mapped fields, added contact-create/notification actions, published, and the end-to-end test passed: 'Golive Test' arrived with source 'Website Form' + 'new lead' tag and Matt got the notification (verified via contacts API). Test-contact convention: last name 'Test'. CLEANUP: delete contacts matching 'test' (at least 'golive test', 405-555-0127); two orphaned inbound-webhook triggers exist (…4c690199 from 07-23, and …060aca41 unless that's the PPC funnel's) — delete their workflows if found, but NEVER touch the PPC funnel's. Original hold note follows for history: resume when Matt
    has time at a computer: he maps fields in the GHL workflow (two sample payloads are already in
    the trigger), adds contact-create + notification/auto-reply actions, PUBLISHES it, then we run
    one final live test to confirm the phone notification (test contacts 405-555-0123/-0124 to
