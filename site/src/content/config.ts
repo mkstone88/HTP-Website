@@ -20,6 +20,9 @@ const pages = defineCollection({
     // Hero trust-chip warranty label. Painting pages get the 5-year default;
     // staining + cabinet pages set "2-Year Warranty" (per Matt, 2026-07-19).
     warranty: z.string().default('5-Year Warranty'),
+    // Post-conversion page (e.g. /thank-you/): the visitor has already submitted,
+    // so swap the "Get a Free Estimate" CTAs for the booking calendar.
+    postConversion: z.boolean().default(false),
     // Emit aggregateRating schema — only for pages that visibly display reviews.
     showRating: z.boolean().default(false),
   }),
