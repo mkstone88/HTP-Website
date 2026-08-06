@@ -2,7 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import LeadForm from '../components/LeadForm.astro';
-import { business } from '../data/site';
+import { business, forms } from '../data/site';
 import { cfBg } from '../data/images.mjs';
 import { videos } from '../data/videos.mjs';
 
@@ -135,10 +135,23 @@ const videoSchemas = videoIds
             <li>Fully Insured</li>
           </ul>
           <div class="page-hero-cta">
-            <a href={business.phoneHref} class="cta-phone">Call {business.phoneDisplay}</a>
-            <a href={d.formId ? '#estimate' : '/contact-us/'} class="cta-secondary">Get a Free Estimate →</a>
+            {d.postConversion ? (
+              <>
+                <a href={forms.bookingWidget} class="cta-phone">Book Your Appointment →</a>
+                <a href={business.phoneHref} class="cta-secondary">Call {business.phoneDisplay}</a>
+              </>
+            ) : (
+              <>
+                <a href={business.phoneHref} class="cta-phone">Call {business.phoneDisplay}</a>
+                <a href={d.formId ? '#estimate' : '/contact-us/'} class="cta-secondary">Get a Free Estimate →</a>
+              </>
+            )}
           </div>
-          <p class="cta-note">Estimates are always free, with no obligation.</p>
+          <p class="cta-note">
+            {d.postConversion
+              ? 'Pick the time that works best for you.'
+              : 'Estimates are always free, with no obligation.'}
+          </p>
         </>
       )}
     </div>
@@ -161,7 +174,7 @@ const videoSchemas = videoIds
 
   <section class="cta-band">
     <div class="container">
-      <h2>Ready for a Free Estimate?</h2>
+      <h2>{d.postConversion ? 'Questions Before We Come Out?' : 'Ready for a Free Estimate?'}</h2>
       <a href={business.phoneHref} class="cta-phone">Call {business.phoneDisplay}</a>
     </div>
   </section>
