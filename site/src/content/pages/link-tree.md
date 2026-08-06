@@ -4,6 +4,8 @@ description: "Welcome to Our Client Resources. Explore & Learn More About Hometo
 permalink: "/link-tree/"
 h1: "Hometown Painting Links & Resources"
 ogImage: "/uploads/2022/08/paint-owners-cropped-scaled.jpg"
+# Social-bio landing page for Instagram/Facebook profiles, not a search asset.
+noindex: true
 draft: false
 ---
 

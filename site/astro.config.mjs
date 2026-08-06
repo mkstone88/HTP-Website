@@ -12,6 +12,7 @@ const NOINDEX_PATHS = [
   '/interior-painting/',
   '/exterior-painting/',
   '/thank-you/',
+  '/link-tree/',
 ];
 
 export default defineConfig({
