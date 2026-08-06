@@ -16,6 +16,12 @@
 /exterior-painting/deck-staining-okc-professional-deck-staining-services-in-oklahoma-city/professional-deck-staining-okc-hometown-painting-oklahoma-city/  /deck-staining-okc/  301
 /exterior-painting/deck-staining-okc-professional-deck-staining-services-in-oklahoma-city/  /deck-staining-okc/  301
 
+# --- Thin-page consolidation (2026-08-06, approved by Matt) ---
+# /painting-estimate/ was a legacy WP URL: thin (313 words), orphaned on the new
+# site, and duplicating /contact-us/. Its estimate video + what-to-expect cards
+# moved to /contact-us/; this 301 preserves the old URL's link equity.
+/painting-estimate/            /contact-us/  301
+
 # --- Legacy sitemap endpoints (2026-07 audit) ---
 # Old robots.txt + Search Console reference /sitemap_index.xml (Rank Math);
 # the new site emits /sitemap-index.xml. Cover every known variant.
