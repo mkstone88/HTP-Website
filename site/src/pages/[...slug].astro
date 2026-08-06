@@ -1,7 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
-import GHLForm from '../components/GHLForm.astro';
+import LeadForm from '../components/LeadForm.astro';
 import { business } from '../data/site';
 import { cfBg } from '../data/images.mjs';
 import { videos } from '../data/videos.mjs';
@@ -136,7 +136,7 @@ const videoSchemas = videoIds
           </ul>
           <div class="page-hero-cta">
             <a href={business.phoneHref} class="cta-phone">Call {business.phoneDisplay}</a>
-            <a href="/contact-us/" class="cta-secondary">Get a Free Estimate →</a>
+            <a href={d.formId ? '#estimate' : '/contact-us/'} class="cta-secondary">Get a Free Estimate →</a>
           </div>
           <p class="cta-note">Estimates are always free, with no obligation.</p>
         </>
@@ -154,7 +154,7 @@ const videoSchemas = videoIds
     <section class="form-section" id="estimate">
       <div class="container form-narrow">
         <h2>Request Your Free Estimate</h2>
-        <GHLForm formId={d.formId} title={d.title} height={620} />
+        <LeadForm context={d.h1 ?? d.title} />
       </div>
     </section>
   )}
