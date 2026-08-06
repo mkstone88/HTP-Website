@@ -10,11 +10,13 @@
 // relays it to the GoHighLevel inbound-webhook workflow. Payload keys mirror
 // the PPC landing-page webhook so GHL field mapping is familiar.
 
-// GHL inbound-webhook workflow ("Website Form", provided by Matt 2026-07-23).
+// GHL inbound-webhook workflow ("Website Form", recreated by Matt 2026-07-30 after
+// the 2026-07-23 workflow couldn't be located in the GHL UI; the old trigger
+// (…4c690199) still responds but is orphaned — delete it if it ever turns up.
 // A GHL_WEBHOOK_URL env var on the Pages project overrides this for rotation
 // without a deploy.
 const DEFAULT_WEBHOOK =
-  'https://services.leadconnectorhq.com/hooks/ch2x7nFXHf3H6JiDzmas/webhook-trigger/4c690199-c0e6-4f05-b0cd-dd5097a75f31';
+  'https://services.leadconnectorhq.com/hooks/ch2x7nFXHf3H6JiDzmas/webhook-trigger/8f303b2e-c70a-4d8d-a229-7de9e4f41513';
 
 const MAX_LEN = 2000;
 
