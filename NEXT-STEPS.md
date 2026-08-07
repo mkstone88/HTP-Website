@@ -1,8 +1,88 @@
 # Next steps — living to-do list
 
-Last updated: 2026-07-20. This is the running checklist for the Hometown Painting site.
+Last updated: 2026-08-07. This is the running checklist for the Hometown Painting site.
 When Matt asks "what's on my to-do list," read this file back. Check items off and add new
 ones as work progresses. (Detailed pre-launch audit: the launch-readiness report artifact.)
+
+**THE SITE IS LIVE** (hometownpaintingokc.com, cutover 2026-08-06, indexable, custom lead
+form → GHL webhook verified end-to-end). Current focus: the measurement-first optimization
+campaign below.
+
+## 📊 OPTIMIZATION CAMPAIGN — measurement first, then SEO (added 2026-08-07)
+
+**Agreed principle (Matt, 2026-08-07): get the data pipeline set up so we can actually
+measure things BEFORE jumping into optimization work.** When Matt says "walk me through
+what we need to do next on the website," start HERE and walk him through the at-computer
+checklist in order. Growth-strategy context: avalanche/silo SEO plan (Kyle Roof) + Sterling
+Sky local, map-pack vs organic split, ~70 leads/mo baseline, 66% of recent leads
+unattributed — attribution is prerequisite #1.
+
+### 🖥️ Matt's at-computer checklist (walk him through these, in order)
+
+1. **Google Search Console access for Claude** (~10 min, unlocks all rank/query tracking).
+   Zapier does NOT connect to GSC (checked the catalog 2026-08-07); use a service account,
+   same pattern as the GHL API:
+   1. console.cloud.google.com (the Google account that owns GSC) → create project
+      "HTP Reporting" → enable the **Google Search Console API**.
+   2. IAM & Admin → Service Accounts → Create ("claude-gsc-reader") → Keys → Add Key →
+      **JSON** (downloads a key file).
+   3. Search Console → Settings → Users and permissions → **Add user** = the service
+      account's email (…@htp-reporting.iam.gserviceaccount.com) → **Full** permission.
+   4. Put the JSON key's contents in this Claude environment's env vars as **`GSC_SA_KEY`**
+      (next to GHL_API_Token). NOTE: env vars added mid-session don't reach a running
+      session — needs a fresh session after adding.
+   → Then Claude pulls the first GSC baseline (queries, pages, clicks, impressions,
+   position) and sets up the recurring report.
+
+2. **GA4: mark the two site events as key events** (~2 min). GA4 property G-96VQPY702N →
+   Admin → Events: flag **`generate_lead`** (fires on every lead-form submit, live since
+   launch) and **`click_to_call`** (fires on every tel: link tap — shipped 2026-08-07 in
+   BaseLayout) as **key events**. If an event hasn't appeared yet, submit a test form /
+   tap the number once and it shows up within ~24h. Optional later: import both into
+   Google Ads as conversions.
+
+3. **GHL: create 6 contact custom fields + map them in the webhook workflow** (~10 min).
+   The website form's webhook (trigger …8f303b2e) already SENDS these; they just need
+   fields to land in. Create contact custom fields: **UTM Source, UTM Medium,
+   UTM Campaign, UTM Content, GCLID, Page URL** — then in the inbound-webhook workflow's
+   contact-update step, map each webhook payload field (`utm_source`, `utm_medium`,
+   `utm_campaign`, `utm_content`, `gclid`, `page_url`) to its field. (Built-in source
+   field already gets "Website Form".)
+
+4. **GHL cleanup** (5 min, while in there): delete test contacts (last name "Test",
+   incl. "Golive Test" 405-555-0127 and "Production Test" 405-555-0128); delete the two
+   orphaned inbound-webhook workflows (…4c690199, and …060aca41 ONLY if it's not the PPC
+   funnel's — **never touch the PPC funnel**). Keeper = …8f303b2e.
+
+5. **Airtable ROI zap check** (5 min). Matt's ROI tracking uses a generic
+   "website/organic" bucket (fine for channel ROI — agreed 2026-08-07, don't
+   over-engineer). But verify the GHL→Airtable sync carries **source** (and ideally the
+   new UTM/gclid fields) onto new-contact rows, or Airtable will under-report attribution
+   vs GHL. GHL stays the source of truth; Airtable is the roll-up view.
+
+6. **Call-tracking decision — deliberately DEFERRED.** Plan: collect ~a month of
+   `click_to_call` GA4 data first; it shows how much call volume the site drives, which
+   is the evidence for whether a tracking-number service (~$45/mo) pays for itself. The
+   remaining blind spot (visitor reads the number and dials manually) is small on
+   mobile-heavy local traffic. GBP-originated calls are counted natively in the GBP
+   performance tab — use that in the monthly review to split GBP vs website calls.
+
+### 🤖 What Claude does once the above unlock (queued)
+
+- **GSC baseline report** (needs #1): current queries/pages/positions, striking-distance
+  keywords (pos. 5–20), index coverage after the migration, 404 watch. Becomes the
+  recurring measurement doc.
+- **Attribution audit** (needs #3, ~2 weeks of data): re-pull GHL contacts, confirm
+  unattributed % is falling, verify UTM fields populate.
+- **Monthly measurement rhythm:** GSC movement + GA4 key events by source/page + GHL lead
+  sources + GBP calls, in one short report. Weekly silent checks; monthly review with
+  Matt (60–90 min incl. content interview); quarterly strategy.
+- **Then and only then, the SEO build-out** (from the growth plan): keyword-tier research
+  → avalanche question-content, cabinet silo (biggest silo gap), new city pages
+  (Piedmont, Nichols Hills, Deer Creek, Warr Acres, The Village — confirm Matt serves +
+  wants them), fence-restain reactivation campaign (2–4 yr cycle × 3,046 GHL contacts).
+- Content velocity target 2–4 pieces/month, gated on Matt interviews per the CLAUDE.md
+  content process.
 
 ## ⏳ Waiting on Matt (quick wins when you're at your computer)
 

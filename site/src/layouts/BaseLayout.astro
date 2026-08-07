@@ -159,6 +159,20 @@ const postSchema =
       })();
     </script>
 
+    <!-- GA4 call tracking: any tap/click on a tel: link fires click_to_call, so
+         GA4 can attribute call intent to a traffic source and page. Mark this
+         event (plus generate_lead) as a key event in GA4 admin. -->
+    <script is:inline>
+      document.addEventListener('click', function (e) {
+        var a = e.target.closest && e.target.closest('a[href^="tel:"]');
+        if (!a || typeof gtag !== 'function') return;
+        gtag('event', 'click_to_call', {
+          link_url: a.getAttribute('href'),
+          link_text: (a.textContent || '').trim().slice(0, 100),
+        });
+      });
+    </script>
+
     <!-- YouTube facade loader: swap the poster for the real player only on click,
          so no YouTube JS/cookies load until the visitor chooses to watch. -->
     <script is:inline>
